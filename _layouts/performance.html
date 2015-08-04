@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<style>
+  .performance-header {
+    background-image: url(/img/{{ page.background }});
+  }
+</style>
+<div class="nav">
+  <div class="container">
+    <h1>Compagnie Barbarie</h1>
+  </div>
+</div>
+<div class="performance-header">
+  <div class="container">
+    <h2>{{ page.title }}</h2>
+  </div>
+</div>
+<div class="main">
+  <div class="container">
+    <div class="row">
+      <div class="eight columns content">
+        {{ content }}
+      </div>
+      <div class="four columns sidebar">
+        <img src="/img/{{ page.poster }}" alt="Poster {{ page.title }}">
+      </div>
+    </div>
+  </div>
+</div>

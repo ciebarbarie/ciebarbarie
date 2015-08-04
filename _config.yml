@@ -1,0 +1,9 @@
+# Site settings
+title: Compagnie Barbarie
+email: info@compagniebarbarie.be
+description: Theatergezelschap van en door zeven vrouwen
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.compagniebarbarie.be/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

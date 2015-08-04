@@ -1,0 +1,39 @@
+.home-nav li {
+  list-style: none;
+}
+
+.home-nav li a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.nav {
+  background: black;
+}
+
+.nav h1 {
+  font-size: 1.8rem;
+  color: white;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.performance-header {
+  background: black url(../img/happymess03-1x.jpg) no-repeat 50% 0%;
+  height: 400px;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-family: 'Raleway Dots', cursive;
+  color: white;
+  font-size: 7rem;
+}
+
+.sidebar img {
+  margin-top: 4rem;
+  max-width: 100%;
+  box-sizing: border-box;
+}
