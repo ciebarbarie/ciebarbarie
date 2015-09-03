@@ -1,30 +1,52 @@
 ---
-layout: default
+layout: base
 ---
-<style>
-  .performance-header {
-    background-image: url(/img/{{ page.background }});
-  }
-</style>
-<div class="nav">
-  <div class="container">
-    <h1>Compagnie Barbarie</h1>
+<div id="slides-wrap">
+  <div id="slides">
+    <ul class="slides-container">
+      <li>
+        <img src="{{ site.baseurl }}/img/{{ page.id }}-1.jpg" alt="">
+      </li>
+      <li>
+        <img src="{{ site.baseurl }}/img/{{ page.id }}-2.jpg" alt="">
+      </li>
+      <li>
+        <img src="{{ site.baseurl }}/img/{{ page.id }}-3.jpg" alt="">
+      </li>
+    </ul>
+    <nav class="slides-navigation">
+      <a href="#" class="next">
+        <i class="icon-chevron-right"></i>
+      </a>
+      <a href="#" class="prev">
+        <i class="icon-chevron-left"></i>
+      </a>
+    </nav>
   </div>
 </div>
-<div class="performance-header">
-  <div class="container">
-    <h2>{{ page.title }}</h2>
-  </div>
+
+<div id="performance-title">
+  <h2>{{ page.title }}</h2>
 </div>
-<div class="main">
+
+<div id="main">
+  <div id="background-bit-1" data-start="top: {{ page.bit-1-start }}px;" data-end="top: {{ page.bit-1-end }}px;"></div>
+  <div id="background-bit-2" data-start="top: {{ page.bit-2-start }}px;" data-end="top: {{ page.bit-2-end }}px"></div>
+  <div id="background-bit-3" data-start="top: {{ page.bit-3-start }}px;" data-end="top: {{ page.bit-3-end }}px"></div>
   <div class="container">
     <div class="row">
-      <div class="eight columns content">
+      <div class="eight columns" id="content">
         {{ content }}
       </div>
-      <div class="four columns sidebar">
-        <img src="/img/{{ page.poster }}" alt="Poster {{ page.title }}">
+      <div class="four columns" id="poster">
+        <!-- <img src="/img/{{ page.id }}-poster.jpg" alt="Poster {{ page.title }}"> -->
       </div>
     </div>
   </div>
 </div>
+
+<script type="text/javascript">
+$('#slides-wrap').height(window.innerHeight - 41);
+$('#slides').superslides({inherit_height_from: '#slides-wrap'});
+skrollr.init({smoothScrolling: false});
+</script>

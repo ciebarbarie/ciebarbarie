@@ -1,11 +1,43 @@
 ---
 layout: performance
 title: Schwab
-background: schwab-background.jpg
-poster: schwab-poster.jpg
+id: schwab
+bit-1-start: 0
+bit-1-end: -200
+bit-2-start: -300
+bit-2-end: 0
 ---
-SCHWAB, WERNER SCHWAB
+<style>
+  #main {
+    background: #eb2427;
+  }
 
+  #content {
+    color: #222;
+  }
+
+  #background-bit-1 {
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    background: url({{ site.baseurl }}/img/schwab-bit-1.png) no-repeat top right;
+  }
+
+  #background-bit-2 {
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    background: url({{ site.baseurl }}/img/schwab-bit-2.png) no-repeat top left;
+  }
+
+ /* #background-bit-3 {
+    width: 100%;
+    height: 667px;
+    position: absolute;
+    top: 100px;
+    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
+  }*/
+</style>
 Het is zover.
 
 De zeven vrouwen van compagnie barbarie hebben eindelijk de man van hun leven gevonden: Werner Schwab.

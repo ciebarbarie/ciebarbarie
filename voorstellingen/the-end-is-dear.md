@@ -1,9 +1,28 @@
 ---
 layout: performance
 title: The End Is Dear
-background: the-end-is-dear-background.jpg
-poster: the-end-is-dear-poster.jpg
+id: the-end-is-dear
+bit-1-start: -200
+bit-1-end: -500
 ---
+<style>
+  #main {
+    background: #080808 url({{ site.baseurl }}/img/the-end-is-dear-background.jpg);
+  }
+
+  #content {
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  }
+
+  #background-bit-1 {
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    top: 0;
+    background: url({{ site.baseurl }}/img/the-end-is-dear-bit-1.png) no-repeat bottom right;
+  }
+</style>
 Vier vrouwen leven letterlijk en figuurlijk aan de rand van hun eigen afgrond.<br />
 Ze staan stil.<br />
 Achter hen, een vuil verleden en voor hun neus: een bodemloze put.<br />

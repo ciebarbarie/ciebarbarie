@@ -1,9 +1,47 @@
 ---
 layout: performance
 title: Happymess
-background: happymess-background.jpg
-poster: happymess-poster.jpg
+id: happymess
+bit-1-start: 0
+bit-1-end: -500
+bit-2-start: 0
+bit-2-end: 200
+bit-3-start: 0
+bit-3-end: 0
 ---
+<style>
+  #main {
+    background: #f8aa00;
+  }
+
+  #content {
+    color: #222;
+  }
+
+  #background-bit-1 {
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    top: 0;
+    background: url({{ site.baseurl }}/img/happymess-bit-1.png) no-repeat top right;
+  }
+
+  #background-bit-2 {
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    top: 30px;
+    background: url({{ site.baseurl }}/img/happymess-bit-2.png) no-repeat top left;
+  }
+
+ /* #background-bit-3 {
+    width: 100%;
+    height: 667px;
+    position: absolute;
+    top: 100px;
+    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
+  }*/
+</style>
 In Happymess brengt compagnie barbarie een ode aan het ongeluk van de mens.<br />
 We willen het recht op ongelukkig zijn vieren en in ere herstellen.<br />
 Want wij zijn echt niet gelukkig.<br />
