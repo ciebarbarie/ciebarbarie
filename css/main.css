@@ -29,6 +29,10 @@ a [class*=" icon-"] {
   content: "\f054";
 }
 
+body {
+  overflow-x: hidden;
+}
+
 blockquote {
   font-style: oblique;
   opacity: 0.8;
