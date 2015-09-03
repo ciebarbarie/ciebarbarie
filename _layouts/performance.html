@@ -46,7 +46,13 @@ layout: base
 </div>
 
 <script type="text/javascript">
+function isMobile() {
+  return (/Android|iPhone|iPad|iPod|BlackBerry/i).test(navigator.userAgent || navigator.vendor || window.opera);
+}
 $('#slides-wrap').height(window.innerHeight - 41);
 $('#slides').superslides({inherit_height_from: '#slides-wrap'});
-skrollr.init({smoothScrolling: false});
+
+if (!isMobile()) {
+  skrollr.init({smoothScrolling: false});
+}
 </script>
