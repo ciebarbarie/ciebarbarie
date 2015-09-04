@@ -49,7 +49,7 @@ layout: base
 function isMobile() {
   return (/Android|iPhone|iPad|iPod|BlackBerry/i).test(navigator.userAgent || navigator.vendor || window.opera);
 }
-$('#slides-wrap').height(window.innerHeight - 41);
+$('#slides-wrap').height(window.innerHeight - 45);
 $('#slides').superslides({inherit_height_from: '#slides-wrap'});
 
 if (!isMobile()) {
