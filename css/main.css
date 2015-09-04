@@ -187,6 +187,10 @@ h2 {
   line-height: 36px;
 }
 
+#content a {
+  color: inherit;
+}
+
 #poster img {
   display: block;
   margin-top: 100px;
