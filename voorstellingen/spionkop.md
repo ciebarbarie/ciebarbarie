@@ -56,26 +56,10 @@ SPIONKOP neemt je mee in de duistere en spannende mysteries van dat wat zich aan
 
 SPIONKOP wordt gemaakt door Compagnie Barbarie en zal in afwisselende bezetting door 4 actrices van de compagnie gespeeld worden.
 
-
 Vormgeving: Jan De Brabander<br>
 Kostuums: Atelier Van der Poel<br>
 Coaching: Inge Buscher<br>
 Muziek: Wim Lots<br>
 Foto's: Franky Verdickt
 
-- 1 nov: PREMIERE. Antwerpen-DE Studio-20u<br>
-- 2 nov: Antwerpen-DE Studio-20u<br>
-- 3 nov: Antwerpen-DE Studio-15u<br>
-- 4 nov: Antwerpen-DE Studio-15u<br>
-- 11 nov: Bree-CC Breughel-15u<br>
-- 14 nov: Willebroek-CC De Ster-15u<br>
-- 17 nov: Tessenderlo-cc het LOO-19u<br>
-- 18 nov: Leuven-30CC/Minnepoort-15u<br>
-- 21 nov: Genk-C-mine-19u<br>
-- 25 nov:Tongeren-DeVelinx-15u<br>
-- 28 nov: Brussel-BRONKS-14.30<br>
-- 2 dec: Brugge-KC De Werf-15u<br>
-- 9 dec: Dendermonde-CC Belgica-15u<br>
-- 16 dec: Heusden-Zolder-cc Muze-15u<br>
-
-Er zijn ook schoolvoorstellingen in Antwerpen, Houthalen-Helchteren, Sint-Gillis-Waas, Genk, Tongeren, Brussel, Knokke-Heist, Geel, Turnhout en Lokeren.
+Spionkop ging in première op 1 november 2012 en kreeg daarbij de steun van de Vlaamse Gemeenschap, de Stad Antwerpen. Spionkop werd gemaakt in samenwerking met Villanella - DE STUDIO
