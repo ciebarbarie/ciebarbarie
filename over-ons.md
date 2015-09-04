@@ -5,6 +5,8 @@ images:
   - over-ons-1.jpg
   - over-ons-2.jpg
   - over-ons-3.jpg
+sidebar: |
+  Wie ons wil boeken of meer info wil over verkoop en speellijst bel Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of neem rechtsreeks contact op met Thassos: <a href="tel:+3232350490">+32&nbsp;3&nbsp;235&nbsp;04&nbsp;90</a>.
 ---
 <style>
   #main {
@@ -13,6 +15,12 @@ images:
 
   #content {
     color: #ddd;
+  }
+
+  #sidebar {
+    color: #ccc;
+    border-left: 1px solid #333;
+    padding-left: 10px;
   }
 </style>
 Compagnie Barbarie is een collectief bestaande uit zeven vrouwen.
@@ -29,3 +37,4 @@ Compagnie barbarie werkt als collectief. Ieder zijn mening, ieder zijn ding, maa
 
 Compagnie barbarie is:<br>
 Ruth Beeckmans, Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel
+

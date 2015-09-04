@@ -33,6 +33,10 @@ body {
   overflow-x: hidden;
 }
 
+p {
+  margin-bottom: 1.25em;
+}
+
 blockquote {
   font-style: oblique;
   opacity: 0.8;
@@ -123,8 +127,19 @@ blockquote {
   font-size: 7rem;
 }
 
-.sidebar img {
-  margin-top: 4rem;
+#sidebar {
+  line-height: 36px;
+  font-size: 12px;
+  margin-bottom: 2em;
+}
+
+#sidebar a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+#sidebar img {
   max-width: 100%;
   box-sizing: border-box;
 }
@@ -147,7 +162,7 @@ blockquote {
 
 #content {
   color: #333;
-  line-height: 250%;
+  line-height: 36px;
 }
 
 #poster img {
