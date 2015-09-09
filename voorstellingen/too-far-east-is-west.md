@@ -30,7 +30,7 @@ bit-2-end: -500
     background: url({{ site.baseurl }}/img/too-far-east-is-west-bit-2.png) no-repeat top center;
   }
 </style>
-compagnie barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>
+Compagnie Barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>
 waar dromen we van als we op reis willen? Is de reis noodzakelijk? of volstaat het dromen op zich?<br>
 bestaat er zoiets als authenticiteit?<br>
 wat als de verveling toeslaat?<br>
@@ -46,4 +46,4 @@ Over de commerciële platgetreden paden willen vermijden en er telkens weer op b
 Over in the jungle (de mighty jungle) je online bestelde leeuw te gaan schieten. <br>
 Over de vraag of de patroonheilige van de reizigers nu werkelijk door de paus van de kalender werd gehaald uit angst dat de mens de hemel zou vinden.<br>
 <br>
-TOO FAR EAST IS WEST ging in première op 16 oktober 2009 en kreeg daarbij de steun van de Vlaamse Gemeenschap, STUK Leuven, CC Genk en CC Berchem.
+Too Far East is West ging in première op 15 oktober 2009  en is een voorstelling in samenwerking met <a href="http://www.stuk.be/">STUK Leuven</a>, <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a> en <a href="http://www.ccberchem.be/">CC Berchem</a> en met de steun van de Vlaamse Gemeenschap.

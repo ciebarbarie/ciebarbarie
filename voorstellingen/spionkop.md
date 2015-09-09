@@ -31,14 +31,6 @@ bit-3-end: 0
     position: absolute;
     background: url({{ site.baseurl }}/img/spionkop-bit-2.png) no-repeat top right;
   }
-
- /* #background-bit-3 {
-    width: 100%;
-    height: 667px;
-    position: absolute;
-    top: 100px;
-    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
-  }*/
 </style>
 
 Het gaat niet over een spion maar hij heeft wel alles gezien.<br>
@@ -62,4 +54,5 @@ Coaching: Inge Buscher<br>
 Muziek: Wim Lots<br>
 Foto's: Franky Verdickt
 
-Spionkop ging in première op 1 november 2012 en kreeg daarbij de steun van de Vlaamse Gemeenschap, de Stad Antwerpen. Spionkop werd gemaakt in samenwerking met Villanella - DE STUDIO
+Spionkop ging in première op 1 november 2012 en is een coproductie van cie barbarie en <a href="http://www.villanella.be/">Villanella</a> met de steun van de Vlaamse Gemeenschap en stad Antwerpen.
+

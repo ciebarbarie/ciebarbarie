@@ -38,8 +38,14 @@ Vormgeving: Jan De Brabander<br>
 Kostuums: Viv Van der Poel<br>
 Geluid en Techniek: Wouter Dupon
 
-The end is dear ging in première op 7 november 2013 en is een co-productie met de t&nbsp;h&nbsp;e&nbsp;a&nbsp;t&nbsp;e&nbsp;r&nbsp;m&nbsp;a&nbsp;k&nbsp;e&nbsp;r en <a href="http://www.monty.be/">Monty</a>, met dank aan . The End Is Dear kwam tot stand met de steun van de Vlaamse Gemeenschap. The End Is Dear werd geselecteerd voor <a href="http://www.circuitx.be/">Circuit X</a>.
+The end is dear ging in première op 8 november 2013
+en is een coproductie met Kultuurfactorij Monty en d e t h e a t e r m a k e r
+met de steun van de Vlaamse gemeenschap en stad Antwerpen
+Met dank aan 't Arsenaal Mechelen
+
+
+The end is dear ging in première op 7 november 2013 en is een co-productie met <a href="http://www.monty.be/">Kultuurfactorij Monty</a> en <a href="http://www.detheatermaker.be/">d&nbsp;e&nbsp;t&nbsp;h&nbsp;e&nbsp;a&nbsp;t&nbsp;e&nbsp;r&nbsp;m&nbsp;a&nbsp;k&nbsp;e&nbsp;r</a> en met de steun van de Vlaamse gemeenschap en stad Antwerpen
+. Met dank aan <a href="http://www.tarsenaal.be/">t,arsenaal Mechelen</a>. The End Is Dear werd geselecteerd voor <a href="http://www.circuitx.be/">Circuit X</a>.
 
 <a href="http://www.circuitx.be"><img src="{{ site.baseurl }}/img/circuit-x-logo.jpg" style="width: 100px;"></a>
-
 

@@ -1,6 +1,6 @@
 ---
 layout: performance
-title: Schwab
+title: Schwab Werner Schwab
 id: schwab
 bit-1-start: 0
 bit-1-end: -200
@@ -63,3 +63,5 @@ Waar we deze helaas veel te vroeg gestorven blonde God vanbinnen en van buiten z
 Waar we een dissectie uitvoeren op zijn teksten, zijn beeldend werk, zijn gal, zijn zinloze lever en de honderden lege flessen wodka en andere sterke dranken.
 
 _-want we zijn allemaal de wereld ingevogeld, maar we kunnen niet vliegen._
+
+Schwab Werner Schwab ging in première op 30 mei 2012 en is een coproductie van cie barbarie, <a href="http://www.detheatermaker.be/">d&nbsp;e&nbsp;t&nbsp;h&nbsp;e&nbsp;a&nbsp;t&nbsp;e&nbsp;r&nbsp;m&nbsp;a&nbsp;k&nbsp;e&nbsp;r</a> en <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a>, in samenwerking met <a href="http://www.ccberchem.be/">CC Berchem</a> en <a href="http://www.stuk.be/">STUK Leuven</a> en met de steun van de Vlaamse Gemeenschap en stad Antwerpen.
