@@ -24,7 +24,7 @@ bit-3-end: 300
     height: 2000px;
     position: absolute;
     top: 0;
-    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-1.png) no-repeat 0% 50%;
+    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-1.gif) no-repeat 0% 50%;
   }
 
   #background-bit-2 {
@@ -32,7 +32,7 @@ bit-3-end: 300
     height: 2000px;
     position: absolute;
     top: 30px;
-    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-2.png) no-repeat 0% 50%;
+    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-2.gif) no-repeat 0% 50%;
   }
 
   #background-bit-3 {
