@@ -148,6 +148,12 @@ h2 {
   font-size: 7rem;
 }
 
+@media (max-width: 666px) {
+  #performance-title h2 {
+    font-size: 4rem;
+  }
+}
+
 #sidebar {
   line-height: 36px;
   font-size: 12px;

@@ -25,11 +25,13 @@ bit-3-end: 0
     background: url({{ site.baseurl }}/img/spionkop-bit-1.png) no-repeat top left;
   }
 
-  #background-bit-2 {
-    width: 100%;
-    height: 589px;
-    position: absolute;
-    background: url({{ site.baseurl }}/img/spionkop-bit-2.png) no-repeat top right;
+  @media (min-width: 666px) {
+    #background-bit-2 {
+      width: 100%;
+      height: 589px;
+      position: absolute;
+      background: url({{ site.baseurl }}/img/spionkop-bit-2.png) no-repeat top right;
+    }
   }
 </style>
 

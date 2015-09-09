@@ -15,12 +15,14 @@ bit-1-end: -350
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
   }
 
-  #background-bit-1 {
-    width: 100%;
-    height: 1500px;
-    position: absolute;
-    top: 0;
-    background: url({{ site.baseurl }}/img/the-end-is-dear-bit-1.png) no-repeat bottom right;
+  @media (min-width: 666px) {
+    #background-bit-1 {
+      width: 100%;
+      height: 1500px;
+      position: absolute;
+      bottom: 0;
+      background: url({{ site.baseurl }}/img/the-end-is-dear-bit-1.png) no-repeat bottom right;
+    }
   }
 </style>
 Vier vrouwen leven letterlijk en figuurlijk aan de rand van hun eigen afgrond.<br>
