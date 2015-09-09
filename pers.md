@@ -4,8 +4,12 @@ title: Pers
 images:
   - pers-1.jpg
 ---
-## Compagnie Barbarie in de pers
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur laboriosam minus similique adipisci officiis nihil blanditiis, dolorem deleniti vero asperiores quia quaerat atque officia. Sunt aperiam ullam error cumque sit?
-
-## Compagnie Barbarie voor de pers
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque ipsa dicta nobis omnis sed quod, provident amet officiis eveniet tempora quia? Deleniti dignissimos saepe numquam error accusamus temporibus. Reiciendis!
+## Compagnie Barbarie in de Pers
+- <a href="/pers/2013-11-12-the-end-is-dear-cobra.pdf">Cobra — The End is Dear (12 november 2013)</a>
+- <a href="/pers/2013-11-12-the-end-is-dear-focus-knack.pdf">Focus Knack — The End is Dear (12 november 2013)</a>
+- <a href="/pers/2011-03-happymess-de-standaard.pdf">De Standaard — Happymess (maart 2011)</a>
+- <a href="/pers/2011-03-happymess-de-morgen.pdf">De Morgen — Happymess (maart 2011)</a>
+- <a href="/pers/2011-03-24-happymess-knack.pdf">Knack — Happymess (24 maart 2011)</a>
+- <a href="/pers/2009-11-27-tfeiw-de-standaard.pdf">De Standaard — Too Far East is West (27 november 2009)</a>
+- <a href="/pers/2007-11-28-uww-de-morgen.pdf">De Morgen — Undertwasser Wasserwasser (28 november 2007)</a>
+- <a href="/pers/2007-11-24-uww-de-standaard.pdf">De Standaard — Undertwasser Wasserwasser (24 november 2007)</a>
