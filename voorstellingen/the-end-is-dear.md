@@ -2,8 +2,8 @@
 layout: performance
 title: The End Is Dear
 id: the-end-is-dear
-bit-1-start: -200
-bit-1-end: -500
+bit-1-start: -100
+bit-1-end: -350
 ---
 <style>
   #main {
