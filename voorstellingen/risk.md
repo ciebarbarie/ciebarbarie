@@ -2,18 +2,29 @@
 layout: performance
 title: Risk
 id: risk
+bit-1-start: 0
+bit-1-end: 400
 ---
 <style>
   #main {
-    background: #ea2433;
+    background: #ea2433 url({{ site.baseurl }}/img/risk-background.jpg);
   }
 
   #content {
     color: #fff;
   }
+
+  #background-bit-1 {
+    width: 100%;
+    height: 993px;
+    position: absolute;
+    top: 0;
+    background: url({{ site.baseurl }}/img/risk-bit-1.gif) no-repeat top right;
+  }
+
 </style>
 Compagnie Barbarie vertrekt vanuit het absurde idee dat de personages uit de voorstelling RISK 135 jaar oud zijn.<br>
-Hoeveel is werkelijkheid en wat heeft zich in deze oude hersenen tot werkelijkheid gevormd? <br>\
+Hoeveel is werkelijkheid en wat heeft zich in deze oude hersenen tot werkelijkheid gevormd? <br>
 Een flash-back naar het oorlogsverleden brengt de vrouwen naar een leeftijd van 35 jaar. De leeftijd van de barbaries nu. (of toch bijna)<br>
 Hoe gaan wij om met al die verhalen?<br>
 Welke ontroeren ons diep en na hoeveel verhalen komt het ons de strot uit?<br>
@@ -33,6 +44,6 @@ RISK wordt een intens komische voorstelling. Omdat lachen mag en moet om lucht t
 
 De mens kan van strategie veranderen, van overtuiging, hij kan veranderen van geloof en van gedacht, hij kan verdragen sluiten en schenden maar hij kan zijn wezen, zijn hart, zijn gevoel en zijn binnenkant nooit verloochenen. Ook op emotioneel vlak is de lang vervlogen oorlog dus nog steeds pijnlijk dicht nabij.
 
-En de 135jarige vrouw in ons zal daar eens stevig mee rammelen.
+En de 135-jarige vrouw in ons zal daar eens stevig mee rammelen.
 
 Risk ging in première op 22 april 2015 en is een coproductie met <a href="http://www.antigone.be/">Theater Antigone</a>met de steun van de Vlaamse Gemeenschap en maakt deel uit van <a href="http://www.gonewest.be/">GoneWest</a>.
