@@ -4,6 +4,16 @@ title: Pers
 images:
   - pers-1.jpg
 ---
+<style>
+  #main {
+    background: #010302 url({{ site.baseurl }}/img/pers-background.jpg) no-repeat top left;
+  }
+
+  #content {
+    color: #fff;
+  }
+</style>
+
 ## Compagnie Barbarie in de Pers
 - <a href="/pers/2013-11-12-the-end-is-dear-cobra.pdf">Cobra — The End is Dear (12 november 2013)</a>
 - <a href="/pers/2013-11-12-the-end-is-dear-focus-knack.pdf">Focus Knack — The End is Dear (12 november 2013)</a>
