@@ -6,6 +6,7 @@ bit-1-start: 0
 bit-1-end: -200
 bit-2-start: -300
 bit-2-end: 0
+poster: true
 ---
 <style>
   #main {

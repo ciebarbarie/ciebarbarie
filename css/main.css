@@ -247,6 +247,16 @@ img#poster {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
+#booking-info {
+  font-size: 12px;
+  line-height: 36px;
+  color: #999;
+}
+
+#booking-info a {
+  color: #999;
+}
+
 .slides-navigation a {
   display: block;
   font-weight: bold;

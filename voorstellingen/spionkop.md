@@ -8,7 +8,6 @@ bit-2-start: 500
 bit-2-end: 0
 bit-3-start: 0
 bit-3-end: 0
-poster: true
 ---
 <style>
   #main {
