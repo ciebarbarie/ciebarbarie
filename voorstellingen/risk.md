@@ -46,4 +46,4 @@ De mens kan van strategie veranderen, van overtuiging, hij kan veranderen van ge
 
 En de 135-jarige vrouw in ons zal daar eens stevig mee rammelen.
 
-Risk ging in première op 22 april 2015 en is een coproductie met <a href="http://www.antigone.be/">Theater Antigone</a>met de steun van de Vlaamse Gemeenschap en maakt deel uit van <a href="http://www.gonewest.be/">GoneWest</a>.
+Risk ging in première op 22 april 2015 en is een coproductie met <a href="http://www.antigone.be/">Theater Antigone</a> met de steun van de Vlaamse Gemeenschap en maakt deel uit van <a href="http://www.gonewest.be/">GoneWest</a>.
