@@ -15,6 +15,8 @@ images:
 </style>
 
 ## Compagnie Barbarie in de Pers
+- <a href="/pers/2015-04-30-risk-de-standaard.pdf">De Standaard — Risk (30 april 2015)</a>
+- <a href="/pers/2015-04-23-risk-theaterarchief.pdf">Theaterarchief— Risk (23 april 2015)</a>
 - <a href="/pers/2013-11-12-the-end-is-dear-cobra.pdf">Cobra — The End is Dear (12 november 2013)</a>
 - <a href="/pers/2013-11-12-the-end-is-dear-focus-knack.pdf">Focus Knack — The End is Dear (12 november 2013)</a>
 - <a href="/pers/2011-03-happymess-de-standaard.pdf">De Standaard — Happymess (maart 2011)</a>
