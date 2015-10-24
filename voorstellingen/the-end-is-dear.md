@@ -35,10 +35,11 @@ Ze krijgen gezelschap van een vijandige vriend, een beest dat leeft in de put en
 
 Compagnie Barbarie trekt in The end is dear het deksel van de menselijke beerput open en toont dat wat we nooit het daglicht gunnen. Op de gebruikelijke bitter-vrolijke wijze neemt compagnie barbarie een loopje met de eigen angsten. Want 's nachts wanneer iedereen slaapt komt de beer naar boven...
 
-Van en met Ruth Beeckmans, Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
-Vormgeving: Jan De Brabander<br>
-Kostuums: Viv Van der Poel<br>
-Geluid en Techniek: Wouter Dupon
+**Van en met** Ruth Beeckmans, Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Vormgeving**: Jan De Brabander<br>
+**Kostuums**: Viv Van der Poel<br>
+**Geluid en Techniek**: Wouter Dupon<br>
+**Grafisch Ontwerp**: Bagaar
 
 The end is dear ging in première op 7 november 2013 en is een co-productie met <a href="http://www.monty.be/">Kultuurfactorij Monty</a> en <a href="http://www.detheatermaker.be/">d&nbsp;e&nbsp;t&nbsp;h&nbsp;e&nbsp;a&nbsp;t&nbsp;e&nbsp;r&nbsp;m&nbsp;a&nbsp;k&nbsp;e&nbsp;r</a> en met de steun van de Vlaamse gemeenschap en stad Antwerpen
 . Met dank aan <a href="http://www.tarsenaal.be/">t,arsenaal Mechelen</a>. The End Is Dear werd geselecteerd voor <a href="http://www.circuitx.be/">Circuit X</a>.
