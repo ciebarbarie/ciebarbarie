@@ -51,9 +51,9 @@ Deze voorstelling werd een buitenbeentje binnen de lijn die we als compagnie pro
 _want wij zijn allemaal de wereld ingevogeld, maar we kunnen niet vliegen_<br>
 Werner Schwab
 
-**Van en met** Evelien Broekaert, Liesje De Backer,Karolien De Bleser, Amber Goethals, Lotte Vaes,Sarah Vangeel en Anna Vercammen<br>
+**Van en met**: Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes, Sarah Vangeel en Anna Vercammen<br>
 **Vormgeving**: Jan De Brabander<br>
-**Kostuums**:Viv Van der Poel<br>
+**Kostuums**: Viv Van der Poel<br>
 **Coaching**: Inge Büscher en Jan Bijvoet <br>
 **Techniek**: Thomas Clause en Bert Van Dijck<br>
 **Grafisch Ontwerp**: Dinge
