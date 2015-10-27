@@ -31,20 +31,21 @@ poster: true
     background: url({{ site.baseurl }}/img/too-far-east-is-west-bit-2.png) no-repeat top center;
   }
 </style>
-Compagnie Barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>
+compagnie barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>
 waar dromen we van als we op reis willen? Is de reis noodzakelijk? of volstaat het dromen op zich?<br>
 bestaat er zoiets als authenticiteit?<br>
 wat als de verveling toeslaat?<br>
 wat als het prachtige uitzicht plots onzichtbaar wordt?<br>
-waarom zou je je verroeren als je zo voortreffelijk vanuit je stoel kunt reizen?<br>
-<br>
-kortom: <br>
-Een voorstelling over ontdekken en ontdekken van niet. <br>
-Over ontdekkingsreizigsters uit de 19de eeuw maar net zo goed over de toerist van nu. <br>
-Over de onstuitbare drang om planten naar u te willen vernoemen. <br>
-Over op reis gaan en veel te veel meenemen. <br>
-Over de commerciële platgetreden paden willen vermijden en er telkens weer op belanden. <br>
-Over in the jungle (de mighty jungle) je online bestelde leeuw te gaan schieten. <br>
-Over de vraag of de patroonheilige van de reizigers nu werkelijk door de paus van de kalender werd gehaald uit angst dat de mens de hemel zou vinden.<br>
+waarom zou je je verroeren als je zo voortreffelijk vanuit je stoel kunt reizen?
+
+Vertrekkende vanuit de verhalen van vrouwelijke ontdekkingsreizigers gaat compagnie barbarie op zoek naar wat er vandaag de dag voor ons nog te ontdekken valt.<br>
+
+TOO FAR EAST IS WEST is een bonte verzameling van korte scenes waarin de actrices/reizigers zich verliezen in hun zoektocht naar zichzelf, een ongerept stuk land, de juistheid van de geschiedenis en de wankele balans tussen family en me time.<br>
+Alles wat in deze voorstelling niet vast zit draait volledig door: de hostessen, de opblaasbare orka’s en zelfs de GPS.<br>
+Een voorstelling over ontdekken <br>
+maar vooral  ontdekken van niet. 
+
+
+
 <br>
 Too Far East is West ging in première op 15 oktober 2009  en is een voorstelling in samenwerking met <a href="http://www.stuk.be/">STUK Leuven</a>, <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a> en <a href="http://www.ccberchem.be/">CC Berchem</a> en met de steun van de Vlaamse Gemeenschap.
