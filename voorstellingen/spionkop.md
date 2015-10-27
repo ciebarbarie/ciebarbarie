@@ -52,6 +52,12 @@ Wat hij daar ziet wordt  zijn eerste herinnering.<br>
 (naar Julian Barnes)
 
 SPIONKOP wordt gemaakt door Compagnie Barbarie en zal in afwisselende bezetting door 4 actrices van de compagnie gespeeld worden.
+**Vormgeving**: Jan De Brabander<br>
+**Kostuums**: Viv Van der Poel<br>
+**Coaching**: Inge Büscher <br>
+**Muziek**: Wim Lots <br>
+**Techniek en productie**: Villanella <br>
+**Grafisch Ontwerp**: Dieter Desmet
 
 Vormgeving: Jan De Brabander<br>
 Kostuums: Atelier Van der Poel<br>
