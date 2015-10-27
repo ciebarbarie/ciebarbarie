@@ -26,16 +26,20 @@ sidebar: |
 </style>
 Compagnie Barbarie is een collectief bestaande uit zeven vrouwen.
 
-De eigenheid van Compagnie Barbarie wordt niet alleen gekenmerkt door de veelheid aan vrouwelijk schoon, maar tevens door een aan ons eigen “scheve kijk op de wereld”.<br>
-De schoonheid ontdekken van de lelijke kantjes en een maatschappelijke plek opeisen voor de falende mens die ten strijde trekt tegen de dagdagelijkse buitenwereld, dat is de missie van de barbaries.<br>
-Het innermenselijk gewroet en de intermenselijke stoornissen worden door ons op pijnlijk lachwekende wijze blootgelegt.<br>
-Lachen met de alledaagsheid van het bestaan, de uitvergroting van het kleinmenselijke, dat fascineert ons.
-Wij lachen met onze angsten, onze kwellingen, onze onvervulbare wensen en de absurditeit van dit alles.
-
-We zijn ervan overtuigd dat een inhoud zich niet per definitie moet vertalen in gesproken tekst, maar dat er zich veel meer vormelijke mogelijkheden kunnen aandienen om een inhoud over te brengen naar het publiek.<br>
-De wijze waarop men iets zegt, is een onlosmakelijke verbintenis tussen inhoud en vorm, steeds gevoed vanuit het gekozen materiaal.<br>
+Onze eigenheid wordt niet alleen gekenmerkt door de veelheid aan vrouwelijk schoon, maar tevens door een aan ons eigen en specifiek ontwikkelde beeldtaal.<br>
+We kunnen dit het best omschrijven als ‘een scheve kijk op de wereld’.<br>
+Onze producties verruimen het blikveld van de toeschouwer<br>
+en brengen scheuren aan in bestaande vooringenomenheden.<br>
+Ze bevechten clichés en doorprikken vooroordelen.<br>
+In een complexe en snel veranderende wereld heeft iedereen nood aan houvast maar het gevaar voor generalisering ligt op de loer. Diepgewortelde clichés die voor waar worden aangenomen, die willen wij, de vrouwelijke strijders van compagnie barbarie met al onze charmes bevechten.<br>
+Dit doen we via een uitgepuurde beeldtaal omdat wij geloven dat beelden openstaan voor nuance en complexiteit en niet ‘de waarheid'willen verkondigen.<br>
+Beelden werken associatief en overstijgen een zwart-wit verhaal.<br>
+Humor is een belangrijke parameter voor het werk van de barbaries en een waardevol instrument om kritiek te geven.
+De mix van humor met inhoud en inhoud vanuit het buikgevoel: dat is compagnie barbarie.<br>
 Compagnie barbarie werkt als collectief. Ieder zijn mening, ieder zijn ding, maar met z’n zevenen samen zijn we veel meer dan de som van de delen.
 
-Compagnie barbarie is:<br>
+Compagnie barbarie is:
 Ruth Beeckmans, Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel
+
+
 
