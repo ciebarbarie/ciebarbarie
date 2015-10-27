@@ -59,11 +59,5 @@ SPIONKOP wordt gemaakt door Compagnie Barbarie en zal in afwisselende bezetting 
 **Techniek en productie**: Villanella <br>
 **Grafisch Ontwerp**: Dieter Desmet
 
-Vormgeving: Jan De Brabander<br>
-Kostuums: Atelier Van der Poel<br>
-Coaching: Inge Buscher<br>
-Muziek: Wim Lots<br>
-Foto's: Franky Verdickt
-
 Spionkop ging in première op 1 november 2012 en is een coproductie van cie barbarie en <a href="http://www.villanella.be/">Villanella</a> met de steun van de Vlaamse Gemeenschap en stad Antwerpen.
 
