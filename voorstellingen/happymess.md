@@ -49,12 +49,12 @@ Enkel dezelfde koffie die keer op keer wordt opgewarmd en dezelfde muziek die ge
 
 Happymess aanschouwt de mens in al zijn misselijkheid en lacht met haar eigen onkunde.
 
-**Van en met** Ruth Beeckmans,Evelien Broekaert, Liesje De Backer,Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Van en met**: Ruth Beeckmans, Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Vormgeving**: Jan De Brabander<br>
 **Kostuums**:Viv Van der Poel<br>
 **Artistiek advies**: Inge Büscher <br>
 **productie stage**: Saar Fivez<br>
-**Techniek**: Thomas Clause <br>
+**Techniek**:Thomas Clause <br>
 **Grafisch Ontwerp**: Dinge
 
 
