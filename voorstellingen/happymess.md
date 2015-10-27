@@ -36,24 +36,18 @@ poster: true
   }
 </style>
 In Happymess brengt compagnie barbarie een ode aan het ongeluk van de mens.<br>
-We willen het recht op ongelukkig zijn vieren en in ere herstellen.<br>
-Want wij zijn echt niet gelukkig.<br>
-Wij zijn in de verste verte niet gelukkig.<br>
-Maar dat is ons recht.<br>
-Dat is ons recht en dat van u.<br>
-Wij zijn niet gelukkig.<br>
-En daar hebben wij recht op.<br>
-Allemaal.<br>
-<br>
-Kijk binnen in het onmogelijke leven van mogelijke mensen<br>
-En speel de hoofdrol in uw eigen gezinsdrama.<br>
-Aanschouw de mens in al zijn misselijkheid.<br>
-Beleef het overheerlijke zondagmiddag gevoel en verdrink niet in uw bakje troost.<br>
-Zie hoe zelfs de fanfare niet marcheert...<br>
-Klaag met ons mee en kom niet alleen, dat doet het ongeluk ook nooit.
+We brengen in deze voorstelling hulde aan de tristesse en aan het dagdagelijks falen van de mens.<br>
+Want wij falen big time. Allemaal. En zo goed als de hele tijd.<br>
+Happymess is een verstilde voorstelling die een esthetische inslag vond in de Scandinavische filmkunst. <br>
+In deze voorstelling beleven we de onkunde van de mens om te kunnen omgaan met elkaar, met troosteloosheid en met een alom tegenwoordig gevoel van onbehagen.
 
-Happymess<br>
-Niet per ongeluk een schrijffout<br>
-zo kan u tenminste niet meer van geluk spreken.
+De figuren die de wereld van Happymess bevolken zijn bleek en beige.<br>
+Ze sluiten zich al dan niet vrijwillig op in een onbestemde en onpersoonlijke ruimte en leveren zich een uur lang aan elkaar over.<br>
+Er valt niets te beleven.<br>
+Niets te verwachten.<br>
+Enkel dezelfde koffie die keer op keer wordt opgewarmd en dezelfde muziek die genadeloos wordt grijs gedraaid.<br>
+
+Happymess aanschouwt de mens in al zijn misselijkheid en lacht met haar eigen onkunde.
+
 
 Happymess ging in première op 24 maart 2011 en is een voorstelling in samenwerking met <a href="http://www.stuk.be/">STUK Leuven</a>, <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a> en <a href="http://www.ccberchem.be/">CC Berchem</a> en met de steun van de Vlaamse Gemeenschap en stad Antwerpen.
