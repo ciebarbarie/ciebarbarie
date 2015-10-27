@@ -33,6 +33,8 @@ Die nog minder gelooft in oorlog als antwoord maar wel onderhevig is aan angst v
 RISK biedt dan ook geen sluitend antwoord maar toont een staat van zijn van een generatie die in de onmogelijkheid verkeert om zinvol om te springen met het verleden en nog grotere vraagtekens plaatst bij de toekomst.<br>
 Een stilistische hommage aan de onkunde van de mens om zinvol met zijn geschiedenis om te gaan.<br>
 
+
+
 Risk ging in première op 22 april 2015 en is een coproductie met <a href="http://www.antigone.be/">Theater Antigone</a> met de steun van de Vlaamse Gemeenschap en maakt deel uit van <a href="http://www.gonewest.be/">GoneWest</a>.
 
 RISK zal in 2018,  het laatste jaar van de vierjarige oorlogsherdenking hernomen worden. We  blazen onze 135 jarige oorlogsveteraan alias Ruth Beeckmans nog een laatste nieuwe adem in en met hem ook meteen de hele herdenkingsindustrie. 
