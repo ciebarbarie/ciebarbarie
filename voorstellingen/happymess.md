@@ -49,5 +49,13 @@ Enkel dezelfde koffie die keer op keer wordt opgewarmd en dezelfde muziek die ge
 
 Happymess aanschouwt de mens in al zijn misselijkheid en lacht met haar eigen onkunde.
 
+**Van en met** Ruth Beeckmans,Evelien Broekaert, Liesje De Backer,Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Vormgeving**: Jan De Brabander<br>
+**Kostuums**:Viv Van der Poel<br>
+**Artistiek advies**: Inge Büscher <br>
+**productie stage**: Saar Fivez<br>
+**Techniek**: Thomas Clause <br>
+**Grafisch Ontwerp**: Dinge
+
 
 Happymess ging in première op 24 maart 2011 en is een voorstelling in samenwerking met <a href="http://www.stuk.be/">STUK Leuven</a>, <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a> en <a href="http://www.ccberchem.be/">CC Berchem</a> en met de steun van de Vlaamse Gemeenschap en stad Antwerpen.
