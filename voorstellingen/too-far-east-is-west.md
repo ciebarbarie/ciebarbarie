@@ -45,7 +45,7 @@ Alles wat in deze voorstelling niet vast zit draait volledig door: de hostessen,
 Een voorstelling over ontdekken <br>
 maar vooral  ontdekken van niet. 
 
-**Van en met** Ruth Beeckmans,Evelien Broekaert, Karolien De Bleser,Amber Goethals,Lotte Vaes,Sarah Vangeel en Anna Vercammen <br>
+**Van en met**: Ruth Beeckmans,Evelien Broekaert, Karolien De Bleser,Amber Goethals,Lotte Vaes,Sarah Vangeel en Anna Vercammen <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Bert Gillet<br>
 **Dramaturgie**: Bart Capelle <br>
