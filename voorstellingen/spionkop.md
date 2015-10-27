@@ -35,18 +35,21 @@ bit-3-end: 0
   }
 </style>
 
-Het gaat niet over een spion maar hij heeft wel alles gezien.<br>
-Het gaat niet over een kop maar hij krijgt er wel een punthoofd van.
+In SPIONKOP treden we binnen in de wereld van Alfred.<br>
+Een kind dat alleen thuis is. Een klein kind in een veel te groot huis.<br> 
+Het onweert, het licht valt uit en Alfreds angsten komen tot leven. Bang voor de oude huiskat, bang voor de vreemde geluiden die uit de kelder komen. De fantasie slaat op hol, het huis komt tot leven en de meest vreemde figuren passeren de revue.
 
-Het gaat niet over tuinkabouters want die komen er gewoonweg niet in voor.<br>
-Het gaat niet over Hitchcock maar hij zit wel mee in het complot.<br>
-En het gaat al helemaal niet over angstzweet, maar de spanning zal wel in stukjes te snijden zijn.
+SPIONKOP neemt je mee in de duistere en spannende mysteries van dat wat zich aan de andere kant bevindt. Dat wat je beter buiten houdt. Of wat je stiekem toch graag in huis zou halen.<br> 
+Een ode aan de fantasie of hoe je met je eigen verbeeldingskracht je angsten kan overwinnen.<br> 
+SPIONKOP is een beeldende, taalloze voorstelling voor 6+ die op een associatieve manier de verbeelding van de kijker aan het werk zet en aanmoedigt om samen te gaan griezelen.
 
-Een kind wil kijken. Zo begint het altijd, en zo begint het nu. Met een kind dat wil kijken. Er is niemand die hem gadeslaat. Het kind loopt naar buiten, blijft staan en kijkt.
 
-SPIONKOP neemt je mee in de duistere en spannende mysteries van dat wat zich aan de andere kant bevindt. Dat wat je beter buiten houdt. Of wat je stiekem toch graag in huis zou halen.
-
-> ONE PERSON'S CRAZYNESS IS ANOTHER PERSON'S REALITY. — TIM BURTON
+> Een kind wil kijken. Zo begint het altijd, en zo begint het nu.<br> 
+Hij kan lopen  en kan met zijn hand bij de deurkruk.<br> 
+Hij doet dit zonder iets dat je een doel kan noemen, hoogstens het instinctieve toerisme van een kleuter.<br> 
+Een deur is er om tegenaan te duwen; hij loopt naar binnen, blijft staan, en kijkt.<br> 
+Wat hij daar ziet wordt  zijn eerste herinnering.<br> 
+(naar Julian Barnes)
 
 SPIONKOP wordt gemaakt door Compagnie Barbarie en zal in afwisselende bezetting door 4 actrices van de compagnie gespeeld worden.
 
