@@ -31,7 +31,7 @@ poster: true
     background: url({{ site.baseurl }}/img/too-far-east-is-west-bit-2.png) no-repeat top center;
   }
 </style>
-compagnie barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>
+cie barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>
 waar dromen we van als we op reis willen? Is de reis noodzakelijk? of volstaat het dromen op zich?<br>
 bestaat er zoiets als authenticiteit?<br>
 wat als de verveling toeslaat?<br>
@@ -44,6 +44,14 @@ TOO FAR EAST IS WEST is een bonte verzameling van korte scenes waarin de actrice
 Alles wat in deze voorstelling niet vast zit draait volledig door: de hostessen, de opblaasbare orka’s en zelfs de GPS.<br>
 Een voorstelling over ontdekken <br>
 maar vooral  ontdekken van niet. 
+
+**Van en met** Ruth Beeckmans,Evelien Broekaert, Karolien De Bleser,Amber Goethals,Lotte Vaes,Sarah Vangeel en Anna Vercammen <br>
+**Vormgeving**: Michiel Van Cauwelaert<br>
+**Kostuums**: Bert Gillet<br>
+**Dramaturgie**: Bart Capelle <br>
+**Techniek**: Thomas Clause <br>
+**Montage**: Sen Jan Jansen <br>
+**Grafisch Ontwerp**: Dinge
 
 
 
