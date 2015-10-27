@@ -66,5 +66,5 @@ Want voor je het weet staar je je blind op je eigen ideaalbeeld en haal je toere
 
 
 
-Undertwasser ging in première op 22 november 2007 en kreeg daarbij de steun van de Vlaamse Gemeenschap, de stad Antwerpen ,kc nOna en CC Berchem.
+Undertwasser ging in première op 22 november 2007 en kreeg daarbij de steun van de Vlaamse Gemeenschap, de stad Antwerpen,<a href="http:www.kcnona.be/">kc nOna</a> en <a href="http://www.ccberchem.be/">CC Berchem</a>.
 
