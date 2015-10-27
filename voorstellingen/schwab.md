@@ -39,30 +39,18 @@ poster: true
     background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
   }*/
 </style>
-Het is zover.
+Met “Schwab Werner Schwab” duikt compagnie barbarie onder in het poëtische, humoristische, donkere, gal spuwende en meestal straalbezopen leven en werk van de Oostenrijkse toneelschrijver Werner Schwab.<br>
+Schwab was een eenzame, getormenteerde mensenhater die zich niet kon verzoenen met het kleinburgerlijke, een ongewenst kind van een verwenselijke moeder, een extreem intelligent man die gebukt ging onder een opgelegd geloof.<br>
+Om zijn gal op de wereld te kunnen spuien ontwikkelde Schwab een eigen taal. Een poëtische, komische en associatieve woordenbrij.<br>
+Maar we gaan niet enkel met zijn teksten aan de haal.<br> 
+In “schwab werner schwab” voert compagnie barbarie een autopsie uit op zijn persoon, zijn taal en de maatschappij waarin hij leefde. We onderzoeken deze man van binnen en van buiten, we graven in zijn teksten, zijn beeldend werk, zijn gal,  zijn zinloze lever en  de honderden lege flessen wodka en andere sterke dranken die hij achterliet.<br>
+Deze voorstelling werd een buitenbeentje binnen de lijn die we als compagnie proberen door te trekken. Een voorstelling die zich veel minder beroept op beeldende kracht en de letterlijke directheid van een vertelling niet uit de wegging.
 
-De zeven vrouwen van compagnie barbarie hebben eindelijk de man van hun leven gevonden: Werner Schwab.
+_want wij zijn allemaal de wereld ingevogeld, maar we kunnen niet vliegen_
+Werner Schwab
 
-Hij komt uit Oostenrijk, is een eenzaat, heeft een zwaar moedercomplex, is vervuld van zelfhaat, zuipt zich te pletter, is zot van worst met scherpe balkanmosterd, een ketter in hart en nieren en walgt van alle maatschappelijke maatschappelijkheden.
 
-Kortom: de ideale schoonzoon.
 
-Hij is schrijver van beroep en uitvinder van zijn eigen Schwabtaal:
 
-_Een gezin = een plek waar geen ongekuste mensen bestaan_
-
-_Beledigen = de eerlijke huid met stront bespuiten_
-
-_Het leven = een toegangsbewijs dat god uiteindelijk in beslag zal nemen_
-
-In "Schwab, Werner Schwab" voert compagnie barbarie een autopsie uit.
-
-Wees welkom in ons anatomisch theater.
-
-Waar we deze helaas veel te vroeg gestorven blonde God vanbinnen en van buiten zullen onderzoeken.
-
-Waar we een dissectie uitvoeren op zijn teksten, zijn beeldend werk, zijn gal, zijn zinloze lever en de honderden lege flessen wodka en andere sterke dranken.
-
-_-want we zijn allemaal de wereld ingevogeld, maar we kunnen niet vliegen._
 
 Schwab Werner Schwab ging in première op 30 mei 2012 en is een coproductie van cie barbarie, <a href="http://www.detheatermaker.be/">d&nbsp;e&nbsp;t&nbsp;h&nbsp;e&nbsp;a&nbsp;t&nbsp;e&nbsp;r&nbsp;m&nbsp;a&nbsp;k&nbsp;e&nbsp;r</a> en <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a>, in samenwerking met <a href="http://www.ccberchem.be/">CC Berchem</a> en <a href="http://www.stuk.be/">STUK Leuven</a> en met de steun van de Vlaamse Gemeenschap en stad Antwerpen.
