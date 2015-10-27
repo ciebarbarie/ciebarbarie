@@ -56,7 +56,7 @@ Over de drang om op elkaar te lijken, het gevaar dat schuilt in het opgeven van 
 De hele gezondheidshype en de adoratie van de atleet met de bovenmenselijke prestaties zijn slechts een mythe.<br>
 Want voor je het weet staar je je blind op je eigen ideaalbeeld en haal je toeren uit die bulken van de absurditeit.
 
-**Van en met** Ruth Beeckmans,Evelien Broekaert, Liesje De Backer,Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Van en met**: Ruth Beeckmans,Evelien Broekaert, Liesje De Backer,Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Vormgeving**: Griet Snoeks<br>
 **Kostuums**: Inge Büscher en Viv Van der Poel<br>
 **Coaching**: Mieke Verdin <br>
