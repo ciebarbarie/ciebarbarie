@@ -2,6 +2,7 @@
 layout: page
 title: Voorstellingen
 ---
+* [Wa Wilder Man](/voorstellingen/wa-wilder-man.html)
 * [Risk](/voorstellingen/risk.html)
 * [The End is Dear](/voorstellingen/the-end-is-dear.html)
 * [Spionkop](/voorstellingen/spionkop.html)
