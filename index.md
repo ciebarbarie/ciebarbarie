@@ -2,9 +2,10 @@
 layout: homepage
 ---
 
-Compagnie Barbarie stelt voor: <strong>Wa Wilder Man +</strong>
+Compagnie Barbarie stelt voor: <strong>Wa Wilder Man</strong>
 
-Een educatief en kunstig project over goed en kwaad en het gebruik van de eigen hersenen.
+De repetities zijn van start gegaan. Hoera. Hoera.
+We vliegen erin met volle goesting!
+Première op 12 februari. Save the date.
+En volg ons intussen op facebook alwaar wij u verblijden met onze repetitie-stand-van-zaken-foto's....
 
-Een filosofieproject met kinderen naar aanloop van de voorstelling Wa Wilder Man.<br>
-Te zien in Gent, Brussel, Antwerpen, Mechelen en Geel (als je tenminste niet ouder bent dan zes).
