@@ -39,6 +39,13 @@ En hoe lang blijft dat 'raar' of 'gek'? Wordt het andere een deel van het bekend
 Een voorstelling over onze dubieuze houding tegenover alles wat nieuw en vreemd is <br>
 En onze bizarre reacties op het onbekende....<br>
 
+**Van en met** Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Vormgeving**: Michiel Van Cauwelaert<br>
+**Kostuums**: Viv Van der Poel<br>
+**Geluid en Techniek**: Saul Mombaerts<br>
+**Grafisch Ontwerp**: Nick Mattan en Ben Raes
+
+
 
 ## Speellijst
 
