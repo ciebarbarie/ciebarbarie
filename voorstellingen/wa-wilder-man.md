@@ -28,29 +28,17 @@ slide-count: 1
 </style>
 Een familie van vier figuren leeft samen in een huisje.<br>
 Vredig. Niet altijd natuurlijk, maar bon, over het algemeen: vredig.<br>
-Plots trekken ze een kast open en daaruit valt een vreemde figuur.<br>
-Hij ziet er helemaal anders uit dan zij.<br>
-Hij heeft geen gezicht van karton, zoals zij.<br>
-Hij heeft zelfs meerdere gezichten, meerdere maskers.<br>
-Wie is hij?<br>
-Hij ziet er nogal...wild uit.<br>
-De familie weet niet goed wat te denken van deze vreemde snuiter met zijn vreemde snuit.<br>
-De Wilde Man is zowel goed als slecht.<br>
-Soms lijkt hij vrolijk, soms kwaad.<br>
-Soms is hij kwaad en lijkt hij vrolijk.<br>
-Soms lacht hij maar is hij eigenlijk kwaad.<br>
-Moeten ze bang van hem zijn?<br>
-Moeten ze hem vrezen?
+Plots komt er een vreemd wezen binnenvallen. <br>
+Een beest? Een ding? Een mens?<br>
+Wat is er vreemd aan dit vreemde ding?
+Wat is er anders aan dit andere?
+Moeten ze bang  zijn?<br>
+Moeten ze beven? <br>
+En hoe lang blijft dat 'raar' of 'gek'? Wordt het andere een deel van het bekende als het maar lang genoeg blijft?<br>
 
-Kinderen vanaf 4 jaar zijn  sterk gefascineerd door deze vraag. Wie is de goeie? Wie de slechte?<br>
-Kinderen hebben regels nodig als houvast. Het helpt hen grip te krijgen op de wereld rondom hen.<br>
-Maar niet alles valt zwart – wit uit te leggen, niet alles is eenduidig.<br>
-Dat kan soms verwarrend zijn.<br>
-Kinderen worden overladen met sprookjes over goed en kwaad waarin er geen plaats is voor grijs of onduidelijkheid.
+Een voorstelling over onze dubieuze houding tegenover alles wat nieuw en vreemd is <br>
+En onze bizarre reacties op het onbekende....<br>
 
-WA WILDER MAN  zal de schemerzone  laten zien. Het wordt een spel met goed en slecht, fictie en realiteit en kan als voorstelling duiding bieden in de zoektocht van elk kind met betrekking tot deze materie.
-
-WA WILDER MAN  is  een voorstelling over goed en kwaad maar vooral over de dunne grens daartussen.
 
 ## Speellijst
 
