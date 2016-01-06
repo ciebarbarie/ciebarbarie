@@ -21,7 +21,10 @@ bit-1-end: 1000
 </style>
 Wa wilder Man + is een participatie project  van een kleine twee uur dat wordt aangeboden aan klasjes van de laatste kleuterklas, eerste en tweede leerjaar.
 
+<iframe src="https://player.vimeo.com/video/148214920?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 In deze workshop wordt er via ervaringen gefilosofeerd over ‘vreemde dingen’, dingen die anders zijn dan anders.
+
 
 ## Het Verhaal
 
