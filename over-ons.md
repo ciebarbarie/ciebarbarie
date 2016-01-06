@@ -26,6 +26,8 @@ sidebar: |
 </style>
 Compagnie Barbarie is een collectief bestaande uit zeven vrouwen.
 
+<iframe src="https://player.vimeo.com/video/107516368?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Onze eigenheid wordt niet alleen gekenmerkt door de veelheid aan vrouwelijk schoon, maar tevens door een aan ons eigen en specifiek ontwikkelde beeldtaal.<br>
 We kunnen dit het best omschrijven als ‘een scheve kijk op de wereld’.<br>
 Onze producties verruimen het blikveld van de toeschouwer<br>
