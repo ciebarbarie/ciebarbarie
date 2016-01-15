@@ -26,25 +26,28 @@ slide-count: 1
     }
   }
 </style>
-Een familie van vier figuren leeft samen in een huisje.<br>
-Vredig. Niet altijd natuurlijk, maar bon, over het algemeen: vredig.<br>
-Plots komt er een vreemd wezen binnenvallen. <br>
-Een beest? Een ding? Een mens?<br>
-Wat is er vreemd aan dit vreemde ding? <br>
-Wat is er anders aan dit andere? <br>
-Moeten ze bang  zijn?<br>
+Drie figuren op het toneel.<br>
+Ze kijken met grote bange ogen in de zaal...<br>
+Wie zit daar? Wat komen ze hier doen? <br>
+Moeten ze bang zijn?<br>
 Moeten ze beven? <br>
-En hoe lang blijft dat 'raar' of 'gek'? <br>
-Wordt het andere een deel van het bekende als het maar lang genoeg blijft?<br>
+Ze zijn in elk geval vreemd, onbekend, beangstigend en heel klein.<br>
+
+Wat is er zo bizar aan die vreemden? Zo anders aan die anderen? Worden die anderen een deel van het bekende als ze maar lang genoeg blijven?<br>
+Om zich te beschermen tegen deze vreemde indringers zetten de drie actrices maskers op, vermommen ze zich, doen ze zich sterker voor dan ze zijn en vallen ze hopeloos door de mand. <br>
+
 
 Een voorstelling over onze dubieuze houding tegenover alles wat nieuw en vreemd is <br>
 En onze bizarre reacties op het onbekende....<br>
 
-**Van en met** Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Van en met**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Spel**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Geluid en Techniek**: Saul Mombaerts<br>
-**Grafisch Ontwerp**: Nick Mattan en Ben Raes
+**Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
+**Met duizendmaal dank aan**: Randi De Vlieghe en Ilse Daems<br>
+
 
 
 
