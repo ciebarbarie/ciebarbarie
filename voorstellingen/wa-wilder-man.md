@@ -57,11 +57,12 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td>vrijdag 12 februari</td><td>15.00</td><td><a href="http://www.destudio.com/">DE Studio, Antwerpen</a></td><td>03/202.46.46</td></tr>
 <tr><td>zaterdag 13 februari</td><td> 15.00</td><td><a href="http://www.destudio.com/">DE Studio, Antwerpen</a></td><td>03/202.46.46</td></tr>
 <tr><td>zondag 14 februari</td><td>  15.00</td><td><a href="http://www.destudio.com/">DE Studio, Antwerpen</a></td><td>03/202.46.46</td></tr>
-<tr><td>16, 17, 18 &amp; 19 februari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.destudio.com/">DE Studio, Antwerpen</a></td></tr>
+<tr><td>16, 17, 18 &amp; 19 februari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.destudio.com/">DE Studio, Antwerpen</a></td><td></td></tr>
 <tr><td>zondag 21 februari</td><td>15.00</td><td><a href="https://www.warande.be/">de Warande, Turnhout</a></td><td>014/41.69.91</td></tr>
+<tr><td>zondag 27 februari</td><td>15.00</td><td><a href="http://www.gravenhof.org/">CC Gravenhof, Hoboken</a></td><td>03/292.65.30</td></tr>
 <tr><td>zondag 6 maart</td><td>15.00</td><td><a href="http://www.despil.be/">CC De Spil, Roeselare</a></td><td>051/26.57.00</td></tr>
-<tr><td>maandag 7 maart</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.despil.be/">CC De Spil, Roeselare</a></td><td></td><td></td></tr>
-<tr><td>vrijdag 11 maart</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.cczoetegem.be/">CC Zoetegem, Zottegem</a></td><td></td><td></td></tr>
+<tr><td>maandag 7 maart</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.despil.be/">CC De Spil, Roeselare</a></td><td></td></tr>
+<tr><td>vrijdag 11 maart</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.cczoetegem.be/">CC Zoetegem, Zottegem</a></td><td></td></tr>
 <tr><td>zondag 13 maart</td><td> 15.00</td><td><a href="http://www.c-minecultuurcentrum.be/">C-mine cultuurcentrum, Genk</a></td><td>089/65.44.90</td></tr>
 <tr><td>donderdag 17 maart</td><td><small>schoolvoorstelling</small></td><td><a href="http://www.tessenderlo.be/thema/2103/cultuurcentrum-het-loo">cc het LOO, Tessenderlo</a></td><td></td></tr>
 <tr><td>zondag 20 maart</td><td>15.00</td><td><a href="http://www.develinx.be/">De Velinx, Tongeren</a></td><td>012/80.00.40</td></tr>
