@@ -40,6 +40,8 @@ Om zich te beschermen tegen deze vreemde indringers zetten de drie actrices mask
 Een voorstelling over onze dubieuze houding tegenover alles wat nieuw en vreemd is <br>
 En onze bizarre reacties op het onbekende....<br>
 
+<iframe src="https://player.vimeo.com/video/155807523?title=0&amp;byline=0&amp;portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
 **Van en met**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Spel**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
