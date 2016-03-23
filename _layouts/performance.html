@@ -58,7 +58,7 @@ function isMobile() {
   return (/Android|iPhone|iPad|iPod|BlackBerry/i).test(navigator.userAgent || navigator.vendor || window.opera);
 }
 
-if (isMobile() && window.innerWidth > window.innerHeight) {
+if (window.innerWidth <= 550 && window.innerWidth < window.innerHeight) {
   $('#slides-wrap').height(window.innerHeight / 2);
 } else {
   $('#slides-wrap').height(window.innerHeight  - 45);
