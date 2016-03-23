@@ -139,6 +139,7 @@ h2 {
   top: 100px;
   left: 40px;
   z-index: 10;
+  pointer-events: none;
 }
 
 #performance-title h1 {
