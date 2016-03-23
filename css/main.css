@@ -250,12 +250,16 @@ img#poster {
 
 #booking-info {
   font-size: 12px;
-  line-height: 36px;
+  line-height: 24px;
   color: #999;
 }
 
 #booking-info a {
   color: #999;
+}
+
+#booking-info p {
+  margin-bottom: 3em;
 }
 
 .slides-navigation a {
