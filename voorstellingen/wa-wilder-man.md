@@ -4,7 +4,7 @@ title: Wa Wilder Man
 id: wa-wilder-man
 bit-1-start: 50
 bit-1-end: 1000
-slide-count: 1
+slide-count: 3
 ---
 <style>
   #main {
