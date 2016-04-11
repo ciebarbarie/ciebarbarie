@@ -4,8 +4,5 @@ layout: homepage
 
 Compagnie Barbarie stelt voor: <strong>Wa Wilder Man</strong>
 
-De repetities zijn van start gegaan. Hoera. Hoera.
-We vliegen erin met volle goesting!
-Première op 12 februari. Save the date.
-En volg ons intussen op facebook alwaar wij u verblijden met onze repetitie-stand-van-zaken-foto's....
+Nog op tournee tot en met 30 april. Check de speellijst door op de voorstelling te klikken. En kijk ook eens bij pers voor onze zeer fijne recensies. Maar het liefst van al: kom kijken naar de voorstelling! En neem wat kinderen mee. Vanaf 4 jaar. Allen welkom!!
 
