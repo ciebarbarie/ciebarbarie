@@ -1,34 +1,5 @@
 ---
 layout: base
-noheader: true
-performances:
-  -
-    id: wa-wilder-man-plus
-    title: Wa Wilder Man +
-  -
-    id: wa-wilder-man
-    title: Wa Wilder Man
-  -
-    id: risk
-    title: Risk
-  -
-    id: the-end-is-dear
-    title: The End Is Dear
-  -
-    id: spionkop
-    title: Spionkop
-  -
-    id: schwab
-    title: Schwab
-  -
-    id: happymess
-    title: Happymess
-  -
-    id: too-far-east-is-west
-    title: Too Far East Is West
-  -
-    id: undertwasser-wasserwasser
-    title: Undertwasser Wasserwasser
 ---
 <div id="slides-wrap">
   <div id="slides">
@@ -67,7 +38,6 @@ performances:
       <div class="nine columns">
         <ul>
         {% for performance in page.performances %}
-
           <li><a href="{{ site.baseurl }}/voorstellingen/{{ performance.id }}.html">
             <img src="{{ site.baseurl }}/img/{{ performance.id }}-thumb.jpg" alt="{{ performance.title }}">
             <span>{{ performance.title }}</span>
