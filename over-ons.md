@@ -24,21 +24,26 @@ sidebar: |
     padding-left: 10px;
   }
 </style>
-Compagnie Barbarie is een collectief bestaande uit zeven vrouwen.
+Compagnie barbarie is een professioneel theatercollectief bestaande uit zeven vrouwen.
 
 <iframe src="https://player.vimeo.com/video/107516368?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Onze eigenheid wordt niet alleen gekenmerkt door de veelheid aan vrouwelijk schoon, maar tevens door een aan ons eigen en specifiek ontwikkelde beeldtaal.<br>
-We kunnen dit het best omschrijven als ‘een scheve kijk op de wereld’.<br>
-Onze producties verruimen het blikveld van de toeschouwer<br>
-en brengen scheuren aan in bestaande vooringenomenheden.<br>
-Ze bevechten clichés en doorprikken vooroordelen.<br>
-In een complexe en snel veranderende wereld heeft iedereen nood aan houvast maar het gevaar voor generalisering ligt op de loer. Diepgewortelde clichés die voor waar worden aangenomen, die willen wij, de vrouwelijke strijders van compagnie barbarie met al onze charmes bevechten.<br>
-Dit doen we via een uitgepuurde beeldtaal omdat wij geloven dat beelden openstaan voor nuance en complexiteit en niet ‘de waarheid'willen verkondigen.<br>
+
+Allen studeerden ze aan de theaterschool RITS in Brussel.<br>
+Na het afstuderen beslisten ze om naast hun individuele traject als actrice ook samen aan eenzelfde weg te timmeren.<br>
+De barbaries ontwikkelden in de loop der jaren een eigen specifieke beeldtaal.<br>
+Visualiteit en humor zijn twee belanrijke kenmerken die in elke productie naar voor komen.<br>
+Inhoudelijk wordt de focus gelegd op bestaande clichés en worden vooroordelen doorprikt.<br>
+De producties van de barbaries  verruimen het blikveld van de toeschouwer en brengen scheuren aan in bestaande vooringenomenheden.<br>
+In een complexe en snel veranderende wereld heeft iedereen nood aan houvast maar het gevaar voor generalisering ligt op de loer.<br> Diepgewortelde clichés die voor waar worden aangenomen, die worden door de vrouwelijke strijders van compagnie barbarie met al hun charmes bevochten.<br>
+Door hun visuele aanpak maken de barbaries hun inhoudelijke stellingen tastbaar zonder met de vinger te wijzen, zonder ‘de waarheid’ te willen verkondigen.<br>
+De barbaries geloven sterk in een uitgepuurde beeldtaal omdat deze associatief werkt.<br>
+Ze staat open voor interpretatie en nodigt uit tot een verhaal van nuance en complexiteit.<br>
 Beelden werken associatief en overstijgen een zwart-wit verhaal.<br>
-Humor is een belangrijke parameter voor het werk van de barbaries en een waardevol instrument om kritiek te geven.
+Ook humor is een belangrijke parameter voor het werk van de barbaries en een waardevol instrument om kritiek te geven.<br>
 De mix van humor met inhoud en inhoud vanuit het buikgevoel: dat is compagnie barbarie.<br>
-Compagnie barbarie werkt als collectief. Ieder zijn mening, ieder zijn ding, maar met z’n zevenen samen zijn we veel meer dan de som van de delen.
+Compagnie barbarie werkt als collectief. Ieder zijn mening, ieder zijn ding, maar met z’n zevenen samen zijn we veel meer dan de som van de delen.<br>
+Compagnie barbarie werkt als collectief. Ieder zijn mening, ieder zijn ding, maar met z’n zevenen samen zijn we veel meer dan de som van de delen.<br>
 
 Compagnie barbarie is:
 Ruth Beeckmans, Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel
