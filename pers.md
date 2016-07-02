@@ -15,7 +15,9 @@ images:
 </style>
 
 ## Compagnie Barbarie in de Pers
+- <a href="/pers/2016-03-02-wa-wilder-man-de-standaard.pdf">De Standaard — Wa Wilder Man (2 maart 2016)</a>
 - <a href="https://vimeo.com/155807523">De Redactie — Wa Wilder Man (16 februari 2016)</a>
+- <a href="/pers/2016-02-16-wa-wilder-man-het-nieuwsblad.pdf">Het Nieuwsblad — Wa Wilder Man (16 februari 2016)</a>
 - <a href="/pers/2015-04-30-risk-de-standaard.pdf">De Standaard — Risk (30 april 2015)</a>
 - <a href="/pers/2015-04-23-risk-theaterarchief.pdf">Theaterarchief— Risk (23 april 2015)</a>
 - <a href="/pers/2013-11-12-the-end-is-dear-cobra.pdf">Cobra — The End is Dear (12 november 2013)</a>
