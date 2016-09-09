@@ -54,15 +54,10 @@ En onze bizarre reacties op het onbekende....<br>
 
 
 ## Speellijst
-
-
-<tr><td>vrijdag 12 februari</td><td>15.00</td><td><a href="http://www.destudio.com/">DE Studio, Antwerpen</a></td><td>03/202.46.46</td></tr>
-
-
 <table class="speellijst">
 <tr><td>donderdag 20 oktober</td><td>14.30</td><td><a href="http://www.grandtheatregroningen.nl/">Grand Theater, Groningen, NL</a></td><td>0031 50 368 0368</td></tr>
 <tr><td>zondag 30 oktober</td><td>14.00</td><td><a href="https://www.boechout.be/vooruit">Theater Vooruit, Boechout</a></td><td>03 460 06 80</td></tr>
-<tr><td>XX november</td><td>XX uur, <a href="http://www.bronks.be/nl/f265/export-import-festival-2016">Bronks, Brussel- export/import festival</a></td><td>02 219 99 21</td></tr>
+<tr><td>XX november</td><td>XX uur</td><td><a href="http://www.bronks.be/nl/f265/export-import-festival-2016">Bronks, Brussel- export/import festival</a></td><td>02 219 99 21</td></tr>
 <tr><td>dinsdag 29 november</td><td><small>schoolvoorstelling</small></td><td><a href="http://www.debreughel.be">Bree, CC De Breughel</a></td><td>089 84 85 65</td></tr>
 <tr><td>zondag 11 december</td><td>15.00</td><td><a href="http://www.dekimpel.be">CC de kimpel, Bilzen</a></td><td>089 51 95 30</td></tr>
 <tr><td>maandag 12 december</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.hetbolwerk.be">CC Het Bolwerk, Vilvoorde</a></td><td>02 255 46 90</td></tr>
