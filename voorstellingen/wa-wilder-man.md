@@ -57,8 +57,8 @@ En onze bizarre reacties op het onbekende....<br>
 <table class="speellijst">
 <tr><td>donderdag 20 oktober</td><td>14.30</td><td><a href="http://www.grandtheatregroningen.nl/">Grand Theater, Groningen, NL</a></td><td>0031 50 368 0368</td></tr>
 <tr><td>zondag 30 oktober</td><td>14.00</td><td><a href="https://www.boechout.be/vooruit">Theater Vooruit, Boechout</a></td><td>03 460 06 80</td></tr>
-<tr><td>XX november</td><td>XX uur</td><td><a href="http://www.bronks.be/nl/f265/export-import-festival-2016">Bronks, Brussel- export/import festival</a></td><td>02 219 99 21</td></tr>
-<tr><td>dinsdag 29 november</td><td><small>schoolvoorstelling</small></td><td><a href="http://www.debreughel.be">Bree, CC De Breughel</a></td><td>089 84 85 65</td></tr>
+<tr><td>10-13 november</td><td>te bevestigen</td><td><a href="http://www.bronks.be/nl/f265/export-import-festival-2016">Bronks, Brussel- export/import festival</a></td><td>02 219 99 21</td></tr>
+<tr><td>dinsdag 29 november</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.debreughel.be">Bree, CC De Breughel</a></td><td>089 84 85 65</td></tr>
 <tr><td>zondag 11 december</td><td>15.00</td><td><a href="http://www.dekimpel.be">CC de kimpel, Bilzen</a></td><td>089 51 95 30</td></tr>
 <tr><td>maandag 12 december</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.hetbolwerk.be">CC Het Bolwerk, Vilvoorde</a></td><td>02 255 46 90</td></tr>
 <tr><td>donderdag 15 december</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.moorslede.be/cultuur">GC De Bunder, Moorslede</a></td><td>051 70 02 85</td></tr>
@@ -73,11 +73,11 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td>zondag 29 januari</td><td>15.00</td><td><a href="http://www.ccdewerf.be">De Werf, Aalst</a></td><td>053 72 38 11</td></tr>
 <tr><td>maandag 30 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccdewerf.be">De Werf, Aalst</a></td><td>053 72 38 11</td></tr>
 <tr><td>dinsdag 7 februari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.palethe.be">CC Palethe, Overpelt</a></td><td>011 64 59 52</td></tr>
-<tr><td>zaterdag 11 februari</td><td>15.00</td><td><a href="http://www.ccdesteiger.be">CC De Steiger, Menen</a></td><td>056 51 58 91</td></tr>
+<tr><td>zaterdag 11 februari</td><td>14.30</td><td><a href="http://www.ccdesteiger.be">CC De Steiger, Menen</a></td><td>056 51 58 91</td></tr>
 <tr><td>zondag 12 februari</td><td>14.30</td><td><a href="http://www.schaliken.be">CC ’t Schaliken, Herentals</a></td><td>014 28 51 30</td></tr>
 <tr><td>donderdag 16 februari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccmerksem.be">Cultuurcentrum Merksem</a></td><td>03 641 62 10</td></tr>
 <tr><td>woensdag 1 maart</td><td>15.00</td><td><a href="http://www.cultuurcentrumkortrijk.be">Spinragfestival Kortrijk</a></td><td>056 23 98 55</td></tr>
-<tr><td>13, 14 &amp; 15 maart</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.cultuurcentrumbrugge.be">De Dijk, Brugge</a></td><td>050  44 30 60</td></tr>
+<tr><td>13 &amp; 14 maart</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.cultuurcentrumbrugge.be">De Dijk, Brugge</a></td><td>050  44 30 60</td></tr>
 <tr><td>zondag 19 maart</td><td>15.00</td><td><a href="http://www.ccschoten.be">CC De Kakelaar Schoten</a></td><td>03 680 23 40</td></tr>
 <tr><td>dinsdag 21 maart</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccasse.be">CC Oud Gasthuis Asse</a></td><td>02 456 01 60</td></tr>
 <tr><td>18 &amp; 19 mei</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.c-minecultuurcentrum.be">C-mine cultuurcentrum, Genk</a></td><td>089 65 44 90</td></tr>
