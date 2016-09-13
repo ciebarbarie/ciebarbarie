@@ -33,6 +33,6 @@ performances:
 
 Compagnie Barbarie stelt voor: <strong>Wa Wilder Man on tour </strong>
 
-Een tweede speelreeks komt eraan! Vanaf 29 oktober opnieuw te zien in een heleboel Vlaamse zalen. De speellijst volgt snel.<br>
-Tot zolang: een fijne zomer gewenst!!
+Een tweede speelreeks komt eraan! Vanaf 2O oktober opnieuw te zien in een heleboel Vlaamse (en ook één Nederlandse) zaal. De speellijst vind je bij de voorstelling zelf.<br>
+Overal en altijd welkom, met of zonder kinders.<br>
 
