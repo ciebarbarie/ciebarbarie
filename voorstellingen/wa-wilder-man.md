@@ -63,7 +63,7 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td>maandag 12 december</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.hetbolwerk.be">CC Het Bolwerk, Vilvoorde</a></td><td>02 255 46 90</td></tr>
 <tr><td>donderdag 15 december</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.moorslede.be/cultuur">GC De Bunder, Moorslede</a></td><td>051 70 02 85</td></tr>
 <tr><td>maandag 19 december</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccdekern.be">CC De Kern, Wilrijk</a></td><td>03 821 01 36</td></tr>
-<tr><td>vrijdag 6 januari</td><td><small>schoolvoorstelling</small> + 20.00</td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>03 202 46 46</td></tr>
+<tr><td>vrijdag 6 januari</td><td>15.00 &amp; 20.00</td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>03 202 46 46</td></tr>
 <tr><td>zaterdag 7 januari</td><td>15.00</td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>03 202 46 46</td></tr>
 <tr><td>zondag 8 januari</td><td>15:00</td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>03 202 46 46</td></tr>
 <tr><td>10 &amp; 11 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td></tr>
