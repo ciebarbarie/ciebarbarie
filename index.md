@@ -7,7 +7,7 @@ performances:
     title: Wa Wilder Man
   -
     id: wa-wilder-man-plus
-    title: Wa Wilder Man +
+    title: Wa Wilder Man + Filosofische Workshop
   -
     id: risk
     title: Risk
