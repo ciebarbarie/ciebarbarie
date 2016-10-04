@@ -26,7 +26,7 @@ sidebar: |
 </style>
 Compagnie barbarie is een professioneel theatercollectief bestaande uit zeven vrouwen.
 
-<iframe src="https://player.vimeo.com/video/107516368?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/182689398?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 Allen studeerden ze aan de theaterschool RITS in Brussel.<br>
