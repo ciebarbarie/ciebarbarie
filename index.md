@@ -3,11 +3,11 @@ layout: homepage
 noheader: true
 performances:
   -
-    id: wa-wilder-man-plus
-    title: Wa Wilder Man +
-  -
     id: wa-wilder-man
     title: Wa Wilder Man
+  -
+    id: wa-wilder-man-plus
+    title: Wa Wilder Man +
   -
     id: risk
     title: Risk
