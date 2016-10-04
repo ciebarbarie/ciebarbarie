@@ -66,7 +66,7 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td>vrijdag 6 januari</td><td><small>schoolvoorstelling</small> + 20.00</td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>03 202 46 46</td></tr>
 <tr><td>zaterdag 7 januari</td><td>15.00</td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>03 202 46 46</td></tr>
 <tr><td>zondag 8 januari</td><td>15:00</td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>03 202 46 46</td></tr>
-<tr><td>10 &amp; 11 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td><td>td></tr>
+<tr><td>10 &amp; 11 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.destudio.com">DE Studio, Antwerpen</a></td></tr>
 <tr><td>dinsdag 17 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.avelgem.be/spikkerelle">GC Spikkerelle, Avelgem</a></td><td>056 65 30 90</td></tr>
 <tr><td>donderdag 19 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccdeschakel.be">CC De Schakel, Waregem</a></td><td>056 62 13 40</td></tr>
 <tr><td>dinsdag 24 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.denblank.be">CC Den Blank, Overijse</a></td><td>02 687 59 59</td></tr>
