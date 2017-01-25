@@ -70,8 +70,8 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td>dinsdag 17 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.avelgem.be/spikkerelle">GC Spikkerelle, Avelgem</a></td><td>056 65 30 90</td></tr>
 <tr><td>donderdag 19 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccdeschakel.be">CC De Schakel, Waregem</a></td><td>056 62 13 40</td></tr>
 <tr><td>dinsdag 24 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.denblank.be">CC Den Blank, Overijse</a></td><td>02 687 59 59</td></tr>
-<tr><td>zondag 29 januari</td><td>15.00</td><td><a href= http://www.ccdewerf.be/agenda/1472/compagnie-barbarie-villanella>De Werf, Aalst</a></td><td>053 72 38 11</td></tr>
-<tr><td>maandag 30 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccdewerf.be">De Werf, Aalst</a></td><td>053 72 38 11</td></tr>
+<tr><td>zondag 29 januari</td><td>15.00</td><td><a href= "http://www.ccdewerf.be/agenda/1472/compagnie-barbarie-villanella">De Werf, Aalst</a></td><td>053 72 38 11</td></tr>
+<tr><td>maandag 30 januari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.ccdewerf.be/agenda/1549/compagnie-barbarie-villanella">De Werf, Aalst</a></td><td>053 72 38 11</td></tr>
 <tr><td>dinsdag 7 februari</td><td><small>schoolvoorstellingen</small></td><td><a href="http://www.palethe.be">CC Palethe, Overpelt</a></td><td>011 64 59 52</td></tr>
 <tr><td>zaterdag 11 februari</td><td>14.30</td><td><a href="http://www.ccdesteiger.be">CC De Steiger, Menen</a></td><td>056 51 58 91</td></tr>
 <tr><td>zondag 12 februari</td><td>14.30</td><td><a href="http://www.schaliken.be">CC ’t Schaliken, Herentals</a></td><td>014 28 51 30</td></tr>
