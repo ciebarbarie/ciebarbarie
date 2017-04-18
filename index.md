@@ -31,8 +31,8 @@ performances:
     title: Undertwasser Wasserwasser
 ---
 
-Compagnie Barbarie stelt voor: <strong>Wa Wilder Man on tour </strong>
+Compagnie Barbarie stelt voor: <strong>IDENTICITY </strong>
 
-Een tweede speelreeks komt eraan! Vanaf 20 oktober opnieuw te zien in een heleboel Vlaamse (en ook één Nederlandse) zaal. De speellijst vind je bij de voorstelling zelf.<br>
-Overal en altijd welkom, met of zonder kinders.<br>
+Met grote trots en eerbied voor de jeugd van tegenwoordig presenteren wij op 22 april IDENTICITY. Het resultaat van een intensief werkproces met jongeren uit de stad en jongeren van op den buiten. Hun confrontatie zie je op het XL festival bij BRONKS in Brussel. 22 april dus. 19 uur.<br>
+Tot dan.<br>
 
