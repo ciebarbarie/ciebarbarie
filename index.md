@@ -3,6 +3,9 @@ layout: homepage
 noheader: true
 performances:
   -
+    id: identicity
+    title: IDENTICITY
+  -
     id: wa-wilder-man
     title: Wa Wilder Man
   -
