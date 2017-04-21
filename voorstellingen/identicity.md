@@ -13,7 +13,7 @@ id: identicity
     text-shadow: 0 0 3px rgba(255, 255, 255, 0.5);
   }
 </style>
-IDENTICITY een participatie project van compagnie barbarie met KTA Jette, KTA Horteco Vilvoorde. In samenwerking met BRONKS en vormingscentrum Destelheide.
+IDENTICITY is een participatie project van compagnie barbarie met KTA Jette, KTA&nbsp;Horteco&nbsp;Vilvoorde. In samenwerking met BRONKS en vormingscentrum Destelheide.
 
 <img src="/img/identicity-poster.jpg" alt="IDENTICITY poster">
 
@@ -46,8 +46,9 @@ Kaarten bestel je <a href="http://www.bronks.be/nl/programma/4507/identicity-bro
 
 Ook nog te zien op 16 september in vormingscentrum Destelheide.
 
-Van en met: Ollie, Romain, Andras, Gloria, Dimi, Ilan, Robbe 1, Femke, Maurice, Munhir, Matthieu, Eline, Sana, Cedric, Jonas, Robbe 2, Kevin, Nora, Manon, Lars, Zughi, Moujde, Lyndsey, Jonathan, Amber, Emre, Antoon, Hanna, Charlotte, Kesia, Lies, Lotte, Adam, Thomas, Gytha, Sarah, Karolien.
+Van en met: Adam Kasri, Andras Csiba, Antoon Debaene, Cédric Vandenbloock, Dimitiri Vanheukelom, Elien Aerts, Emre Dilitas, Femke Luyckx, Gloria Ubidia Guerrero, Hannah Basiliades, Ilhan Arici, Jonas Van Hoeck, Jonathan Palmeri, Kevin Termine, Kezia Kabongo, Romain Matobi, Lars Van Eeckhout, Lindsay Malengrez, Manon Uydens, Matthieu Van den Eynde, Maurice De Voecht, Mounir Karbas, Mujde Ozcifci, Nora Melkebeke, Olivier De Boeverie, Robbe Hemerijckx, Sana Rahamatali & Zogi Balieu.
 
 Coproductie, techniek, vorm en ondersteuning: BRONKS<br>
-Coproductie: vormingscentrum Bestelheide<br>
+Coproductie: vormingscentrum Destelheide<br>
 Deelnemende scholen: KTA Jette, KTA Horteco Vilvoorde<br>
+Met de steun van Tentoo — "wij steunen creativiteit"<br>
