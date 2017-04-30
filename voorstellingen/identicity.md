@@ -2,6 +2,7 @@
 layout: performance
 title: IDENTICITY
 id: identicity
+poster: true
 ---
 <style>
   #main {
@@ -14,8 +15,6 @@ id: identicity
   }
 </style>
 IDENTICITY is een participatie project van compagnie barbarie met KTA Jette, KTA&nbsp;Horteco&nbsp;Vilvoorde. In samenwerking met BRONKS en vormingscentrum Destelheide.
-
-<img src="/img/identicity-poster.jpg" alt="IDENTICITY poster">
 
 Twee klassen. Uit twee verschillende scholen.<br>
 Van dezelfde leeftijd.<br>
