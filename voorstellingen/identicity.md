@@ -45,9 +45,9 @@ Kaarten bestel je <a href="http://www.bronks.be/nl/programma/4507/identicity-bro
 
 Ook nog te zien op 16 september in vormingscentrum Destelheide.
 
-Van en met: Adam Kasri, Andras Csiba, Antoon Debaene, Cédric Vandenbloock, Dimitiri Vanheukelom, Elien Aerts, Emre Dilitas, Femke Luyckx, Gloria Ubidia Guerrero, Hannah Basiliades, Ilhan Arici, Jonas Van Hoeck, Jonathan Palmeri, Kevin Termine, Kezia Kabongo, Romain Matobi, Lars Van Eeckhout, Lindsay Malengrez, Manon Uydens, Matthieu Van den Eynde, Maurice De Voecht, Mounir Karbas, Mujde Ozcifci, Nora Melkebeke, Olivier De Boeverie, Robbe Hemerijckx, Sana Rahamatali & Zogi Balieu.
-
-Coproductie, techniek, vorm en ondersteuning: BRONKS<br>
-Coproductie: vormingscentrum Destelheide<br>
-Deelnemende scholen: KTA Jette, KTA Horteco Vilvoorde<br>
-Met de steun van Tentoo — "wij steunen creativiteit"<br>
+**Van en met**: Adam Kasri, Andras Csiba, Antoon Debaene, Cédric Vandenbloock, Dimitiri Vanheukelom, Elien Aerts, Emre Dilitas, Femke Luyckx, Gloria Ubidia Guerrero, Hannah Basiliades, Ilhan Arici, Jonas Van Hoeck, Jonathan Palmeri, Kevin Termine, Kezia Kabongo, Romain Matobi, Lars Van Eeckhout, Lindsay Malengrez, Manon Uydens, Matthieu Van den Eynde, Maurice De Voecht, Mounir Karbas, Mujde Ozcifci, Nora Melkebeke, Olivier De Boeverie, Robbe Hemerijckx, Sana Rahamatali & Zogi Balieu.<br>
+**Fotografie**: FKPH-Felix Kindermann<br>
+**Coproductie, techniek, vorm en ondersteuning**: BRONKS<br>
+**Coproductie**: vormingscentrum Destelheide<br>
+**Deelnemende scholen**: KTA Jette, KTA Horteco Vilvoorde<br>
+**Met de steun van Tentoo** — "wij steunen creativiteit"<br>
