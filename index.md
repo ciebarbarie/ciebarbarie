@@ -34,8 +34,10 @@ performances:
     title: Undertwasser Wasserwasser
 ---
 
-Compagnie Barbarie stelt voor: <strong>IDENTICITY </strong>
+Compagnie Barbarie gaat de zomer in en neemt mee:<br>
+een vruchtbare repetitieperiode voor MODDERS, wordt verder aan gewerkt vanaf september <br>
+een frisse zeebries met WA WILDER MAN op Theater aan Zee. 31 juli en 1 augustus <br>
+een Zwitsers avontuur met WA WILDER MAN het Zürcher Theater Spektakel van 17-19 augustus <br>
+Zonnige groeten! <br>
 
-Met grote trots en eerbied voor de jeugd van tegenwoordig presenteren wij op 22 april IDENTICITY. Het resultaat van een intensief werkproces met jongeren uit de stad en jongeren van op den buiten. Hun confrontatie zie je op het XL festival bij BRONKS in Brussel. 22 april dus. 19 uur.<br>
-Tot dan.<br>
 
