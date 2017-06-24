@@ -3,6 +3,9 @@ layout: homepage
 noheader: true
 performances:
   -
+    id: modders
+    title: Modders
+  -
     id: identicity
     title: IDENTICITY
   -
