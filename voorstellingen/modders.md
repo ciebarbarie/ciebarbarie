@@ -35,7 +35,7 @@ Een voorstelling van compagnie barbarie.<br>
 **Techniek**: Saul Mombaerts en Frouke Vangeheluwe<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes<br>
 
-Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">DESTUDIO</a> en <a href="http://www.demaan.be/">Beeldsmederij De Maan</a>
+Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">Villanella</a> en <a href="http://www.demaan.be/">Beeldsmederij De Maan</a>
 
 ### Speellijst
 
