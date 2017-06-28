@@ -10,8 +10,7 @@ id: modders
   td { white-space: nowrap; }
 </style>
 In ‘MODDERS’ zien we een aantal moeders aan het werk.<br>
-Naarstig de boel draaiende houdend, klungelen deze vrouwen zichzelf vrolijk de afgrond in.<br>
-In hun wereld vol goede bedoelingen werken de dingen tegen hen.<br>
+In hun wereld vol goede bedoelingen werken de dingen echter tegen hen.<br>
 Geen enkele stoel staat recht,<br>
 Geen enkel kleedje past,<br>
 Geen borstel die nog veegt<br>
