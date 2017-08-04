@@ -37,10 +37,9 @@ performances:
     title: Undertwasser Wasserwasser
 ---
 
-Compagnie Barbarie gaat de zomer in en neemt mee:<br>
-een vruchtbare repetitieperiode voor MODDERS, wordt verder aan gewerkt vanaf september <br>
-een frisse zeebries met WA WILDER MAN op Theater aan Zee. 31 juli en 1 augustus <br>
-een Zwitsers avontuur met WA WILDER MAN het Zürcher Theater Spektakel van 17-19 augustus <br>
-Zonnige groeten! <br>
+WA WILDER MAN is genomineerd voor de ZKB Patronage prize op het Zürcher Theater Spektakel!! <br>
+WOOP WOOP! <br>
+Duim voor ons Zwitsers avontuur van 17-19 augustus, hopelijk brengen we hem mee naar huis. <br>
+
 
 
