@@ -52,19 +52,19 @@ En onze bizarre reacties op het onbekende....<br>
 
 ## Speellijst
 <table class="speellijst">
-<tr><td colspan="4"><strong>2017</strong></td></tr>
-<tr><td>maandag 31 juli</td><td>13.30 en 18.00</td><td><a href="http://www.theateraanzee.be/">Oostende Theater aan Zee</a></td><td>059 33 90 00</td></tr>
-<tr><td>dinsdag 1 augustus</td><td>13.30 en 18.00</td><td><a href="http://www.theateraanzee.be/">Oostende Theater aan Zee</a></td><td>059 33 90 00</td></tr>
-<tr><td>dinsdag 12 december</td><td>schoolvoorstellingen</td><td><a href="http://www.degrotepost.be/">Oostende De Grote Post</a></td><td>059 33 90 00</td></tr>
-<tr><td>zondag 17 december</td><td>15.00</td><td><a href="http://www.kinderbrouwerij.com">Kinderbrouwerij –  OC Rookop - Reningelst</a></td><td>geen telefoonnummer</td></tr>
-<tr><td colspan="4"><strong>2018</strong></td></tr>
-<tr><td>donderdag 8 maart</td><td>schoolvoorstellingen</td><td><a href="http://www.ccbelgica.be/">Dendermonde CC Belgica</a></td><td>052 20 26 26</td></tr>
-<tr><td>dinsdag 13 maart</td><td>schoolvoorstellingen</td><td><a href="http://www.ccdekollebloem.be/">Puurs CC de Kollebloem</a></td><td>03 890 76 20</td></tr>
+<tr><td colspan="5"><strong>2017</strong></td></tr>
+<tr><td>maandag 31 juli</td><td>13.30 en 18.00</td><td>Oostende</td><td><a href="http://www.theateraanzee.be/">Theater aan Zee</a></td><td>059 33 90 00</td></tr>
+<tr><td>dinsdag 1 augustus</td><td>13.30 en 18.00</td><td>Oostende</td><td><a href="http://www.theateraanzee.be/">Theater aan Zee</a></td><td>059 33 90 00</td></tr>
+<tr><td>dinsdag 12 december</td><td>schoolvoorstellingen</td><td>Oostende</td><td><a href="http://www.degrotepost.be/">De Grote Post</a></td><td>059 33 90 00</td></tr>
+<tr><td>zondag 17 december</td><td>15.00</td><td>Reningelst</td><td><a href="http://www.kinderbrouwerij.com">Kinderbrouwerij – OC Rookop</a></td><td>geen telefoonnummer</td></tr>
+<tr><td colspan="5"><strong>2018</strong></td></tr>
+<tr><td>donderdag 8 maart</td><td>schoolvoorstellingen</td><td>Dendermonde</td><td><a href="http://www.ccbelgica.be/">CC Belgica</a></td><td>052 20 26 26</td></tr>
+<tr><td>dinsdag 13 maart</td><td>schoolvoorstellingen</td><td>Puurs</td><td><a href="http://www.ccdekollebloem.be/">CC de Kollebloem</a></td><td>03 890 76 20</td></tr>
 <tr><td>zondag 18 maart</td><td>14.00</td><td>Tessenderlo</td><td><a href="http://www.cultuurhuistessenderlo.be/">cultuurhuis/het LOO</a></td><td>013 35 53 20</td></tr>
-<tr><td>dinsdag 20 maart</td><td>schoolvoorstellingen</td><td><a href="http://www.cultuurcentrumkortrijk.be/">Kortrijk Schouwburg</a></td><td>056 23 98 55</td></tr>
-<tr><td>maandag 26 maart</td><td>schoolvoorstellingen</td><td><a href="http://www.haacht.be/">Haacht GC Den Breughel</a></td><td>016 26 94 30</td></tr>
+<tr><td>dinsdag 20 maart</td><td>schoolvoorstellingen</td><td>Kortrijk</td><td><a href="http://www.cultuurcentrumkortrijk.be/">Schouwburg</a></td><td>056 23 98 55</td></tr>
+<tr><td>maandag 26 maart</td><td>schoolvoorstellingen</td><td>Haacht</td><td><a href="http://www.haacht.be/">GC Den Breughel</a></td><td>016 26 94 30</td></tr>
 <tr><td>woensdag 28 maart</td><td>15.00</td><td>Brasschaat</td><td><a href="http://www.vrijetijd-brasschaat.be/">Cultuurcentrum Brasschaat</a></td><td>03 650 03 40</td></tr>
-<tr><td>dinsdag 17 april</td><td>schoolvoorstellingen</td><td><a href="http://www.achterolmen.be/">Maaseik CC Achterolmen</a></td><td>089 56 99 56</td></tr>
-<tr><td>donderdag 19 april</td><td>schoolvoorstellingen</td><td><a href="http://www.ccha.be/">Hasselt cultuurcentrum</a></td><td>011 22 99 33</td></tr>
-<tr><td>dinsdag 29 mei</td><td>schoolvoorstellingen</td><td><a href="http://www.demeent.be/">Alsemberg CC de Meent</a></td><td>02 359 16 00</td></tr>
+<tr><td>dinsdag 17 april</td><td>schoolvoorstellingen</td><td>Maaseik</td><td><a href="http://www.achterolmen.be/">CC Achterolmen</a></td><td>089 56 99 56</td></tr>
+<tr><td>donderdag 19 april</td><td>schoolvoorstellingen</td><td>Hasselt</td><td><a href="http://www.ccha.be/">cultuurcentrum</a></td><td>011 22 99 33</td></tr>
+<tr><td>dinsdag 29 mei</td><td>schoolvoorstellingen</td><td>Alsemberg</td><td><a href="http://www.demeent.be/">CC de Meent</a></td><td>02 359 16 00</td></tr>
 </table>
