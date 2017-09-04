@@ -15,6 +15,10 @@ images:
 </style>
 
 ## Compagnie Barbarie in de Pers
+
+*We herwerken onze pers-pagina, binnenkort meer nieuws...*
+
+<!--
 - <a href="/pers/2016-03-02-wa-wilder-man-de-standaard.pdf">De Standaard — Wa Wilder Man (2 maart 2016)</a>
 - <a href="https://vimeo.com/155807523">De Redactie — Wa Wilder Man (16 februari 2016)</a>
 - <a href="/pers/2016-02-16-wa-wilder-man-het-nieuwsblad.pdf">Het Nieuwsblad — Wa Wilder Man (16 februari 2016)</a>
@@ -29,3 +33,4 @@ images:
 - <a href="/pers/2009-11-27-tfeiw-de-standaard.pdf">De Standaard — Too Far East is West (27 november 2009)</a>
 - <a href="/pers/2007-11-28-uww-de-morgen.pdf">De Morgen — Undertwasser Wasserwasser (28 november 2007)</a>
 - <a href="/pers/2007-11-24-uww-de-standaard.pdf">De Standaard — Undertwasser Wasserwasser (24 november 2007)</a>
+-->
