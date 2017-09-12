@@ -37,9 +37,11 @@ performances:
     title: Undertwasser Wasserwasser
 ---
 
-WA WILDER MAN is genomineerd voor de ZKB Patronage prize op het Zürcher Theater Spektakel!! <br>
-WOOP WOOP! <br>
-Duim voor ons Zwitsers avontuur van 17-19 augustus, hopelijk brengen we hem mee naar huis. <br>
+Aan het moederschap begonnen we al een aantal jaren geleden...<br>
+Aan de voorstelling MODDERS beginnen we NU!<br>
+Wij komen naar buiten op 28 oktober in BRONKS. <br>
+Tot zolang moddert u maar wat aan.<br>
+
 
 
 
