@@ -16,21 +16,16 @@ images:
 
 ## Compagnie Barbarie in de Pers
 
-*We herwerken onze pers-pagina, binnenkort meer nieuws...*
-
-<!--
-- <a href="/pers/2016-03-02-wa-wilder-man-de-standaard.pdf">De Standaard — Wa Wilder Man (2 maart 2016)</a>
-- <a href="https://vimeo.com/155807523">De Redactie — Wa Wilder Man (16 februari 2016)</a>
-- <a href="/pers/2016-02-16-wa-wilder-man-het-nieuwsblad.pdf">Het Nieuwsblad — Wa Wilder Man (16 februari 2016)</a>
-- <a href="/pers/2015-04-30-risk-de-standaard.pdf">De Standaard — Risk (30 april 2015)</a>
-- <a href="/pers/2015-04-23-risk-theaterarchief.pdf">Theaterarchief— Risk (23 april 2015)</a>
-- <a href="/pers/2013-11-12-the-end-is-dear-cobra.pdf">Cobra — The End is Dear (12 november 2013)</a>
-- <a href="/pers/2013-11-12-the-end-is-dear-focus-knack.pdf">Focus Knack — The End is Dear (12 november 2013)</a>
-- <a href="/pers/2011-03-happymess-de-standaard.pdf">De Standaard — Happymess (maart 2011)</a>
-- <a href="/pers/2011-03-happymess-de-morgen.pdf">De Morgen — Happymess (maart 2011)</a>
-- <a href="/pers/2011-03-24-happymess-knack.pdf">Knack — Happymess (24 maart 2011)</a>
-- <a href="/pers/2012-10-24-spionkop-zone-03.pdf">Zone 03 — Spionkop (24 oktober 2012)</a>
-- <a href="/pers/2009-11-27-tfeiw-de-standaard.pdf">De Standaard — Too Far East is West (27 november 2009)</a>
-- <a href="/pers/2007-11-28-uww-de-morgen.pdf">De Morgen — Undertwasser Wasserwasser (28 november 2007)</a>
-- <a href="/pers/2007-11-24-uww-de-standaard.pdf">De Standaard — Undertwasser Wasserwasser (24 november 2007)</a>
--->
+- <a href="http://www.standaard.be/cnt/dmf20160301_02159318">De Standaard — Wa Wilder Man (2 maart 2016)</a>
+- Het Nieuwsblad — Wa Wilder Man (15 februari 2016)
+- <a href="http://www.standaard.be/cnt/dmf20150429_01656482">De Standaard — Risk (30 april 2015)</a>
+- <a href="http://www.theaterarchief.be/nieuws/compagnie-barbarietheater-antigone-premi%C3%A8re-risk-gezien-theater-antigone-op-woensdag-22-april">Theaterarchief— Risk (23 april 2015)</a>
+- <a href="http://focus.knack.be/entertainment/podium/theater-zot-zijn-doet-geen-zeer/article-opinion-192033.html">Focus Knack — The End is Dear (12 november 2013)</a>
+- <a href="http://cobra.canvas.be/cm/cobra/podium/podium-recensie/1.1776888">Cobra — The End is Dear (12 november 2013)</a>
+- Zone 03 — Spionkop (24 oktober 2012)
+- <a href="http://www.standaard.be/cnt/pi3859r3">De Standaard — Happymess (maart 2011)</a>
+- <a href="https://www.demorgen.be/plus/compagnie-barbarie-pleit-in-happymess-voor-het-recht-op-ongeluk-b-1412187971461/">De Morgen — Happymess (maart 2011)</a>
+- <a href="http://focus.knack.be/entertainment/podium/theater-happymess-compagnie-barbarie/article-opinion-191129.html">Knack — Happymess (24 maart 2011)</a>
+- <a href="http://www.standaard.be/cnt/cn2iu57i">De Standaard — Too Far East is West (27 november 2009)</a>
+- <a href="https://www.demorgen.be/plus/undertwasser-wasserwasser-b-1412183928710/">De Morgen — Undertwasser Wasserwasser (28 november 2007)</a>
+- <a href="http://www.standaard.be/cnt/uv1kivis">De Standaard — Undertwasser Wasserwasser (24 november 2007)</a>
