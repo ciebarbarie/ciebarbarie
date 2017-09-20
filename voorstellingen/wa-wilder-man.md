@@ -55,7 +55,7 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td colspan="5"><strong>2017</strong></td></tr>
 <tr><td>maandag 31 juli</td><td>13.30 en 18.00</td><td>Oostende</td><td><a href="http://www.theateraanzee.be/">Theater aan Zee</a></td><td>059 33 90 00</td></tr>
 <tr><td>dinsdag 1 augustus</td><td>13.30 en 18.00</td><td>Oostende</td><td><a href="http://www.theateraanzee.be/">Theater aan Zee</a></td><td>059 33 90 00</td></tr>
-<tr><td>17-18-19 augustus</td><td>&nbsp;</td><td>Zurich</td><td><a href="https://www.theaterspektakel.ch/en/">Zürcher Theater Sepktakel</a></td><td>&bsp;</td></tr>
+<tr><td>17-18-19 augustus</td><td>&nbsp;</td><td>Zurich</td><td><a href="https://www.theaterspektakel.ch/en/">Zürcher Theater Sepktakel</a></td><td>&nbsp;</td></tr>
 <tr><td>21-22 september</td><td>&nbsp;</td><td>Basel</td><td><a href="http://www.figurentheaterfestival.ch/">Figurentheater Festival Basel 2017</a></td><td>&nbsp;</td></tr>
 <tr><td>dinsdag 12 december</td><td>schoolvoorstellingen</td><td>Oostende</td><td><a href="http://www.degrotepost.be/">De Grote Post</a></td><td>059 33 90 00</td></tr>
 <tr><td>zondag 17 december</td><td>15.00</td><td>Reningelst</td><td><a href="http://www.kinderbrouwerij.com">Kinderbrouwerij – OC Rookop</a></td><td>geen telefoonnummer</td></tr>
