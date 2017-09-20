@@ -55,8 +55,12 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td colspan="5"><strong>2017</strong></td></tr>
 <tr><td>maandag 31 juli</td><td>13.30 en 18.00</td><td>Oostende</td><td><a href="http://www.theateraanzee.be/">Theater aan Zee</a></td><td>059 33 90 00</td></tr>
 <tr><td>dinsdag 1 augustus</td><td>13.30 en 18.00</td><td>Oostende</td><td><a href="http://www.theateraanzee.be/">Theater aan Zee</a></td><td>059 33 90 00</td></tr>
+<tr><td>17-18-19 augustus</td><td>&nbsp;</td><td>Zurich</td><td><a href="https://www.theaterspektakel.ch/en/">Zürcher Theater Sepktakel</a></td><td>&bsp;</td></tr>
+<tr><td>21-22 september</td><td>&nbsp;</td><td>Basel</td><td><a href="http://www.figurentheaterfestival.ch/">Figurentheater Festival Basel 2017</a></td><td>&nbsp;</td></tr>
 <tr><td>dinsdag 12 december</td><td>schoolvoorstellingen</td><td>Oostende</td><td><a href="http://www.degrotepost.be/">De Grote Post</a></td><td>059 33 90 00</td></tr>
 <tr><td>zondag 17 december</td><td>15.00</td><td>Reningelst</td><td><a href="http://www.kinderbrouwerij.com">Kinderbrouwerij – OC Rookop</a></td><td>geen telefoonnummer</td></tr>
+<tr><td>25 november - 1 december</td><td>&nbsp;</td><td>Strasbourg</td><td><a href="http://www.tjp-strasbourg.com/saison-1718">TJP - Centre Dramatique National d'Alsace</a></td><td>&nbsp;</td></tr>
+
 <tr><td colspan="5"><strong>2018</strong></td></tr>
 <tr><td>donderdag 8 maart</td><td>schoolvoorstellingen</td><td>Dendermonde</td><td><a href="http://www.ccbelgica.be/">CC Belgica</a></td><td>052 20 26 26</td></tr>
 <tr><td>dinsdag 13 maart</td><td>schoolvoorstellingen</td><td>Puurs</td><td><a href="http://www.ccdekollebloem.be/">CC de Kollebloem</a></td><td>03 890 76 20</td></tr>
