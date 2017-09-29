@@ -41,7 +41,7 @@ Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="http
 #### 2017
 
 <table>
-<tr><td>za 28 okt</td><td>15.00</td><td>Brussel</td><td><a href="http://www.bronks.be">BRONKS</a></td><td>02 219 99 21</td></tr>
+<tr><td>za 28 okt</td><td>19.00</td><td>Brussel</td><td><a href="http://www.bronks.be">BRONKS</a></td><td>02 219 99 21</td></tr>
 <tr><td>zo 29 okt</td><td>15.00</td><td>Brussel</td><td><a href="http://www.bronks.be">BRONKS</a></td><td>02 219 99 21</td></tr>
 <tr><td>do 2 nov</td><td>14.30</td><td>Oudenaarde</td><td><a href="http://www.dewoeker.be">CC De Woeker</a></td><td>055 30 13 66</td></tr>
 <tr><td>za 11 nov</td><td>15.00</td><td>Antwerpen</td><td><a href="http://www.destudio.com">DE Studio</a></td><td>03 202 46 46</td></tr>
