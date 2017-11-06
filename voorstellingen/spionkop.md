@@ -8,6 +8,7 @@ bit-2-start: 500
 bit-2-end: 0
 bit-3-start: 0
 bit-3-end: 0
+slide-count: 3
 ---
 <style>
   #main {
@@ -36,19 +37,19 @@ bit-3-end: 0
 </style>
 
 In SPIONKOP treden we binnen in de wereld van Alfred.<br>
-Een kind dat alleen thuis is. Een klein kind in een veel te groot huis.<br> 
+Een kind dat alleen thuis is. Een klein kind in een veel te groot huis.<br>
 Het onweert, het licht valt uit en Alfreds angsten komen tot leven. Bang voor de oude huiskat, bang voor de vreemde geluiden die uit de kelder komen. De fantasie slaat op hol, het huis komt tot leven en de meest vreemde figuren passeren de revue.
 
-SPIONKOP neemt je mee in de duistere en spannende mysteries van dat wat zich aan de andere kant bevindt. Dat wat je beter buiten houdt. Of wat je stiekem toch graag in huis zou halen.<br> 
-Een ode aan de fantasie of hoe je met je eigen verbeeldingskracht je angsten kan overwinnen.<br> 
+SPIONKOP neemt je mee in de duistere en spannende mysteries van dat wat zich aan de andere kant bevindt. Dat wat je beter buiten houdt. Of wat je stiekem toch graag in huis zou halen.<br>
+Een ode aan de fantasie of hoe je met je eigen verbeeldingskracht je angsten kan overwinnen.<br>
 SPIONKOP is een beeldende, taalloze voorstelling voor 6+ die op een associatieve manier de verbeelding van de kijker aan het werk zet en aanmoedigt om samen te gaan griezelen.
 
 
-> Een kind wil kijken. Zo begint het altijd, en zo begint het nu.<br> 
-Hij kan lopen  en kan met zijn hand bij de deurkruk.<br> 
-Hij doet dit zonder iets dat je een doel kan noemen, hoogstens het instinctieve toerisme van een kleuter.<br> 
-Een deur is er om tegenaan te duwen; hij loopt naar binnen, blijft staan, en kijkt.<br> 
-Wat hij daar ziet wordt  zijn eerste herinnering.<br> 
+> Een kind wil kijken. Zo begint het altijd, en zo begint het nu.<br>
+Hij kan lopen  en kan met zijn hand bij de deurkruk.<br>
+Hij doet dit zonder iets dat je een doel kan noemen, hoogstens het instinctieve toerisme van een kleuter.<br>
+Een deur is er om tegenaan te duwen; hij loopt naar binnen, blijft staan, en kijkt.<br>
+Wat hij daar ziet wordt  zijn eerste herinnering.<br>
 (naar Julian Barnes)
 
 SPIONKOP wordt gemaakt door Compagnie Barbarie en zal in afwisselende bezetting door 4 actrices van de compagnie gespeeld worden.

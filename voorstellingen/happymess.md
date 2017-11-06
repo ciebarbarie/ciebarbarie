@@ -9,6 +9,7 @@ bit-2-end: 200
 bit-3-start: 0
 bit-3-end: 0
 poster: true
+slide-count: 3
 ---
 <style>
   #main {

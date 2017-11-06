@@ -4,21 +4,11 @@ layout: base
 <div id="slides-wrap">
   <div id="slides">
     <ul class="slides-container">
-      {% if page.slide-count == 1 %}
+      {% for i in (1..page.slide-count) %}
       <li>
-        <img src="{{ site.baseurl }}/img/{{ page.id }}-1.jpg" alt="">
+        <img src="{{ site.baseurl }}/img/{{ page.id }}-{{ i }}.jpg" alt="">
       </li>
-      {% else %}
-      <li>
-        <img src="{{ site.baseurl }}/img/{{ page.id }}-1.jpg" alt="">
-      </li>
-      <li>
-        <img src="{{ site.baseurl }}/img/{{ page.id }}-2.jpg" alt="">
-      </li>
-      <li>
-        <img src="{{ site.baseurl }}/img/{{ page.id }}-3.jpg" alt="">
-      </li>
-      {% endif %}
+      {% endfor %}
     </ul>
     <nav class="slides-navigation">
       <a href="#" class="next">

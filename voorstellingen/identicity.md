@@ -3,6 +3,7 @@ layout: performance
 title: IDENTICITY
 id: identicity
 poster: true
+slide-count: 3
 ---
 <style>
   #main {

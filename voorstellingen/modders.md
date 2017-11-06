@@ -2,6 +2,7 @@
 layout: performance
 title: Modders
 id: modders
+slide-count: 6
 ---
 <style>
   #main {

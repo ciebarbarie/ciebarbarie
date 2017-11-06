@@ -7,6 +7,7 @@ bit-1-end: 0
 bit-2-start: 0
 bit-2-end: -500
 poster: true
+slide-count: 3
 ---
 <style>
   #main {
@@ -43,7 +44,7 @@ Vertrekkende vanuit de verhalen van vrouwelijke ontdekkingsreizigers gaat compag
 TOO FAR EAST IS WEST is een bonte verzameling van korte scenes waarin de actrices/reizigers zich verliezen in hun zoektocht naar zichzelf, een ongerept stuk land, de juistheid van de geschiedenis en de wankele balans tussen family en me time.<br>
 Alles wat in deze voorstelling niet vast zit draait volledig door: de hostessen, de opblaasbare orka’s en zelfs de GPS.<br>
 Een voorstelling over ontdekken <br>
-maar vooral  ontdekken van niet. 
+maar vooral  ontdekken van niet.
 
 **Van en met**: Ruth Beeckmans,Evelien Broekaert, Karolien De Bleser,Amber Goethals,Lotte Vaes,Sarah Vangeel en Anna Vercammen <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>

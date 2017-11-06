@@ -8,6 +8,7 @@ bit-2-start: -500
 bit-2-end: -600
 bit-3-start: 600
 bit-3-end: 300
+slide-count: 3
 ---
 <style>
   #main {
@@ -51,7 +52,7 @@ Synchroon zwemmen. Exclusief vrouwelijk met bommalingerie en massa’s paillette
 Al wat opvalt, leidt af.<br>
 En laten we nu net daar moeite mee hebben.<br>
 
-Een stuk over topsport, over de spanning tussen groepsbelang en individueel belang, over uiterlijkheid en identiteit. 
+Een stuk over topsport, over de spanning tussen groepsbelang en individueel belang, over uiterlijkheid en identiteit.
 Over de drang om op elkaar te lijken, het gevaar dat schuilt in het opgeven van het individuele denken ten overstaan van een groter allesomvattend ideaal.
 De hele gezondheidshype en de adoratie van de atleet met de bovenmenselijke prestaties zijn slechts een mythe.<br>
 Want voor je het weet staar je je blind op je eigen ideaalbeeld en haal je toeren uit die bulken van de absurditeit.

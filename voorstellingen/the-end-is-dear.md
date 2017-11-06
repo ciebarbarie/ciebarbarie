@@ -4,6 +4,7 @@ title: The End Is Dear
 id: the-end-is-dear
 bit-1-start: -100
 bit-1-end: -350
+slide-count: 3
 ---
 <style>
   #main {

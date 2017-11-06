@@ -4,6 +4,7 @@ title: Risk
 id: risk
 bit-1-start: 0
 bit-1-end: 400
+slide-count: 3
 ---
 <style>
   #main {
@@ -23,10 +24,10 @@ bit-1-end: 400
   }
 
 </style>
-RISK kadert binnen de herdenkingen rond Wereld Oorlog I en is een asgrijze voorstelling die de pijnlijkheid van de herdenking centraal zet. <br> 
+RISK kadert binnen de herdenkingen rond Wereld Oorlog I en is een asgrijze voorstelling die de pijnlijkheid van de herdenking centraal zet. <br>
 RISK is een impressie.<br>
 Het is het antwoord van onze generatie.<br>
-Die niet weet hoe ze met een verleden moet omgaan. Die begrip toont voor leed en zich daarin probeert te verplaatsen.<br> 
+Die niet weet hoe ze met een verleden moet omgaan. Die begrip toont voor leed en zich daarin probeert te verplaatsen.<br>
 Die niet in staat is om over te gaan tot actie.<br>
 Die niet gelooft in vrede, want ze is niet naïef, deze generatie.<br>
 Die nog minder gelooft in oorlog als antwoord maar wel onderhevig is aan angst voor naderend onheil.<br>
@@ -44,7 +45,7 @@ Een stilistische hommage aan de onkunde van de mens om zinvol met zijn geschiede
 
 Risk ging in première op 22 april 2015 en is een coproductie met <a href="http://www.antigone.be/">Theater Antigone</a> met de steun van de Vlaamse Gemeenschap en maakt deel uit van <a href="http://www.gonewest.be/">GoneWest</a>.
 
-RISK zal in 2018,  het laatste jaar van de vierjarige oorlogsherdenking hernomen worden. We  blazen onze 135 jarige oorlogsveteraan alias Ruth Beeckmans nog een laatste nieuwe adem in en met hem ook meteen de hele herdenkingsindustrie. 
+RISK zal in 2018,  het laatste jaar van de vierjarige oorlogsherdenking hernomen worden. We  blazen onze 135 jarige oorlogsveteraan alias Ruth Beeckmans nog een laatste nieuwe adem in en met hem ook meteen de hele herdenkingsindustrie.
 
 
 
