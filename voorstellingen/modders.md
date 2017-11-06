@@ -31,7 +31,7 @@ Een voorstelling van compagnie barbarie.<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Geluid**: Saul Mombaerts<br>
-**Techniek**: Saul Mombaerts en Frouke Vangeheluwe<br>
+**Techniek**: Saul Mombaerts en Frouke Vangheluwe<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes<br>
 
 Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">Villanella</a> en <a href="http://www.demaan.be/">Beeldsmederij De Maan</a><br>
