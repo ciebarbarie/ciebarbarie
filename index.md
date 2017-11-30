@@ -36,11 +36,10 @@ performances:
     id: undertwasser-wasserwasser
     title: Undertwasser Wasserwasser
 ---
-
-Aan het moederschap begonnen we al een aantal jaren geleden...<br>
-Aan de voorstelling MODDERS beginnen we NU!<br>
-Wij komen naar buiten op 28 oktober in BRONKS. <br>
-Tot zolang moddert u maar wat aan.<br>
+Wa Wilder Man verovert de Franse podia<br>
+Modders verovert de Vlaamse kinder- en moederharten en overtuigt de pers!<br>
+Ook zin in een ijsje? <br>
+Kom maar snel kijken. Check de speellijst!<br>
 
 
 
