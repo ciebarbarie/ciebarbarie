@@ -61,11 +61,12 @@ Met de steun van de Vlaamse Gemeenschap
 
 <table>
 <tr><td>za 13 jan</td><td>19.00</td><td>Vilvoorde</td><td><a href="http://www.hetbolwerk.be">cc Het Bolwerk</a></td><td>02 255 46 90</td></tr>
-<tr><td>zo 14 jan</td><td>15.00</td><td>Tongeren</td><td><a href="http://www.develinx.be">de VELINX</a></td><td>012 80 00 40</td></tr>
 <tr><td>ma 15 jan</td><td>schoolvoorstellingen</td><td>Tongeren</td><td><a href="http://www.develinx.be">de VELINX</a></td><td>012 80 00 40</td></tr>
 <tr><td>16 en 17 jan</td><td>schoolvoorstellingen</td><td>Asse</td><td><a href="http://www.ccasse.be">CC / Oud Gasthuis</a></td><td>02 456 01 60</td></tr>
 <tr><td>za 20 jan</td><td>14.30</td><td>Bornem</td><td><a href="http://www.terdilft.be">CC Ter Dilft</a></td><td>03 890 69 30</td></tr>
 <tr><td>zo 21 jan</td><td>14.30</td><td>Wilrijk</td><td><a href="http://www.ccdekern.be">cc De Kern</a></td><td>03 821 01 36</td></tr>
+<tr><td>vr 26 jan</td><td>18.00</td><td>Kortemark</td><td><a href="http://www.uitinvlaanderen.be">CC De Beuk </a></td><td> 	051 56 61 08 </td></tr>
+<tr><td>zo 28 jan</td><td>15.00</td><td>Tongeren</td><td><a href="http://www.develinx.be">de VELINX</a></td><td>012 80 00 40</td></tr>
 <tr><td>za 3 feb</td><td>19.00</td><td>Tessenderlo</td><td><a href="http://www.cultuurhuistessenderlo.be">cultuurhuis/het LOO</a></td><td>013 35 53 20</td></tr>
 <tr><td>zo 4 feb</td><td>15.00</td><td>Genk</td><td><a href="http://www.c-minecultuurcentrum.be">C-mine cultuurcentrum</a></td><td>089 65 44 90</td></tr>
 <tr><td>5 en 6 feb</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="http://www.c-minecultuurcentrum.be">C-mine cultuurcentrum</a></td><td>089 65 44 90</td></tr>
