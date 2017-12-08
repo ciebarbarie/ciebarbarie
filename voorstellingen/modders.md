@@ -53,7 +53,7 @@ Met de steun van de Vlaamse Gemeenschap
 <tr><td>13 en 14 nov</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="http://www.destudio.com">DE Studio</a></td><td>03 202 46 46</td></tr>
 <tr><td>zo 19 nov</td><td>14.00</td><td>Hasselt</td><td><a href="http://www.ccha.be">cultuurcentrum</a></td><td>011 22 99 33</td></tr>
 <tr><td>vr 8 dec</td><td>schoolvoorstelling</td><td>Mechelen</td><td><a href="http://www.cultuurcentrummechelen.be">DE MAAN (org. CC Mechelen)</a></td><td>070 22 28 00</td></tr>
-<tr><td>vr 8 dec</td><td>19.30</td><td>Mechelen</td><td><a href="http://www.cultuurcentrummechelen.be">DE MAAN (org. CC Mechelen)</a></td><td>070 22 28 00</td></tr>
+<tr><td>vr 8 dec</td><td>19.00</td><td>Mechelen</td><td><a href="http://www.cultuurcentrummechelen.be">DE MAAN (org. CC Mechelen)</a></td><td>070 22 28 00</td></tr>
 </table>
 
 
