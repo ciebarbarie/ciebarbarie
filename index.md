@@ -36,10 +36,8 @@ performances:
     id: undertwasser-wasserwasser
     title: Undertwasser Wasserwasser
 ---
-Wa Wilder Man verovert de Franse podia<br>
-Modders verovert de Vlaamse kinder- en moederharten en overtuigt de pers!<br>
-Ook zin in een ijsje? <br>
-Kom maar snel kijken. Check de speellijst!<br>
+OPGELET! Modders begint vanavond in Mechelen om 19.00 uur en niet om 19.30<br>
+Dus wees op tijd. Zoals een echte goeie mama. 
 
 
 
