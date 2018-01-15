@@ -4,6 +4,10 @@ title: IDENTICITY
 id: identicity
 poster: true
 slide-count: 3
+copyrights:
+  - FKPH-Felix Kindermann
+  - FKPH-Felix Kindermann
+  - FKPH-Felix Kindermann
 ---
 <style>
   #main {

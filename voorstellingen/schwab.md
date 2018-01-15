@@ -8,6 +8,10 @@ bit-2-start: -300
 bit-2-end: 0
 poster: true
 slide-count: 3
+copyrights:
+  - Franky Verdict
+  - Franky Verdict
+  - Franky Verdict
 ---
 <style>
   #main {

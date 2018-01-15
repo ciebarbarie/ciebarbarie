@@ -5,6 +5,10 @@ id: risk
 bit-1-start: 0
 bit-1-end: 400
 slide-count: 3
+copyrights:
+  - Franky Verdict
+  - Franky Verdict
+  - Franky Verdict
 ---
 <style>
   #main {

@@ -3,6 +3,13 @@ layout: performance
 title: Modders
 id: modders
 slide-count: 6
+copyrights:
+  - Franky Verdict
+  - Franky Verdict
+  - Franky Verdict
+  - Franky Verdict
+  - Franky Verdict
+  - Franky Verdict
 ---
 <style>
   #main {

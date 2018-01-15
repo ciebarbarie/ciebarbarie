@@ -9,6 +9,10 @@ bit-2-end: -600
 bit-3-start: 600
 bit-3-end: 300
 slide-count: 3
+copyrights:
+  - Franky Verdict
+  - Franky Verdict
+  - Franky Verdict
 ---
 <style>
   #main {
