@@ -35,9 +35,9 @@ performances:
   -
     id: undertwasser-wasserwasser
     title: Undertwasser Wasserwasser
----
-OPGELET! Modders begint vanavond in Mechelen om 19.00 uur en niet om 19.30<br>
-Dus wees op tijd. Zoals een echte goeie mama. 
+---De barbaries zijn on the road. Momenteel toert Modders door Vlaanderen<br>
+en ook Wa Wilder Man laat in maart weer van zich horen. Check onze speellijsten!<br>
+Wij verwelkomen u graag ergens ter velde in één van de talrijke Vlaamse culturele hotspots!
 
 
 
