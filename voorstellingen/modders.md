@@ -83,6 +83,7 @@ Met de steun van de Vlaamse Gemeenschap
 <tr><td>do 26 apr</td><td>schoolvoorstellingen</td><td>Hoboken</td><td><a href="http://www.gravenhof.org">Gravenhof</a></td><td>03 292 65 30</td></tr>
 <tr><td>za 12 mei</td><td>18.00</td><td>Berlare</td><td><a href="http://www.berlare.be/ccstroming">CC Stroming</a></td><td>052 43 25 50</td></tr>
 <tr><td>zo 13 mei</td><td>15.00</td><td>Roeselare</td><td><a href="http://www.despil.be/">CC De Spil</a></td><td>051 26 57 00</td></tr>
+<tr><td>vr 18 mei</td><td>19.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino</a></td><td>058 53 29 99</td></tr>
 <tr><td>di 22 mei</td><td>schoolvoorstellingen</td><td>Geraardsbergen</td><td><a href="http://www.de-abdij.be">CC De Abdij</a></td><td>054 43 72 61</td></tr>
 <tr><td>5 en 6 jun</td><td>schoolvoorstellingen</td><td>Turnhout</td><td><a href="http://www.dewarande.be/">de Warande</a></td><td>014 41 69 91</td></tr>
 </table>
