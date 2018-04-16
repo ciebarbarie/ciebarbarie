@@ -36,8 +36,8 @@ performances:
     id: undertwasser-wasserwasser
     title: Undertwasser Wasserwasser
 ---
-De barbaries zijn on the road. Momenteel toert Modders door Vlaanderen<br>
-en ook Wa Wilder Man laat in maart weer van zich horen. Check onze speellijsten!<br>
+De barbaries zijn on the road. Wa Wilder Man heeft zopas zijn tanden laten zien<br>
+en de Modders maken zich op voor een lentetrip! Check onze speellijsten!<br>
 Wij verwelkomen u graag ergens ter velde in één van de talrijke Vlaamse culturele hotspots!
 
 
