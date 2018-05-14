@@ -50,6 +50,10 @@ Beelden werken associatief en overstijgen een zwart-wit verhaal.<br>
 Ook humor is een belangrijke parameter voor het werk van de barbaries en een waardevol instrument om kritiek te geven.<br>
 De mix van humor met inhoud en inhoud vanuit het buikgevoel: dat is compagnie barbarie.<br>
 <br>
+Humor is het vermogen om de kloof te herkennen tussen hoe het is en hoe het zou moeten zijn.- Rebecca Solnit<br>
+
+<br>
+<br>
 Compagnie barbarie is: Ruth Beeckmans, Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel
 
 
