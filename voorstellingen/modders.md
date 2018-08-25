@@ -46,12 +46,10 @@ Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="http
 Met dank aan C-Mine Genk, CC De Werft, Geel en Toneelhuis Antwerpen <br>
 Met de steun van de Vlaamse Gemeenschap
 
+## Speellijst
+<table class="speellijst">
 
-### Speellijst
-
-
-#### 2018
-<table>
+<tr><td colspan="5"><strong>2018</strong></td></tr>
 <tr><td>vr 28 sep</td><td>20.00</td><td>Sint-Niklaas</td><td><a href="http://www.ccsint-niklaas.be">Stadsschouwburg</a></td><td>03 778 33 66</td></tr>
 <tr><td>di 02 okt</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="http://www.desteigerboom.be">CC De Steiger</a></td><td>03 880 18 12</td></tr>
 <tr><td>zo 07 okt</td><td>15.00</td><td>Brugge</td><td><a href="http://www.ccbrugge.be">Brugge/MaZ</a></td><td>050 44 30 60</td></tr>
@@ -66,9 +64,7 @@ Met de steun van de Vlaamse Gemeenschap
 <tr><td>zo 09 dec</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="http://www.muze.be">Cultuurcentrum Muze</a></td><td>011 80 80 98</td></tr>
 <tr><td>za 15 dec</td><td>19.00</td><td>Sint-Truiden</td><td><a href="http://www.debogaard.be">CC De Bogaard-Schouwburg</a></td><td>011 70 17 00</td></tr>
 <tr><td>za 29 en zo 30 dec</td><td>15.00</td><td>Antwerpen </td><td><a href="http://www.destudio.com">De Studio</a></td><td>03 202 46 46</td></tr>
-  
-  #### 2019
-  
+<tr><td colspan="5"><strong>2019</strong></td></tr>
 <tr><td>di 05 feb</td><td>schoolvoorstellingen</td><td>Ronse</td><td><a href="http://www.ronse.be">CC De Ververij - Zuidstraat</a></td><td>055 23 28 01</td></tr>
 <tr><td>do 07 feb</td><td>schoolvoorstellingen</td><td>Alsemberg</td><td><a href="http://www.demeent.be">CC De Meent</a></td><td>02 359 16 00</td></tr>
 <tr><td>zo 24 feb</td><td>15.00</td><td>Boechout</td><td><a href="https://www.boechout.be/vooruit/">Theater Vooruit</a></td><td>03 460 06 80</td></tr>
