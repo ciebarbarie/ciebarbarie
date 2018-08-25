@@ -49,28 +49,15 @@ Met de steun van de Vlaamse Gemeenschap
 
 ### Speellijst
 
-#### 2017
-
-<table>
-<tr><td>za 28 okt</td><td>19.00</td><td>Brussel</td><td><a href="http://www.bronks.be">BRONKS</a></td><td>02 219 99 21</td></tr>
-<tr><td>zo 29 okt</td><td>15.00</td><td>Brussel</td><td><a href="http://www.bronks.be">BRONKS</a></td><td>02 219 99 21</td></tr>
-<tr><td>do 2 nov</td><td>14.30</td><td>Oudenaarde</td><td><a href="http://www.dewoeker.be">CC De Woeker</a></td><td>055 30 13 66</td></tr>
-<tr><td>za 11 nov</td><td>15.00</td><td>Antwerpen</td><td><a href="http://www.destudio.com">DE Studio</a></td><td>03 202 46 46</td></tr>
-<tr><td>zo 12 nov</td><td>15.00</td><td>Antwerpen</td><td><a href="http://www.destudio.com">DE Studio</a></td><td>03 202 46 46</td></tr>
-<tr><td>13 en 14 nov</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="http://www.destudio.com">DE Studio</a></td><td>03 202 46 46</td></tr>
-<tr><td>zo 19 nov</td><td>14.00</td><td>Hasselt</td><td><a href="http://www.ccha.be">cultuurcentrum</a></td><td>011 22 99 33</td></tr>
-<tr><td>vr 8 dec</td><td>schoolvoorstelling</td><td>Mechelen</td><td><a href="http://www.cultuurcentrummechelen.be">DE MAAN (org. CC Mechelen)</a></td><td>070 22 28 00</td></tr>
-<tr><td>vr 8 dec</td><td>19.00</td><td>Mechelen</td><td><a href="http://www.cultuurcentrummechelen.be">DE MAAN (org. CC Mechelen)</a></td><td>070 22 28 00</td></tr>
-</table>
-
 
 #### 2018
 
 <table>
-<tr><td>za 13 jan</td><td>19.00</td><td>Vilvoorde</td><td><a href="http://www.hetbolwerk.be">cc Het Bolwerk</a></td><td>02 255 46 90</td></tr>
-<tr><td>ma 15 jan</td><td>schoolvoorstellingen</td><td>Tongeren</td><td><a href="http://www.develinx.be">de VELINX</a></td><td>012 80 00 40</td></tr>
-<tr><td>16 en 17 jan</td><td>schoolvoorstellingen</td><td>Asse</td><td><a href="http://www.ccasse.be">CC / Oud Gasthuis</a></td><td>02 456 01 60</td></tr>
-<tr><td>za 20 jan</td><td>14.30</td><td>Bornem</td><td><a href="http://www.terdilft.be">CC Ter Dilft</a></td><td>03 890 69 30</td></tr>
+<tr><td>vr 28 sep</td><td>20.00</td><td>Sint-Niklaas</td><td><a href="http://www.ccsint-niklaas.be">Stadsschouwburg Sint-Niklaas</a></td><td>03 778 33 66</td></tr>
+<tr><td>di 02 okt</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="http://www.desteigerboom.be">CC De Steiger</a></td><td>03 880 18 12</td></tr>
+<tr><td>zo 07 okt</td><td>15.00</td><td>Brugge</td><td><a href="http://www.ccbrugge.be">Brugge/MaZ</a></td><td>050 44 30 60</td></tr>
+<tr><td>ma 08 okt</td><td>schoolvoorstellingen</td><td>Brugge</td><td><a href="http://www.ccbrugge.be">Brugge/MaZ</a></td><td>050 44 30 60</td></tr>
+<tr><td>di 09 en woe 10 okt</td><td>schoolvoorstellingen</td><td>Willebroek</td><td><a href="http://www.willebroek.be">CC De Ster</a></td><td>03 866 92 00</td></tr>
 <tr><td>zo 21 jan</td><td>14.30</td><td>Wilrijk</td><td><a href="http://www.ccdekern.be">cc De Kern</a></td><td>03 821 01 36</td></tr>
 <tr><td>vr 26 jan</td><td>18.00</td><td>Kortemark</td><td><a href="http://www.uitinvlaanderen.be">CC De Beuk </a></td><td> 	051 56 61 08 </td></tr>
 <tr><td>zo 28 jan</td><td>15.00</td><td>Tongeren</td><td><a href="http://www.develinx.be">de VELINX</a></td><td>012 80 00 40</td></tr>
