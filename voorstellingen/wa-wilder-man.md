@@ -65,5 +65,7 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td>vr 15 feb</td><td>schoolvoorstellingen</td><td>Beernem</td><td><a href="http://www.beernem.be/">OC De Kleine Beer</a></td><td>050 79 99 08</td></tr>
 <tr><td>di 26 maart</td><td>schoolvoorstellingen</td><td>Scherpenheuvel-Zichem</td><td><a href="http://www.denegger.be/">GC Den Egger</a></td><td>013 46 06 50</td></tr>
 <tr><td>do 28 maart</td><td>schoolvoorstellingen</td><td>Wielsbeke</td><td><a href="http://www.wielsbeke.be/">OC Leieland</a></td><td>056 67 32 70</td></tr>
+<tr><td>vr 05 apr</td><td>schoolvoorstelling</td><td>Hédé-Bazouges-Bretagne-FR</td><td><a href="http://www.theatre-de-poche.com/">Théatre de poche & Festival Bonus</a></td><td>0033 9 81 83 97 20</td></tr>
+<tr><td>za 06 apr</td><td>20.30</td><td>Hédé-Bazouges-Bretagne-FR</td><td><a href="http://www.theatre-de-poche.com/">Théatre de poche & Festival Bonus</a></td><td>0033 9 81 83 97 20</td></tr>
 <tr><td>do 16 mei</td><td>schoolvoorstellingen</td><td>Zwevezele</td><td><a href="http://www.wingene.be/">CC De Wissel</a></td><td>051 65 04 40</td></tr>
 </table>
