@@ -47,6 +47,7 @@ Met dank aan C-Mine Genk, CC De Werft, Geel en Toneelhuis Antwerpen <br>
 Met de steun van de Vlaamse Gemeenschap
 
 ## Speellijst
+<div class="table-responsive">
 <table class="speellijst">
 
 <tr><td colspan="5"><strong>2018</strong></td></tr>
@@ -78,3 +79,4 @@ Met de steun van de Vlaamse Gemeenschap
 <tr><td>ma 13 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="http://www.ccdeploter.be">CC De Ploter</a></td><td>02 582 44 33</td></tr>
 <tr><td>wo 22 mei</td><td>14.00</td><td>Zemst</td><td><a href="http://www.zemst.be">GC De Melkerij</a></td><td>015 61 88 93</td></tr>
 </table>
+</div>

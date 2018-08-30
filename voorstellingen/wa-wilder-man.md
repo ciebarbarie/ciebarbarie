@@ -55,6 +55,7 @@ En onze bizarre reacties op het onbekende....<br>
 **Met duizendmaal dank aan**: Randi De Vlieghe en Ilse Daems<br>
 
 ## Speellijst
+<div class="table-responsive">
 <table class="speellijst">
 
 <tr><td colspan="5"><strong>2018</strong></td></tr>
@@ -69,3 +70,4 @@ En onze bizarre reacties op het onbekende....<br>
 <tr><td>za 06 apr</td><td>20.30</td><td>Hédé-Bazouges-Bretagne-FR</td><td><a href="http://www.theatre-de-poche.com/">Théatre de poche & Festival Bonus</a></td><td>0033 9 81 83 97 20</td></tr>
 <tr><td>do 16 mei</td><td>schoolvoorstellingen</td><td>Zwevezele</td><td><a href="http://www.wingene.be/">CC De Wissel</a></td><td>051 65 04 40</td></tr>
 </table>
+</div>
