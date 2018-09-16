@@ -3,6 +3,9 @@ layout: homepage
 noheader: true
 performances:
   -
+    id: gratis-chips
+    title: Gratis Chips
+  -
     id: modders
     title: Modders
   -
