@@ -76,5 +76,7 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <tr><td>di 29 en woe 30 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
 <tr><td>zo 19 feb</td><td>15.00</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
 <tr><td>ma 18 feb</td><td>schoolvoorstellingen</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
+<tr><td>za 23 feb</td><td>14.30</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
+<tr><td>do 28 feb</td><td>schoolvoorstellingen</td><td>Sint-Gillis-Waas</td><td><a href="https://www.tempus-de-route.be/">GC De Route</a></td></tr>
 </table>
 </div>
