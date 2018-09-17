@@ -81,5 +81,12 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <tr><td>wo 6 maart</td><td>15.00</td><td>Oostende</td><td><a href="https://www.degrotepost.be/">De Grote Post</a></td></tr>
 <tr><td>zo 17 maart</td><td>15.00</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
 <tr><td>ma 18 maart</td><td>schoolvoorstelling</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
+<tr><td>di 19 en woe 20 maart</td><td>schoolvoorstellingen</td><td>Tessenderlo</td><td><a href="https://www.cultuurhuistessenderlo.be/">cultuurhuis HET LOO</a></td></tr>
+<tr><td>zo 14 apr</td><td>15.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">CC Het Bolwerk</a></td></tr>
+<tr><td>za 20 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
+<tr><td>ma 22 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
+<tr><td>ma 23 t/m vr 26 apr</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
+<tr><td>zo 28 apr</td><td>14.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
+<tr><td>ma 29 en di 30 apr</td><td>schoolvoorstellingen</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
 </table>
 </div>
