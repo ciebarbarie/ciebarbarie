@@ -69,7 +69,7 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 ## Speellijst
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2018</strong></td></tr>
+<tr><td colspan="5"><strong>2019</strong></td></tr>
 <tr><td>vr 25 jan</td><td>13.30- try-out</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
 <tr><td>za 26 jan</td><td>19.00-première </td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
 <tr><td>zo 27 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
