@@ -71,6 +71,10 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <table class="speellijst">
 <tr><td colspan="5"><strong>2018</strong></td></tr>
 <tr><td>vr 25 jan</td><td>13.30- try-out</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>za 26 jan</td><td>19.00-première </td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td><td>02 219 99 21</td></tr>
+<tr><td>za 26 jan</td><td>19.00-première </td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
+<tr><td>zo 27 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
+<tr><td>di 29 en woe 30 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
+<tr><td>zo 19 feb</td><td>15.00</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
+<tr><td>ma 18 feb</td><td>schoolvoorstellingen</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
 </table>
 </div>
