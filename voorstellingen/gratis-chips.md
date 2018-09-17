@@ -1,6 +1,6 @@
 ---
 layout: performance
-title: Gratis Chips
+title: Gratis Chips!
 id: gratis-chips
 bit-1-start: -500
 bit-1-end: 700
@@ -60,7 +60,7 @@ En wie zoet is krijgt op het einde misschien wel iets lekkers....Chips of zo....
 **Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva <br>
+**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Grafisch ontwerp**: Nick Mattan<br>
 
 Een coproductie met <a href="http://www.villanella.be/">Villanella</a> en <a href="https://www.bronks.be/nl/">BRONKS</a><br>
@@ -70,6 +70,7 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2018</strong></td></tr>
-<tr><td>vr 25 jan</td><td>13.30</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td><td>02 219 99 21</td></tr>
+<tr><td>vr 25 jan</td><td>13.30- try-out</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
+<tr><td>za 26 jan</td><td>19.00-première </td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td><td>02 219 99 21</td></tr>
 </table>
 </div>
