@@ -78,5 +78,8 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <tr><td>ma 18 feb</td><td>schoolvoorstellingen</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
 <tr><td>za 23 feb</td><td>14.30</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
 <tr><td>do 28 feb</td><td>schoolvoorstellingen</td><td>Sint-Gillis-Waas</td><td><a href="https://www.tempus-de-route.be/">GC De Route</a></td></tr>
+<tr><td>wo 6 maart</td><td>15.00</td><td>Oostende</td><td><a href="https://www.degrotepost.be/">De Grote Post</a></td></tr>
+<tr><td>zo 17 maart</td><td>15.00</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
+<tr><td>ma 18 maart</td><td>schoolvoorstelling</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
 </table>
 </div>
