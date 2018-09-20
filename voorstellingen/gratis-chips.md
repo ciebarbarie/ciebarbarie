@@ -44,7 +44,7 @@ Blauw en roze zijn geen onschuldige clichés.
 We hangen er heel wat vooroordelen aan op:
 Roze is voor meisjes, net zoals geurkaarsen, huilen, een zorgzaam karakter, dagboeken, gevoelens en pony’s.
 Blauw is voor jongens, net zoals auto’s, agressie, loonbriefjes en overuren,
-Raketten en blauwe puzzels.
+raketten en blauwe puzzels.
 Dat er verschillen zijn dat staat vast.
 Dat we aan die verschillen veel te veel belang hechten dat staat nog veel vaster.
 Tijd om daar eens aan te beginnen wrikken.
