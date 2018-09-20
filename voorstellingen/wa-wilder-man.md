@@ -50,7 +50,7 @@ En onze bizarre reacties op het onbekende....<br>
 **Spel**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
-**Geluid en Techniek**: Saul Mombaerts<br>
+**Geluid en Techniek**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
 **Met duizendmaal dank aan**: Randi De Vlieghe en Ilse Daems<br>
 
