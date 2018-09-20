@@ -88,5 +88,16 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <tr><td>ma 23 t/m vr 26 apr</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
 <tr><td>zo 28 apr</td><td>14.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
 <tr><td>ma 29 en di 30 apr</td><td>schoolvoorstellingen</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
+<tr><td>zo 5 mei</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">Kopergietery</a></td></tr>
+<tr><td>ma 6 mei</td><td>schoolvoorstelling</td><td>Gent</td><td><a href="https://www.kopergietery.be/">Kopergietery</a></td></tr>
+<tr><td>wo 8 mei</td><td>schoolvoorstelling</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be.be/">CC De Kern</a></td></tr>
+<tr><td>wo 8 mei</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be.be/">CC De Kern</a></td></tr>
+<tr><td>do 9 en vr 10 mei</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be.be/">C-Mine cultuurcentrum</a></td></tr>
+<tr><td>za 11 mei</td><td>15.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
+<tr><td>za 18 mei</td><td>15.00</td><td>Hasselt</td><td><a href="https://www.ccha.be/">Hasselt cultuurcentrum</a></td></tr>
+<tr><td>di 21 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>ma 3 t/m do 6 juni</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
+<tr><td>do 13 en vr 14 juni</td><td>schoolvoorstellingen</td><td>Duffel</td><td><a href="https://www.duffel.be/">Cinema Plaza</a></td></tr>
+
 </table>
 </div>
