@@ -15,8 +15,8 @@ copyrights:
   }
 
   #content {
-    color: #eee;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    color: #333;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.2);
   }
 
   @media (min-width: 666px) {
