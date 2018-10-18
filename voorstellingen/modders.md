@@ -4,12 +4,12 @@ title: Modders
 id: modders
 slide-count: 6
 copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+  - Franky Verdickt
+  - Franky Verdickt
+  - Franky Verdickt
+  - Franky Verdickt
+  - Franky Verdickt
+  - Franky Verdickt
 ---
 <style>
   #main {
@@ -20,9 +20,9 @@ copyrights:
 In ‘MODDERS’ zien we een aantal moeders aan het werk.<br>
 In hun wereld vol goede bedoelingen werken de dingen echter tegen hen.<br>
 Geen enkele stoel staat recht,<br>
-Geen enkel kleedje past,<br>
-Geen borstel die nog veegt<br>
-En niemand die luistert.<br>
+Geen kleedje dat nog past,<br>
+Geen enkele schaar die recht kan knippen<br>
+En iedereen is de tel kwijt.<br>
 In het leven van deze moeders is immers alles wankel.<br>
 Hun afweersysteem faalt, hun strakke plannen worden langzamerhand herleid tot moes.<br>
 Maar doorgaan zullen ze! Niks aan de hand! Alles onder controle!<br>
