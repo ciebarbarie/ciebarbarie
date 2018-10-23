@@ -1,5 +1,4 @@
 ---
-layout: performance
 title: Happymess
 id: happymess
 bit-1-start: 0
@@ -9,21 +8,14 @@ bit-2-end: 200
 bit-3-start: 0
 bit-3-end: 0
 poster: true
-slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "happymess-1.jpg": Franky Verdict
+  "happymess-2.jpg": Franky Verdict
+  "happymess-3.jpg": Franky Verdict
+backgroundColor: "#f8aa00"
+contentColor: "#222"
 ---
 <style>
-  #main {
-    background: #f8aa00;
-  }
-
-  #content {
-    color: #222;
-  }
-
   #background-bit-1 {
     width: 100%;
     height: 1500px;

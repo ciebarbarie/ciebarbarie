@@ -1,14 +1,18 @@
 ---
-layout: performance
 title: Wa Wilder Man + Filosofische Workshop
 id: wa-wilder-man-plus
 bit-1-start: 50
 bit-1-end: 1000
-slide-count: 3
+images:
+  "wa-wilder-man-plus-1.jpg": Franky Verdict
+  "wa-wilder-man-plus-2.jpg": Franky Verdict
+  "wa-wilder-man-plus-3.jpg": Franky Verdict
+backgroundImage: "wa-wilder-man-plus-background.jpg"
+backgroundColor: "#4c453f"
+contentColor: "#eee"
 ---
 <style>
   #main {
-    background: #4c453f url({{ site.baseurl }}/img/wa-wilder-man-plus-background.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -16,7 +20,6 @@ slide-count: 3
   }
 
   #content {
-    color: #eee;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
   }
 </style>

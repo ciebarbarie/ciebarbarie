@@ -1,24 +1,19 @@
 ---
-layout: performance
 title: Gratis Chips!
 id: gratis-chips
 bit-1-start: -500
 bit-1-end: 700
 slide-count: 1
-copyrights:
-  - Nick Mattan
+images:
+  "gratis-chips-1.jpg": Nick Mattan
+bits:
+  -
+    filename: "gratis-chips-bit-1.png"
+backgroundColor: "#8bcdce"
+backgroundImage: "gratis-chips-background.png"
+contentColor: "#333"
 ---
 <style>
-  #main {
-    background: #8bcdce url({{ site.baseurl }}/img/gratis-chips-background.png) no-repeat top left;
-    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.15);
-  }
-
-  #content {
-    color: #333;
-    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.2);
-  }
-
   @media (min-width: 666px) {
     #background-bit-1 {
       width: 600px;
@@ -26,7 +21,7 @@ copyrights:
       position: absolute;
       right: 0;
       top: 0;
-      background: url({{ site.baseurl }}/img/gratis-chips-bit-1.png) no-repeat bottom right;
+      background: url({{ .Site.BaseURL }}/img/gratis-chips-bit-1.png) no-repeat bottom right;
     }
   }
 </style>

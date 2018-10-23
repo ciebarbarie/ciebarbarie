@@ -1,14 +1,12 @@
 ---
-layout: performance
 title: The End Is Dear
 id: the-end-is-dear
 bit-1-start: -100
 bit-1-end: -350
-slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "the-end-is-dear-1.jpg": Franky Verdict
+  "the-end-is-dear-2.jpg": Franky Verdict
+  "the-end-is-dear-3.jpg": Franky Verdict
 ---
 <style>
   #main {

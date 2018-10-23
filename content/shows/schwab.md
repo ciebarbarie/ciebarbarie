@@ -1,5 +1,4 @@
 ---
-layout: performance
 title: Schwab Werner Schwab
 id: schwab
 bit-1-start: 0
@@ -7,11 +6,10 @@ bit-1-end: -200
 bit-2-start: -300
 bit-2-end: 0
 poster: true
-slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "schwab-1.jpg": Franky Verdict
+  "schwab-2.jpg": Franky Verdict
+  "schwab-3.jpg": Franky Verdict
 ---
 <style>
   #main {

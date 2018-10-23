@@ -1,5 +1,4 @@
 ---
-layout: performance
 title: Undertwasser Wasserwasser
 id: undertwasser-wasserwasser
 bit-1-start: -500
@@ -8,22 +7,15 @@ bit-2-start: -500
 bit-2-end: -600
 bit-3-start: 600
 bit-3-end: 300
-slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "undertwasser-wasserwasser-1.jpg": Franky Verdict
+  "undertwasser-wasserwasser-2.jpg": Franky Verdict
+  "undertwasser-wasserwasser-3.jpg": Franky Verdict
+backgroundColor: "#d4c7be"
+backgroundImage: "undertwasser-wasserwasser-background.jpg"
+contentcolor: "#fff"
 ---
 <style>
-  #main {
-    background: #d4c7be url({{ site.baseurl }}/img/undertwasser-wasserwasser-background.jpg);
-  }
-
-  #content {
-    color: #fff;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
-  }
-
   #background-bit-1 {
     width: 100%;
     height: 2000px;

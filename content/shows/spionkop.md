@@ -1,5 +1,4 @@
 ---
-layout: performance
 title: Spionkop
 id: spionkop
 bit-1-start: 0
@@ -8,21 +7,15 @@ bit-2-start: 500
 bit-2-end: 0
 bit-3-start: 0
 bit-3-end: 0
-slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "spionkop-1.jpg": Franky Verdict
+  "spionkop-2.jpg": Franky Verdict
+  "spionkop-3.jpg": Franky Verdict
+backgroundColor: "#fdfcfa"
+backgroundImage: "spionkop-background.jpg"
+contentColor: "#3e3331"
 ---
 <style>
-  #main {
-    background: #fdfcfa url({{ site.baseurl }}/img/spionkop-background.jpg);
-  }
-
-  #content {
-    color: #3e3331;
-  }
-
   #background-bit-1 {
     width: 100%;
     height: 477px;

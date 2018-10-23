@@ -1,14 +1,13 @@
 ---
-layout: performance
 title: Risk
 id: risk
 bit-1-start: 0
 bit-1-end: 400
 slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "risk-1.jpg": Franky Verdict
+  "risk-2.jpg": Franky Verdict
+  "risk-3.jpg": Franky Verdict
 ---
 <style>
   #main {

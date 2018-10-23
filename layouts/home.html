@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  {{ partial "head.html" .}}
+</head>
+<body>
+
+  <div id="slides-wrap">
+    <div id="slides">
+      <ul class="slides-container">
+        <li>
+          <img src="{{ .Site.BaseURL }}/img/homepage-1.jpg" alt="">
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="logo"><img src="{{ .Site.BaseURL }}/img/logo-transparent-w500.png" alt="Compagnie Barbarie Logo"></div>
+
+  <div id="main">
+    <div class="container">
+      <div id="intro">
+        Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="{{ .Site.BaseURL }}/over-ons.html">Lees meer</a>
+      </div>
+    </div>
+  </div>
+
+  <div id="news">
+    <div class="container">
+      <div class="row">
+        <h2>Nieuws</h2>
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+
+  <div id="voorstellingen">
+    <div class="container">
+      <a id="booking-info-link" href="#booking-info">Info &amp; Boekingen</a>
+      <h2>Voorstellingen</h2>
+      <div class="row">
+        <div class="nine columns">
+          <ul>
+          {{ range .Site.Data.shows -}}
+            <li><a href="{{ .Site.BaseURL }}/shows/{{ .id }}/">
+              <img src="{{ .Site.BaseURL }}/img/{{ .id }}-thumb.jpg" alt="{{ .title }}">
+              <span>{{ .title }}</span>
+            </a></li>
+          {{- end}}
+          </ul>
+        </div>
+        <div id="booking-info" class="three columns">
+          <h2>Info</h2>
+          <p>Wie meer info wil over verkoop en speellijst bel Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of mail: <a href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
+          <p>Voor de <strong>speellijst</strong> — kijk bij de voorstellingen.</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{ partial "footer.html" }}
+  {{ partial "scripts.html" }}
+</body>
+</html>

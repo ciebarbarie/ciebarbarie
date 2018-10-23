@@ -1,22 +1,16 @@
 ---
-layout: performance
 title: Modders
 id: modders
-slide-count: 6
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "modders-1.jpg": Franky Verdict
+  "modders-2.jpg": Franky Verdict
+  "modders-3.jpg": Franky Verdict
+  "modders-4.jpg": Franky Verdict
+  "modders-5.jpg": Franky Verdict
+  "modders-6.jpg": Franky Verdict
+backgroundColor: "#e1d1b0"
+backgroundImage: "modders-background.jpg"
 ---
-<style>
-  #main {
-    background: #e1d1b0 url({{ site.baseurl }}/img/modders-background.jpg);
-  }
-  td { white-space: nowrap; }
-</style>
 In ‘MODDERS’ zien we een aantal moeders aan het werk.<br>
 In hun wereld vol goede bedoelingen werken de dingen echter tegen hen.<br>
 Geen enkele stoel staat recht,<br>

@@ -1,13 +1,11 @@
 ---
-layout: performance
 title: IDENTICITY
 id: identicity
 poster: true
-slide-count: 3
-copyrights:
-  - FKPH-Felix Kindermann
-  - FKPH-Felix Kindermann
-  - FKPH-Felix Kindermann
+images:
+  "identicity-1.jpg": FKPH-Felix Kindermann
+  "identicity-2.jpg": FKPH-Felix Kindermann
+  "identicity-3.jpg": FKPH-Felix Kindermann
 ---
 <style>
   #main {

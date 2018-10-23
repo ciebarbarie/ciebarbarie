@@ -1,24 +1,17 @@
 ---
-layout: performance
 title: Wa Wilder Man
 id: wa-wilder-man
 bit-1-start: 50
 bit-1-end: 1000
-slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+images:
+  "wa-wilder-man-1.jpg": Franky Verdict
+  "wa-wilder-man-2.jpg": Franky Verdict
+  "wa-wilder-man-3.jpg": Franky Verdict
+backgroundColor: "#f5c1d0"
+backgroundImage: "wa-wilder-man-background.png"
+contentColor: "#333"
 ---
 <style>
-  #main {
-    background: #f5c1d0 url({{ site.baseurl }}/img/wa-wilder-man-background.png) no-repeat top left;
-  }
-
-  #content {
-    color: #333;
-    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
-  }
 
   @media (min-width: 666px) {
     #background-bit-1 {
@@ -26,7 +19,7 @@ copyrights:
       height: 884px;
       position: absolute;
       top: 0;
-      background: url({{ site.baseurl }}/img/wa-wilder-man-bit-1.png) no-repeat bottom right;
+      background: url(/img/wa-wilder-man-bit-1.png) no-repeat bottom right;
     }
   }
 </style>

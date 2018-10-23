@@ -1,5 +1,4 @@
 ---
-layout: performance
 title: Too Far East is West
 id: too-far-east-is-west
 bit-1-start: -500
@@ -7,21 +6,13 @@ bit-1-end: 0
 bit-2-start: 0
 bit-2-end: -500
 poster: true
-slide-count: 3
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+  "too-far-east-is-west-1.jpg": Franky Verdict
+  "too-far-east-is-west-2.jpg": Franky Verdict
+  "too-far-east-is-west-3.jpg": Franky Verdict
+backgroundColor: "#016752"
+contentColor: "#e7dca4"
 ---
 <style>
-  #main {
-    background: #016752;
-  }
-
-  #content {
-    color: #e7dca4;
-  }
-
   #background-bit-1 {
     width: 100%;
     height: 1500px;

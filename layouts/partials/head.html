@@ -1,0 +1,8 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>{{ if .Title }}{{ .Title }} — {{ end }}Compagnie Barbarie</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Theatergezelschap met zeven vrouwen.">
+<link href="//fonts.googleapis.com/css?family=Raleway:400,700|Raleway+Dots" rel="stylesheet" type="text/css">
+{{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
