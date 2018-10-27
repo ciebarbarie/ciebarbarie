@@ -6,6 +6,7 @@ bit-1-end: 0
 bit-2-start: 0
 bit-2-end: -500
 poster: true
+images:
   "too-far-east-is-west-1.jpg": Franky Verdict
   "too-far-east-is-west-2.jpg": Franky Verdict
   "too-far-east-is-west-3.jpg": Franky Verdict

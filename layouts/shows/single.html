@@ -6,26 +6,7 @@
 <body>
   {{ partial "header.html" }}
 
-  <div id="slides-wrap">
-    <div id="slides">
-      <ul class="slides-container">
-        {{ range $filename, $author := .Params.images }}
-        <li>
-          <img src="{{ $.Site.BaseURL }}img/{{ $filename }}" alt="">
-          <p class="copyright">&copy; {{ $author }}</p>
-        </li>
-        {{ end }}
-      </ul>
-      <nav class="slides-navigation">
-        <a href="#" class="next">
-          <i class="icon-chevron-right"></i>
-        </a>
-        <a href="#" class="prev">
-          <i class="icon-chevron-left"></i>
-        </a>
-      </nav>
-    </div>
-  </div>
+  {{ partial "slides.html" (dict "Site" .Site "Params" .Params) }}
 
   <div id="performance-title">
     <h1>{{ .Title }}</h1>
@@ -48,37 +29,16 @@
 
   {{ partial "footer.html" }}
   {{ partial "scripts.html" }}
+  {{ partial "extrastyle.html" (dict "Site" .Site "Params" .Params) }}
+
   <script type="text/javascript">
   function isMobile() {
     return (/Android|iPhone|iPad|iPod|BlackBerry/i).test(navigator.userAgent || navigator.vendor || window.opera);
   }
 
-  if (window.innerWidth <= 550 && window.innerWidth < window.innerHeight) {
-    $('#slides-wrap').height(window.innerHeight / 2);
-  } else {
-    $('#slides-wrap').height(window.innerHeight  - 45);
-  }
-  $('#slides').superslides({inherit_height_from: '#slides-wrap'});
-
   if (!isMobile()) {
     skrollr.init({smoothScrolling: true});
   }
   </script>
-
-<style>
-  #main {
-    {{- if .Params.backgroundColor }}
-      background-color: {{ .Params.backgroundColor }};
-    {{- end  }}
-    {{- if .Params.backgroundImage }}
-      background-image: url({{ .Site.BaseURL }}img/{{ .Params.backgroundImage }});
-    {{- end }}
-  }
-  {{- if .Params.contentColor }}
-  #content {
-    color: {{ .Params.contentColor}};
-  }
-  {{- end }}
-</style>
 </body>
 </html>

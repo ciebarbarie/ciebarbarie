@@ -4,7 +4,29 @@
   {{ partial "head.html" .}}
 </head>
 <body>
-    SINGLE PAGE DEFAULT LAYOUT
-  {{ .Content }}
+  {{ partial "header.html" }}
+
+  {{ partial "slides.html" (dict "Site" .Site "Params" .Params) }}
+
+  <div id="performance-title">
+    <h1>{{ .Title }}</h1>
+  </div>
+
+  <div id="main">
+    <div class="container">
+      <div class="row">
+        <div class="eight columns" id="content">
+          {{ .Content }}
+        </div>
+        <div class="four columns" id="sidebar">
+          {{ .Params.sidebar | safeHTML }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{ partial "footer.html" }}
+  {{ partial "extrastyle.html" (dict "Site" .Site "Params" .Params) }}
+  {{ partial "scripts.html" }}
 </body>
 </html>

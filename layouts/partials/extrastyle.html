@@ -1,0 +1,20 @@
+<style>
+  #main {
+    {{- if .Params.backgroundColor }}
+      background-color: {{ .Params.backgroundColor }};
+    {{- end  }}
+    {{- if .Params.backgroundImage }}
+      background-image: url({{ .Site.BaseURL }}img/{{ .Params.backgroundImage }});
+    {{- end }}
+  }
+  {{- if .Params.contentColor }}
+  #content {
+    color: {{ .Params.contentColor }};
+  }
+  {{- end }}
+  {{- if .Params.sidebarColor }}
+  #sidebar {
+    color: {{ .Params.sidebarColor }};
+  }
+  {{- end }}
+</style>

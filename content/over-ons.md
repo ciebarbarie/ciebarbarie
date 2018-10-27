@@ -1,20 +1,18 @@
 ---
-layout: page
 title: Over Ons
 images:
-  - over-ons-1.jpg
-  - over-ons-2.jpg
-  - over-ons-3.jpg
-  - over-ons-4.jpg
-copyrights:
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
-  - Franky Verdict
+  "over-ons-1.jpg": Franky Verdict
+  "over-ons-2.jpg": Franky Verdict
+  "over-ons-3.jpg": Franky Verdict
+  "over-ons-4.jpg": Franky Verdict
 sidebar: |
   Wie ons wil boeken of meer info wil over verkoop en speellijst bel Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of neem rechtsreeks contact op met Thassos: <a href="tel:+3232350490">+32&nbsp;3&nbsp;235&nbsp;04&nbsp;90</a>.
+backgroundColor: "#030201"
+backgroundImage: "over-ons-background.jpg"
+contentColor: "#ddd"
+sidebarColor: "#ccc"
 ---
-<style>
+<!-- <style>
   #main {
     background: #030201 url({{ site.baseurl }}/img/over-ons-background.jpg);
   }
@@ -28,7 +26,7 @@ sidebar: |
     border-left: 1px solid #333;
     padding-left: 10px;
   }
-</style>
+</style> -->
 Compagnie barbarie is een professioneel theatercollectief bestaande uit zeven vrouwen.
 
 <iframe src="https://player.vimeo.com/video/182689398?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

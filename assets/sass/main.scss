@@ -220,40 +220,40 @@ img#poster {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
 }
 
-#voorstellingen {
+#shows {
   padding: 10px 0;
   background: black;
 }
 
-#voorstellingen h2 {
+#shows h2 {
   color: white;
 }
 
-#voorstellingen ul {
+#shows ul {
   margin: 0;
   padding: 0;
 }
 
-#voorstellingen li {
+#shows li {
   margin: 0;
   padding: 0;
   display: inline;
   list-style: none;
 }
 
-#voorstellingen li a {
+#shows li a {
   width: 300px;
   height: 200px;
   display: inline-block;
   position: relative;
 }
 
-#voorstellingen img {
+#shows img {
   max-width: 100%;
   cursor: pointer;
 }
 
-#voorstellingen span {
+#shows span {
   position: absolute;
   bottom: 10px;
   left: 10px;

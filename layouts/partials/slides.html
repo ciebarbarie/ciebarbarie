@@ -1,0 +1,30 @@
+  <div id="slides-wrap">
+    <div id="slides">
+      <ul class="slides-container">
+        {{ range $filename, $author := .Params.images }}
+        <li>
+          <img src="{{ $.Site.BaseURL }}img/{{ $filename }}" alt="">
+          <p class="copyright">&copy; {{ $author }}</p>
+        </li>
+        {{ end }}
+      </ul>
+      <nav class="slides-navigation">
+        <a href="#" class="next">
+          <i class="icon-chevron-right"></i>
+        </a>
+        <a href="#" class="prev">
+          <i class="icon-chevron-left"></i>
+        </a>
+      </nav>
+    </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // if (window.innerWidth <= 550 && window.innerWidth < window.innerHeight) {
+        //   $('#slides-wrap').height(window.innerHeight / 2);
+        // } else {
+        //   $('#slides-wrap').height(window.innerHeight  - 45);
+        // }
+        $('#slides').superslides({inherit_height_from: '#slides-wrap'});
+      });
+    </script>
+  </div>

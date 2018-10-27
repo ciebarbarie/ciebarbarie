@@ -2,17 +2,11 @@
 layout: page
 title: Pers
 images:
-  - pers-1.jpg
+  "pers-1.jpg": "Franky Verdict"
+backgroundColor: "#010302"
+backgroundImage: "pers-background.jpg"
+contentcolor: "#fff"
 ---
-<style>
-  #main {
-    background: #010302 url({{ site.baseurl }}/img/pers-background.jpg) no-repeat top left;
-  }
-
-  #content {
-    color: #fff;
-  }
-</style>
 
 ## Compagnie Barbarie in de Pers
 - <a href="http://focus.knack.be/entertainment/podium/pas-op-je-morst-moeders-modderen-hilarisch-aan-in-modders/article-review-919051.html">Knack Focus — Modders (31 oktober 2017)</a>

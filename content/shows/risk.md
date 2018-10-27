@@ -3,21 +3,15 @@ title: Risk
 id: risk
 bit-1-start: 0
 bit-1-end: 400
-slide-count: 3
 images:
   "risk-1.jpg": Franky Verdict
   "risk-2.jpg": Franky Verdict
   "risk-3.jpg": Franky Verdict
+backgroundColor: "#ea2433"
+backgroundImage: "risk-background.jpg"
+contentColor: "#fff"
 ---
 <style>
-  #main {
-    background: #ea2433 url({{ site.baseurl }}/img/risk-background.jpg);
-  }
-
-  #content {
-    color: #fff;
-  }
-
   #background-bit-1 {
     width: 100%;
     height: 993px;
@@ -49,6 +43,3 @@ Een stilistische hommage aan de onkunde van de mens om zinvol met zijn geschiede
 Risk ging in première op 22 april 2015 en is een coproductie met <a href="http://www.antigone.be/">Theater Antigone</a> met de steun van de Vlaamse Gemeenschap en maakt deel uit van <a href="http://www.gonewest.be/">GoneWest</a>.
 
 RISK zal in 2018,  het laatste jaar van de vierjarige oorlogsherdenking hernomen worden. We  blazen onze 135 jarige oorlogsveteraan alias Ruth Beeckmans nog een laatste nieuwe adem in en met hem ook meteen de hele herdenkingsindustrie.
-
-
-
