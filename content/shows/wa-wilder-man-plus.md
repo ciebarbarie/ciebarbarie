@@ -57,10 +57,10 @@ Via experimenten en ervaringen die gestuurd worden door de actrices nemen de kin
 
 **Van en met:**
 
-**Spel (in wisselende bezetting)**: Amber Goethals, Lotte Vaes, Karolien De Bleser, Liesje De Backer, Anna Vercammen, Evelien Van Hamme
-**Filosofische ondersteuning en begeleiding**: Ilse Daems en Eef Cornelissen
-**Vormgeving**: Michiel Van Cauwelaert
-**Kostuum**: Viv Van der Poel
-**Techniek**: Frouke Vangheluwe
+**Spel (in wisselende bezetting)**: Amber Goethals, Lotte Vaes, Karolien De Bleser, Liesje De Backer, Anna Vercammen, Evelien Van Hamme<br>
+**Filosofische ondersteuning en begeleiding**: Ilse Daems en Eef Cornelissen<br>
+**Vormgeving**: Michiel Van Cauwelaert<br>
+**Kostuum**: Viv Van der Poel<br>
+**Techniek**: Frouke Vangheluwe<br>
 
 Met de steun van de Vlaamse Gemeenschap en met dank aan BRONKS, Brussel
