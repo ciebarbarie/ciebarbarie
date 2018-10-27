@@ -4,6 +4,7 @@
   {{ partial "head.html" .}}
 </head>
 <body>
+  <div id="lang-wrapper">{{ partial "lang.html" (dict "Lang" .Language.Lang) }}</div>
 
   <div id="slides-wrap">
     <div id="slides">
@@ -20,7 +21,7 @@
   <div id="main">
     <div class="container">
       <div id="intro">
-        Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="{{ .Site.BaseURL }}/over-ons.html">Lees meer</a>
+        {{ .Params.intro | safeHTML }}
       </div>
     </div>
   </div>
@@ -28,7 +29,7 @@
   <div id="news">
     <div class="container">
       <div class="row">
-        <h2>Nieuws</h2>
+        <h2>{{ i18n "nieuws" }}</h2>
         {{ .Content }}
       </div>
     </div>
@@ -37,7 +38,7 @@
   <div id="shows">
     <div class="container">
       <a id="booking-info-link" href="#booking-info">Info &amp; Boekingen</a>
-      <h2>Voorstellingen</h2>
+      <h2>{{ i18n "voorstellingen" }}</h2>
       <div class="row">
         <div class="nine columns">
           <ul>
@@ -51,9 +52,14 @@
         </div>
         <div id="booking-info" class="three columns">
           <h2>Info</h2>
+          {{- if eq .Language.Lang "nl" }}
           <p>Wie meer info wil over verkoop en speellijst bel Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of mail: <a href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
           <p>Voor de <strong>speellijst</strong> — kijk bij de voorstellingen.</p>
-
+          {{- end }}
+          {{- if eq .Language.Lang "en" }}
+          <p>For more information about sales and play list call Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> or email: <a href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
+          <p>Look at the pages for each show for the <strong>play list</strong>.</p>
+          {{- end }}
         </div>
       </div>
     </div>

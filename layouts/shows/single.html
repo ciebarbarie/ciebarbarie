@@ -4,7 +4,7 @@
   {{ partial "head.html" .}}
 </head>
 <body>
-  {{ partial "header.html" }}
+  {{ partial "header.html" (dict "Lang" .Language.Lang "IsTranslated" .IsTranslated "Translations" .Translations) }}
 
   {{ partial "slides.html" (dict "Site" .Site "Params" .Params) }}
 

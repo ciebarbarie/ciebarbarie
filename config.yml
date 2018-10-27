@@ -1,0 +1,9 @@
+baseURL: "https://www.compagniebarbarie.be/"
+DefaultContentLanguage: nl
+languageCode: "be-nl"
+title: Compagnie Barbarie
+languages:
+  nl:
+    title: Compagnie Barbarie
+  en:
+    title: Compagnie Barbarie
