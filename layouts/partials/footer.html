@@ -4,9 +4,9 @@
     <div class="row">
       <div class="four columns">
         <strong><a href="{{ .Site.BaseURL }}/">Compagnie Barbarie</a></strong><br>
-        <a href="{{ .Site.BaseURL }}/#shows">Voorstellingen</a><br>
-        <a href="{{ .Site.BaseURL }}/over-ons">Over Ons</a><br>
-        <a href="{{ .Site.BaseURL }}/pers">Pers</a>
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL | absLangURL }}">{{ .Name }}</a><br>
+        {{ end }}
       </div>
 
       <div class="four columns">

@@ -25,7 +25,7 @@
     </div>
   </div>
 
-  {{ partial "footer.html" }}
+  {{ partial "footer.html" (dict "Site" .Site) }}
   {{ partial "extrastyle.html" (dict "Site" .Site "Params" .Params) }}
   {{ partial "scripts.html" }}
 </body>

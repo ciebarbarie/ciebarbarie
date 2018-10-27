@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Media
 slug: media
 images:

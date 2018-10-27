@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Pers
 images:
   "pers-1.jpg": "Franky Verdict"
