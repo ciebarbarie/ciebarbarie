@@ -8,7 +8,7 @@ backgroundImage: "pers-background.jpg"
 contentcolor: "#fff"
 ---
 
-## Compagnie Barbarie in the Media
+## Company Barbarie in the Media
 - <a href="http://focus.knack.be/entertainment/podium/pas-op-je-morst-moeders-modderen-hilarisch-aan-in-modders/article-review-919051.html">Knack Focus — Modders (31 oktober 2017)</a>
 - <a href="https://www.demorgen.be/podium/-modders-van-compagnie-barbarie-een-eerbetoon-aan-aanmodderende-moeders-bb90f7a3/">De Morgen — Modders (14 november 2017)</a>
 - <a href="http://www.standaard.be/cnt/dmf20160301_02159318">De Standaard — Wa Wilder Man (2 maart 2016)</a>
