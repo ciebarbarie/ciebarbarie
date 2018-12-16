@@ -1,4 +1,4 @@
-baseURL: "https://www.compagniebarbarie.be/"
+baseURL: "https://ciebarbarie.netlify.com/"
 DefaultContentLanguage: nl
 defaultContentLanguageInSubdir: true
 languageCode: "be-nl"
