@@ -4,13 +4,13 @@
   {{ partial "head.html" .}}
 </head>
 <body>
-  <div id="lang-wrapper">{{ partial "lang.html" (dict "Lang" .Language.Lang) }}</div>
+  <div id="lang-wrapper">{{ partial "lang.html" . }}</div>
 
   <div id="slides-wrap">
     <div id="slides">
       <ul class="slides-container">
         <li>
-          <img src="{{ .Site.BaseURL }}/img/homepage-1.jpg" alt="">
+          <img src="{{ .Site.BaseURL }}img/homepage-1.jpg" alt="">
         </li>
       </ul>
     </div>
@@ -66,7 +66,8 @@
     </div>
   </div>
 
-  {{ partial "footer.html" (dict "Site" .Site) }}
-  {{ partial "scripts.html" }}
+  {{ partial "footer.html" . }}
+  {{ partial "scripts.html" . }}
+  {{ partial "extrastyle.html" . }}
 </body>
 </html>

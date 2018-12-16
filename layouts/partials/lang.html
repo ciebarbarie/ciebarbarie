@@ -1,12 +1,22 @@
   <div id="lang">
-    {{- if eq .Lang "nl" }}
-    <a href="/" class="active">NL</a>
+    {{- if eq .Site.Language.Lang "nl" }}
+    <a href="{{ .Site.BaseURL }}nl/" class="active">NL</a>
     {{- else }}
-    <a href="/">NL</a>
+      {{- range where .Translations "Lang" "nl" }}
+      <a href="{{ .Permalink }}">NL</a>
+      {{- else }}
+      <a href="{{ .Site.BaseURL }}nl/">NL</a>
+      {{- end }}
     {{- end }}
-    {{- if eq .Lang "en" }}
-    <a href="/en" class="active">EN</a>
+
+    {{- if eq .Site.Language.Lang "en" }}
+    <a href="{{ .Site.BaseURL }}en/" class="active">EN</a>
     {{- else }}
-    <a href="/en">EN</a>
+      {{- range where .Translations "Lang" "en" }}
+      <a href="{{ .Permalink }}">EN</a>
+      {{- else }}
+      <a href="{{ .Site.BaseURL }}en/">EN</a>
+      {{- end }}
     {{- end }}
+
   </div>

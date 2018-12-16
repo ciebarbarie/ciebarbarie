@@ -3,10 +3,17 @@
   <div class="container">
     <div class="row">
       <div class="four columns">
-        <strong><a href="{{ .Site.BaseURL }}/">Compagnie Barbarie</a></strong><br>
-        {{ range .Site.Menus.main }}
-        <a href="{{ .URL | absLangURL }}">{{ .Name }}</a><br>
-        {{ end }}
+        <strong><a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/">{{ .Site.Title }}</a></strong><br>
+        {{- if eq .Site.Language.Lang "nl" }}
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/#shows">Voorstellingen</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/over-ons/">Over Ons</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/pers/">Pers</a><br>
+        {{- end }}
+        {{- if eq .Site.Language.Lang "en" }}
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/#shows">Shows</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/about/">About Us</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/media/">Media</a><br>
+        {{- end }}
       </div>
 
       <div class="four columns">

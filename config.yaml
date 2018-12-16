@@ -6,22 +6,5 @@ title: Compagnie Barbarie
 languages:
   nl:
     title: Compagnie Barbarie
-    menu:
-      main:
-        - name: Voorstellingen
-          url: /#shows
-        - name: Over Ons
-          url: /over-ons/
-        - name: Pers
-          url: /pers/
-
   en:
-    title: Compagnie Barbarie
-    menu:
-      main:
-        - name: Shows
-          url: /#shows
-        - name: About Us
-          url: /about/
-        - name: Media
-          url: /media/
+    title: Company Barbarie

@@ -4,9 +4,9 @@
   {{ partial "head.html" .}}
 </head>
 <body>
-  {{ partial "header.html" (dict "Lang" .Language.Lang "IsTranslated" .IsTranslated "Translations" .Translations) }}
+  {{ partial "header.html" . }}
 
-  {{ partial "slides.html" (dict "Site" .Site "Params" .Params) }}
+  {{ partial "slides.html" . }}
 
   <div id="performance-title">
     <h1>{{ .Title }}</h1>
@@ -25,8 +25,8 @@
     </div>
   </div>
 
-  {{ partial "footer.html" (dict "Site" .Site) }}
-  {{ partial "extrastyle.html" (dict "Site" .Site "Params" .Params) }}
-  {{ partial "scripts.html" }}
+  {{ partial "footer.html" . }}
+  {{ partial "extrastyle.html" . }}
+  {{ partial "scripts.html" . }}
 </body>
 </html>
