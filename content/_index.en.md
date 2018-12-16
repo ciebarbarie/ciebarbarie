@@ -1,7 +1,7 @@
 ---
 layout: home
 noheader: true
-intro: Company barbarie is a theatre collective consisting of seven women. <a href="/en/about/">Read more</a>
+intro: Company Barbarie is a theatre collective consisting of seven women. <a href="/en/about/">Read more</a>
 ---
 They're here! The new playlists of Modders and Wa Wilder Man are on the site.<br>
 More good news: soon the info about our latest show 'FREE CHIPS' will also be online.<br>

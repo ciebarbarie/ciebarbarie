@@ -1,6 +1,7 @@
 ---
 title: Spionkop
-id: spionkop
+slug: spionkop
+weight: 5
 bit-1-start: 0
 bit-1-end: 500
 bit-2-start: 500

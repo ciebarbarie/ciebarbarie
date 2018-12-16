@@ -1,6 +1,7 @@
 ---
 title: Wa Wilder Man
-id: wa-wilder-man
+slug: wa-wilder-man
+weight: 9
 bit-1-start: 50
 bit-1-end: 1000
 images:

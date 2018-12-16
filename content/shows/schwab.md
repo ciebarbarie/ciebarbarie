@@ -1,6 +1,7 @@
 ---
 title: Schwab Werner Schwab
-id: schwab
+slug: schwab
+weight: 4
 bit-1-start: 0
 bit-1-end: -200
 bit-2-start: -300

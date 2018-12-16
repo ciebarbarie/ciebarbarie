@@ -1,6 +1,7 @@
 ---
 title: The End Is Dear
-id: the-end-is-dear
+slug: the-end-is-dear
+weight: 6
 bit-1-start: -100
 bit-1-end: -350
 images:

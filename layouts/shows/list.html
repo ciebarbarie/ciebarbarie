@@ -10,10 +10,10 @@
       <div class="row">
         <div class="nine columns">
           <ul>
-          {{ range .Site.Data.shows -}}
-            <li><a href="{{ .Site.BaseURL }}/shows/{{ .id }}/">
-              <img src="{{ .Site.BaseURL }}/img/{{ .id }}-thumb.jpg" alt="{{ .title }}">
-              <span>{{ .title }}</span>
+          {{ range .Pages -}}
+            <li><a href="{{ .Permalink }}">
+              <img src="{{ .Site.BaseURL }}/img/{{ .Slug }}-thumb.jpg" alt="{{ .Title }}">
+              <span>{{ .Title }}</span>
             </a></li>
           {{- end}}
           </ul>

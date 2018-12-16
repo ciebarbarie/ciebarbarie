@@ -1,6 +1,7 @@
 ---
 title: Gratis Chips!
-id: gratis-chips
+slug: gratis-chips
+weight: 12
 bit-1-start: -500
 bit-1-end: 700
 slide-count: 1

@@ -1,6 +1,7 @@
 ---
 title: Modders
-id: modders
+slug: modders
+weight: 11
 images:
   "modders-1.jpg": Franky Verdict
   "modders-2.jpg": Franky Verdict

@@ -1,5 +1,6 @@
 baseURL: "https://www.compagniebarbarie.be/"
 DefaultContentLanguage: nl
+defaultContentLanguageInSubdir: true
 languageCode: "be-nl"
 title: Compagnie Barbarie
 languages:

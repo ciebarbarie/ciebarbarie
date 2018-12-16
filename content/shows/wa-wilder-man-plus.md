@@ -1,6 +1,7 @@
 ---
 title: Wa Wilder Man + Filosofische Workshop
-id: wa-wilder-man-plus
+slug: wa-wilder-man-plus
+weight: 8
 bit-1-start: 50
 bit-1-end: 1000
 images:

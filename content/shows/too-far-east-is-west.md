@@ -1,6 +1,7 @@
 ---
 title: Too Far East is West
-id: too-far-east-is-west
+slug: too-far-east-is-west
+weight: 2
 bit-1-start: -500
 bit-1-end: 0
 bit-2-start: 0

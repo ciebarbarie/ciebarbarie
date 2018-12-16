@@ -1,6 +1,7 @@
 ---
 title: IDENTICITY
-id: identicity
+slug: identicity
+weight: 10
 poster: true
 images:
   "identicity-1.jpg": FKPH-Felix Kindermann
