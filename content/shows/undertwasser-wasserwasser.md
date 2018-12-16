@@ -22,23 +22,21 @@ contentcolor: "#fff"
     height: 2000px;
     position: absolute;
     top: 0;
-    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-1.gif) no-repeat 0% 50%;
+    background: url({{ .Site.BaseURL }}img/undertwasser-wasserwasser-bit-1.gif) no-repeat 0% 50%;
   }
-
   #background-bit-2 {
     width: 100%;
     height: 2000px;
     position: absolute;
     top: 30px;
-    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-2.gif) no-repeat 0% 50%;
+    background: url({{ .Site.BaseURL }}img/undertwasser-wasserwasser-bit-2.gif) no-repeat 0% 50%;
   }
-
   #background-bit-3 {
     width: 100%;
     height: 667px;
     position: absolute;
     top: 100px;
-    background: url({{ site.baseurl }}/img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
+    background: url({{ .Site.BaseURL }}img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
   }
 </style>
 De documentaire ‘Watermarks’ is het vertrekpunt voor Undertwasser wasserwasser.<br>

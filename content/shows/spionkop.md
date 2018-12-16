@@ -21,7 +21,7 @@ contentColor: "#3e3331"
     width: 100%;
     height: 477px;
     position: absolute;
-    background: url({{ site.baseurl }}/img/spionkop-bit-1.png) no-repeat top left;
+    background: url({{ .Site.BaseURL }}img/spionkop-bit-1.png) no-repeat top left;
   }
 
   @media (min-width: 666px) {
@@ -29,7 +29,7 @@ contentColor: "#3e3331"
       width: 100%;
       height: 589px;
       position: absolute;
-      background: url({{ site.baseurl }}/img/spionkop-bit-2.png) no-repeat top right;
+      background: url({{ .Site.BaseURL }}img/spionkop-bit-2.png) no-repeat top right;
     }
   }
 </style>

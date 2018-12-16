@@ -20,7 +20,7 @@
         </div>
         <div class="four columns" id="sidebar">
           {{ if .Params.poster }}
-          <img id="poster" src="/img/{{ .Params.id }}-poster.jpg" alt="Poster {{ .Title }}">
+          <img id="poster" src="{{ .Site.BaseURL }}/img/{{ .File.TranslationBaseName }}-poster.jpg" alt="Poster {{ .Title }}">
           {{ end }}
         </div>
       </div>

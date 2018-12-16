@@ -19,14 +19,14 @@ contentColor: "#e7dca4"
     width: 100%;
     height: 1500px;
     position: absolute;
-    background: url({{ site.baseurl }}/img/too-far-east-is-west-bit-1.png) no-repeat top center;
+    background: url({{ .Site.BaseURL }}img/too-far-east-is-west-bit-1.png) no-repeat top center;
   }
 
   #background-bit-2 {
     width: 100%;
     height: 1500px;
     position: absolute;
-    background: url({{ site.baseurl }}/img/too-far-east-is-west-bit-2.png) no-repeat top center;
+    background: url({{ .Site.BaseURL }}img/too-far-east-is-west-bit-2.png) no-repeat top center;
   }
 </style>
 cie barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>

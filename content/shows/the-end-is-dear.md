@@ -11,7 +11,7 @@ images:
 ---
 <style>
   #main {
-    background: #080808 url({{ site.baseurl }}/img/the-end-is-dear-background.jpg);
+    background: #080808 url({{ .Site.BaseURL }}img/the-end-is-dear-background.jpg);
   }
 
   #content {
@@ -25,7 +25,7 @@ images:
       height: 1500px;
       position: absolute;
       bottom: 0;
-      background: url({{ site.baseurl }}/img/the-end-is-dear-bit-1.png) no-repeat bottom right;
+      background: url({{ .Site.BaseURL }}img/the-end-is-dear-bit-1.png) no-repeat bottom right;
     }
   }
 </style>
@@ -48,5 +48,5 @@ Compagnie Barbarie trekt in The end is dear het deksel van de menselijke beerput
 The end is dear ging in première op 7 november 2013 en is een co-productie met <a href="http://www.monty.be/">Kultuurfactorij Monty</a> en <a href="http://www.detheatermaker.be/">d&nbsp;e&nbsp;t&nbsp;h&nbsp;e&nbsp;a&nbsp;t&nbsp;e&nbsp;r&nbsp;m&nbsp;a&nbsp;k&nbsp;e&nbsp;r</a> en met de steun van de Vlaamse gemeenschap en stad Antwerpen
 . Met dank aan <a href="http://www.tarsenaal.be/">t,arsenaal Mechelen</a>. The End Is Dear werd geselecteerd voor <a href="http://www.circuitx.be/">Circuit X</a>.
 
-<a href="http://www.circuitx.be"><img src="{{ site.baseurl }}/img/circuit-x-logo.jpg" style="width: 100px;"></a>
+<a href="http://www.circuitx.be"><img src="{{ .Site.BaseURL }}img/circuit-x-logo.jpg" style="width: 100px;"></a>
 

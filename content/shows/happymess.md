@@ -22,7 +22,7 @@ contentColor: "#222"
     height: 1500px;
     position: absolute;
     top: 0;
-    background: url({{ site.baseurl }}/img/happymess-bit-1.png) no-repeat top right;
+    background: url({{ .Site.BaseURL }}img/happymess-bit-1.png) no-repeat top right;
   }
 
   #background-bit-2 {
@@ -30,7 +30,7 @@ contentColor: "#222"
     height: 1500px;
     position: absolute;
     top: 30px;
-    background: url({{ site.baseurl }}/img/happymess-bit-2.png) no-repeat top left;
+    background: url({{ .Site.BaseURL }}img/happymess-bit-2.png) no-repeat top left;
   }
 </style>
 In Happymess brengt compagnie barbarie een ode aan het ongeluk van de mens.<br>
