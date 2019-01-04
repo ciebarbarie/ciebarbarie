@@ -15,6 +15,8 @@ sidebarColor: "#ccc"
 ---
 Company Barbarie is a professional theatre collective consisting of seven women. All of them graduated at the RITS drama school in Brussels. After graduating, they decided to join their paths, while still continuing their individual trajectories as actresses.
 
+<iframe src="https://player.vimeo.com/video/292324878?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 In the course of the years, the “Barbaries” developed their own specific visual language. Visuality and humor are two important distinctive features that emerge in every production. In terms of content, the focus is on existing clichés and exposing prejudice.
 
 The productions of the Barbaries expand the horizon of the spectator and makes cracks in existing prejudices. In a complex and rapidly changing world, everyone needs something to hold onto.
