@@ -1,6 +1,6 @@
 ---
-title: Free Chips!
-slug: free-chips
+title: Crisps for Free
+slug: crisps-for-free
 weight: 12
 bit-1-start: -500
 bit-1-end: 700
@@ -28,42 +28,38 @@ contentColor: "#333"
 </style>
 **Feminism for Preschoolers**
 
-In 'FREE CHIPS!' we will talk about feminism.
-What does that have to do with chips?
-Maybe at first sight very little.
-Chips look the same for everyone.
-But if there were blue and pink chips, did the girls only eat the pink ones?
-And the boys only blue?
+
+In ‘CRISPS FOR FREE’ we will talk about feminism.<br>
+What does that have to do with crisps?<br>
+At first glance, maybe not a lot -<br>
+Luckily, crisps still look the same to everyone.<br>
+But if there were blue crisps and pink crisps, would the girls eat only the pink ones and the boys only the blue?
 
 
-Blue and pink are not innocent clichés.
-We attach a lot of prejudices to it:
-Pink is for girls, just like scented candles, crying, a caring character, diaries, feelings and ponies.
-Blue is for boys, just like cars, aggression, pay slips and overtime,
-missiles and blue puzzles.
-That there are differences that is certain.
-That we attach too much importance to these differences is much more certain.
-Time to start to pry on that.
-Because the battle for equal treatment between boys and girls has not yet been fought!
 
-After all, a pink ballpoint pen writes as smoothly as a blue one, right?
+Blue and pink aren’t innocent clichés – we hang our prejudices on them.<br>
+Pink is for girls, just like scented candles, crying, being caring, keeping a diary, having feelings and ponies.<br>
+Blue is for boys, just like cars, fighting, pay checks, overtime, rockets and blue puzzles.<br>
+For sure there are differences between boys and girls. But surely we attach way too much importance to them?<br>
 
-With a cheerful hammer and a bag full of pink bliss, we will be children
-(and certainly also adults) in an absurd universe where there is strong rattling with the existing stereotypes.
-And those who are sweet will get something tasty in the end .... Chips or something ....
+Time to investigate.<br>
+Because the fight for equality has not yet been fought!<br>
+I mean, a pink biro writes as just as well as a blue one, right?<br>
+
+Armed with a bag of pink delights, we will hammer our way into an absurd universe where children (and adults too of course) are invited to rattle some stereotypes.<br>
+And if you’re sweet, maybe there will be some tasty treats at the end…. Crisps, maybe…<br>
 
 **Credits**
 
-**Performance**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
-**Direction**: Karolien De Bleser<br>
-**Design**: Michiel Van Cauwelaert<br>
+**Performance**: Liesje De Backer, Amber Goethals, Lotte Vaes and Sarah Vangeel<br>
+**Director**: Karolien De Bleser<br>
+**Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Sound and Technique**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Graphic Design**: Nick Mattan<br>
 
 A coproduction with <a href="http://www.villanella.be/">Villanella</a> and <a href="https://www.bronks.be/nl/">BRONKS</a><br>.
 With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.
-
 
 ## Playlist
 <div class="table-responsive">

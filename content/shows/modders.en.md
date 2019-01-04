@@ -14,7 +14,7 @@ backgroundImage: "modders-background.jpg"
 ---
 _A show about motherhood for 8+ and certainly also for mothers and fathers and everyone who knows one or has one._
 
-**You will be facing 4 women.<br>
+You will be facing 4 women.<br>
 Mothers.<br>
 Mudders actually.<br>
 While diligently running the office, these cheerful women muddle themselves to an early grave. <br>
@@ -24,22 +24,20 @@ Till the bitter end, they keep rising from the biggest mess and saving themselve
 And all of that for you. <br>
 That is, if you’re coming. <br>
 We’d like you to. <br>
-Really. Sincerely. Promised. And if mom makes a promise, she tries to stick to it. Honestly true.**
+Really. Sincerely. Promised. And if mom makes a promise, she tries to stick to it. Honestly true.
 
 In MUDDERS we play with the stress that motherhood brings along. Having to arrange everything, to keep everything under control while the pots are boiling over. Like an artist in the Chinese State Circus who has to keep all saucers spinning on a stick, knowing that one will smash anyhow. For the mothers on stage, everything is a shaky balance.
 
 Although the mothers from MUDDERS muddled a bit, the do it in style. And preferably all in the same style. All equally blond, all the same size.
-Because why change size when you can change yourself as well? With goodwill, everyone can fit into size 38. After all, a mother is still an attractive woman who appears as a spik & span at the school gate.
-Beside themselves, they also decked out the scene with a giant symbol / statue of motherhood. But even before the unveiling, this seems to have been reduced to a disorganized mess.
-Their approach and tactics shift between being a child and being a mother. Their behaviour is as unstable as the chairs they sit on and extremely wobbly. Their tossed and turned between the two ends of the relation: on the one side their childish reflex, on the other side the all-resolving and reprimanding mother.
-Or maybe those two are not so opposite after all....
+Because why change size when you can change yourself as well?
 
+At the end of the day, it’s still easier to bring up children than to bring down your weight.
 
-**At the end of the day, it’s still easier to bring up children than to bring down your weight.**
+<iframe src="https://player.vimeo.com/video/245175026?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **Performance**:  Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
-**Direction**: Karolien De Bleser<br>
-**Design**: Michiel Van Cauwelaert<br>
+**Director**: Karolien De Bleser<br>
+**Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Sound**: Saul Mombaerts<br>
 **Technique**: Saul Mombaerts, Frouke Vangheluwe, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>

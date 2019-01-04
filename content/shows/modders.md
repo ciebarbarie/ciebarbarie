@@ -28,6 +28,8 @@ Want elke moeder moddert maar wat aan.<br>
 
 Och, tenslotte is opvoeden nog altijd makkelijker dan afvallen.
 
+<iframe src="https://player.vimeo.com/video/245175026?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Een voorstelling van compagnie barbarie.<br>
 **Spel**:  Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Regie**: Karolien De Bleser<br>

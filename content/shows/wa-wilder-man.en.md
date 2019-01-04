@@ -23,7 +23,7 @@ contentColor: "#333"
     }
   }
 </style>
-**We’re from here.<br>
+We’re from here.<br>
 Because this is here.<br>
 This is us.<br>
 Ours.<br>
@@ -33,17 +33,17 @@ It can never be here.<br>
 It will never become here.<br>
 There needs to remain there.<br>
 And here stays the way it was.<br>
-SO GO AWAY!**
+SO GO AWAY!
 
 BE WILDER MAN is a performance for 4+ and far above, which responds to the current refugee issue and the general fear of everything that’s different and strange. The show addresses these current issues and brings them to the foreground in a surprisingly candid way.
 
 In a visual and humorous manner, the relation between “us” and “them” is made crystal clear and open for discussion both for children and adults.
 
-<iframe src="https://player.vimeo.com/video/162378954?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/171478751?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **Writing**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Performance**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
-**Design**: Michiel Van Cauwelaert<br>
+**Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Sound and Technique**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Graphic Design**: Nick Mattan en Ben Raes <br>

@@ -8,6 +8,10 @@ contentcolor: "#fff"
 ---
 
 ## Compagnie Barbarie in de Pers
+- <a href="https://vimeo.com/242554032">ATV 100% Cultuur — Modders (november 2017)</a>
+- <a href="https://www.een.be/van-gils-gasten/ode-aan-de-ploetermoeders">Van Gils & Gasten — Modders (november 2017)</a>
+- <a href="https://focus.knack.be/entertainment/podium/compagnie-barbarie-over-modders-met-humor-wekken-we-de-falende-moeder-tot-leven-op-de-buhne/article-longread-919971.html">Knack Focus — Modders (31 oktober 2017)</a>
+- <a href="https://www.standaard.be/cnt/dmf20171027_03158034">De Standaard — Modders (28 oktober 2017)</a>
 - <a href="http://focus.knack.be/entertainment/podium/pas-op-je-morst-moeders-modderen-hilarisch-aan-in-modders/article-review-919051.html">Knack Focus — Modders (31 oktober 2017)</a>
 - <a href="https://www.demorgen.be/podium/-modders-van-compagnie-barbarie-een-eerbetoon-aan-aanmodderende-moeders-bb90f7a3/">De Morgen — Modders (14 november 2017)</a>
 - <a href="http://www.standaard.be/cnt/dmf20160301_02159318">De Standaard — Wa Wilder Man (2 maart 2016)</a>

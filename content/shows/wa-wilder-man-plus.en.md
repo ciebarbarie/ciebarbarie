@@ -54,7 +54,7 @@ Rather than passively watching a performance, it’s about actively participatin
 
 **Performance (varying occupation)**: Amber Goethals, Lotte Vaes, Karolien De Bleser, Liesje De Backer, Anna Vercammen, Evelien Van Hamme<br>
 **Philosophical support and guidance**: Ilse Daems and Eef Cornelissen<br>
-**Design**: Michiel Van Cauwelaert<br>
+**Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Technique**: Frouke Vangheluwe<br>
 
