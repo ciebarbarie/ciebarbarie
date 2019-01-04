@@ -27,30 +27,13 @@ contentColor: "#333"
   }
 </style>
 **Feminisme voor Kleuters**
+In ‘GRATIS CHIPS!’ zullen we het hebben over feminisme. Wat dat met chips te maken heeft? Misschien op het eerste gezicht bitter weinig. Chips zien er voor iedereen gelukkig nog hetzelfde uit. Maar als er blauwe en roze chips zouden zijn, aten de meisjes dan enkel nog de roze? En de jongens alleen nog maar blauwe?
 
-In 'FREE CHIPS!' we will talk about feminism.
-What does that have to do with chips?
-Maybe at first sight very little.
-Chips look the same for everyone.
-But if there were blue and pink chips, did the girls only eat the pink ones?
-And the boys only blue?
+Blauw en roze zijn geen onschuldige clichés. We hangen er heel wat vooroordelen aan op: Roze is voor meisjes, net zoals geurkaarsen, huilen, een zorgzaam karakter, dagboeken, gevoelens en pony’s. Blauw is voor jongens, net zoals auto’s, agressie, loonbriefjes en overuren, raketten en blauwe puzzels. Dat er verschillen zijn dat staat vast. Dat we aan die verschillen veel te veel belang hechten dat staat nog veel vaster. Tijd om daar eens aan te beginnen wrikken. Want de strijd om een gelijkwaardige behandeling tussen jongens en meisjes is nog niet gestreden!
 
+Een roze balpen schrijft immers even vlot als een blauwe, toch?
 
-Blue and pink are not innocent clichés.
-We attach a lot of prejudices to it:
-Pink is for girls, just like scented candles, crying, a caring character, diaries, feelings and ponies.
-Blue is for boys, just like cars, aggression, pay slips and overtime,
-missiles and blue puzzles.
-That there are differences that is certain.
-That we attach too much importance to these differences is much more certain.
-Time to start to pry on that.
-Because the battle for equal treatment between boys and girls has not yet been fought!
-
-After all, a pink ballpoint pen writes as smoothly as a blue one, right?
-
-With a cheerful hammer and a bag full of pink bliss, we will be children
-(and certainly also adults) in an absurd universe where there is strong rattling with the existing stereotypes.
-And those who are sweet will get something tasty in the end .... Chips or something ....
+Met een vrolijk gehamer en een zak vol roze zaligheid zullen wij kinderen (en zeker OOK volwassenen) meenemen in een absurd universum waar er stevig gerammeld wordt met de bestaande stereotypen. En wie zoet is krijgt op het einde misschien wel iets lekkers….Chips of zo….
 
 **Spel**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Regie**: Karolien De Bleser<br>
