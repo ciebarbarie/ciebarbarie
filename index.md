@@ -39,10 +39,9 @@ performances:
     id: undertwasser-wasserwasser
     title: Undertwasser Wasserwasser
 ---
-Ze zijn er! De nieuwe speellijsten van Modders en Wa Wilder Man staan op deze site<br>
-Ook over onze nieuwste voorstelling 'GRATIS CHIPS!' vind je alle nodige info<br>
-We spelen komend seizoen meer dan 100 voorstellingen<br>
-En dat allemaal voor u! Jawel! Met plezier!
+En dan nu alle oren en ogen gespitst op onze nieuwste voorstelling 'GRATIS CHIPS!'<br>
+première op 26 januari<br>
+Wij helpen met plezier de bestaande genderstereotypen de wereld uit en wat meer feminisme de wereld in.
 
 
 
