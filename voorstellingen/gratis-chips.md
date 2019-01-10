@@ -60,6 +60,7 @@ En wie zoet is krijgt op het einde misschien wel iets lekkers....Chips of zo....
 **Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
+**Productie**: Leila Boukhalfa en Lisa Gunstone<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Grafisch ontwerp**: Nick Mattan<br>
 
