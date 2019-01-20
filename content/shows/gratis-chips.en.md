@@ -40,7 +40,7 @@ But if there were blue crisps and pink crisps, would the girls eat only the pink
 Blue and pink aren’t innocent clichés – we hang our prejudices on them.<br>
 Pink is for girls, just like scented candles, crying, being caring, keeping a diary, having feelings and ponies.<br>
 Blue is for boys, just like cars, fighting, pay checks, overtime, rockets and blue puzzles.<br>
-For sure there are differences between boys and girls. But surely we attach way too much importance to them?<br>
+For sure there are differences between boys and girls. But surely we attach way too much importance to them<br>
 
 Time to investigate.<br>
 Because the fight for equality has not yet been fought!<br>
@@ -59,7 +59,7 @@ And if you’re sweet, maybe there will be some tasty treats at the end…. Cris
 **Sound and Technique**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Graphic Design**: Nick Mattan<br>
 
-A coproduction with <a href="http://www.villanella.be/">Villanella</a> and <a href="https://www.bronks.be/nl/">BRONKS</a><br>.
+A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href="https://www.bronks.be/nl/">BRONKS</a> and <a href="https://hetlaatstebedrijf.nl/">Het Laatste Bedrijf — Tax Shelter</a> and with the support of the Flemish Government<br>.
 With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.
 
 ## Playlist
