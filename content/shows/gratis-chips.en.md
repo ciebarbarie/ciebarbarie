@@ -59,7 +59,7 @@ And if you’re sweet, maybe there will be some tasty treats at the end…. Cris
 **Sound and Technique**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Graphic Design**: Nick Mattan<br>
 
-A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href="https://www.bronks.be/nl/">BRONKS</a> and <a href="https://hetlaatstebedrijf.nl/">Het Laatste Bedrijf — Tax Shelter</a> and with the support of the Flemish Government<br>.
+A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href="https://www.bronks.be/nl/">BRONKS</a>, <a href="https://hetlaatstebedrijf.nl/">Het Laatste Bedrijf — Tax Shelter</a> and with the support of the Flemish Government.<br>
 With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.
 
 ## Playlist

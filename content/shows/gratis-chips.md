@@ -43,7 +43,7 @@ Met een vrolijk gehamer en een zak vol roze zaligheid zullen wij kinderen (en ze
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Grafisch ontwerp**: Nick Mattan<br>
 
-Een coproductie met <a href="http://www.villanella.be/">Villanella</a> en <a href="https://www.bronks.be/nl/">BRONKS</a> en <a href="https://hetlaatstebedrijf.nl/">Het Laatste Bedrijf — Tax Shelter</a> en met de steun van de Vlaamse Gemeenschap<br>.<br>
+Een coproductie met <a href="http://www.villanella.be/">Villanella</a> en <a href="https://www.bronks.be/nl/">BRONKS</a>, <a href="https://hetlaatstebedrijf.nl/">Het Laatste Bedrijf — Tax Shelter</a> en met de steun van de Vlaamse Gemeenschap.<br>
 Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> en <a href="https://www.needcompany.org/">Needcompany</a>
 
 ## Speellijst
