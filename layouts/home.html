@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  {{ partial "head.html" .}}
+</head>
+<body>
+  <div id="lang-wrapper">{{ partial "lang.html" . }}</div>
+
+  <div id="slides-wrap">
+    <div id="slides">
+      <ul class="slides-container">
+        <li>
+          <img src="{{ .Site.BaseURL }}img/homepage-1.jpg" alt="">
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="logo"><img src="{{ .Site.BaseURL }}/img/logo-transparent-w500.png" alt="Compagnie Barbarie Logo"></div>
+
+  <div id="main">
+    <div class="container">
+      <div id="intro">
+        {{ .Params.intro | safeHTML }}
+      </div>
+    </div>
+  </div>
+
+  <div id="news">
+    <div class="container">
+      <div class="row">
+        <h2>{{ i18n "nieuws" }}</h2>
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+
+  <div id="shows">
+    <div class="container">
+      <a id="booking-info-link" href="#booking-info">Info &amp; Boekingen</a>
+      <h2>{{ i18n "voorstellingen" }}</h2>
+
+      <div class="row">
+        <div class="nine columns">
+          <ul>
+          {{ range where .Pages.Reverse "Section" "shows" -}}
+            <li><a href="{{ .Permalink }}">
+              <img src="{{ .Site.BaseURL }}img/{{ .File.TranslationBaseName }}-thumb.jpg" alt="{{ .Title }}">
+              <span>{{ .Title }}</span>
+            </a></li>
+          {{- end}}
+          </ul>
+        </div>
+        <div id="booking-info" class="three columns">
+          <h2>Info</h2>
+          {{- if eq .Language.Lang "nl" }}
+          <p>Wie meer info wil over verkoop en speellijst bel Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of mail: <a href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
+          <p>Voor de <strong>speellijst</strong> — kijk bij de voorstellingen.</p>
+          {{- end }}
+          {{- if eq .Language.Lang "en" }}
+          <p>For more information about sales and play list call Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> or email: <a href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
+          <p>Look at the pages for each show for the <strong>play list</strong>.</p>
+          {{- end }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{ partial "footer.html" . }}
+  {{ partial "scripts.html" . }}
+  {{ partial "extrastyle.html" . }}
+</body>
+</html>

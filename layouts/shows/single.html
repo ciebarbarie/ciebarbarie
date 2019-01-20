@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  {{ partial "head.html" .}}
+</head>
+<body>
+  {{ partial "header.html" . }}
+
+  {{ partial "slides.html" . }}
+
+  <div id="performance-title">
+    <h1>{{ .Title }}</h1>
+  </div>
+
+  <div id="main">
+    <div class="container">
+      <div class="row">
+        <div class="eight columns" id="content">
+          {{ .Content }}
+        </div>
+        <div class="four columns" id="sidebar">
+          {{ if .Params.poster }}
+          <img id="poster" src="{{ .Site.BaseURL }}/img/{{ .File.TranslationBaseName }}-poster.jpg" alt="Poster {{ .Title }}">
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{ partial "footer.html" . }}
+  {{ partial "scripts.html" . }}
+  {{ partial "extrastyle.html" . }}
+
+  <script type="text/javascript">
+  function isMobile() {
+    return (/Android|iPhone|iPad|iPod|BlackBerry/i).test(navigator.userAgent || navigator.vendor || window.opera);
+  }
+
+  if (!isMobile()) {
+    skrollr.init({smoothScrolling: true});
+  }
+  </script>
+</body>
+</html>

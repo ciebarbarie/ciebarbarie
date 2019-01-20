@@ -1,9 +1,0 @@
-# Site settings
-title: Compagnie Barbarie
-email: info@compagniebarbarie.be
-description: Theatergezelschap van en door zeven vrouwen
-baseurl: ""
-url: "http://www.compagniebarbarie.be/"
-
-# Build settings
-markdown: kramdown

@@ -1,0 +1,10 @@
+baseURL: "https://ciebarbarie.netlify.com/"
+DefaultContentLanguage: nl
+defaultContentLanguageInSubdir: true
+languageCode: "be-nl"
+title: Compagnie Barbarie
+languages:
+  nl:
+    title: Compagnie Barbarie
+  en:
+    title: Company Barbarie

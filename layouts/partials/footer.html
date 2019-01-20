@@ -1,0 +1,33 @@
+
+<div id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="four columns">
+        <strong><a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/">{{ .Site.Title }}</a></strong><br>
+        {{- if eq .Site.Language.Lang "nl" }}
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/#shows">Voorstellingen</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/over-ons/">Over Ons</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/pers/">Pers</a><br>
+        {{- end }}
+        {{- if eq .Site.Language.Lang "en" }}
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/#shows">Shows</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/about/">About Us</a><br>
+        <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/media/">Media</a><br>
+        {{- end }}
+      </div>
+
+      <div class="four columns">
+        <br>
+        Compagnie Barbarie vzw<br>
+        De Merodestraat 447/4<br>
+        1190 Vorst - Brussel
+      </div>
+      <div class="four columns">
+        <br>
+        <a href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a><br>
+        <a href="https://www.facebook.com/cie.barbarie">Facebook</a><br>
+        <a href="tel:+32495533624">+32 495 53 36 24</a>
+      </div>
+    </div>
+  </div>
+</div>
