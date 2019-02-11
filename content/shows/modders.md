@@ -72,7 +72,6 @@ Met de steun van de Vlaamse Gemeenschap
 <tr><td>di 12 maart</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="http://www.ccdewerf.be">CC De Werf</a></td><td>053 72 38 11</td></tr>
 <tr><td>zo 24 maart</td><td>15.00</td><td>Bree</td><td><a href="http://www.debreughel.be">CC De Breughel</a></td><td>089 84 85 65</td></tr>
 <tr><td>di 02 april</td><td>schoolvoorstellingen</td><td>Zonhoven</td><td><a href="http://www.zonhoven.be/tentakel">GC Tentakel</a></td><td>011 81 05 50</td></tr>
-<tr><td>vr 12 april</td><td>schoolvoorstelling</td><td>Utrecht</td><td><a href="http://theaterfestival.info/tweetakt">Tweetakt Festival</a></td><td></td></tr>
 <tr><td>za 13 april</td><td>16.30</td><td>Utrecht</td><td><a href="https://tweetakt.nl/program/modders">Tweetakt Festival</td></tr>
 <tr><td>zo 12 mei</td><td>11.00</td><td>Ternat</td><td><a href="http://www.ccdeploter.be">CC De Ploter</a></td><td>02 582 44 33</td></tr>
 <tr><td>ma 13 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="http://www.ccdeploter.be">CC De Ploter</a></td><td>02 582 44 33</td></tr>
