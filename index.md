@@ -39,9 +39,9 @@ performances:
     id: undertwasser-wasserwasser
     title: Undertwasser Wasserwasser
 ---
-En dan nu alle oren en ogen gespitst op onze nieuwste voorstelling 'GRATIS CHIPS!'<br>
-première op 26 januari<br>
-Wij helpen met plezier de bestaande genderstereotypen de wereld uit en wat meer feminisme de wereld in.
+'GRATIS CHIPS!''MODDERS', 'WAWILDERMAN' wij spelen het allemaal voor u<br>
+en ook zo dicht mogelijk bij uw deur<br>
+Check de speellijst bij de voorstelling.
 
 
 
