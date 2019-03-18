@@ -8,6 +8,11 @@ contentcolor: "#fff"
 ---
 
 ## Compagnie Barbarie in de Pers
+
+- <a href="https://www.youtube.com/watch?v=2XX7pVLDW88">ATV 100% Cultuur — GRATIS CHIPS! (februari 2019)</a>
+- <a href="http://www.standaard.be/cnt/dmf20190201_04147110">de Standaard — GRATIS CHIPS! (februari 2019)</a>
+- <a href="https://weekend.knack.be/lifestyle/maatschappij/feminisme-voor-kleuters-over-sommige-onderwerpen-moet-je-gewoon-luid-roepen/article-longread-1421573.html?cookie_check=1552928231">Focus Knack — GRATIS CHIPS! (januari 2019)</a>
+- <a href="https://www.demorgen.be/podium/feminisme-voor-kleuters-gratis-chips-van-compagnie-barbarie-toont-dat-het-kan-be3a2732/1JKBwo/">de Morgen — GRATIS CHIPS! (januari 2019)</a>
 - <a href="https://vimeo.com/242554032">ATV 100% Cultuur — Modders (november 2017)</a>
 - <a href="https://www.een.be/van-gils-gasten/ode-aan-de-ploetermoeders">Van Gils & Gasten — Modders (november 2017)</a>
 - <a href="https://focus.knack.be/entertainment/podium/compagnie-barbarie-over-modders-met-humor-wekken-we-de-falende-moeder-tot-leven-op-de-buhne/article-longread-919971.html">Knack Focus — Modders (31 oktober 2017)</a>
