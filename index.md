@@ -41,7 +41,7 @@ performances:
 ---
 'GRATIS CHIPS!''MODDERS', 'WAWILDERMAN' wij spelen het allemaal voor u<br>
 en ook zo dicht mogelijk bij uw deur<br>
-Check de speellijst bij de voorstelling.
+Check de speellijst, telkens te vinden bij de specifiekevoorstelling.
 
 
 
