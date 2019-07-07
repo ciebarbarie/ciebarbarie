@@ -27,20 +27,23 @@ contentColor: "#333"
   }
 </style>
 **Feminisme voor Kleuters**
-In ‘GRATIS CHIPS!’ zullen we het hebben over feminisme. Wat dat met chips te maken heeft? Misschien op het eerste gezicht bitter weinig. Chips zien er voor iedereen gelukkig nog hetzelfde uit. Maar als er blauwe en roze chips zouden zijn, aten de meisjes dan enkel nog de roze? En de jongens alleen nog maar blauwe?
-
-Blauw en roze zijn geen onschuldige clichés. We hangen er heel wat vooroordelen aan op: Roze is voor meisjes, net zoals geurkaarsen, huilen, een zorgzaam karakter, dagboeken, gevoelens en pony’s. Blauw is voor jongens, net zoals auto’s, agressie, loonbriefjes en overuren, raketten en blauwe puzzels. Dat er verschillen zijn dat staat vast. Dat we aan die verschillen veel te veel belang hechten dat staat nog veel vaster. Tijd om daar eens aan te beginnen wrikken. Want de strijd om een gelijkwaardige behandeling tussen jongens en meisjes is nog niet gestreden!
-
-Een roze balpen schrijft immers even vlot als een blauwe, toch?
-
-Met een vrolijk gehamer en een zak vol roze zaligheid zullen wij kinderen (en zeker OOK volwassenen) meenemen in een absurd universum waar er stevig gerammeld wordt met de bestaande stereotypen. En wie zoet is krijgt op het einde misschien wel iets lekkers….Chips of zo….
+Al van voor de geboorte schrijven we een individu tal van eigenschappen toe: 
+‘is het een jongen of een meisje?’ is de meest gestelde vraag aan zwangere vrouwen.
+Want bij elke soort horen aparte gedragingen, verwachtingen, voorkeuren en eigenschappen. 
+Nochtans blijkt uit onderzoek dat de verschillen tussen mensen onderling véél groter zijn dan de verschillen tussen jongens of meisjes. 
+Toch vinden we het als mensheid blijkbaar erg nuttig om iedereen in een hokje te stoppen.
+Jongen. Meisje. Blauw. Roze.
+Lekker helder. 
+Dat er verschillen zijn dat staat vast.
+Dat we aan die verschillen veel te veel belang hechten dat staat nog veel vaster.
+Tijd om eens aan de bestaande stereotypen te beginnen wrikken want de strijd om een gelijkwaardige behandeling tussen jongens en meisjes in nog niet gestreden!
 
 **Spel**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Productie**: Leila Boukhalfa en Lisa Gunstone<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
+**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
 **Grafisch ontwerp**: Nick Mattan<br>
 
 Een coproductie met <a href="http://www.villanella.be/">Villanella</a> en <a href="https://www.bronks.be/nl/">BRONKS</a>, Het Laatste Bedrijf en met de steun van de Vlaamse Gemeenschap.<br>
@@ -51,34 +54,33 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>vr 25 jan</td><td>13.30- try-out</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>za 26 jan</td><td>19.00-première </td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>zo 27 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>di 29 en woe 30 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>zo 19 feb</td><td>15.00</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
-<tr><td>ma 18 feb</td><td>schoolvoorstellingen</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
-<tr><td>za 23 feb</td><td>14.30</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
-<tr><td>do 28 feb</td><td>schoolvoorstellingen</td><td>Sint-Gillis-Waas</td><td><a href="https://www.tempus-de-route.be/">GC De Route</a></td></tr>
-<tr><td>wo 6 maart</td><td>15.00</td><td>Oostende</td><td><a href="https://www.degrotepost.be/">De Grote Post</a></td></tr>
-<tr><td>zo 17 maart</td><td>15.00</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
-<tr><td>ma 18 maart</td><td>schoolvoorstelling</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
-<tr><td>di 19 en woe 20 maart</td><td>schoolvoorstellingen</td><td>Tessenderlo</td><td><a href="https://www.cultuurhuistessenderlo.be/">cultuurhuis HET LOO</a></td></tr>
-<tr><td>zo 14 apr</td><td>15.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">CC Het Bolwerk</a></td></tr>
-<tr><td>za 20 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>ma 22 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>ma 23 t/m vr 26 apr</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>zo 28 apr</td><td>14.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
-<tr><td>ma 29 en di 30 apr</td><td>schoolvoorstellingen</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
-<tr><td>zo 5 mei</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">Kopergietery</a></td></tr>
-<tr><td>ma 6 mei</td><td>schoolvoorstelling</td><td>Gent</td><td><a href="https://www.kopergietery.be/">Kopergietery</a></td></tr>
-<tr><td>wo 8 mei</td><td>schoolvoorstelling</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>wo 8 mei</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>do 9 en vr 10 mei</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>za 11 mei</td><td>15.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>za 18 mei</td><td>15.00</td><td>Hasselt</td><td><a href="https://www.ccha.be/">Hasselt cultuurcentrum</a></td></tr>
-<tr><td>di 21 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
-<tr><td>ma 3 t/m do 6 juni</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>do 13 en vr 14 juni</td><td>schoolvoorstellingen</td><td>Duffel</td><td><a href="https://www.duffel.be/">Cinema Plaza</a></td></tr>
+<tr><td>zo 13 okt</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">LEIETHEATER</a></td></tr>
+<tr><td>ma 11 nov</td><td>16.00</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be/">FESTIVAL BARAK BELGIQUE</a></td></tr>
+<tr><td>zo 17 nov</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcenrtum MUZE</a></td></tr>
+<tr><td>di 3 dec</td><td>schoolvoorstellingen</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC de Brouckere</a></td></tr>
+ <tr><td colspan="5"><strong>2020</strong></td></tr> 
+<tr><td>di 21 jan</td><td>schoolvoorstellingen</td><td>Zaventem</td><td><a href="https://www.ccdefactorij.be/">CC De factorij</a></td></tr>
+<tr><td>do 23 jan</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
+<tr><td>zo 26 jan</td><td>15.00</td><td>Asse</td><td><a href="https://www.ccasse.be/">CC Oud Gasthuis</a></td></tr>
+<tr><td>di 28 jan</td><td>schoolvoorstellingen</td><td>Heist o/d Berg</td><td><a href="https://www.zwaneberg.be/">CC Zwaneberg</a></td></tr>
+<tr><td>zo 9 feb</td><td>15.00</td><td>Ieper</td><td><a href="https://www.hetperron.be/">Cultuurcentrum Het Perron</a></td></tr>
+<tr><td>zo 16 feb</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
+<tr><td>di 18 & woe 19 feb</td><td>schoolvoorstellingen</td><td>Bonheiden</td><td><a href="https://www.blikveld.be/">GC't Blikveld</a></td></tr>
+<tr><td>woe 26 feb</td><td>15.30</td><td>Kortemark</td><td><a href="https://www.kortemark.be/">CC De Beuk</a></td></tr>
+<tr><td>zo 1 maart</td><td>15.00</td><td>Maldegem</td><td><a href="https://www.maldegem.be/cc-den-hoogen-pad/">CC Den Hoogen Pad</a></td></tr>
+<tr><td>ma 2 & di 3 maart</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be">CC Westrand</a></td></tr>
+<tr><td>zo 8 maart</td><td>15.00</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
+<tr><td>ma 9 maart</td><td>schoolvoorstellingen</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
+<tr><td>zo 15 maart</td><td>15.00</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum de kimpel</a></td></tr>
+<tr><td>di 17 maart</td><td>schoolvoorstellingen</td><td>Lokeren</td><td><a href="https://www.lokeren.be/cultuur/">Lokeren CC</a></td></tr>
+<tr><td>wo 18 maart</td><td>17.00</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
+<tr><td>do 19 maart</td><td>17.00</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
+<tr><td>zo 22 maart</td><td>15.00</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td>ma 23 maart</td><td>schoolvoorstellingen</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td>zo 29 maart</td><td>15.00</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
+<tr><td>ma 30 & di 31 maart</td><td>schoolvoorstellingen</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
+<tr><td>zo 3 mei</td><td>15.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
+<tr><td>ma 4 mei</td><td>schoolvoorstellingen</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
 
 </table>
 </div>
