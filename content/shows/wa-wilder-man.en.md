@@ -53,17 +53,5 @@ In a visual and humorous manner, the relation between “us” and “them” is
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2018</strong></td></tr>
-<tr><td>zo 28 okt</td><td>14.00 en 16.30</td><td>Dilbeek</td><td><a href="http://www.westrand.be/">CC Westrand</a></td><td>02 466 20 30 </td></tr>
-<tr><td>zo 18 nov</td><td>15.00</td><td>Maasmechelen</td><td><a href="http://www.ccmaasmechelen.be/">CC Maasmechelen</a></td><td>089 76 97 97</td></tr>
-<tr><td>wo 21 nov</td><td>15.00</td><td>Leuven</td><td><a href="http://www.30cc.be/">30CC/Schouwburg</a></td><td>016 30 09 00</td></tr>
 <tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>vr 15 feb</td><td>school performance</td><td>Beernem</td><td><a href="http://www.beernem.be/">OC De Kleine Beer</a></td><td>050 79 99 08</td></tr>
-<tr><td>di 26 maart</td><td>school performance</td><td>Scherpenheuvel-Zichem</td><td><a href="http://www.denegger.be/">GC Den Egger</a></td><td>013 46 06 50</td></tr>
-<tr><td>do 28 maart</td><td>school performance</td><td>Wielsbeke</td><td><a href="http://www.wielsbeke.be/">OC Leieland</a></td><td>056 67 32 70</td></tr>
-<tr><td>vr 05 apr</td><td>school performance</td><td>Hédé-Bazouges-Bretagne-FR</td><td><a href="http://www.theatre-de-poche.com/">Théatre de poche & Festival Bonus</a></td><td>0033 9 81 83 97 20</td></tr>
-<tr><td>za 06 apr</td><td>20.30</td><td>Hédé-Bazouges-Bretagne-FR</td><td><a href="http://www.theatre-de-poche.com/">Théatre de poche & Festival Bonus</a></td><td>0033 9 81 83 97 20</td></tr>
-<tr><td>do 16 mei</td><td>school performance</td><td>Zwevezele</td><td><a href="http://www.wingene.be/">CC De Wissel</a></td><td>051 65 04 40</td></tr>
-<tr><td>za 22 juni</td><td>11.00 en 14.00</td><td>BRONKS</td><td><a href=scholengemeenschap sint goedele/td></tr>
-</table>
-</div>
+<tr><td>sa 12 oct</td><td>16.00 and 18.00</td><td>Paris (FR)</td><td><a href=" https://www.facebook.com/festivaljeunepublicparis/>Festival La Grande Echelle</td></tr>
