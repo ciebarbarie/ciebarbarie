@@ -54,4 +54,4 @@ In a visual and humorous manner, the relation between “us” and “them” is
 <table class="speellijst">
 
 <tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>za 12 okt</td><td>16.00 en 18.00</td><td>Paris (FR)</td><td><a href="http://www.lemonfort.fr/programmation/festival-la-grande-echelle_1/">Le Montfort théâtre</a><</td></tr>
+<tr><td>za 12 okt</td><td>16.00 en 18.00</td><td>Paris (FR)</td><td><a href="http://www.lemonfort.fr/programmation/festival-la-grande-echelle_1/">Le Montfort théâtre</td></tr>
