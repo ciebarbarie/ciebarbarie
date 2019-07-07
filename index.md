@@ -39,9 +39,9 @@ performances:
     id: undertwasser-wasserwasser
     title: Undertwasser Wasserwasser
 ---
-'GRATIS CHIPS!''MODDERS', 'WAWILDERMAN' wij spelen het allemaal voor u<br>
-en ook zo dicht mogelijk bij uw deur<br>
-Check de speellijst, telkens te vinden bij de specifieke voorstelling.
+De nieuwe speellijsten komen eraan! alsook meer info over onze nieuwe creatie<br>
+TIME GOES BYE BYE<br>
+Hou ons in de gaten want wij updaten alles zo snel we kunnen. Fijne zomer!
 
 
 
