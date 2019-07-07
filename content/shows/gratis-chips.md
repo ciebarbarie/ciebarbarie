@@ -80,7 +80,7 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <tr><td>ma 23 maart</td><td>schoolvoorstellingen</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
 <tr><td>zo 29 maart</td><td>15.00</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
 <tr><td>ma 30 & di 31 maart</td><td>schoolvoorstellingen</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
-<tr><td>zo 3 mei</td><td>15.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
+<tr><td>zo 3 mei</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
 <tr><td>ma 4 mei</td><td>schoolvoorstellingen</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
 
 </table>
