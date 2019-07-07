@@ -26,16 +26,17 @@ contentColor: "#333"
     }
   }
 </style>
-**Feminisme voor Kleuters**
-Al van voor de geboorte schrijven we een individu tal van eigenschappen toe: 
-‘is het een jongen of een meisje?’ is de meest gestelde vraag aan zwangere vrouwen.
-Want bij elke soort horen aparte gedragingen, verwachtingen, voorkeuren en eigenschappen. 
-Nochtans blijkt uit onderzoek dat de verschillen tussen mensen onderling véél groter zijn dan de verschillen tussen jongens of meisjes. 
-Toch vinden we het als mensheid blijkbaar erg nuttig om iedereen in een hokje te stoppen.
-Jongen. Meisje. Blauw. Roze.
-Lekker helder. 
-Dat er verschillen zijn dat staat vast.
-Dat we aan die verschillen veel te veel belang hechten dat staat nog veel vaster.
+**Feminisme voor Kleuters**<br>
+
+Al van voor de geboorte schrijven we een individu tal van eigenschappen toe: <br>
+‘is het een jongen of een meisje?’ is de meest gestelde vraag aan zwangere vrouwen.<br>
+Want bij elke soort horen aparte gedragingen, verwachtingen, voorkeuren en eigenschappen. <br>
+Nochtans blijkt uit onderzoek dat de verschillen tussen mensen onderling véél groter zijn dan de verschillen tussen jongens of meisjes.<br> 
+Toch vinden we het als mensheid blijkbaar erg nuttig om iedereen in een hokje te stoppen.<br>
+Jongen. Meisje. Blauw. Roze.<br>
+Lekker helder. <br>
+Dat er verschillen zijn dat staat vast.<br>
+Dat we aan die verschillen veel te veel belang hechten dat staat nog veel vaster.<br>
 Tijd om eens aan de bestaande stereotypen te beginnen wrikken want de strijd om een gelijkwaardige behandeling tussen jongens en meisjes in nog niet gestreden!
 
 **Spel**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
