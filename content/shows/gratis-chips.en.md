@@ -66,35 +66,35 @@ With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</
 ## Playlist
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>vr 25 jan</td><td>13.30- try-out</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>za 26 jan</td><td>19.00-première </td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>zo 27 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>di 29 en woe 30 jan</td><td>school performance</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/">BRONKS</a></td></tr>
-<tr><td>zo 19 feb</td><td>15.00</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
-<tr><td>ma 18 feb</td><td>school performance</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">DE MAAN/CC MECHELEN</a></td></tr>
-<tr><td>za 23 feb</td><td>14.30</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
-<tr><td>do 28 feb</td><td>school performance</td><td>Sint-Gillis-Waas</td><td><a href="https://www.tempus-de-route.be/">GC De Route</a></td></tr>
-<tr><td>wo 6 maart</td><td>15.00</td><td>Oostende</td><td><a href="https://www.degrotepost.be/">De Grote Post</a></td></tr>
-<tr><td>zo 17 maart</td><td>15.00</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
-<tr><td>ma 18 maart</td><td>school performance</td><td>Tongeren</td><td><a href="https://www.develinx.be/">CC De Velinx</a></td></tr>
-<tr><td>di 19 en woe 20 maart</td><td>school performance</td><td>Tessenderlo</td><td><a href="https://www.cultuurhuistessenderlo.be/">cultuurhuis HET LOO</a></td></tr>
-<tr><td>zo 14 apr</td><td>15.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">CC Het Bolwerk</a></td></tr>
-<tr><td>za 20 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>ma 22 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>ma 23 t/m vr 26 apr</td><td>school performance</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>zo 28 apr</td><td>14.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
-<tr><td>ma 29 en di 30 apr</td><td>school performance</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
-<tr><td>zo 5 mei</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">Kopergietery</a></td></tr>
-<tr><td>ma 6 mei</td><td>schoolvoorstelling</td><td>Gent</td><td><a href="https://www.kopergietery.be/">Kopergietery</a></td></tr>
-<tr><td>wo 8 mei</td><td>schoolvoorstelling</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>wo 8 mei</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>do 9 en vr 10 mei</td><td>school performance</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>za 11 mei</td><td>15.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>za 18 mei</td><td>15.00</td><td>Hasselt</td><td><a href="https://www.ccha.be/">Hasselt cultuurcentrum</a></td></tr>
-<tr><td>di 21 mei</td><td>school performance</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
-<tr><td>ma 3 t/m do 6 juni</td><td>school performance</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>do 13 en vr 14 juni</td><td>school performance</td><td>Duffel</td><td><a href="https://www.duffel.be/">Cinema Plaza</a></td></tr>
+<tr><td>sun oct 13</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
+<tr><td>mon nov 11</td><td>16.00</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be/">FESTIVAL BARAK BELGIQUE</a></td></tr>
+<tr><td>sun nov 17</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcenrtum MUZE</a></td></tr>
+<tr><td>tue dec 3</td><td>school performances</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC de Brouckere</a></td></tr>
+ <tr><td colspan="5"><strong>2020</strong></td></tr> 
+<tr><td>tue jan 21</td><td>school performances</td><td>Zaventem</td><td><a href="https://www.ccdefactorij.be/">CC De factorij</a></td></tr>
+<tr><td>thu jan 23</td><td>school performances</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
+<tr><td>sun jan 26</td><td>15.00</td><td>Asse</td><td><a href="https://www.ccasse.be/">CC Oud Gasthuis</a></td></tr>
+<tr><td>tue jan 28</td><td>school performances</td><td>Heist o/d Berg</td><td><a href="https://www.zwaneberg.be/">CC Zwaneberg</a></td></tr>
+<tr><td>sun feb 9</td><td>15.00</td><td>Ieper</td><td><a href="https://www.hetperron.be/">Cultuurcentrum Het Perron</a></td></tr>
+<tr><td>sun feb 16</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
+<tr><td>tue 18 & wed 19 feb</td><td>schoolvoorstellingen</td><td>Bonheiden</td><td><a href="https://www.blikveld.be/">GC't Blikveld</a></td></tr>
+<tr><td>wed feb 26</td><td>15.30</td><td>Kortemark</td><td><a href="https://www.kortemark.be/">CC De Beuk</a></td></tr>
+<tr><td>sun march 1</td><td>15.00</td><td>Maldegem</td><td><a href="https://www.maldegem.be/cc-den-hoogen-pad/">CC Den Hoogen Pad</a></td></tr>
+<tr><td>mon 2 & tue 3 march</td><td>school performances</td><td>Dilbeek</td><td><a href="https://www.westrand.be">CC Westrand</a></td></tr>
+<tr><td>sun march 8</td><td>15.00</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
+<tr><td>mon march 9</td><td>school performances</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
+<tr><td>sun march 15</td><td>15.00</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum de kimpel</a></td></tr>
+<tr><td>tue march 17</td><td>school performances</td><td>Lokeren</td><td><a href="https://www.lokeren.be/cultuur/">Lokeren CC</a></td></tr>
+<tr><td>wed march 18</td><td>17.00</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
+<tr><td>thu march 19</td><td>school performances</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
+<tr><td>sun march 22</td><td>15.00</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td>mon march 23</td><td>school performances</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td>sun march 29</td><td>15.00</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
+<tr><td>mon 30 & tue 31 march</td><td>school performances</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
+<tr><td>sun may 3</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
+<tr><td>mon may 4</td><td>school performances</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
+
+
 
 </table>
 </div>
