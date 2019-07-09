@@ -48,7 +48,7 @@ Met de steun van de Vlaamse Gemeenschap
 <table class="speellijst">
 
 <tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>do 14 nov</td><td>schoolvoorstellingen</td><td>Sint-Agatha-Berchem</td><td><a href="http://www.dekroon.vgc.be">GC De Kroon</td></tr>
+<tr><td>do 14 nov</td><td>schoolvoorstellingen</td><td>Sint-Agatha-Berchem</td><td><a href="http://www.gcdekroon.be">GC De Kroon</td></tr>
 <tr><td>vr 13 dec</td><td>19.30</td><td>Bonheiden</td><td><a href="http://www.blikveld.be">GC 't Blikveld</a></td></tr>
 <tr><td>zo 15 dec</td><td>15.00</td><td>Dendermonde</td><td><a href="http://www.ccbelgica.be">CC Belgica</a></td></tr>
 
