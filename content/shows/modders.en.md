@@ -52,14 +52,14 @@ With the support of the Flemish Community
 <table class="speellijst">
 
 <tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>thu nov 14</td><td>schoolperformances</td><td>Sint-Agatha-Berchem</td><td><a href="http://www.gcdekroon.be">GC De Kroon</td></tr>
+<tr><td>thu nov 14</td><td>school performances</td><td>Sint-Agatha-Berchem</td><td><a href="http://www.gcdekroon.be">GC De Kroon</td></tr>
 <tr><td>fr dec 13</td><td>19.30</td><td>Bonheiden</td><td><a href="http://www.blikveld.be">GC 't Blikveld</a></td></tr>
 <tr><td>sun dec 15</td><td>15.00</td><td>Dendermonde</td><td><a href="http://www.ccbelgica.be">CC Belgica</a></td></tr>
 
 <tr><td colspan="5"><strong>2020</strong></td></tr>
 <tr><td>sa jan 18</td><td>20.00</td><td>Wetteren</td><td><a href="http://www.ccnovawetteren.be">CC Nova</a></td></tr>
 <tr><td>sa feb 15</td><td>19.00</td><td>Waregem</td><td><a href="http://www.ccdeschakel.be">CC De Schakel</a></td></tr>
-<tr><td>tue 10 & wen 11 march</td><td>schoolperformances</td><td>Blankenberge</td><td><a href="http://www.blankenberge.be/cultuur">cultuurcentrum</a></td></tr>
+<tr><td>tue 10 & wen 11 march</td><td>school performances</td><td>Blankenberge</td><td><a href="http://www.blankenberge.be/cultuur">cultuurcentrum</a></td></tr>
 <tr><td>sun apr 5</td><td>15.00</td><td>Temse</td><td><a href="http://www.cultuurcentrumtemse.be">Cultuurcentrum</a></td></tr>
 <tr><td>sun apr 19</td><td>11.00</td><td>Zoutleeuw</td><td><a href="http://www.zoutleeuw.be">GC De Passant</a></td></tr>
 <tr><td>sat may 9</td><td>19.00</td><td>Tervuren</td><td><a href="http://www.dewarandepoort.be">CC De Warandepoort</a></td></tr>
