@@ -1,7 +1,7 @@
 ---
 layout: home
 noheader: true
-intro: Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="/over-ons/">Lees meer</a>
+intro: Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="/nl/over-ons/">Lees meer</a>
 ---
 'GRATIS CHIPS!''MODDERS', 'WA WILDER MAN', wij spelen het allemaal voor u<br>
 en ook zo dicht mogelijk bij uw deur.<br>
