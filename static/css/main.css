@@ -249,7 +249,7 @@ img#poster {
   display: block;
   margin-top: 50px;
   max-width: 100%;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
 }
 
 #shows {
@@ -291,7 +291,7 @@ img#poster {
   left: 10px;
   color: white;
   text-decoration: none;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
 }
 
 #booking-info-link {
