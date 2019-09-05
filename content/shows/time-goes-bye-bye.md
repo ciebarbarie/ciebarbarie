@@ -59,8 +59,8 @@ Oftewel op 34 zwensdag om kwart na miljard.<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
 **Grafisch ontwerp**: Nick Mattan en Mieke Dhooge<br>
 
-Een productie van cie barbarie en <a href="http://www.destudio.be/">De Studio</a> 
-een coproductie met<a href="https://www.bronks.be/nl/">BRONKS</a>,en Per Podium<br>
+Een productie van cie barbarie en <a href="http://www.destudio.com/">De Studio</a> 
+een coproductie met <a href="https://www.bronks.be/nl/">BRONKS</a>,en Per Podium<br>
 TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar met de steun van de Tax Shelter maatregel van de Belgische Federale overheid.
 
 
@@ -68,7 +68,7 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>za 26 okt</td><td>19.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>za 26 okt première</td><td>19.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>zo 27 okt</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>zo 3 nov</td><td>15.00</td><td>Tongeren</td><td><a href="https://www.develinx.be/">De Velinx</a></td></tr>
 <tr><td>ma 4 nov</td><td>schoolvoorstellingen</td><td>Tongeren</td><td><a href="https://www.develinx.be/">De Velinx</a></td></tr>  
@@ -79,11 +79,11 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 <tr><td>do 28 nov</td><td>schoolvoorstelling</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>vr 29 nov</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>za 7 dec</td><td>19.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
-<tr><td>zo 29 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.be/">De Studio</a></td></tr>
-<tr><td>ma 30 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.be/">De Studio</a></td></tr>
+<tr><td>zo 29 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
+<tr><td>ma 30 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
 <tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>vr 3 jan</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.be/">De Studio</a></td></tr>
-<tr><td>zo 5 jan</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.be/">De Studio</a></td></tr>
+<tr><td>vr 3 jan</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
+<tr><td>zo 5 jan</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
 <tr><td>do 30 jan</td><td>schoolvoorstelling</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
 <tr><td>vr 31 jan</td><td>schoolvoorstelling</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
 <tr><td>vr 31 jan</td><td>19.00</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
