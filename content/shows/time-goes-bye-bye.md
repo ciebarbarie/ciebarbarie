@@ -59,7 +59,7 @@ Oftewel op 34 zwensdag om kwart na miljard.<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
 **Grafisch ontwerp**: Nick Mattan en Mieke Dhooge<br>
 
-Een productie van cie barbarie en <a href="http://www.destudio.com/">De Studio</a> 
+Een productie van cie barbarie en <a href="http://www.destudio.com/">De Studio</a>
 een coproductie met <a href="https://www.bronks.be/nl/">BRONKS</a>,en Per Podium<br>
 TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar met de steun van de Tax Shelter maatregel van de Belgische Federale overheid.
 
@@ -71,7 +71,7 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 <tr><td>za 26 okt première</td><td>19.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>zo 27 okt</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>zo 3 nov</td><td>15.00</td><td>Tongeren</td><td><a href="https://www.develinx.be/">De Velinx</a></td></tr>
-<tr><td>ma 4 nov</td><td>schoolvoorstellingen</td><td>Tongeren</td><td><a href="https://www.develinx.be/">De Velinx</a></td></tr>  
+<tr><td>ma 4 nov</td><td>schoolvoorstellingen</td><td>Tongeren</td><td><a href="https://www.develinx.be/">De Velinx</a></td></tr>
 <tr><td>vr 8 nov</td><td>schoolvoorstelling</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">stadsschouwburg</a></td></tr>
 <tr><td>vr 8 nov</td><td>19.30</td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">stadsschouwburg</a></td></tr>
 <tr><td>za 16 nov</td><td>19.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">CC het Bolwerk</a></td></tr>
@@ -96,3 +96,5 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 <tr><td>ma 20 apr</td><td>schoolvoorstelling</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
 <tr><td>di 21 apr</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
 <tr><td>zo 26 apr</td><td>14.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC De Werft</a></td></tr>
+</table>
+</div>
