@@ -43,7 +43,7 @@
       <div class="row">
         <div class="nine columns">
           <ul>
-          {{ range where .Pages.Reverse "Section" "shows" -}}
+          {{ range where .Site.RegularPages.Reverse "Section" "shows" -}}
             <li><a href="{{ .Permalink }}">
               <img src="{{ .Site.BaseURL }}img/{{ .File.TranslationBaseName }}-thumb.jpg" alt="{{ .Title }}">
               <span>{{ .Title }}</span>
