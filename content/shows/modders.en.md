@@ -42,6 +42,7 @@ At the end of the day, it’s still easier to bring up children than to bring do
 **Sound**: Saul Mombaerts<br>
 **Technique**: Saul Mombaerts, Frouke Vangheluwe, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Graphic Design**: Nick Mattan en Ben Raes<br>
+**Pictures**: Franky Verdickt
 
 A coproduction with <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">Villanella</a> and <a href="http://www.demaan.be/">Beeldsmederij De Maan</a><br>
 Thanks to C-Mine Genk, CC De Werft, Geel and Toneelhuis Antwerpen <br>
