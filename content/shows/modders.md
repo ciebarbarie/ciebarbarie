@@ -38,7 +38,7 @@ Een voorstelling van compagnie barbarie.<br>
 **Geluid**: Saul Mombaerts<br>
 **Techniek**: Saul Mombaerts<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes<br>
-**persfoto's**: Franky Verdickt<br>
+**persfotos**: Franky Verdickt<br>
 
 Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">Villanella</a> en <a href="http://www.demaan.be/">Beeldsmederij De Maan</a><br>
 Met dank aan C-Mine Genk, CC De Werft, Geel en Toneelhuis Antwerpen <br>
