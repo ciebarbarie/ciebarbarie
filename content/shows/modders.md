@@ -36,29 +36,26 @@ Een voorstelling van compagnie barbarie.<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Geluid**: Saul Mombaerts<br>
-**Techniek**: Saul Mombaerts,Jannes Dierynck en Koen De Wilde<br>
+**Techniek**: Saul Mombaerts<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes<br>
+**persfoto's**: Franky Verdickt<br>
 
 Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">Villanella</a> en <a href="http://www.demaan.be/">Beeldsmederij De Maan</a><br>
 Met dank aan C-Mine Genk, CC De Werft, Geel en Toneelhuis Antwerpen <br>
-Met de steun van de Vlaamse Gemeenschap
+Met de steun van de Vlaamse Gemeenschap en de Vlaamse Gemeenschapscommissie 
 
 ## Speellijst
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>do 14 nov</td><td>schoolvoorstellingen</td><td>Sint-Agatha-Berchem</td><td><a href="http://www.gcdekroon.be">GC De Kroon</td></tr>
-<tr><td>vr 13 dec</td><td>19.30</td><td>Bonheiden</td><td><a href="http://www.blikveld.be">GC 't Blikveld</a></td></tr>
-<tr><td>zo 15 dec</td><td>15.00</td><td>Dendermonde</td><td><a href="http://www.ccbelgica.be">CC Belgica</a></td></tr>
-
 <tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>za 18 jan</td><td>20.00</td><td>Wetteren</td><td><a href="http://www.ccnovawetteren.be">CC Nova</a></td></tr>
-<tr><td>za 15 feb</td><td>19.00</td><td>Waregem</td><td><a href="http://www.ccdeschakel.be">CC De Schakel</a></td></tr>
-<tr><td>di 10 & woe 11 maart</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="http://www.blankenberge.be/cultuur">cultuurcentrum</a></td></tr>
-<tr><td>zo 5 apr</td><td>15.00</td><td>Temse</td><td><a href="http://www.cultuurcentrumtemse.be">Cultuurcentrum</a></td></tr>
-<tr><td>zo 19 apr</td><td>11.00</td><td>Zoutleeuw</td><td><a href="http://www.zoutleeuw.be">GC De Passant</a></td></tr>
-<tr><td>za 9 mei</td><td>19.00</td><td>Tervuren</td><td><a href="http://www.dewarandepoort.be">CC De Warandepoort</a></td></tr>
+<tr><td>di O3 nov</td><td>15.00</td><td>Heist o/d Berg</td><td><a href="http://www.zwaneberg.be">CC Zwaneberg</td></tr>
+<tr><td>vr 06 nov</td><td>19.00</td><td>Temse</td><td><a href="http://www.cultuurcentrumtemse.be">Cultuurcentrum</a></td></tr>
+<tr><td>di 15 dec</td><td>schoolvoorstellingen</td><td>Beernem</td><td><a href="http://www.beernem.be">OC De kleine beer</a></td></tr>
+
+<tr><td colspan="5"><strong>2021</strong></td></tr>
+<tr><td>wo 17 feb</td><td>15.00</td><td>Zoutleeuw</td><td><a href="http://www.gcdepassant.be">GC De Passant</a></td></tr>
+
 
 
 </table>
