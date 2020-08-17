@@ -40,8 +40,8 @@ performances:
     title: Undertwasser Wasserwasser
 ---
 De nieuwe speellijsten komen eraan! alsook meer info over onze nieuwe creatie<br>
-TIME GOES BYE BYE<br>
-Hou ons in de gaten want wij updaten alles zo snel we kunnen. Fijne zomer!
+PAK DE POEN!<br>
+Hopelijk zien we elkaar snel weer in/met/zonder uw bubbel ergens dicht bij u in de buurt.
 
 
 
