@@ -46,6 +46,7 @@ Tijd om eens aan de bestaande stereotypen te beginnen wrikken want de strijd om 
 **Productie**: Leila Boukhalfa en Lisa Gunstone<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
 **Grafisch ontwerp**: Nick Mattan<br>
+**Persfoto's**: Franky Verdickt<br>
 
 Een coproductie met <a href="http://www.villanella.be/">Villanella</a> en <a href="https://www.bronks.be/nl/">BRONKS</a>, Het Laatste Bedrijf en met de steun van de Vlaamse Gemeenschap.<br>
 ‘GRATIS CHIPS’ kwam tot stand dankzij de Tax-Shelter maatregel van de Belgische Federale Overheid.<br>
@@ -54,11 +55,11 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 ## Speellijst
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>zo 13 okt</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
-<tr><td>ma 11 nov</td><td>16.00</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be/">FESTIVAL BARAK BELGIQUE</a></td></tr>
-<tr><td>zo 17 nov</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcenrtum MUZE</a></td></tr>
-<tr><td>di 3 dec</td><td>schoolvoorstellingen</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC de Brouckere</a></td></tr>
+<tr><td colspan="5"><strong>2020</strong></td></tr>
+<tr><td>zo 22 nov</td><td>15.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino Koksijde</a></td></tr>
+<tr><td>ma 23 nov</td><td>schoolvoorstellingen</td><td>St. Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td>zo 29 nov</td><td>15.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
+<tr><td>zo 20 dec</td><td>15.00</td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/">CC Belgica</a></td></tr>
 <tr><td colspan="5"><strong>2020</strong></td></tr>
 <tr><td>do 16 jan</td><td>schoolvoorstellingen</td><td>Hédé-Bazouges (FR)</td><td><a href="https://www.theatre-de-poche.com/">théâtre de poche</a></td></tr>
 <tr><td>vr 17 jan</td><td>20.30</td><td>Hédé-Bazouges (FR)</td><td><a href="https://www.theatre-de-poche.com/">théâtre de poche</a></td></tr>
