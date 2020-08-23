@@ -68,23 +68,13 @@ Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> 
 <tr><td>zo 14 feb</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
 <tr><td>zo 28 feb</td><td>uur te bepalen</td><td>Wezembeek-Oppem</td><td><a href="https://www.dekam.be/">GC De Kam</a></td></tr>
 <tr><td>ma 01 en di 02 maart</td><td>schoolvoorstellingen</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>zo 16 feb</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
-<tr><td>di 18 & woe 19 feb</td><td>schoolvoorstellingen</td><td>Bonheiden</td><td><a href="https://www.blikveld.be/">GC't Blikveld</a></td></tr>
-<tr><td>woe 26 feb</td><td>15.30</td><td>Kortemark</td><td><a href="https://www.kortemark.be/">CC De Beuk</a></td></tr>
-<tr><td>zo 1 maart</td><td>15.00</td><td>Maldegem</td><td><a href="https://www.maldegem.be/cc-den-hoogen-pad/">CC Den Hoogen Pad</a></td></tr>
-<tr><td>ma 2 & di 3 maart</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be">CC Westrand</a></td></tr>
-<tr><td>zo 8 maart</td><td>15.00</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
-<tr><td>ma 9 maart</td><td>schoolvoorstellingen</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
-<tr><td>zo 15 maart</td><td>15.00</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum de kimpel</a></td></tr>
-<tr><td>di 17 maart</td><td>schoolvoorstellingen</td><td>Lokeren</td><td><a href="https://www.lokeren.be/cultuur/">Lokeren CC</a></td></tr>
-<tr><td>wo 18 maart</td><td>17.00</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
-<tr><td>do 19 maart</td><td>schoolvoorstellingen</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
-<tr><td>zo 22 maart</td><td>15.00</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
-<tr><td>ma 23 maart</td><td>schoolvoorstellingen</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
-<tr><td>zo 29 maart</td><td>15.00</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
-<tr><td>ma 30 & di 31 maart</td><td>schoolvoorstellingen</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
-<tr><td>zo 3 mei</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
-<tr><td>ma 4 mei</td><td>schoolvoorstellingen</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
+<tr><td>do 04 maart</td><td>uur te bepalen</td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>
+<tr><td>zo 07 maart</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr>
+<tr><td>di 09 maart</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur/">cultuurcentrum Blankenberge</a></td></tr>
+<tr><td>di 30 maart</td><td>schoolvoorstellingen</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
+<tr><td>do 15 & vr 16 april</td><td>schoolvoorstellingen</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
+<tr><td>za 17 april</td><td>19.30</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
+
 
 </table>
 </div>
