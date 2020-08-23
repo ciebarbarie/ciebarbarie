@@ -3,6 +3,10 @@ DefaultContentLanguage: nl
 defaultContentLanguageInSubdir: true
 languageCode: "be-nl"
 title: Compagnie Barbarie
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 languages:
   nl:
     title: Compagnie Barbarie
