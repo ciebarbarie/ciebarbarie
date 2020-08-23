@@ -65,36 +65,26 @@ With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</
 
 ## Playlist
 <div class="table-responsive">
-<table class="speellijst">
-<tr><td>sun oct 13</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
-<tr><td>mon nov 11</td><td>16.00</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be/">FESTIVAL BARAK BELGIQUE</a></td></tr>
-<tr><td>sun nov 17</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcenrtum MUZE</a></td></tr>
-<tr><td>tue dec 3</td><td>school performances</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC de Brouckere</a></td></tr>
- <tr><td colspan="5"><strong>2020</strong></td></tr> 
-<tr><td>thu jan 16</td><td>school performances</td><td>Hédé-Bazouges (FR)</td><td><a href="https://www.theatre-de-poche.com/">théâtre de poche</a></td></tr>
-<tr><td>fry jan 17</td><td>20.30</td><td>Hédé-Bazouges (FR)</td><td><a href="https://www.theatre-de-poche.com/">théâtre de poche</a></td></tr>
-<tr><td>tue jan 21</td><td>school performances</td><td>Zaventem</td><td><a href="https://www.ccdefactorij.be/">CC De factorij</a></td></tr>
-<tr><td>thu jan 23</td><td>school performances</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>sun jan 26</td><td>15.00</td><td>Asse</td><td><a href="https://www.ccasse.be/">CC Oud Gasthuis</a></td></tr>
-<tr><td>tue jan 28</td><td>school performances</td><td>Heist o/d Berg</td><td><a href="https://www.zwaneberg.be/">CC Zwaneberg</a></td></tr>
-<tr><td>sun feb 9</td><td>15.00</td><td>Ieper</td><td><a href="https://www.hetperron.be/">Cultuurcentrum Het Perron</a></td></tr>
-<tr><td>sun feb 16</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
-<tr><td>tue 18 & wed 19 feb</td><td>school performances</td><td>Bonheiden</td><td><a href="https://www.blikveld.be/">GC't Blikveld</a></td></tr>
-<tr><td>wed feb 26</td><td>15.30</td><td>Kortemark</td><td><a href="https://www.kortemark.be/">CC De Beuk</a></td></tr>
-<tr><td>sun march 1</td><td>15.00</td><td>Maldegem</td><td><a href="https://www.maldegem.be/cc-den-hoogen-pad/">CC Den Hoogen Pad</a></td></tr>
-<tr><td>mon 2 & tue 3 march</td><td>school performances</td><td>Dilbeek</td><td><a href="https://www.westrand.be">CC Westrand</a></td></tr>
-<tr><td>sun march 8</td><td>15.00</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
-<tr><td>mon march 9</td><td>school performances</td><td>Antwerpen-Berchem</td><td><a href="https://www.ccbe.be/">ccBe</a></td></tr>
-<tr><td>sun march 15</td><td>15.00</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum de kimpel</a></td></tr>
-<tr><td>tue march 17</td><td>school performances</td><td>Lokeren</td><td><a href="https://www.lokeren.be/cultuur/">Lokeren CC</a></td></tr>
-<tr><td>wed march 18</td><td>17.00</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
-<tr><td>thu march 19</td><td>school performances</td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Minnepoort</a></td></tr>
-<tr><td>sun march 22</td><td>15.00</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
-<tr><td>mon march 23</td><td>school performances</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
-<tr><td>sun march 29</td><td>15.00</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
-<tr><td>mon 30 & tue 31 march</td><td>school performances</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
-<tr><td>sun may 3</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
-<tr><td>mon may 4</td><td>school performances</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">cultuurcentrum</a></td></tr>
+<table class="Playlist">
+<tr><td colspan="5"><strong>2020</strong></td></tr>
+<tr><td>Sun 22 nov</td><td>15.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino Koksijde</a></td></tr>
+<tr><td>Mon 23 nov</td><td>schoolperformances</td><td>St.Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td>Sun 29 nov</td><td>15.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
+<tr><td>Sun 20 dec</td><td>15.00</td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/">CC Belgica</a></td></tr>
+<tr><td colspan="5"><strong>2021</strong></td></tr>
+<tr><td>Thu 14 jan</td><td>schoolperformances</td><td>Lokeren</td><td><a href="https://www.lokeren.be/cultuur/">CC Lokeren</a></td></tr>
+<tr><td>Wed 03 en do 4 feb</td><td>schoolperformances</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/"> CC De Schakel</a></td></tr>
+<tr><td>Mon 08 t/m wo 10 feb</td><td>schoolperformances/td><td>Schaarbeek</td><td><a href="https://www.schoolpodiumnoord.be/">GC De Kriekelaar</a></td></tr>
+<tr><td>Thu 11 feb</td><td>schoolperformances</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
+<tr><td>Sun 14 feb</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
+<tr><td>Sun 28 feb</td><td>time t.b.c.</td><td>Wezembeek-Oppem</td><td><a href="https://www.dekam.be/">GC De Kam</a></td></tr>
+<tr><td>Mon 01 en di 02 mar</td><td>schoolperformances</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
+<tr><td>Thu 04 mar</td><td>time t.b.c. </td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>
+<tr><td>Sun 07 mar</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr>
+<tr><td>Tue 09 mar</td><td>schoolperformances/td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur/">cultuurcentrum Blankenberge</a></td></tr>
+<tr><td>Tue 30 mar</td><td>schoolperformances</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
+<tr><td>Thu 15 & vr 16 apr</td><td>schoolperformances</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
+<tr><td>Sat 17 apr</td><td>19.30</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
 
 
 
