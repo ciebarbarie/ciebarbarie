@@ -58,6 +58,7 @@ And if you’re sweet, maybe there will be some tasty treats at the end…. Cris
 **Production**: Leila Boukhalfa en Lisa Gunstone<br>
 **Sound and Technique**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Graphic Design**: Nick Mattan<br>
+**Pictures**: Franky Verdickt<br>
 
 A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href="https://www.bronks.be/nl/">BRONKS</a>, Het Laatste Bedrijf and with the support of the Flemish Government.<br>
 'CRISPS FOR FREE' was realized thanks to the Tax Shelter measure of the Belgian Federal Government.
