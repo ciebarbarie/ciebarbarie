@@ -46,15 +46,16 @@ En onze bizarre reacties op het onbekende....<br>
 **Kostuums**: Viv Van der Poel<br>
 **Geluid en Techniek**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
+**Persfoto's**: Franky Verdickt <br>
 **Met duizendmaal dank aan**: Randi De Vlieghe en Ilse Daems<br>
 
 ## Speellijst
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2019</strong></td></tr>
+<tr><td colspan="5"><strong>2021</strong></td></tr>
 
-<tr><td>za 12 okt</td><td>16.00 en 18.00</td><td>Paris (FR)</td><td><a href="http://www.lemonfort.fr/programmation/festival-la-grande-echelle_1/">Le Montfort théâtre</td></tr>
+<tr><td>wo 19 t/m vrij 21 mei</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="http://www.destudio.com/">DE STUDIO </td></tr>
 
 </table>
 </div>
