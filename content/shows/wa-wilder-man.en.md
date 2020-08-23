@@ -47,11 +47,12 @@ In a visual and humorous manner, the relation between “us” and “them” is
 **Costumes**: Viv Van der Poel<br>
 **Sound and Technique**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
 **Graphic Design**: Nick Mattan en Ben Raes <br>
+**Pictures**: Franky Verdickt <br>
 **Lots of thanks to**: Randi De Vlieghe en Ilse Daems<br>
 
 ## Playlist
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2019</strong></td></tr>
-<tr><td>za 12 okt</td><td>16.00 en 18.00</td><td>Paris (FR)</td><td><a href="http://www.lemonfort.fr/programmation/festival-la-grande-echelle_1/">Le Montfort théâtre</td></tr>
+<tr><td colspan="5"><strong>2021</strong></td></tr>
+<tr><td>Wed 19 up untill Fri 21 May</td><td>schoolperformances</td><td>Antwerp</td><td><a href="http://www.destudio.com/">DE STUDIO </td></tr>
