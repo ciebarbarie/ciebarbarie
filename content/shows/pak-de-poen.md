@@ -24,8 +24,8 @@ Met de steun van de Vlaamse Gemeenschap en de Vlaamse Gemeenschapscommissie
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>za 31 okt première</td><td>uur te bepalen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>zo 01 nov </td><td>uur te bepalen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>za 31 okt première</td><td>19.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>zo 01 nov </td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
 <tr><td>zo 08 nov </td><td>15.00</td><td>Oudenaarde</td><td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
 <tr><td>za 14 nov</td><td>uur te bepalen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>zo 15 nov</td><td>11.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
