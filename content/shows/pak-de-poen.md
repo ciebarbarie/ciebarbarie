@@ -31,7 +31,7 @@ Met de steun van de Vlaamse Gemeenschap en de Vlaamse Gemeenschapscommissie
 <tr><td>zo 15 nov</td><td>11.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
 <tr><td>ma 16 en di 17 nov</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
 <tr><td>ma 30 nov en di 01 dec</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>zo 05 dec</td><td>20.00</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">Cultuurcentrum de Brouckere</a></td></tr>
+<tr><td>za 05 dec</td><td>20.00</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">Cultuurcentrum de Brouckere</a></td></tr>
 <tr><td>ma 07 en di 08 dec</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">CC Westrand</a></td></tr>
 <tr><td colspan="5"><strong>2021</strong></td></tr>
 <tr><td>zo 24 jan</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
