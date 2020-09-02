@@ -236,6 +236,10 @@ h2 {
     padding-bottom: 2em;
 }
 
+#main img {
+  max-width: 100%;
+}
+
 #content {
   color: #333;
   line-height: 36px;
