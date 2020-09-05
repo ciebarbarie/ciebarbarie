@@ -210,9 +210,7 @@ h2 {
 
 #slides-wrap {
   width: 100%;
-}
-
-#slides {
+  height: 100vh;
 }
 
 #slides .copyright {
