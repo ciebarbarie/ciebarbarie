@@ -48,7 +48,7 @@ Familievoorstellingen: 7+
 **Vormgeving**: Viviane van der Poel<br>
 **Kostuums**: Leila Boukhalfa<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
-**Grafisch Ontwerp**: Nick Mattan en Ben Raes<br>
+**Grafisch Ontwerp**: Nick Mattan<br>
 
 **Een coproductie met** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, en <a href="https://www.perpodium.be/">Perpodium</a>.<br>
 **Met dank aan** Needcompany en Beeldsmederij De MAAN
