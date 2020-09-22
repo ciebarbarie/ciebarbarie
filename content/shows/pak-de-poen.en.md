@@ -1,6 +1,6 @@
 ---
-title: Pak De Poen!
-slug: pak-de-poen
+title: Cash In!
+slug: cash-in
 weight: 14
 images:
   "pak-de-poen-1.jpg": Nick Mattan
@@ -22,50 +22,51 @@ backgroundImage: "pak-de-poen-background.jpg"
     text-align: center;
   }
 </style>
-<div class="banner">Nu Kapitalisme Kopen? Bestel Direct. Snel in huis.</div>
+<div class="banner">Capitalism - Buy Now? / Order directly. Quick delivery.</div>
 
-Kom u verrijken op de meest hebzuchtige show van het jaar!<br>
-Want in ‘Pak de poen!’ kunnen kinderen geld verdienen.<br>
-Veel geld.<br>
-En daar kan u als ouder natuurlijk alleen maar van dromen.<br>
+Come and enrich yourself in the most greedy show of the year!<br>
+Because “Cash in!”, allows children to earn money. <br>
+A lot of money. <br>
+Of which you, as a parent, can only dream.<br>
 
-‘Pak de poen!’ wordt een spetterende show met grootste prijzen, waanzinnige opdrachten en uitdagende vraagstukken waarin kinderen zelf bepalen hoe ver ze gaan om te krijgen wat ze willen.<br>
+“Cash In!” will be a spectacular show with major prizes, crazy challenges and defying questions in which children decide for themselves how for they’re willing to go to get what they want.
 
-In ‘Pak de poen!’ krijgen kinderen een inzicht in de binnenkant van ons kapitalistisch systeem en wordt de vanzelfsprekendheid hiervan in vraag gesteld.<br>
-Is groei eindig of een doel op zich?<br>
-Hoe moeilijk is delen eigenlijk echt?<br>
-Waar ligt de grens tussen naar iets verlangen en hebzucht?<br>
-Is méér per definitie altijd beter?<br>
-Geld maakt geld. Zo wordt gezegd. Als we dus meer geld blijven maken,<br>
-Wanneer is er dan genoeg voor iedereen?<br>
+_Is there a stop to growth or is it a goal in itself?_<br>
+_How difficult is sharing, really?_<br>
+_Where does desire stop and greed start?_<br>
+_Is more always better by definition?_<br>
+_Money produces money. That’s what they say. If we keep producing more money,_<br>
+_when, then, will there be enough for everybody?_
 
-Kinderen opvoeden en bewust leren maken van de waarde van geld is geen simpele opdracht. Enerzijds willen we kinderen verantwoordelijkheid aanleren, hen leren beseffen dat de dingen niet gratis uit de lucht vallen en dat alles een prijs heeft.
-Anderzijds vertellen we hen dan weer dat niet alles te koop is,
-Dat geld niet het doel op zich mag zijn en dat wat er écht toe doet onbetaalbaar is.
+Raising children and making them aware of the value of money is not a simple task.<br>
+On the one hand, we want to teach our children responsibility, make them realise<br>
+that things don’t just drop down from the sky for free and that everything has its price.<br>
+On the other hand, we tell them that not everything is for sale,<br>
+That money shouldn’t be a goal in itself and what really matters, is priceless.
 
-Omgaan met geld, altijd meer willen hebben, hoe groter, hoe beter.<br>
-Het is kinderen noch volwassenen vreemd.
+Dealing with money, always wanting more, the bigger, the better.<br>
+It’s familiar to children and to grown-ups.
 
-‘Het einde van het kapitalisme is nabij!’. Zo wordt gezegd, gehoopt, gevreesd.<br>
-Dus kom graaien, grijpen en hebben hebben hebben zolang het nog kan!
+“The end of capitalism is near!”. That’s what’s being said, hoped, feared.<br>
+So come and grab, grope and possess, while we still can!
 
-Schoolvoorstellingen: 4de, 5de, 6de leerjaar.<br>
-Familievoorstellingen: 7+
+School performances: age 9 till 12<br>
+Family performances: 7+
 
-**Spel**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
-**Regie**: Karolien De Bleser<br>
-**Scenografie**: Michiel Van Cauwelaert<br>
-**Vormgeving**: Viviane van der Poel<br>
-**Kostuums**: Leila Boukhalfa<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
-**Grafisch Ontwerp**: Nick Mattan<br>
+**Cast**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Director**: Karolien De Bleser<br>
+**Set Design**: Michiel Van Cauwelaert<br>
+**Design**: Viviane van der Poel<br>
+**Costumes**: Leila Boukhalfa<br>
+**Sound and Technique**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
+**Graphic Design**: Nick Mattan<br>
 
-**Een coproductie met** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, en <a href="https://www.perpodium.be/">Perpodium</a>.<br>
+**A coproduction with** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, and <a href="https://www.perpodium.be/">Perpodium</a>.<br>
 **Met dank aan** Needcompany en Beeldsmederij De MAAN
 
-Première op 31 oktober 2020 in DE STUDIO – Antwerpen.
+Premier: October 31st 2020, DE STUDIO – Antwerpen.
 
-## Speellijst
+## Playlist
 
 <div class="table-responsive">
 <table class="speellijst">
