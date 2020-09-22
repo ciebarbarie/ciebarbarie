@@ -12,6 +12,7 @@ images:
 backgroundColor: "#e1d1b0"
 backgroundImage: "modders-background.jpg"
 ---
+
 _A show about motherhood for 8+ and certainly also for mothers and fathers and everyone who knows one or has one._
 
 You will be facing 4 women.<br>
@@ -35,7 +36,7 @@ At the end of the day, it’s still easier to bring up children than to bring do
 
 <iframe src="https://player.vimeo.com/video/245175026?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-**Performance**:  Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Cast**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Director**: Karolien De Bleser<br>
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
@@ -49,6 +50,7 @@ Thanks to C-Mine Genk, CC De Werft, Geel and Toneelhuis Antwerpen <br>
 With the support of the Flemish Community
 
 ## Playlist
+
 <div class="table-responsive">
 <table class="speellijst">
 
@@ -59,7 +61,6 @@ With the support of the Flemish Community
 
 <tr><td colspan="5"><strong>2021</strong></td></tr>
 <tr><td>wed 17 feb</td><td>15.00</td><td>Zoutleeuw</td><td><a href="http://www.zoutleeuw.be">GC De Passant</a></td></tr>
-
 
 </table>
 </div>

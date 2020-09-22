@@ -56,8 +56,8 @@ Family performances: 7+
 **Cast**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Director**: Karolien De Bleser<br>
 **Set Design**: Michiel Van Cauwelaert<br>
-**Design**: Viviane van der Poel<br>
-**Costumes**: Leila Boukhalfa<br>
+**Costumes**: Viviane van der Poel<br>
+**Production**: Leila Boukhalfa<br>
 **Sound and Technique**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
 **Graphic Design**: Nick Mattan<br>
 

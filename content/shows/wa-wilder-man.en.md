@@ -12,6 +12,7 @@ backgroundColor: "#f5c1d0"
 backgroundImage: "wa-wilder-man-background.png"
 contentColor: "#333"
 ---
+
 <style>
   @media (min-width: 666px) {
     #background-bit-1 {
@@ -23,6 +24,7 @@ contentColor: "#333"
     }
   }
 </style>
+
 We’re from here.<br>
 Because this is here.<br>
 This is us.<br>
@@ -41,16 +43,17 @@ In a visual and humorous manner, the relation between “us” and “them” is
 
 <iframe src="https://player.vimeo.com/video/171478751?title=0&byline=0&portrait=0" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-**Writing**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
-**Performance**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
+**Writing**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes and Sarah Vangeel<br>
+**Cast**: Liesje De Backer, Amber Goethals and Sarah Vangeel<br>
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
-**Sound and Technique**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
-**Graphic Design**: Nick Mattan en Ben Raes <br>
+**Sound and Technique**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde and Eva Dermul<br>
+**Graphic Design**: Nick Mattan and Ben Raes <br>
 **Pictures**: Franky Verdickt <br>
-**Lots of thanks to**: Randi De Vlieghe en Ilse Daems<br>
+**Lots of thanks to**: Randi De Vlieghe and Ilse Daems<br>
 
 ## Playlist
+
 <div class="table-responsive">
 <table class="speellijst">
 

@@ -8,12 +8,12 @@ slide-count: 1
 images:
   "gratis-chips-1.jpg": Nick Mattan
 bits:
-  -
-    filename: "gratis-chips-bit-1.png"
+  - filename: "gratis-chips-bit-1.png"
 backgroundColor: "#8bcdce"
 backgroundImage: "gratis-chips-background.png"
 contentColor: "#333"
 ---
+
 <style>
   @media (min-width: 666px) {
     #background-bit-1 {
@@ -26,16 +26,14 @@ contentColor: "#333"
     }
   }
 </style>
-**Feminism for Preschoolers**
 
+**Feminism for Preschoolers**
 
 In ‘CRISPS FOR FREE’ we will talk about feminism.<br>
 What does that have to do with crisps?<br>
 At first glance, maybe not a lot -<br>
 Luckily, crisps still look the same to everyone.<br>
 But if there were blue crisps and pink crisps, would the girls eat only the pink ones and the boys only the blue?
-
-
 
 Blue and pink aren’t innocent clichés – we hang our prejudices on them.<br>
 Pink is for girls, just like scented candles, crying, being caring, keeping a diary, having feelings and ponies.<br>
@@ -51,7 +49,7 @@ And if you’re sweet, maybe there will be some tasty treats at the end…. Cris
 
 **Credits**
 
-**Performance**: Liesje De Backer, Amber Goethals, Lotte Vaes and Sarah Vangeel<br>
+**Cast**: Liesje De Backer, Amber Goethals, Lotte Vaes and Sarah Vangeel<br>
 **Director**: Karolien De Bleser<br>
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
@@ -65,6 +63,7 @@ A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href=
 With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.
 
 ## Playlist
+
 <div class="table-responsive">
 <table class="Playlist">
 <tr><td colspan="5"><strong>2020</strong></td></tr>
@@ -89,8 +88,5 @@ With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</
 <tr><td>Thu 15 & vr 16 apr</td><td>schoolperformances</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
 <tr><td>Sat 17 apr</td><td>19.30</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
 
-
-
 </table>
 </div>
-
