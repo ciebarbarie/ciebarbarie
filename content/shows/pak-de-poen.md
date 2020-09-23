@@ -61,8 +61,8 @@ Familievoorstellingen: 7+
 **Grafisch Ontwerp**: Nick Mattan<br>
 
 **Een coproductie met** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, en <a href="https://www.perpodium.be/">Perpodium</a>.<br>
-**Met dank aan** Needcompany en Beeldsmederij De MAAN
-**Met de steun van**De Vlaamse Regering en de Tax Shelter maatregel van de Belgische Federale overheid.
+**Met dank aan** Needcompany en Beeldsmederij De MAAN<br>
+**Met de steun van** De Vlaamse Regering en de Tax Shelter maatregel van de Belgische Federale overheid.
 
 Première op 31 oktober 2020 in DE STUDIO – Antwerpen.
 
