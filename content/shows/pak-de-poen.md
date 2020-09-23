@@ -82,7 +82,7 @@ Première op 31 oktober 2020 in DE STUDIO – Antwerpen.
 <tr><td>ma 07 en di 08 dec</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">CC Westrand</a></td></tr>
 <tr><td colspan="5"><strong>2021</strong></td></tr>
 <tr><td>zo 24 jan</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
-<tr><td>zo 31 jan</td><td>uur te bepalen</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
+<tr><td>zo 31 jan</td><td>tbc</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
 <tr><td>do 25 feb</td><td>schoolvoorstellingen</td><td>Meulebeke</td><td><a href="https://www.meulebeke.be/">OC Vondel</a></td></tr>
 <tr><td>za 13 maart</td><td>15.00</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
 <tr><td>di 16 maart</td><td>schoolvoorstelling</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
