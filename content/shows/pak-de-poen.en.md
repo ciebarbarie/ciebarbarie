@@ -29,7 +29,7 @@ Because “Cash in!”, allows children to earn money. <br>
 A lot of money. <br>
 Of which you, as a parent, can only dream.<br>
 
-“Cash In!” will be a spectacular show with major prizes, crazy challenges and defying questions in which children decide for themselves how for they’re willing to go to get what they want.
+“Cash In!” will be a spectacular show with major prizes, crazy challenges and defying questions in which children decide for themselves how far they’re willing to go to get what they want.
 
 _Is there a stop to growth or is it a goal in itself?_<br>
 _How difficult is sharing, really?_<br>
@@ -53,48 +53,49 @@ So come and grab, grope and possess, while we still can!
 School performances: age 9 till 12<br>
 Family performances: 7+
 
-**Cast**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
+**Cast**: Liesje De Backer, Amber Goethals, Lotte Vaes and Sarah Vangeel<br>
 **Director**: Karolien De Bleser<br>
-**Set Design**: Michiel Van Cauwelaert<br>
-**Costumes**: Viviane van der Poel<br>
-**Production**: Leila Boukhalfa<br>
+**Scenography**: Michiel Van Cauwelaert<br>
+**Design**: Viviane van der Poel<br>
+**Costumes**: Leila Boukhalfa<br>
 **Sound and Technique**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
 **Graphic Design**: Nick Mattan<br>
 
 **A coproduction with** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, and <a href="https://www.perpodium.be/">Perpodium</a>.<br>
-**Met dank aan** Needcompany en Beeldsmederij De MAAN
+**Special thanks to** Needcompany en Beeldsmederij De MAAN
+**With the support of**The Flemish Government
 
-Premier: October 31st 2020, DE STUDIO – Antwerpen.
+Premier: October 31st 2020, DE STUDIO – Antwerp.
 
 ## Playlist
 
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>za 31 okt première</td><td>19.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>zo 01 nov </td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>zo 08 nov </td><td>15.00</td><td>Oudenaarde</td><td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
-<tr><td>za 14 nov</td><td>uur te bepalen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>zo 15 nov</td><td>11.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>ma 16 en di 17 nov</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>ma 30 nov en di 01 dec</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>za 05 dec</td><td>20.00</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">Cultuurcentrum de Brouckere</a></td></tr>
-<tr><td>ma 07 en di 08 dec</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">CC Westrand</a></td></tr>
+<tr><td>Sat 31 Oct première</td><td>19.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>Sun 01 Nov </td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>Sun 08 Nov </td><td>15.00</td><td>Oudenaarde</td><td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
+<tr><td>Sat 14 Nov</td><td></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Sun 15 Nov</td><td>11.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
+<tr><td>Mon 16 and Tue 17 Nov</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
+<tr><td>Mon 30 Nov and Tue 01 Dec</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Sat 05 Dec</td><td>20.00</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">Cultuurcentrum de Brouckere</a></td></tr>
+<tr><td>Mon 07 and Tue 08 Dec</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">CC Westrand</a></td></tr>
 <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>zo 24 jan</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
-<tr><td>zo 31 jan</td><td>uur te bepalen</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
-<tr><td>do 25 feb</td><td>schoolvoorstellingen</td><td>Meulebeke</td><td><a href="https://www.meulebeke.be/">OC Vondel</a></td></tr>
-<tr><td>za 13 maart</td><td>15.00</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>di 16 maart</td><td>schoolvoorstelling</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>zo 21 maart</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
-<tr><td>vri 26 maart</td><td>schoolvoorstellingen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>za 27 maart</td><td>uur te bepalen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>wo 31 maart</td><td>uur te bepalen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
-<tr><td>do 01 april</td><td>schoolvoorstellingen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
-<tr><td>vri 09 april</td><td>19.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC de Werft</a></td></tr>
-<tr><td>zo 18 apr</td><td>15.00</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
-<tr><td>ma 19 apr</td><td>schoolvoorstellingen</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
-<tr><td>do 22 en vri 23 apr</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>di 04 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>Sun 24 Jan</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
+<tr><td>Sun 31 Jan</td><td>uur te bepalen</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
+<tr><td>Thu 25 Feb</td><td>schoolvoorstellingen</td><td>Meulebeke</td><td><a href="https://www.meulebeke.be/">OC Vondel</a></td></tr>
+<tr><td>Sat 13 Mar</td><td>15.00</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
+<tr><td>Tue 16 Mar</td><td>schoolvoorstelling</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
+<tr><td>Sun 21 Mar</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
+<tr><td>Fri 26 Mar</td><td>schoolvoorstellingen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
+<tr><td>Sat 27 Mar</td><td>uur te bepalen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
+<tr><td>Wed 31 Mar</td><td>uur te bepalen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
+<tr><td>Thu 01 Apr</td><td>schoolvoorstellingen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
+<tr><td>Fri 09 Apr</td><td>19.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC de Werft</a></td></tr>
+<tr><td>Sun 18 Apr</td><td>15.00</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
+<tr><td>Mon 19 Apr</td><td>schoolvoorstellingen</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
+<tr><td>Thu 22 and Fri 23 Apr</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>Tue 04 MAy</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
 </table>
 </div>
