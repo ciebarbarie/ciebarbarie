@@ -62,7 +62,7 @@ TIME GOES BYE BYE was created without the support of the Flemish Government but 
 <tr><td>Tue 12 Jan</td><td>school performances</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
 <tr><td>Thu 28 Jan</td><td>school performances</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
 <tr><td>Sat 30 Jan</td><td>tbc</td><td>Willebroek</td><td><a href="https://www.willebroek.be/">CC De Ster</a></td></tr>
-<tr><td>Tue 02 Feb</td><td>school performances/td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
+<tr><td>Tue 02 Feb</td><td>school performances</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
 <tr><td>Sun 21 Feb</td><td>14.30</td><td>Roeselaere</td><td><a href="https://www.despil.be/">CC De Spil</a></td></tr>
 <tr><td>Tue 23 Feb</td><td>school performances</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum De Kimpel</a></td></tr>
 <tr><td>Mon 22 till Wed 24 Mar</td><td>school performances</td><td>Harelbeke</td><td><a href="https://www.cchetspoor.be/">CC Het Spoor</a></td></tr>
