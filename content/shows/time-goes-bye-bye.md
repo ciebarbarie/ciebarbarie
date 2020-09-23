@@ -45,7 +45,7 @@ Oftewel op 34 zwensdag om kwart na miljard.<br>
 **Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
-**Productie**: Leila Boukhalfa<br>
+**Kostuums en Productie**: Leila Boukhalfa<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
 **Grafisch ontwerp**: Nick Mattan en Mieke Dhooge<br>
 **Persfoto's**: Franky Verdickt<br>
