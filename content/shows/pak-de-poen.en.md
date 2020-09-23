@@ -89,13 +89,13 @@ Premier: October 31st 2020, DE STUDIO – Antwerp.
 <tr><td>Tue 16 Mar</td><td>school performances</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
 <tr><td>Sun 21 Mar</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
 <tr><td>Fri 26 Mar</td><td>school performances</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>Sat 27 Mar</td><td>uur te bepalen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>Wed 31 Mar</td><td>uur te bepalen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
+<tr><td>Sat 27 Mar</td><td>tbc</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
+<tr><td>Wed 31 Mar</td><td>tbc</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
 <tr><td>Thu 01 Apr</td><td>school performances</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
 <tr><td>Fri 09 Apr</td><td>19.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC de Werft</a></td></tr>
 <tr><td>Sun 18 Apr</td><td>15.00</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
 <tr><td>Mon 19 Apr</td><td>school performances</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
 <tr><td>Thu 22 and Fri 23 Apr</td><td>school performances</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>Tue 04 MAy</td><td>school performances/td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>Tue 04 May</td><td>school performances</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
 </table>
 </div>
