@@ -73,7 +73,7 @@ Premier: October 31st 2020, DE STUDIO – Antwerp.
 <table class="speellijst">
 <tr><td colspan="5"><strong>2020</strong></td></tr>
 <tr><td>Sat 31 Oct première</td><td>19.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>Sun 01 Nov </td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>Sun 01 Nov </td><td>14.00 & 17.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
 <tr><td>Sun 08 Nov </td><td>15.00</td><td>Oudenaarde</td><td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
 <tr><td>Sat 14 Nov</td><td>14.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Sun 15 Nov</td><td>11.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
