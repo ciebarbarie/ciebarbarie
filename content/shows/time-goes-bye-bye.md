@@ -65,14 +65,14 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 <tr><td>za 9 jan</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
 <tr><td>di 12 jan</td><td>schoolvoorstelling</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
 <tr><td>do 28 jan</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>za 30 jan</td><td>uur te bepalen</td><td>Willebroek</td><td><a href="https://www.willebroek.be/">CC De Ster</a></td></tr>
+<tr><td>za 30 jan</td><td>19.00</td><td>Willebroek</td><td><a href="https://www.willebroek.be/">CC De Ster</a></td></tr>
 <tr><td>di 02 feb</td><td>schoolvoorstellingen</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
 <tr><td>zo 21 feb</td><td>14.30</td><td>Roeselaere</td><td><a href="https://www.despil.be/">CC De Spil</a></td></tr>
 <tr><td>di 23 feb</td><td>schoolvoorstellingen</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum De Kimpel</a></td></tr>
 <tr><td>ma 22 t/m woe 24 maart</td><td>schoolvoorstellingen</td><td>Harelbeke</td><td><a href="https://www.cchetspoor.be/">CC Het Spoor</a></td></tr>
-<tr><td>zo 28 maart</td><td>uur te bepalen</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
+<tr><td>zo 28 maart</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
 <tr><td>ma 29 maart</td><td>schoolvoorstelling</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
-<tr><td>di 06 april</td><td>uur te bepalen</td><td>Tienen</td><td><a href="https://www.dekruisboog.be/">CC De Kruisboog</a></td></tr>
+<tr><td>di 06 april</td><td>14.00</td><td>Tienen</td><td><a href="https://www.dekruisboog.be/">CC De Kruisboog</a></td></tr>
 <tr><td>ma 26 en di 27 april</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
 
 </table>
