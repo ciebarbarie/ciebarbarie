@@ -54,7 +54,6 @@ Met de steun van de Vlaamse Gemeenschap en de Vlaamse Gemeenschapscommissie
 <tr><td>vr 27 nov</td><td>schoolvoorstellingen</td><td>Beernem</td><td><a href="http://www.beernem.be">OC De kleine beer</a></td></tr>
 
 <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>wo 17 feb</td><td>20.00</td><td>Zoutleeuw</td><td><a href="http://www.zoutleeuw.be">GC De Passant</a></td></tr>
 <tr><td>wo 07 apr</td><td>15.00</td><td>Zandvliet</td><td><a href="http://www.vrijetijdscentrumdeschelde.be">VC De Schelde</a></td></tr>
 
 
