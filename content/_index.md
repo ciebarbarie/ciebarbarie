@@ -3,6 +3,9 @@ layout: home
 noheader: true
 intro: Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="/nl/over-ons/">Lees meer</a>
 ---
-Onze nieuwste creatie PAK DE POEN! is af!<br>
-En als de maatregelen het toelaten zijn deze en vorige voorstellingen weer op tour door Vlaanderen en daarbuiten<br>
-Hopelijk zien we elkaar snel weer in/met/zonder uw bubbel ergens dicht bij u in de buurt.
+Nu onze nieuwste theatervoorstelling PAK DE POEN! even op de plank moet blijven liggen<br>
+komen we tot bij u met een knallende theatervoorstellingtelevisieshow.<br>
+Eentje waarin geld te verdienen valt. Veel geld.<br>
+Want meer is altijd beter en voor minder gaan we niet.<br>
+PAK DE POEN! DE TV-SHOW! alle info vindt je hier: <br>
+https://www.destudio.com/producties/pak-de-poen-23-01-2021-2000
