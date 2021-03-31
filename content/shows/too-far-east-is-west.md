@@ -8,12 +8,13 @@ bit-2-start: 0
 bit-2-end: -500
 poster: true
 images:
-  "too-far-east-is-west-1.jpg": Franky Verdict
-  "too-far-east-is-west-2.jpg": Franky Verdict
-  "too-far-east-is-west-3.jpg": Franky Verdict
+  "too-far-east-is-west-1.jpg": Franky Verdickt
+  "too-far-east-is-west-2.jpg": Franky Verdickt
+  "too-far-east-is-west-3.jpg": Franky Verdickt
 backgroundColor: "#016752"
 contentColor: "#e7dca4"
 ---
+
 <style>
   #background-bit-1 {
     width: 100%;
@@ -29,6 +30,7 @@ contentColor: "#e7dca4"
     background: url({{ .Site.BaseURL }}img/too-far-east-is-west-bit-2.png) no-repeat top center;
   }
 </style>
+
 cie barbarie gaat in TOO FAR EAST IS WEST op zoek naar het fenomeen reizen en vraagt zich het volgende af:<br>
 waar dromen we van als we op reis willen? Is de reis noodzakelijk? of volstaat het dromen op zich?<br>
 bestaat er zoiets als authenticiteit?<br>
@@ -41,7 +43,7 @@ Vertrekkende vanuit de verhalen van vrouwelijke ontdekkingsreizigers gaat compag
 TOO FAR EAST IS WEST is een bonte verzameling van korte scenes waarin de actrices/reizigers zich verliezen in hun zoektocht naar zichzelf, een ongerept stuk land, de juistheid van de geschiedenis en de wankele balans tussen family en me time.<br>
 Alles wat in deze voorstelling niet vast zit draait volledig door: de hostessen, de opblaasbare orka’s en zelfs de GPS.<br>
 Een voorstelling over ontdekken <br>
-maar vooral  ontdekken van niet.
+maar vooral ontdekken van niet.
 
 **Van en met**: Ruth Beeckmans,Evelien Broekaert, Karolien De Bleser,Amber Goethals,Lotte Vaes,Sarah Vangeel en Anna Vercammen <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
@@ -50,8 +52,6 @@ maar vooral  ontdekken van niet.
 **Techniek**: Thomas Clause <br>
 **Montage**: Sen Jan Jansen <br>
 **Grafisch Ontwerp**: Dinge
-
-
 
 <br>
 Too Far East is West ging in première op 15 oktober 2009  en is een voorstelling in samenwerking met <a href="http://www.stuk.be/">STUK Leuven</a>, <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a> en <a href="http://www.ccberchem.be/">CC Berchem</a> en met de steun van de Vlaamse Gemeenschap.

@@ -5,13 +5,14 @@ weight: 7
 bit-1-start: 0
 bit-1-end: 400
 images:
-  "risk-1.jpg": Franky Verdict
-  "risk-2.jpg": Franky Verdict
-  "risk-3.jpg": Franky Verdict
+  "risk-1.jpg": Franky Verdickt
+  "risk-2.jpg": Franky Verdickt
+  "risk-3.jpg": Franky Verdickt
 backgroundColor: "#ea2433"
 backgroundImage: "risk-background.jpg"
 contentColor: "#fff"
 ---
+
 <style>
   #background-bit-1 {
     width: 100%;
@@ -22,6 +23,7 @@ contentColor: "#fff"
   }
 
 </style>
+
 RISK kadert binnen de herdenkingen rond Wereld Oorlog I en is een asgrijze voorstelling die de pijnlijkheid van de herdenking centraal zet. <br>
 RISK is een impressie.<br>
 Het is het antwoord van onze generatie.<br>
@@ -40,7 +42,6 @@ Een stilistische hommage aan de onkunde van de mens om zinvol met zijn geschiede
 **Productie**: theater Antigone <br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes
 
-
 Risk ging in première op 22 april 2015 en is een coproductie met <a href="http://www.antigone.be/">Theater Antigone</a> met de steun van de Vlaamse Gemeenschap en maakt deel uit van <a href="http://www.gonewest.be/">GoneWest</a>.
 
-RISK zal in 2018,  het laatste jaar van de vierjarige oorlogsherdenking hernomen worden. We  blazen onze 135 jarige oorlogsveteraan alias Ruth Beeckmans nog een laatste nieuwe adem in en met hem ook meteen de hele herdenkingsindustrie.
+RISK zal in 2018, het laatste jaar van de vierjarige oorlogsherdenking hernomen worden. We blazen onze 135 jarige oorlogsveteraan alias Ruth Beeckmans nog een laatste nieuwe adem in en met hem ook meteen de hele herdenkingsindustrie.

@@ -3,12 +3,12 @@ title: Mudders
 slug: mudders
 weight: 11
 images:
-  "modders-1.jpg": Franky Verdict
-  "modders-2.jpg": Franky Verdict
-  "modders-3.jpg": Franky Verdict
-  "modders-4.jpg": Franky Verdict
-  "modders-5.jpg": Franky Verdict
-  "modders-6.jpg": Franky Verdict
+  "modders-1.jpg": Franky Verdickt
+  "modders-2.jpg": Franky Verdickt
+  "modders-3.jpg": Franky Verdickt
+  "modders-4.jpg": Franky Verdickt
+  "modders-5.jpg": Franky Verdickt
+  "modders-6.jpg": Franky Verdickt
 backgroundColor: "#e1d1b0"
 backgroundImage: "modders-background.jpg"
 ---

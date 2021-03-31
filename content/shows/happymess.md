@@ -10,12 +10,13 @@ bit-3-start: 0
 bit-3-end: 0
 poster: true
 images:
-  "happymess-1.jpg": Franky Verdict
-  "happymess-2.jpg": Franky Verdict
-  "happymess-3.jpg": Franky Verdict
+  "happymess-1.jpg": Franky Verdickt
+  "happymess-2.jpg": Franky Verdickt
+  "happymess-3.jpg": Franky Verdickt
 backgroundColor: "#f8aa00"
 contentColor: "#222"
 ---
+
 <style>
   #background-bit-1 {
     width: 100%;
@@ -33,6 +34,7 @@ contentColor: "#222"
     background: url({{ .Site.BaseURL }}img/happymess-bit-2.png) no-repeat top left;
   }
 </style>
+
 In Happymess brengt compagnie barbarie een ode aan het ongeluk van de mens.<br>
 We brengen in deze voorstelling hulde aan de tristesse en aan het dagdagelijks falen van de mens.<br>
 Want wij falen big time. Allemaal. En zo goed als de hele tijd.<br>
@@ -54,6 +56,5 @@ Happymess aanschouwt de mens in al zijn misselijkheid en lacht met haar eigen on
 **productie stage**: Saar Fivez<br>
 **Techniek**:Thomas Clause <br>
 **Grafisch Ontwerp**: Dinge
-
 
 Happymess ging in première op 24 maart 2011 en is een voorstelling in samenwerking met <a href="http://www.stuk.be/">STUK Leuven</a>, <a href="http://www.c-minecultuurcentrum.be/">CC Genk</a> en <a href="http://www.ccberchem.be/">CC Berchem</a> en met de steun van de Vlaamse Gemeenschap en stad Antwerpen.

@@ -2,13 +2,14 @@
 title: Media
 slug: media
 images:
-  "pers-1.jpg": "Franky Verdict"
+  "pers-1.jpg": "Franky Verdickt"
 backgroundColor: "#010302"
 backgroundImage: "pers-background.jpg"
 contentcolor: "#fff"
 ---
 
 ## Company Barbarie in the Media
+
 - <a href="https://www.standaard.be/cnt/dmf20191027_04687914">Recensie de Standaard - TIME GOES BYE BYE (oktober 2019)</a>
 - <a href="https://www.standaard.be/cnt/dmf20191223_04780607">De beste voorstellingen van de week - TIME GOES BYE BYE (december 2019)</a>
 - <a href="https://www.concertnews.be/recensietonen.php?id=4353">Recensie Concertnews — TIME GOES BYE BYE (december 2019)</a>

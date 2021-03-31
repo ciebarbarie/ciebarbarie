@@ -1,7 +1,7 @@
 ---
 title: Pers
 images:
-  "pers-1.jpg": "Franky Verdict"
+  "pers-1.jpg": "Franky Verdickt"
 backgroundColor: "#010302"
 backgroundImage: "pers-background.jpg"
 contentcolor: "#fff"

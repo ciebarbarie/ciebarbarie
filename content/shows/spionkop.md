@@ -9,13 +9,14 @@ bit-2-end: 0
 bit-3-start: 0
 bit-3-end: 0
 images:
-  "spionkop-1.jpg": Franky Verdict
-  "spionkop-2.jpg": Franky Verdict
-  "spionkop-3.jpg": Franky Verdict
+  "spionkop-1.jpg": Franky Verdickt
+  "spionkop-2.jpg": Franky Verdickt
+  "spionkop-3.jpg": Franky Verdickt
 backgroundColor: "#fdfcfa"
 backgroundImage: "spionkop-background.jpg"
 contentColor: "#3e3331"
 ---
+
 <style>
   #background-bit-1 {
     width: 100%;
@@ -42,13 +43,12 @@ SPIONKOP neemt je mee in de duistere en spannende mysteries van dat wat zich aan
 Een ode aan de fantasie of hoe je met je eigen verbeeldingskracht je angsten kan overwinnen.<br>
 SPIONKOP is een beeldende, taalloze voorstelling voor 6+ die op een associatieve manier de verbeelding van de kijker aan het werk zet en aanmoedigt om samen te gaan griezelen.
 
-
 > Een kind wil kijken. Zo begint het altijd, en zo begint het nu.<br>
-Hij kan lopen  en kan met zijn hand bij de deurkruk.<br>
-Hij doet dit zonder iets dat je een doel kan noemen, hoogstens het instinctieve toerisme van een kleuter.<br>
-Een deur is er om tegenaan te duwen; hij loopt naar binnen, blijft staan, en kijkt.<br>
-Wat hij daar ziet wordt  zijn eerste herinnering.<br>
-(naar Julian Barnes)
+> Hij kan lopen en kan met zijn hand bij de deurkruk.<br>
+> Hij doet dit zonder iets dat je een doel kan noemen, hoogstens het instinctieve toerisme van een kleuter.<br>
+> Een deur is er om tegenaan te duwen; hij loopt naar binnen, blijft staan, en kijkt.<br>
+> Wat hij daar ziet wordt zijn eerste herinnering.<br>
+> (naar Julian Barnes)
 
 SPIONKOP wordt gemaakt door Compagnie Barbarie en zal in afwisselende bezetting door 4 actrices van de compagnie gespeeld worden.
 **Vormgeving**: Jan De Brabander<br>
@@ -59,4 +59,3 @@ SPIONKOP wordt gemaakt door Compagnie Barbarie en zal in afwisselende bezetting 
 **Grafisch Ontwerp**: Dieter Desmet
 
 Spionkop ging in première op 1 november 2012 en is een coproductie van cie barbarie en <a href="http://www.villanella.be/">Villanella</a> met de steun van de Vlaamse Gemeenschap en stad Antwerpen.
-

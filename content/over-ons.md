@@ -1,10 +1,10 @@
 ---
 title: Over Ons
 images:
-  "over-ons-1.jpg": Franky Verdict
-  "over-ons-2.jpg": Franky Verdict
-  "over-ons-3.jpg": Franky Verdict
-  "over-ons-4.jpg": Franky Verdict
+  "over-ons-1.jpg": Franky Verdickt
+  "over-ons-2.jpg": Franky Verdickt
+  "over-ons-3.jpg": Franky Verdickt
+  "over-ons-4.jpg": Franky Verdickt
 sidebar: |
   Wie ons wil boeken of meer info wil over verkoop en speellijst bel Liesje: <a href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of neem rechtsreeks contact op met Thassos: <a href="tel:+3232350490">+32&nbsp;3&nbsp;235&nbsp;04&nbsp;90</a>.
 backgroundColor: "#030201"
@@ -12,10 +12,10 @@ backgroundImage: "over-ons-background.jpg"
 contentColor: "#ddd"
 sidebarColor: "#ccc"
 ---
+
 Compagnie barbarie is een professioneel theatercollectief bestaande uit zeven vrouwen.
 
 <iframe src="https://player.vimeo.com/video/292324878?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 Allen studeerden ze aan de theaterschool RITS in Brussel.<br>
 Na het afstuderen beslisten ze om naast hun individuele traject als actrice ook samen aan eenzelfde weg te timmeren.<br>
@@ -38,7 +38,3 @@ Humor is het vermogen om de kloof te herkennen tussen hoe het is en hoe het zou 
 <br>
 <br>
 Compagnie barbarie is: Ruth Beeckmans, Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel
-
-
-
-

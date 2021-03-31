@@ -9,13 +9,14 @@ bit-2-end: -600
 bit-3-start: 600
 bit-3-end: 300
 images:
-  "undertwasser-wasserwasser-1.jpg": Franky Verdict
-  "undertwasser-wasserwasser-2.jpg": Franky Verdict
-  "undertwasser-wasserwasser-3.jpg": Franky Verdict
+  "undertwasser-wasserwasser-1.jpg": Franky Verdickt
+  "undertwasser-wasserwasser-2.jpg": Franky Verdickt
+  "undertwasser-wasserwasser-3.jpg": Franky Verdickt
 backgroundColor: "#d4c7be"
 backgroundImage: "undertwasser-wasserwasser-background.jpg"
 contentcolor: "#fff"
 ---
+
 <style>
   #background-bit-1 {
     width: 100%;
@@ -39,6 +40,7 @@ contentcolor: "#fff"
     background: url({{ .Site.BaseURL }}img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
   }
 </style>
+
 De documentaire ‘Watermarks’ is het vertrekpunt voor Undertwasser wasserwasser.<br>
 Deze documentaire vertelt het verhaal over zeven joodse zwemsters die allen op de vlucht sloegen tijdens WO II en die elkaar vijftig jaar na datum terug ontmoeten om voor een laatste keer samen baantjes te trekken.
 
@@ -60,7 +62,4 @@ Want voor je het weet staar je je blind op je eigen ideaalbeeld en haal je toere
 **Techniek**: Thomas Clause <br>
 **Grafisch Ontwerp**: Dinge
 
-
-
 Undertwasser ging in première op 22 november 2007 en kreeg daarbij de steun van de Vlaamse Gemeenschap, de stad Antwerpen,<a href="http:www.kcnona.be/">kc nOna</a> en <a href="http://www.ccberchem.be/">CC Berchem</a>.
-

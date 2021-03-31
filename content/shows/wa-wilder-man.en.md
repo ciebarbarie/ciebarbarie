@@ -5,9 +5,9 @@ weight: 9
 bit-1-start: 50
 bit-1-end: 1000
 images:
-  "wa-wilder-man-1.jpg": Franky Verdict
-  "wa-wilder-man-2.jpg": Franky Verdict
-  "wa-wilder-man-3.jpg": Franky Verdict
+  "wa-wilder-man-1.jpg": Franky Verdickt
+  "wa-wilder-man-2.jpg": Franky Verdickt
+  "wa-wilder-man-3.jpg": Franky Verdickt
 backgroundColor: "#f5c1d0"
 backgroundImage: "wa-wilder-man-background.png"
 contentColor: "#333"

@@ -5,10 +5,11 @@ weight: 6
 bit-1-start: -100
 bit-1-end: -350
 images:
-  "the-end-is-dear-1.jpg": Franky Verdict
-  "the-end-is-dear-2.jpg": Franky Verdict
-  "the-end-is-dear-3.jpg": Franky Verdict
+  "the-end-is-dear-1.jpg": Franky Verdickt
+  "the-end-is-dear-2.jpg": Franky Verdickt
+  "the-end-is-dear-3.jpg": Franky Verdickt
 ---
+
 <style>
   #main {
     background: #080808 url({{ .Site.BaseURL }}img/the-end-is-dear-background.jpg);
@@ -29,6 +30,7 @@ images:
     }
   }
 </style>
+
 Vier vrouwen leven letterlijk en figuurlijk aan de rand van hun eigen afgrond.<br>
 Ze staan stil.<br>
 Achter hen, een vuil verleden en voor hun neus: een bodemloze put.<br>
@@ -49,4 +51,3 @@ The end is dear ging in première op 7 november 2013 en is een co-productie met 
 . Met dank aan <a href="http://www.tarsenaal.be/">t,arsenaal Mechelen</a>. The End Is Dear werd geselecteerd voor <a href="http://www.circuitx.be/">Circuit X</a>.
 
 <a href="http://www.circuitx.be"><img src="{{ .Site.BaseURL }}img/circuit-x-logo.jpg" style="width: 100px;"></a>
-

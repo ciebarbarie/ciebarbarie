@@ -6,18 +6,19 @@ bit-1-start: -500
 bit-1-end: 700
 slide-count: 1
 images:
-  "time-goes-bye-bye-1.jpg": Franky Verdict
-  "time-goes-bye-bye-2.jpg": Franky Verdict
-  "time-goes-bye-bye-3.jpg": Franky Verdict
-  "time-goes-bye-bye-4.jpg": Franky Verdict
-  "time-goes-bye-bye-5.jpg": Franky Verdict
-  "time-goes-bye-bye-6.jpg": Franky Verdict
-  "time-goes-bye-bye-7.jpg": Franky Verdict
+  "time-goes-bye-bye-1.jpg": Franky Verdickt
+  "time-goes-bye-bye-2.jpg": Franky Verdickt
+  "time-goes-bye-bye-3.jpg": Franky Verdickt
+  "time-goes-bye-bye-4.jpg": Franky Verdickt
+  "time-goes-bye-bye-5.jpg": Franky Verdickt
+  "time-goes-bye-bye-6.jpg": Franky Verdickt
+  "time-goes-bye-bye-7.jpg": Franky Verdickt
 poster: "time-goes-bye-bye-poster.jpg"
 backgroundColor: "#fef3f0"
 backgroundImage: "time-goes-bye-bye-background.jpg"
 contentColor: "#333"
 ---
+
 **TIME GOES BYE BYE (7+)**<br>
 
 > Het kost tijd om tijd te begrijpen.
@@ -54,8 +55,8 @@ Een productie van cie barbarie en <a href="http://www.destudio.com/">De Studio</
 een coproductie met <a href="https://www.bronks.be/nl/">BRONKS</a>,en Per Podium<br>
 TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar met de steun van de Tax Shelter maatregel van de Belgische Federale overheid.
 
-
 ## Speellijst
+
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2020</strong></td></tr>
