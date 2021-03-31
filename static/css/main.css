@@ -191,6 +191,13 @@ h2 {
   }
 }
 
+.no-slides #performance-title {
+  position: static;
+  padding: 10px;
+  background-color: black;
+  
+}
+
 #sidebar {
   line-height: 36px;
   font-size: 12px;

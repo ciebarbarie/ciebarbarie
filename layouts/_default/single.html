@@ -3,10 +3,10 @@
 <head>
   {{ partial "head.html" .}}
 </head>
-<body>
+<body class="{{ if .Params.noSlides }}no-slides{{ end }}">
   {{ partial "header.html" . }}
 
-  {{ partial "slides.html" . }}
+  {{ if not .Params.noSlides }}{{ partial "slides.html" . }}{{ end }}
 
   <div id="performance-title">
     <h1>{{ .Title }}</h1>
