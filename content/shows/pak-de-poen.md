@@ -3,10 +3,13 @@ title: Pak De Poen!
 slug: pak-de-poen
 weight: 14
 images:
-  "pak-de-poen-1.jpg": Nick Mattan
-  "pak-de-poen-2.jpg": Nick Mattan
-  "pak-de-poen-3.jpg": Nick Mattan
-  "pak-de-poen-4.jpg": Nick Mattan
+  "pak-de-poen-1.jpg": Franky Verdickt
+  "pak-de-poen-2.jpg": Franky Verdickt
+  "pak-de-poen-3.jpg": Franky Verdickt
+  "pak-de-poen-4.jpg": Franky Verdickt
+  "pak-de-poen-5.jpg": Franky Verdickt
+  "pak-de-poen-6.jpg": Franky Verdickt
+  "pak-de-poen-7.jpg": Franky Verdickt
 poster: "pak-de-poen-poster.jpg"
 backgroundColor: "#ffffff"
 backgroundImage: "pak-de-poen-background.jpg"
