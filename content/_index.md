@@ -8,4 +8,4 @@ komen we tot bij u met een knallende theatervoorstellingtelevisieshow.<br>
 Eentje waarin geld te verdienen valt. Veel geld.<br>
 Want meer is altijd beter en voor minder gaan we niet.<br>
 PAK DE POEN! DE TV-SHOW! alle info vindt je hier: <br>
-https://www.destudio.com/producties/pak-de-poen-23-01-2021-2000
+https://www.dewerft.be/agenda/1374/Compagnie_Barbarie/PAK_DE_POEN_
