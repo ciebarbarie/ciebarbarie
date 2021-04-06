@@ -473,7 +473,6 @@ form hr {
   font-size: 14px;
   font-family: inherit;
   margin: 0;
-  
 }
 
 .form-row .hint {
@@ -484,4 +483,8 @@ form hr {
 
 .form-row.inline {
   display: flex;
+}
+
+.form-row .fixed-width {
+  width: 8rem;
 }
