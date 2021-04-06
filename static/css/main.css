@@ -468,7 +468,8 @@ form hr {
     display: block;
     margin-bottom: -0.4rem;
 }
-.form-row input[type="text"] {
+.form-row input[type="text"],
+.form-row input[type="email"] {
   width: 100%;
   font-size: 14px;
   font-family: inherit;
