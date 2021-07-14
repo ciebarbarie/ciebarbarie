@@ -59,22 +59,25 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>zo 13 dec </td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcentrum MUZE</a></td></tr>
-<tr><td>vr 18 dec</td><td>19.00</td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/">CC De Warandepoort</a></td></tr>
 <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>za 9 jan</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
-<tr><td>di 12 jan</td><td>schoolvoorstelling</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>do 28 jan</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>za 30 jan</td><td>19.00</td><td>Willebroek</td><td><a href="https://www.willebroek.be/">CC De Ster</a></td></tr>
-<tr><td>di 02 feb</td><td>schoolvoorstellingen</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
-<tr><td>zo 21 feb</td><td>14.30</td><td>Roeselaere</td><td><a href="https://www.despil.be/">CC De Spil</a></td></tr>
-<tr><td>di 23 feb</td><td>schoolvoorstellingen</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum De Kimpel</a></td></tr>
-<tr><td>ma 22 t/m woe 24 maart</td><td>schoolvoorstellingen</td><td>Harelbeke</td><td><a href="https://www.cchetspoor.be/">CC Het Spoor</a></td></tr>
-<tr><td>zo 28 maart</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
-<tr><td>ma 29 maart</td><td>schoolvoorstelling</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
-<tr><td>di 06 april</td><td>14.00</td><td>Tienen</td><td><a href="https://www.dekruisboog.be/">CC De Kruisboog</a></td></tr>
-<tr><td>ma 26 en di 27 april</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
+<tr><td>di 21 sep</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>zo 10 okt</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcentrum MUZE</a></td></tr>
+<tr><td>ma 11- woe 13 okt</td><td>schoolvoorstellingen</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/">CC De Schakel</a></td></tr>
+<tr><td>vri 29 okt</td><td>19.00</td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/">CC De Warandepoort</a></td></tr>
+<tr><td>za 6 nov</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>di 08 feb</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur/">cultuurcentrum Blankenberge</a></td></tr>
+<tr><td>zo 20 maart</td><td>15.00</td><td>Houthalen</td><td><a href="https://www.casino.houthalen-helchteren.be/.be/">Casino</a></td></tr>
+<tr><td>ma 21 maart</td><td>schoolvoorstellingen</td><td>Houthalen</td><td><a href="https://www.casino.houthalen-helchteren.be/.be/">Casino</a></td></tr>
+<tr><td>ma 28 & di 29 maart</td><td>schoolvoorstellingen</td><td>Harelbeke</td><td><a href="https://www.cchetspoor.be/">CC Het Spoor</a></td></tr>
+<tr><td>vri 22 apr</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
+<tr><td>di 26 apr</td><td>schoolvoorstellingen</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum De Kimpel</a></td></tr>
+<tr><td>vri 29 apr</td><td>schoolvoorstellingen</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
+<tr><td>di 03 mei</td><td>schoolvoorstellingen</td><td>St-Agatha-Berchem</td><td><a href="https://www.gcdekroon.be/">GC De Kroon</a></td></tr>
+<tr><td>woe 04 mei</td><td>n.t.b.</td><td>Tienen</td><td><a href=https://dekruisboog.tienen.be/">CC De Kruisboog</a></td></tr>
+<tr><td>zo 15 mei</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
+<tr><td>ma 16 mei</td><td>schoolvoorstelling</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
+<tr><td>do 02 en vri 03 jun</td><td>schoolvoorstellingen</td><td>St.Truiden</td><td><a href="https://www.deboogaard.be/">De Bogaard</a></td></tr>
 
 </table>
 </div>
