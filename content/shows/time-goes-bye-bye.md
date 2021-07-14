@@ -67,7 +67,7 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 <tr><td>za 6 nov</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
 <tr><td colspan="5"><strong>2022</strong></td></tr>
 <tr><td>di 08 feb</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur">cultuurcentrum Blankenberge</a></td></tr>
-<tr><td>zo 20 maart</td><td>15.00</td><td>Houthalen</td><td><a href="https://www.casino.houthalen-helchteren.be/">Casino</a></td></tr>
+<tr><td>zo 20 maart</td><td>15.00</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
 <tr><td>ma 21 maart</td><td>schoolvoorstellingen</td><td>Houthalen</td><td><a href="https://www.casino.houthalen-helchteren.be/">Casino</a></td></tr>
 <tr><td>ma 28 & di 29 maart</td><td>schoolvoorstellingen</td><td>Harelbeke</td><td><a href="https://www.cchetspoor.be/">CC Het Spoor</a></td></tr>
 <tr><td>vri 22 apr</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
