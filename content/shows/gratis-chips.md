@@ -44,7 +44,7 @@ Tijd om eens aan de bestaande stereotypen te beginnen wrikken want de strijd om 
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Productie**: Leila Boukhalfa en Lisa Gunstone<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
+**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck<br>
 **Grafisch ontwerp**: Nick Mattan<br>
 **Persfoto's**: Franky Verdickt<br>
 
@@ -56,27 +56,22 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 ## Speellijst
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>zo 22 nov</td><td>15.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino Koksijde</a></td></tr>
-<tr><td>ma 23 nov</td><td>schoolvoorstellingen</td><td>St.Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">Stadsschouwburg</a></td></tr>
-<tr><td>zo 29 nov</td><td>15.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
-<tr><td>zo 20 dec</td><td>15.00</td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/">CC Belgica</a></td></tr>
 <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>do 14 jan</td><td>schoolvoorstelling</td><td>Lokeren</td><td><a href="https://www.lokeren.be/cultuur/">CC Lokeren</a></td></tr>
-<tr><td>wo 03 en do 04 feb</td><td>schoolvoorstellingen</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/"> CC De Schakel</a></td></tr>
-<tr><td>ma 08 en di 09 feb</td><td>schoolvoorstellingen</td><td>Schaarbeek</td><td><a href="https://www.schoolpodiumnoord.be/">GC De Kriekelaar</a></td></tr>
-<tr><td>do 11 feb</td><td>schoolvoorstellingen</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
-<tr><td>zo 14 feb</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
-<tr><td>zo 28 feb</td><td>15.00</td><td>Wezembeek-Oppem</td><td><a href="https://www.dekam.be/">GC De Kam</a></td></tr>
-<tr><td>ma 01 en di 02 maart</td><td>schoolvoorstellingen</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>do 04 maart</td><td>13.30</td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>
-<tr><td>zo 07 maart</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr>
-<tr><td>di 09 maart</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur/">cultuurcentrum Blankenberge</a></td></tr>
-<tr><td>do 18 en vrij 19 maart</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be">La Montagne Magique (franstalige versie)</a></td></tr>
-<tr><td>za 20 maart</td><td>19.30</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be">La Montagne Magique (franstalige versie)</a></td></tr>
-<tr><td>di 30 maart</td><td>schoolvoorstellingen</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
-<tr><td>do 15 & vr 16 april</td><td>schoolvoorstellingen</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
-<tr><td>za 17 april</td><td>19.30</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
+<tr><td>ma 27 en di 28 sep</td><td>schoolvoorstellingen</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
+<tr><td>zo 03 okt</td><td>15.00</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC</a></td></tr>
+<tr><td>ma 04 okt</td><td>schoolvoorstellingen</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC</a></td></tr>
+<tr><td>zo 17 okt</td><td>15.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
+<tr><td>zo 07 nov</td><td>15.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino Koksijde</a></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>di 15 en woe 16 feb</td><td>schoolvoorstellingen</td><td>Schaarbeek</td><td><a href="https://www.schoolpodiumnoord.be/">GC De Kriekelaar</a></td></tr>
+<tr><td>zo 06 maart</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr> 
+<tr><td>ma14 en di 15 maart</td><td>schoolvoorstellingen</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
+<tr><td>zo 27 maart</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">CCMaasmechelen</a></td></tr>  
+<tr><td>d0 31 maart</td><td>schoolvoorstellingen</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
+<tr><td>zo 24 apr</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
+<tr><td>do 28 apr</td><td>schoolvoorstellingen</td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>  
+  
+
 
 
 </table>
