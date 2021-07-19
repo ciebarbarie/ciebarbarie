@@ -51,6 +51,7 @@ Tijd om eens aan de bestaande stereotypen te beginnen wrikken want de strijd om 
 Een coproductie met <a href="http://www.villanella.be/">Villanella</a> en <a href="https://www.bronks.be/nl/">BRONKS</a>, Het Laatste Bedrijf en met de steun van de Vlaamse Gemeenschap.<br>
 ‘GRATIS CHIPS’ kwam tot stand dankzij de Tax-Shelter maatregel van de Belgische Federale Overheid.<br>
 Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> en <a href="https://www.needcompany.org/">Needcompany</a>
+compagnie barbarie wordt structureel ondersteund door de VGC
 
 ## Speellijst
 <div class="table-responsive">
