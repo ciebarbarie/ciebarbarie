@@ -70,6 +70,7 @@ Familievoorstellingen: 7+
 **Een coproductie met** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, en <a href="https://www.perpodium.be/">Perpodium</a>.<br>
 **Met dank aan** Needcompany en Beeldsmederij De MAAN<br>
 **Met de steun van** De Vlaamse Regering en de Tax Shelter maatregel van de Belgische Federale overheid.
+compagnie barbarie wordt structureel ondersteund door de VGC
 
 ## Speellijst
 
