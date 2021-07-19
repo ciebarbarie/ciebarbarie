@@ -72,7 +72,7 @@ Familievoorstellingen: 7+
 **Met de steun van** De Vlaamse Regering en de Tax Shelter maatregel van de Belgische Federale overheid.<br>
 compagnie barbarie wordt structureel ondersteund door de VGC
 
-Speellijst
+## Speellijst
 
 <div class="table-responsive">
 <table class="speellijst">
