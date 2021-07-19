@@ -47,13 +47,14 @@ Oftewel op 34 zwensdag om kwart na miljard.<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Kostuums en Productie**: Leila Boukhalfa<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
+**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck<br>
 **Grafisch ontwerp**: Nick Mattan en Mieke Dhooge<br>
 **Persfoto's**: Franky Verdickt<br>
 
 Een productie van cie barbarie en <a href="http://www.destudio.com/">De Studio</a>
 een coproductie met <a href="https://www.bronks.be/nl/">BRONKS</a>,en Per Podium<br>
 TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar met de steun van de Tax Shelter maatregel van de Belgische Federale overheid.
+compagnie barbarie wordt structureel ondersteund door de VGC.
 
 ## Speellijst
 
@@ -66,6 +67,7 @@ TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar
 <tr><td>vri 29 okt</td><td>19.00</td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/">CC De Warandepoort</a></td></tr>
 <tr><td>za 6 nov</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
 <tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>vri 04 feb</td><td>n.t.b.</td><td>Willebroek</td><td><a href="https://www.willebroek.be/nl/cc-de-ster/">CC Nova</a></td></tr>
 <tr><td>di 08 feb</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur">cultuurcentrum Blankenberge</a></td></tr>
 <tr><td>zo 20 maart</td><td>15.00</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
 <tr><td>ma 21 maart</td><td>schoolvoorstellingen</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
