@@ -45,7 +45,7 @@ En onze bizarre reacties op het onbekende....<br>
 **Spel**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
-**Geluid en Techniek**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
+**Geluid en Techniek**: Saul Mombaerts en Jannes Dierynck<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
 **Persfoto's**: Franky Verdickt <br>
 **Met duizendmaal dank aan**: Randi De Vlieghe en Ilse Daems<br>
@@ -57,7 +57,7 @@ En onze bizarre reacties op het onbekende....<br>
 
 <tr><td colspan="5"><strong>2021</strong></td></tr>
 
-<tr><td>wo 19 t/m vrij 21 mei</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="http://www.destudio.com/">DE STUDIO </td></tr>
+<tr><td>do 21 april</td><td>schoolvoorstellingen</td><td>Oudenaarde</td><td><a href="https://www.oudenaarde.be/nl/de-woeker">CC De Woeker </td></tr>
 
 </table>
 </div>

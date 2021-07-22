@@ -64,44 +64,40 @@ Familievoorstellingen: 7+
 **Scenografie**: Michiel Van Cauwelaert<br>
 **Vormgeving**: Viviane van der Poel<br>
 **Kostuums**: Leila Boukhalfa<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
+**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Sarah Feyen<br>
 **Grafisch Ontwerp**: Nick Mattan<br>
 
 **Een coproductie met** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, en <a href="https://www.perpodium.be/">Perpodium</a>.<br>
 **Met dank aan** Needcompany en Beeldsmederij De MAAN<br>
-**Met de steun van** De Vlaamse Regering en de Tax Shelter maatregel van de Belgische Federale overheid.
-
-Première op 31 oktober 2020 in DE STUDIO – Antwerpen.
+**Met de steun van** De Vlaamse Regering en de Tax Shelter maatregel van de Belgische Federale overheid.<br>
+compagnie barbarie wordt structureel ondersteund door de VGC
 
 ## Speellijst
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>za 31 okt première</td><td>19.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>zo 01 nov </td><td>14.00 en 17.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>zo 08 nov </td><td>14.30</td><td>Oudenaarde</td><td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
-<tr><td>za 14 nov</td><td>14.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>zo 15 nov</td><td>11.00</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>ma 16 en di 17 nov</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>ma 30 nov en di 01 dec</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>za 05 dec</td><td>19.00</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">Cultuurcentrum de Brouckere</a></td></tr>
-<tr><td>ma 07 en di 08 dec</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">CC Westrand</a></td></tr>
 <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>zo 24 jan</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
-<tr><td>zo 31 jan</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
-<tr><td>do 25 feb</td><td>schoolvoorstellingen</td><td>Meulebeke</td><td><a href="https://www.meulebeke.be/">OC Vondel</a></td></tr>
-<tr><td>za 13 maart</td><td>15.00</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>di 16 maart</td><td>schoolvoorstelling</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>zo 21 maart</td><td>15.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
-<tr><td>vri 26 maart</td><td>schoolvoorstellingen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>za 27 maart</td><td>19.00</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>wo 31 maart</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
-<tr><td>do 01 april</td><td>schoolvoorstellingen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">cc De Kern</a></td></tr>
-<tr><td>vri 09 april</td><td>19.30</td><td>Geel</td><td><a href="https://www.dewerft.be/">CC de Werft</a></td></tr>
-<tr><td>zo 18 apr</td><td>15.00</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
-<tr><td>ma 19 apr</td><td>schoolvoorstellingen</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC/Schouwburg</a></td></tr>
-<tr><td>do 22 en vri 23 apr</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>di 04 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>wo 29 sep</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
+<tr><td>do 30 sep</td><td>schoolvoorstellingen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
+<tr><td>zo 23 okt</td><td>14.30</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC De Brouckere</a></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>di 01 feb</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
+<tr><td>zo 27 feb</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
+<tr><td>woe 02 maart</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
+<tr><td>do 17 & vr 18 maart</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
+<tr><td>vri 25 maart</td><td>schoolvoorstellingen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
+<tr><td>zo 01 mei</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>ma 02 mei</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>do 05 mei</td><td>schoolvoorstellingen</td><td>Maaseik</td><td><a href="https://www.achterolmen.be/">CC Achterolmen</a></td></tr>
+<tr><td>di 10 mei</td><td>schoolvoorstellingen</td><td>Oudenaarde</td><td><a href="https://www.https://www.oudenaarde.be/nl/de-woeker/">CC De Woeker</a></td></tr>
+<tr><td>vri 13 mei</td><td>schoolvoorstellingen</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
+<tr><td>do 19 en vri 20 mei</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>za 21 mei</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>zo 22 mei</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
+<tr><td>ma 23 mei</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
+<tr><td>di 31 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>zo 12 jun</td><td>15.00</td><td>Roeselaere</td><td><a href="https://www.despil.be/">De Spil</a></td></tr>
+
+
 </table>
 </div>

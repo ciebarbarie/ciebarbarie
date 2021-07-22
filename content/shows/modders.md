@@ -43,7 +43,8 @@ Een voorstelling van compagnie barbarie.<br>
 
 Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">Villanella</a> en <a href="http://www.demaan.be/">Beeldsmederij De Maan</a><br>
 Met dank aan C-Mine Genk, CC De Werft, Geel en Toneelhuis Antwerpen <br>
-Met de steun van de Vlaamse Gemeenschap en de Vlaamse Gemeenschapscommissie
+Met de steun van de Vlaamse Gemeenschap<br>
+compagnie barbarie wordt structureel ondersteund door de VGC
 
 ## Speellijst
 
