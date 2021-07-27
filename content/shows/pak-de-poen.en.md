@@ -63,7 +63,8 @@ Family performances: 7+
 
 **A coproduction with** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, and <a href="https://www.perpodium.be/">Perpodium</a>.<br>
 **Special thanks to** Needcompany en Beeldsmederij De MAAN<br>
-**With the support of** The Flemish Government and the support of the Tax Shelter measure of the Belgian Federal Government.
+**With the support of** The Flemish Government and the support of the Tax Shelter measure of the Belgian Federal Government.<br>
+Cie Barbarie recieves structural support from the Commission of the Flemish Community
 
 Premier: October 31st 2020, DE STUDIO – Antwerp.
 
