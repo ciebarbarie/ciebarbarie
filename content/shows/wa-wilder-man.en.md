@@ -58,4 +58,7 @@ Cie barbarie recieves structural funding of the Commission of the Flemish Commun
 <table class="speellijst">
 
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>Wed 19 up untill Fri 21 May</td><td>schoolperformances</td><td></td><td><a href="http://www.destudio.com/">DE STUDIO </td></tr>
+<tr><td>Thu 21 april</td><td>school performances</td><td>Oudenaarde</td><td><a href="https://www.oudenaarde.be/nl/de-woeker">CC De Woeker </td></tr>
+
+</table>
+</div>
