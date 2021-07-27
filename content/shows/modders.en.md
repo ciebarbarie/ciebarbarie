@@ -47,7 +47,7 @@ At the end of the day, it’s still easier to bring up children than to bring do
 
 A coproduction with <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="https://www.destudio.com/">Villanella</a> and <a href="http://www.demaan.be/">Beeldsmederij De Maan</a><br>
 Thanks to C-Mine Genk, CC De Werft, Geel and Toneelhuis Antwerpen <br>
-With the support of the Flemish Community
+With the support of the Flemish Community<br>
 Cie Barbarie recieves structural support from the Commission of the Flemish Community
 
 ## Playlist
