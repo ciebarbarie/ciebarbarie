@@ -47,7 +47,7 @@ In a visual and humorous manner, the relation between “us” and “them” is
 **Cast**: Liesje De Backer, Amber Goethals and Sarah Vangeel<br>
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
-**Sound and Technique**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde and Eva Dermul<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan and Ben Raes <br>
 **Pictures**: Franky Verdickt <br>
 **Lots of thanks to**: Randi De Vlieghe and Ilse Daems<br>
@@ -57,5 +57,5 @@ In a visual and humorous manner, the relation between “us” and “them” is
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Wed 19 up untill Fri 21 May</td><td>schoolperformances</td><td>Antwerp</td><td><a href="http://www.destudio.com/">DE STUDIO </td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>Wed 19 up untill Fri 21 May</td><td>schoolperformances</td><td></td><td><a href="http://www.destudio.com/">DE STUDIO </td></tr>
