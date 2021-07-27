@@ -1,5 +1,5 @@
 ---
-title: Pak De Poen!
+title: Pak De Poen! (7+)
 slug: pak-de-poen
 weight: 14
 images:
