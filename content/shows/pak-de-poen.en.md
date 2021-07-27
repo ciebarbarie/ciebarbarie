@@ -58,7 +58,7 @@ Family performances: 7+
 **Scenography**: Michiel Van Cauwelaert<br>
 **Design**: Viviane van der Poel<br>
 **Costumes**: Leila Boukhalfa<br>
-**Sound and Technique**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan<br>
 
 **A coproduction with** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, and <a href="https://www.perpodium.be/">Perpodium</a>.<br>
