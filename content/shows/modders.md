@@ -36,7 +36,7 @@ Een voorstelling van compagnie barbarie.<br>
 **Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
-
+**Technisch team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes<br>
 **Persfotos**: Franky Verdickt<br>
 
@@ -54,7 +54,7 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>di 02 nov</td><td>15.00</td><td>Heist o/d Berg</td><td><a href="http://www.zwaneberg.be">CC Zwaneberg</td></tr>
 <tr><td>wo 03 nov</td><td>14.00</td><td>Zandvliet</td><td><a href="http://www.vrijetijdscentrumdeschelde.be">VC De Schelde</a></td></tr>
 
-<tr><td colspan="5"><strong>2021</strong></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
 <tr><td>do 24 feb</td><td>schoolvoorstellingen</td><td>Beernem</td><td><a href="http://www.beernem.be">OC De kleine beer</a></td></tr>
 <tr><td>do 10 maart</td><td>10.30 & 19.00</td><td>Wenen (Duitse versie)</td><td><a href="https://www.dschungelwien.at/">Dschungel Wien</a></td></tr>
 <tr><td>vr 11 maart</td><td>10.30</td><td>Wenen (Duitse versie)</td><td><a href="https://www.dschungelwien.at/">Dschungel Wien</a></td></tr>
