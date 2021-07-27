@@ -1,5 +1,5 @@
 ---
-title: Gratis Chips!
+title: Gratis Chips! (5+)
 slug: gratis-chips
 weight: 12
 bit-1-start: -500
