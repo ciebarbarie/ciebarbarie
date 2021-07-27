@@ -50,7 +50,7 @@ In a visual and humorous manner, the relation between “us” and “them” is
 **Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan and Ben Raes <br>
 **Pictures**: Franky Verdickt <br>
-**Lots of thanks to**: Randi De Vlieghe and Ilse Daems<br>
+Cie barbarie recieves structural funding of the Commission of the Flemish Community
 
 ## Playlist
 
