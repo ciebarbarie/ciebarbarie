@@ -61,7 +61,7 @@ And if you’re sweet, maybe there will be some tasty treats at the end…. Cris
 A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href="https://www.bronks.be/nl/">BRONKS</a>, Het Laatste Bedrijf and with the support of the Flemish Government.<br>
 'CRISPS FOR FREE' was realized thanks to the Tax Shelter measure of the Belgian Federal Government.
 With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.<br>
-Cie Barbarie recieves structural support from the Commission of the Flemish Community
+cie barbarie recieves structural support from the Commission of the Flemish Community
 
 ## Playlist
 
