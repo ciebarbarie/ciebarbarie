@@ -1,5 +1,5 @@
 ---
-title: Mudders
+title: Mudders (8+)
 slug: mudders
 weight: 11
 images:
@@ -41,7 +41,7 @@ At the end of the day, it’s still easier to bring up children than to bring do
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Sound**: Saul Mombaerts<br>
-**Technique**: Saul Mombaerts, Frouke Vangheluwe, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan en Ben Raes<br>
 **Pictures**: Franky Verdickt
 
