@@ -54,7 +54,7 @@ And if you’re sweet, maybe there will be some tasty treats at the end…. Cris
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Production**: Leila Boukhalfa en Lisa Gunstone<br>
-**Sound and Technique**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan<br>
 **Pictures**: Franky Verdickt<br>
 
