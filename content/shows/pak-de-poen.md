@@ -57,7 +57,7 @@ Het is kinderen noch volwassenen vreemd.
 Dus kom graaien, grijpen en hebben hebben hebben zolang het nog kan!
 
 Schoolvoorstellingen: 4de, 5de, 6de leerjaar.<br>
-Familievoorstellingen: 7+
+Familievoorstellingen: 7+ <br>
 
 **Spel**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Regie**: Karolien De Bleser<br>
