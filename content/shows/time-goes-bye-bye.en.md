@@ -75,7 +75,7 @@ Cie barbarie recieves structural support from the Commission of the Flemish Comm
 <tr><td>Wed 04 may</td><td>n.t.b.</td><td>Tienen</td><td><a href=https://dekruisboog.tienen.be/>CC De Kruisboog</a></td></tr>
 <tr><td>Sun 15 may</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
 <tr><td>Mon 16 may</td><td>school performances</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
-<tr><td>Thu 02 @ Fri 03 jun</td><td>school performances</td><td>St.Truiden</td><td><a href="https://www.debogaard.be/">De Bogaard</a></td></tr>
+<tr><td>Thu 02 & Fri 03 jun</td><td>school performances</td><td>St.Truiden</td><td><a href="https://www.debogaard.be/">De Bogaard</a></td></tr>
 
 </table>
 </div>
