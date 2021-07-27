@@ -1,5 +1,5 @@
 ---
-title: Cash In!
+title: Cash In! (7+)
 slug: cash-in
 weight: 14
 images:
