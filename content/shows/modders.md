@@ -53,12 +53,12 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 
 <tr><td colspan="5"><strong>2021</strong></td></tr>
 <tr><td>di 02 nov</td><td>15.00</td><td>Heist o/d Berg</td><td><a href="http://www.zwaneberg.be">CC Zwaneberg</td></tr>
-<tr><td>wo 03 nov</td><td>15.00</td><td>Zandvliet</td><td><a href="http://www.vrijetijdscentrumdeschelde.be">VC De Schelde</a></td></tr>
-
-
+<tr><td>wo 03 nov</td><td>14.00</td><td>Zandvliet</td><td><a href="http://www.vrijetijdscentrumdeschelde.be">VC De Schelde</a></td></tr>
 
 <tr><td colspan="5"><strong>2021</strong></td></tr>
 <tr><td>do 24 feb</td><td>schoolvoorstellingen</td><td>Beernem</td><td><a href="http://www.beernem.be">OC De kleine beer</a></td></tr>
+<tr><td>do 10 maart</td><td>10.30 & 19.00</td><td>Wenen (Duitse versie)</td><td><a href="https://www.dschungelwien.at/">Dschungel Wien</a></td></tr>
+<tr><td>vr 11 maart</td><td>10.30</td><td>Wenen (Duitse versie)</td><td><a href="https://www.dschungelwien.at/">Dschungel Wien</a></td></tr>
 <tr><td>zo 13 maart</td><td>19.00</td><td>Temse</td><td><a href="http://www.cultuurcentrumtemse.be">Cultuurcentrum</a></td></tr>
 <tr><td>di 19 en woe 20 apr</td><td>schoolvoorstelingen</td><td>Knokke-Heist</td><td><a href="https://www.knokke-heist.be/vrije-tijd/cultuurcentrum-knokke-heist">Cultuurcentrum Knokke-Heist</a></td></tr>
 </table>
