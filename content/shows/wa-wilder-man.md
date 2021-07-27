@@ -44,8 +44,7 @@ En onze bizarre reacties op het onbekende....<br>
 **Van en met**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Spel**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
-**Kostuums**: Viv Van der Poel<br>
-**Geluid en Techniek**: Saul Mombaerts en Jannes Dierynck<br>
+**Technisch team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
 **Persfoto's**: Franky Verdickt <br>
 **Met duizendmaal dank aan**: Randi De Vlieghe en Ilse Daems<br>
