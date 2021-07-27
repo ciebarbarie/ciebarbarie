@@ -1,5 +1,5 @@
 ---
-title: Modders
+title: Modders (8+)
 slug: modders
 weight: 11
 images:
@@ -36,8 +36,7 @@ Een voorstelling van compagnie barbarie.<br>
 **Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
-**Geluid**: Saul Mombaerts<br>
-**Techniek**: Saul Mombaerts<br>
+
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes<br>
 **Persfotos**: Franky Verdickt<br>
 
