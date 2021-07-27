@@ -1,5 +1,5 @@
 ---
-title: Time Goes Bye Bye
+title: Time Goes Bye Bye (7+)
 slug: time-goes-bye-bye
 weight: 13
 bit-1-start: -500
@@ -49,7 +49,7 @@ A production of cie barbarie and <a href="http://www.destudio.com/">De Studio</a
 a coproduction with <a href="https://www.bronks.be/nl/">BRONKS</a>, and Per Podium<br>.
 
 TIME GOES BYE BYE was created without the support of the Flemish Government but with the support of the Tax Shelter measure of the Belgian Federal Government.<br>
-Cie barbarie recieves structural support from the Commission of the Flemish Community
+cie barbarie recieves structural support from the Commission of the Flemish Community
 
 ## Playlist
 
