@@ -54,7 +54,7 @@ Cie Barbarie wordt structureel ondersteund door de VGC
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2021</strong></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
 
 <tr><td>do 21 april</td><td>schoolvoorstellingen</td><td>Oudenaarde</td><td><a href="https://www.oudenaarde.be/nl/de-woeker">CC De Woeker </td></tr>
 
