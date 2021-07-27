@@ -1,5 +1,5 @@
 ---
-title: Wa Wilder Man
+title: Wa Wilder Man (4+)
 slug: wa-wilder-man
 weight: 9
 bit-1-start: 50
