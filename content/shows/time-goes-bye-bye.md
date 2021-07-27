@@ -47,14 +47,14 @@ Oftewel op 34 zwensdag om kwart na miljard.<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Kostuums en Productie**: Leila Boukhalfa<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Grafisch ontwerp**: Nick Mattan en Mieke Dhooge<br>
 **Persfoto's**: Franky Verdickt<br>
 
 Een productie van cie barbarie en <a href="http://www.destudio.com/">De Studio</a>
 een coproductie met <a href="https://www.bronks.be/nl/">BRONKS</a>,en Per Podium<br>
-TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar met de steun van de Tax Shelter maatregel van de Belgische Federale overheid.
-compagnie barbarie wordt structureel ondersteund door de VGC.
+TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar met de steun van de Tax Shelter maatregel van de Belgische Federale overheid.<br>
+cie barbarie wordt structureel ondersteund door de VGC.
 
 ## Speellijst
 
