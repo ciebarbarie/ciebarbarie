@@ -41,7 +41,7 @@ Première on Swellnesday the 34th at a quarter past billion.
 **Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Production & Costumes**: Leila Boukhalfa<br>
-**Sound and technique**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan en Mieke Dhooge<br>
 **Persfoto's**: Franky Verdickt<br>
 
