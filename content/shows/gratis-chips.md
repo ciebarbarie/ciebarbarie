@@ -44,7 +44,7 @@ Tijd om eens aan de bestaande stereotypen te beginnen wrikken want de strijd om 
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Kostuums**: Viv Van der Poel<br>
 **Productie**: Leila Boukhalfa en Lisa Gunstone<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck<br>
+**Technisch team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Grafisch ontwerp**: Nick Mattan<br>
 **Persfoto's**: Franky Verdickt<br>
 
@@ -65,11 +65,11 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td colspan="5"><strong>2022</strong></td></tr>
 <tr><td>di 15 en woe 16 feb</td><td>schoolvoorstellingen</td><td>Schaarbeek</td><td><a href="https://www.schoolpodiumnoord.be/">GC De Kriekelaar</a></td></tr>
 <tr><td>zo 06 maart</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr> 
-<tr><td>ma14 en di 15 maart</td><td>schoolvoorstellingen</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
+<tr><td>ma 14 en di 15 maart</td><td>schoolvoorstellingen</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
 <tr><td>di 22- do 24 maart</td><td>schoolvoorstellingen (VF)</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be/">la Montagne Magique</a></td></tr>
 <tr><td>za 26 maart</td><td>t.b.c.(VF)</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be/">la Montagne Magique</a></td></tr>
 <tr><td>zo 27 maart</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">CCMaasmechelen</a></td></tr>  
-<tr><td>d0 31 maart</td><td>schoolvoorstellingen</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
+<tr><td>do 31 maart</td><td>schoolvoorstellingen</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
 <tr><td>zo 24 apr</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
 <tr><td>do 28 apr</td><td>schoolvoorstellingen</td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>  
   
