@@ -1,10 +1,10 @@
 ---
-title: Mise en Place
+title: Mise en Place (6+)
 slug: mise-en-place
 weight: 15
 slide-count: 1
 images:
-  "mise-en-place-1.jpg": Franky Verdickt
+  "mise-en-place-1.jpg": Diego Franssens
 backgroundColor: "#0e1619"
 backgroundImage: "mise-en-place-background.jpg"
 contentColor: "#fff"
@@ -16,7 +16,8 @@ contentColor: "#fff"
 </style>
 **MISE EN PLACE**<br>
 
-Een voorstelling van compagnie barbarie en theater stap.
+Een voorstelling van compagnie barbarie, theater stap<br>
+hetpaleis, BRONKS, KOPERGIETERY
 
 Vijf spelers van compagnie barbarie.<br>
 Zes spelers van Theater Stap.<br>
