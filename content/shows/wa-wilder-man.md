@@ -43,6 +43,7 @@ En onze bizarre reacties op het onbekende....<br>
 
 **Van en met**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Spel**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
+**Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
 **Technisch team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
