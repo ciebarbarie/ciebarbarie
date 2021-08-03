@@ -70,7 +70,7 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>do 06 jan</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
 <tr><td>zo 09 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>di 11 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>woe 11 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>woe 12 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>do 13 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>za 15 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>di 18 jan</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
