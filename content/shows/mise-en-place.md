@@ -87,5 +87,7 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>ma 14 feb</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">Cultuurcentrum De Werf</a></td></tr>
 <tr><td>zo 20 feb</td><td>17.00</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>
 <tr><td>ma 21 feb</td><td>schoolvoorstellingen</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>  
-  
+
+</table>
+</div>
   
