@@ -22,6 +22,8 @@ contentColor: "#fff"
 Een voorstelling van compagnie barbarie, theater stap<br>
 hetpaleis, BRONKS, KOPERGIETERY
 
+<iframe src="https://player.vimeo.com/video/579072479" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 Vijf spelers van compagnie barbarie.<br>
 Zes spelers van Theater Stap.<br>
 Dat maakt elf spelers op de scène.<br>
@@ -42,6 +44,8 @@ Een voorstelling waarin het ego plaatsmaakt voor het alter-ego.<br>
 ‘Ik’ was altijd al een ander.<br>
 
 In Mise en place zoeken we naar de vage grens waar het eigen ik ophoudt en de ander begint.
+
+<iframe src="https://player.vimeo.com/video/579072869" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 **Concept**: Compagnie Barbarie<br>
 **Spel**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes, Sarah Vangeel, Ann Dockx, Jan Goris, Luc Loots, Leen Teunkens, Rik Van Raak, Anke Verwaest<br>
