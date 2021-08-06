@@ -1,5 +1,5 @@
 ---
-title: Pak De Poen!
+title: Pak De Poen! (7+)
 slug: pak-de-poen
 weight: 14
 images:
@@ -26,9 +26,10 @@ backgroundImage: "pak-de-poen-background.jpg"
 </style>
 <div class="banner">Nu Kapitalisme Kopen? Bestel Direct. Snel in huis.</div><br>
 
-<a href="/nl/pak-de-trui/"><img src="/img/pak-de-poen-trui.jpg" alt="Compagnie Barbarie met Pak de Poen truien aan">
-
-<div class="banner">Bestel de Pak De Poen trui</div></a>
+<a href="/nl/pak-de-trui/">
+  <img src="/img/pak-de-poen-trui.jpg" alt="Compagnie Barbarie met Pak de Poen truien aan">
+  <div class="banner">Bestel de Pak De Poen trui</div>
+</a>
 
 Kom u verrijken op de meest hebzuchtige show van het jaar!<br>
 Want in ‘Pak de poen!’ kunnen kinderen geld verdienen.<br>
@@ -56,14 +57,14 @@ Het is kinderen noch volwassenen vreemd.
 Dus kom graaien, grijpen en hebben hebben hebben zolang het nog kan!
 
 Schoolvoorstellingen: 4de, 5de, 6de leerjaar.<br>
-Familievoorstellingen: 7+
+Familievoorstellingen: 7+<br>
 
 **Spel**: Liesje De Backer, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Regie**: Karolien De Bleser<br>
 **Scenografie**: Michiel Van Cauwelaert<br>
 **Vormgeving**: Viviane van der Poel<br>
 **Kostuums**: Leila Boukhalfa<br>
-**Geluid en techniek**: Saul Mombaerts, Jannes Dierynck en Sarah Feyen<br>
+**Technisch team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Grafisch Ontwerp**: Nick Mattan<br>
 
 **Een coproductie met** <a href="https://www.destudio.com/">DE STUDIO</a>, <a href="http://www.bronks.be/nl/">BRONKS</a>, en <a href="https://www.perpodium.be/">Perpodium</a>.<br>
@@ -75,11 +76,11 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2021</strong></td></tr>
+<tr><td colspan="4"><strong>2021</strong></td></tr>
 <tr><td>wo 29 sep</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
 <tr><td>do 30 sep</td><td>schoolvoorstellingen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
 <tr><td>zo 23 okt</td><td>14.30</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC De Brouckere</a></td></tr>
-<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td colspan="4"><strong>2022</strong></td></tr>
 <tr><td>di 01 feb</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
 <tr><td>zo 27 feb</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
 <tr><td>woe 02 maart</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
@@ -96,7 +97,5 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>ma 23 mei</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
 <tr><td>di 31 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
 <tr><td>zo 12 jun</td><td>15.00</td><td>Roeselaere</td><td><a href="https://www.despil.be/">De Spil</a></td></tr>
-
-
 </table>
 </div>

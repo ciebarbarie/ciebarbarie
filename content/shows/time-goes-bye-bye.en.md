@@ -1,5 +1,5 @@
 ---
-title: Time Goes Bye Bye
+title: Time Goes Bye Bye (7+)
 slug: time-goes-bye-bye
 weight: 13
 bit-1-start: -500
@@ -41,35 +41,41 @@ Première on Swellnesday the 34th at a quarter past billion.
 **Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Production & Costumes**: Leila Boukhalfa<br>
-**Sound and technique**: Saul Mombaerts, Jannes Dierynck en Koen De Wilde<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan en Mieke Dhooge<br>
 **Persfoto's**: Franky Verdickt<br>
 
 A production of cie barbarie and <a href="http://www.destudio.com/">De Studio</a>
 a coproduction with <a href="https://www.bronks.be/nl/">BRONKS</a>, and Per Podium<br>.
 
-TIME GOES BYE BYE was created without the support of the Flemish Government but with the support of the Tax Shelter measure of the Belgian Federal Government.
+TIME GOES BYE BYE was created without the support of the Flemish Government but with the support of the Tax Shelter measure of the Belgian Federal Government.<br>
+cie barbarie recieves structural support from the Commission of the Flemish Community
 
 ## Playlist
 
 <div class="table-responsive">
 <table class="playlist">
-<tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>Sun 13 Dec </td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcentrum MUZE</a></td></tr>
-<tr><td>Fri 18 Dec</td><td>19.00</td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/">CC De Warandepoort</a></td></tr>
+  
 <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Sat 9 Jan</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
-<tr><td>Tue 12 Jan</td><td>school performances</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>Thu 28 Jan</td><td>school performances</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>Sat 30 Jan</td><td>19.00</td><td>Willebroek</td><td><a href="https://www.willebroek.be/">CC De Ster</a></td></tr>
-<tr><td>Tue 02 Feb</td><td>school performances</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
-<tr><td>Sun 21 Feb</td><td>14.30</td><td>Roeselaere</td><td><a href="https://www.despil.be/">CC De Spil</a></td></tr>
-<tr><td>Tue 23 Feb</td><td>school performances</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum De Kimpel</a></td></tr>
-<tr><td>Mon 22 till Wed 24 Mar</td><td>school performances</td><td>Harelbeke</td><td><a href="https://www.cchetspoor.be/">CC Het Spoor</a></td></tr>
-<tr><td>Sun 28 Mar</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
-<tr><td>Mon 29 Mar</td><td>school performances</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
-<tr><td>Tue 06 Apr</td><td>14.00</td><td>Tienen</td><td><a href="https://www.dekruisboog.be/">CC De Kruisboog</a></td></tr>
-<tr><td>Mon 26 and Tue 27 Apr</td><td>school performances</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
+<tr><td>Tue 21 sep</td><td>school performances</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>Sun 10 oct</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcentrum MUZE</a></td></tr>
+<tr><td>Mon 11-Wed 13 oct</td><td>school performances</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/">CC De Schakel</a></td></tr>
+<tr><td>Fri 29 oct</td><td>19.00</td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/">CC De Warandepoort</a></td></tr>
+<tr><td>Sat 6 nov</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>Fri 04 feb</td><td>n.t.b.</td><td>Willebroek</td><td><a href="https://www.willebroek.be/nl/cc-de-ster/">CC Nova</a></td></tr>
+<tr><td>Tue 08 feb</td><td>school performances</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur">cultuurcentrum Blankenberge</a></td></tr>
+<tr><td>Sun 20 march</td><td>15.00</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
+<tr><td>Mon 21 march</td><td>school performances</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
+<tr><td>Mon 28 & Tue 29 march</td><td>school performances</td><td>Harelbeke</td><td><a href="https://www.cchetspoor.be/">CC Het Spoor</a></td></tr>
+<tr><td>Fri 22 apr</td><td>school performances</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
+<tr><td>Tue 26 apr</td><td>school performances</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum De Kimpel</a></td></tr>
+<tr><td>Fri 29 apr</td><td>school performances</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
+<tr><td>Tue 03 may</td><td>school performances</td><td>St-Agatha-Berchem</td><td><a href="https://www.gcdekroon.be/">GC De Kroon</a></td></tr>
+<tr><td>Wed 04 may</td><td>n.t.b.</td><td>Tienen</td><td><a href=https://dekruisboog.tienen.be/>CC De Kruisboog</a></td></tr>
+<tr><td>Sun 15 may</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
+<tr><td>Mon 16 may</td><td>school performances</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
+<tr><td>Thu 02 & Fri 03 jun</td><td>school performances</td><td>St.Truiden</td><td><a href="https://www.debogaard.be/">De Bogaard</a></td></tr>
 
 </table>
 </div>

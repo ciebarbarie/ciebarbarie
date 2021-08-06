@@ -3,9 +3,9 @@ layout: home
 noheader: true
 intro: Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="/nl/over-ons/">Lees meer</a>
 ---
-Nu onze nieuwste theatervoorstelling PAK DE POEN! even op de plank moet blijven liggen<br>
-komen we tot bij u met een knallende theatervoorstellingtelevisieshow.<br>
-Eentje waarin geld te verdienen valt. Veel geld.<br>
-Want meer is altijd beter en voor minder gaan we niet.<br>
-PAK DE POEN! DE TV-SHOW! alle info vindt je hier: <br>
-https://www.dewerft.be/agenda/1374/Compagnie_Barbarie/PAK_DE_POEN_
+Druk druk druk dit seizoen!<br>
+Pak de poen! kan eindelijk op tournee.<br>
+Ook de oude rotten GRATIS CHIPS!, Time goes bye bye en Modders worden nog volop hernomen.<br>
+En we maken een nieuwe creatie: 'Mise en Place' samen met theater Stap, hetpaleis, BRONKS en Kopergietery<br>
+die in december in première gaat. Check de speellijsten bij de producties voor alle data!<br>
+

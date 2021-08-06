@@ -1,5 +1,5 @@
 ---
-title: Be Wilder Man
+title: Be Wilder Man (4+)
 slug: be-wilder-man
 weight: 9
 bit-1-start: 50
@@ -47,15 +47,18 @@ In a visual and humorous manner, the relation between “us” and “them” is
 **Cast**: Liesje De Backer, Amber Goethals and Sarah Vangeel<br>
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
-**Sound and Technique**: Saul Mombaerts,Frouke Vangheluwe,Jannes Dierynck, Koen De Wilde and Eva Dermul<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan and Ben Raes <br>
 **Pictures**: Franky Verdickt <br>
-**Lots of thanks to**: Randi De Vlieghe and Ilse Daems<br>
+Cie barbarie recieves structural support from the Commission of the Flemish Community
 
 ## Playlist
 
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Wed 19 up untill Fri 21 May</td><td>schoolperformances</td><td>Antwerp</td><td><a href="http://www.destudio.com/">DE STUDIO </td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>Thu 21 april</td><td>school performances</td><td>Oudenaarde</td><td><a href="https://www.oudenaarde.be/nl/de-woeker">CC De Woeker </td></tr>
+
+</table>
+</div>

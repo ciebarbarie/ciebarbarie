@@ -1,5 +1,5 @@
 ---
-title: Crisps for Free
+title: Crisps for Free (5+)
 slug: crisps-for-free
 weight: 12
 bit-1-start: -500
@@ -54,39 +54,36 @@ And if you’re sweet, maybe there will be some tasty treats at the end…. Cris
 **Set Design**: Michiel Van Cauwelaert<br>
 **Costumes**: Viv Van der Poel<br>
 **Production**: Leila Boukhalfa en Lisa Gunstone<br>
-**Sound and Technique**: Saul Mombaerts, Jannes Dierynck, Koen De Wilde en Eva Dermul<br>
+**Technical team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Graphic Design**: Nick Mattan<br>
 **Pictures**: Franky Verdickt<br>
 
 A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href="https://www.bronks.be/nl/">BRONKS</a>, Het Laatste Bedrijf and with the support of the Flemish Government.<br>
 'CRISPS FOR FREE' was realized thanks to the Tax Shelter measure of the Belgian Federal Government.
-With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.
+With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.<br>
+cie barbarie recieves structural support from the Commission of the Flemish Community
 
 ## Playlist
 
 <div class="table-responsive">
 <table class="Playlist">
-<tr><td colspan="5"><strong>2020</strong></td></tr>
-<tr><td>Sun 22 nov</td><td>15.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino Koksijde</a></td></tr>
-<tr><td>Mon 23 nov</td><td>schoolperformances</td><td>St.Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">Stadsschouwburg</a></td></tr>
-<tr><td>Sun 29 nov</td><td>15.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
-<tr><td>Sun 20 dec</td><td>15.00</td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/">CC Belgica</a></td></tr>
+
 <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Thu 14 jan</td><td>schoolperformances</td><td>Lokeren</td><td><a href="https://www.lokeren.be/cultuur/">CC Lokeren</a></td></tr>
-<tr><td>Wed 03 and do 04 feb</td><td>schoolperformances</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/"> CC De Schakel</a></td></tr>
-<tr><td>Mon 08 & Tue 09 feb</td><td>schoolperformances/td><td>Schaarbeek</td><td><a href="https://www.schoolpodiumnoord.be/">GC De Kriekelaar</a></td></tr>
-<tr><td>Thu 11 feb</td><td>schoolperformances</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
-<tr><td>Sun 14 feb</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
-<tr><td>Sun 28 feb</td><td>15.00</td><td>Wezembeek-Oppem</td><td><a href="https://www.dekam.be/">GC De Kam</a></td></tr>
-<tr><td>Mon 01 and Tue 02 mar</td><td>schoolperformances</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>Thu 04 mar</td><td>13.30</td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>
-<tr><td>Sun 07 mar</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr>
-<tr><td>Tue 09 mar</td><td>schoolperformances</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur/">cultuurcentrum Blankenberge</a></td></tr>
-<tr><td>Thu 18 and Fri 19 mar</td><td>schoolperformances</td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be">La Montagne Magique (french speaking version)</a></td></tr>
-<tr><td>Sat 20 mar</td><td>19.30/td><td>Brussel</td><td><a href="https://www.lamontagnemagique.be">La Montagne Magique (french speaking version)</a></td></tr>
-<tr><td>Tue 30 mar</td><td>schoolperformances</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
-<tr><td>Thu 15 & Fri 16 apr</td><td>schoolperformances</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
-<tr><td>Sat 17 apr</td><td>19.30</td><td>Cergy-Pontoise/Val d'Oise (FR)</td><td><a href="https://www.points-communs.com">Points Communs</a></td></tr>
+<tr><td>Mon 27 & Tue 28 sep</td><td>school performances</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
+<tr><td>Sun 03 oct</td><td>15.00</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC</a></td></tr>
+<tr><td>Mon 04 oct</td><td>school performances</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC</a></td></tr>
+<tr><td>Sun 17 oct</td><td>15.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
+<tr><td>Sun 07 nov</td><td>15.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino Koksijde</a></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
+<tr><td>Tue 15 & Wed 16 feb</td><td>school performances</td><td>Schaarbeek</td><td><a href="https://www.schoolpodiumnoord.be/">GC De Kriekelaar</a></td></tr>
+<tr><td>Sun 06 March</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr> 
+<tr><td>Mon 14 & Tue 15 March</td><td>school performances</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
+<tr><td>Tue 22-Thu 24 March</td><td>school performances(VF)</td><td>Brussels</td><td><a href="https://www.lamontagnemagique.be/">la Montagne Magique</a></td></tr>
+<tr><td>Sat 26 March</td><td>t.b.c.(VF)</td><td>Brussels</td><td><a href="https://www.lamontagnemagique.be/">la Montagne Magique</a></td></tr>
+<tr><td>Sun 27 March</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">CCMaasmechelen</a></td></tr>  
+<tr><td>Thu 31 March</td><td>school performances</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
+<tr><td>Sun 24 apr</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
+<tr><td>Thu 28 apr</td><td>school performances</td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>  
 
 </table>
 </div>

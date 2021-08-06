@@ -1,5 +1,5 @@
 ---
-title: Wa Wilder Man
+title: Wa Wilder Man (4+)
 slug: wa-wilder-man
 weight: 9
 bit-1-start: 50
@@ -43,19 +43,19 @@ En onze bizarre reacties op het onbekende....<br>
 
 **Van en met**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel<br>
 **Spel**: Liesje De Backer, Amber Goethals en Sarah Vangeel <br>
+**Regie**: Karolien De Bleser<br>
 **Vormgeving**: Michiel Van Cauwelaert<br>
-**Kostuums**: Viv Van der Poel<br>
-**Geluid en Techniek**: Saul Mombaerts en Jannes Dierynck<br>
+**Technisch team**: Saul Mombaerts, Jannes Dierynck, Jo Heijens, Hanne Nuyttens, Eva Dermul, Sarah Feyen<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
 **Persfoto's**: Franky Verdickt <br>
-**Met duizendmaal dank aan**: Randi De Vlieghe en Ilse Daems<br>
+Cie Barbarie wordt structureel ondersteund door de VGC
 
 ## Speellijst
 
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2021</strong></td></tr>
+<tr><td colspan="5"><strong>2022</strong></td></tr>
 
 <tr><td>do 21 april</td><td>schoolvoorstellingen</td><td>Oudenaarde</td><td><a href="https://www.oudenaarde.be/nl/de-woeker">CC De Woeker </td></tr>
 
