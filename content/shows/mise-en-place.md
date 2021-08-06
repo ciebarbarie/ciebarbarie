@@ -13,6 +13,9 @@ contentColor: "#fff"
     #main {
         background-repeat: repeat;
     }
+    .speellijst a {
+      border-bottom-color: rgba(255, 255, 255, 0.4);
+    }
 </style>
 **MISE EN PLACE**<br>
 
