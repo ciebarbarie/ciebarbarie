@@ -10,7 +10,6 @@ images:
   "pak-de-poen-5.jpg": Franky Verdickt
   "pak-de-poen-6.jpg": Franky Verdickt
   "pak-de-poen-7.jpg": Franky Verdickt
-poster: "pak-de-poen-poster.jpg"
 backgroundColor: "#ffffff"
 backgroundImage: "pak-de-poen-background.jpg"
 ---
