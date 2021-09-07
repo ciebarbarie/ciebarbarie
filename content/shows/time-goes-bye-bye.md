@@ -63,11 +63,11 @@ cie barbarie wordt structureel ondersteund door de VGC.
 <tr><td colspan="5"><strong>2021</strong></td></tr>
 <tr><td>di 21 sep</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
 <tr><td>zo 10 okt</td><td>15.00</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">cultuurcentrum MUZE</a></td></tr>
-<tr><td>ma 11- woe 13 okt</td><td>schoolvoorstellingen</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/">CC De Schakel</a></td></tr>
+<tr><td>di 12- woe 13 okt</td><td>schoolvoorstellingen</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/">CC De Schakel</a></td></tr>
 <tr><td>vri 29 okt</td><td>19.00</td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/">CC De Warandepoort</a></td></tr>
 <tr><td>za 6 nov</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>vri 04 feb</td><td>n.t.b.</td><td>Willebroek</td><td><a href="https://www.willebroek.be/nl/cc-de-ster/">CC Nova</a></td></tr>
+<tr><td>vri 04 feb</td><td>19.00</td><td>Willebroek</td><td><a href="https://www.willebroek.be/nl/cc-de-ster/">CC Nova</a></td></tr>
 <tr><td>di 08 feb</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur">cultuurcentrum Blankenberge</a></td></tr>
 <tr><td>zo 20 maart</td><td>15.00</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
 <tr><td>ma 21 maart</td><td>schoolvoorstellingen</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
@@ -76,7 +76,7 @@ cie barbarie wordt structureel ondersteund door de VGC.
 <tr><td>di 26 apr</td><td>schoolvoorstellingen</td><td>Bilzen</td><td><a href="https://www.dekimpel.be/">cultuurcentrum De Kimpel</a></td></tr>
 <tr><td>vri 29 apr</td><td>schoolvoorstellingen</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
 <tr><td>di 03 mei</td><td>schoolvoorstellingen</td><td>St-Agatha-Berchem</td><td><a href="https://www.gcdekroon.be/">GC De Kroon</a></td></tr>
-<tr><td>woe 04 mei</td><td>n.t.b.</td><td>Tienen</td><td><a href=https://dekruisboog.tienen.be/>CC De Kruisboog</a></td></tr>
+<tr><td>woe 04 mei</td><td>14.00</td><td>Tienen</td><td><a href=https://dekruisboog.tienen.be/>CC De Kruisboog</a></td></tr>
 <tr><td>zo 15 mei</td><td>14.00</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
 <tr><td>ma 16 mei</td><td>schoolvoorstelling</td><td>Merksem</td><td><a href="https://www.ccmerksem.be/">Cultuurcentrum</a></td></tr>
 <tr><td>do 02 en vri 03 jun</td><td>schoolvoorstellingen</td><td>St.Truiden</td><td><a href="https://www.debogaard.be/">De Bogaard</a></td></tr>
