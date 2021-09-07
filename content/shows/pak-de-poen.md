@@ -95,7 +95,10 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>za 21 mei</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
 <tr><td>zo 22 mei</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
 <tr><td>ma 23 mei</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
+<tr><td>di 24 mei</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
 <tr><td>di 31 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
+<tr><td>di 07 jun</td><td>schoolvoorstellingen</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
+<tr><td>woe 08 jun</td><td>schoolvoorstellingen</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
 <tr><td>zo 12 jun</td><td>15.00</td><td>Roeselaere</td><td><a href="https://www.despil.be/">De Spil</a></td></tr>
 </table>
 </div>
