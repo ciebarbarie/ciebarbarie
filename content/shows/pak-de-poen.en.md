@@ -91,6 +91,7 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 <tr><td>Sat 21 may</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
 <tr><td>Sun 22 may</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
 <tr><td>Mon 23 may</td><td>school performances</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
+<tr><td>Tue 24 may</td><td>school performances</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
 <tr><td>Tue 31 may</td><td>school performances</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
 <tr><td>Sun 12 jun</td><td>15.00</td><td>Roeselaere</td><td><a href="https://www.despil.be/">De Spil</a></td></tr>
 
