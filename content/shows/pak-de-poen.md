@@ -77,7 +77,7 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="4"><strong>2021</strong></td></tr>
-<tr><td>wo 29 sep</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
+<tr><td>wo 29 sep PREMIERE!</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
 <tr><td>do 30 sep</td><td>schoolvoorstellingen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
 <tr><td>zo 23 okt</td><td>14.30</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC De Brouckere</a></td></tr>
 <tr><td colspan="4"><strong>2022</strong></td></tr>
