@@ -73,7 +73,7 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 <div class="table-responsive">
 <table class="speellijst">
  <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Wed 29 sep</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
+<tr><td>Wed 29 sep PREMIERE!</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
 <tr><td>Thu 30 sep</td><td>school performances</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
 <tr><td>Sun 23 oct</td><td>14.30</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC De Brouckere</a></td></tr>
 <tr><td colspan="5"><strong>2022</strong></td></tr>
