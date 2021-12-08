@@ -17,40 +17,37 @@ contentColor: "#fff"
       border-bottom-color: rgba(255, 255, 255, 0.4);
     }
 </style>
-**MISE EN PLACE**<br>
+**MISE EN PLACE (6+)**<br>
 
 Een voorstelling van compagnie barbarie, theater stap<br>
 hetpaleis, BRONKS, KOPERGIETERY
 
 <iframe src="https://player.vimeo.com/video/579072479" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-Vijf spelers van compagnie barbarie.<br>
-Zes spelers van Theater Stap.<br>
-Dat maakt elf spelers op de scène.<br>
-Of euh…. Niet?<br>
-In Mise en Place is er iets vreemds aan de hand.<br>
-Boven is onder geworden.<br>
-En links en rechts zijn nu samen het midden.<br>
-Maar ook ‘ik’ blijk uit meerdere delen te bestaan.<br>
-In Mise en Place gaan compagnie barbarie en Theater Stap op zoek<br>
-naar hun dubbelganger.<br>
-Of dubbeldubbeldriedubbelganger.<br>
-Want in het universum van Mise en Place stopt ‘ik’ niet bij de grenzen van het eigen lichaam.<br>
-Een voorstelling waarin het ego plaatsmaakt voor het alter-ego.<br>
-‘Ik’ is daar met meer.<br>
-‘Ik’ komt daar zichzelf tegen. Ontelbare versies van zichzelf, zelfs.<br>
-‘Ik’ is dubbel. <br>
-‘Ik’ is misschien nooit alleen met mezelf geweest.<br>
-‘Ik’ was altijd al een ander.<br>
+Vijf spelers van cie barbarie.
+Zes spelers van Theater Stap.
+Dat maakt elf spelers op scène.
+Elf ikken.
+Of toch niet?
 
-In Mise en place zoeken we naar de vage grens waar het eigen ik ophoudt en de ander begint.
+In ‘Mise en Place’ is er iets vreemds aan de hand.
+Er zijn daar wonderlijk veel ikken.
+Maar welke ‘ik’ staat op de lijst?
+Ben ik de enige, echte ‘ik’?
+Waar begint en eindigt ‘ik’?
+Wat als ‘ik’ geen hoofd, maar wel vijf benen heeft?
+
+In ‘Mise en Place’ vallen elf acteurs uiteen in één, twee, drie, vijf, elf stukken. 
+Hoe vinden al die stukken hun plaats? 
+Een heerlijk absurde voorstelling vol humor over de grenzen van het concept ‘ik’. 
 
 <iframe src="https://player.vimeo.com/video/579072869" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-**Concept**: Compagnie Barbarie<br>
+**Concept**: Compagnie Barbarie en Renée Goethijn<br>
 **Spel**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes, Sarah Vangeel, Ann Dockx, Jan Goris, Luc Loots, Leen Teunkens, Rik Van Raak, Anke Verwaest<br>
 **Regie**: Renée Goethijn<br>
 **Scenografie**: Michiel Van Cauwelaert<br>
+**Muziek**: Ciska Thomas<br>
 **Kostuums**: Viviane van der Poel &amp; hetpaleis<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck<br>
 **Productie &amp; technische realisatie**: hetpaleis, cie barbararie, Theater Stap, BRONKS, KOPERGIETERY<br>
@@ -63,11 +60,10 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>vri 17 dec</td><td>19.00 PREMIERE</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>za 18 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>zo 19 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>di 21 dec</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>wo 22 dec</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>do 23 dec</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>wo 22 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>ma 27 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>di 28 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>wo 29 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>do 30 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 
 <tr><td colspan="5"><strong>2022</strong></td></tr>
