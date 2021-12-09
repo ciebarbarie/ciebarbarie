@@ -4,11 +4,12 @@ slug: mise-en-place
 weight: 15
 slide-count: 1
 images:
-  "mise-en-place-1.jpg": Diego Franssens
+  "mise-en-place-1.jpg": Franky Verdickt
 backgroundColor: "#0e1619"
 backgroundImage: "mise-en-place-background.jpg"
 contentColor: "#fff"
 ---
+
 <style>
     #main {
         background-repeat: repeat;
@@ -17,12 +18,14 @@ contentColor: "#fff"
       border-bottom-color: rgba(255, 255, 255, 0.4);
     }
 </style>
+
 **MISE EN PLACE (6+)**<br>
 
 Een voorstelling van compagnie barbarie, theater stap<br>
 hetpaleis, BRONKS, KOPERGIETERY
 
-<iframe src="https://player.vimeo.com/video/579072479" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.vrt.be/vrtnu/a-z/de-toots-sessies/3/de-toots-sessies-s3a10/" target="_blank"><img src="/img/mise-en-place-toots-sessies.jpg" alt="Compagnie Barbarie & Theater Stap bij De Toots Sessies">
+Compagnie Barbarie & Theater Stap bij De Toots Sessies</a>
 
 Vijf spelers van cie barbarie.
 Zes spelers van Theater Stap.
@@ -37,11 +40,11 @@ Ben ik de enige, echte ‘ik’?
 Waar begint en eindigt ‘ik’?
 Wat als ‘ik’ geen hoofd, maar wel vijf benen heeft?
 
-In ‘Mise en Place’ vallen elf acteurs uiteen in één, twee, drie, vijf, elf stukken. 
-Hoe vinden al die stukken hun plaats? 
-Een heerlijk absurde voorstelling vol humor over de grenzen van het concept ‘ik’. 
+In ‘Mise en Place’ vallen elf acteurs uiteen in één, twee, drie, vijf, elf stukken.
+Hoe vinden al die stukken hun plaats?
+Een heerlijk absurde voorstelling vol humor over de grenzen van het concept ‘ik’.
 
-<iframe src="https://player.vimeo.com/video/579072869" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/636546880" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 **Concept**: Compagnie Barbarie en Renée Goethijn<br>
 **Spel**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes, Sarah Vangeel, Ann Dockx, Jan Goris, Luc Loots, Leen Teunkens, Rik Van Raak, Anke Verwaest<br>
@@ -54,6 +57,7 @@ Een heerlijk absurde voorstelling vol humor over de grenzen van het concept ‘i
 compagnie barbarie wordt structureel ondersteund door de VGC
 
 ## Speellijst
+
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2021</strong></td></tr>
@@ -89,8 +93,7 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>zo 13 feb</td><td>17.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">Cultuurcentrum De Werf</a></td></tr>
 <tr><td>ma 14 feb</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">Cultuurcentrum De Werf</a></td></tr>
 <tr><td>zo 20 feb</td><td>17.00</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>
-<tr><td>ma 21 feb</td><td>schoolvoorstellingen</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>  
+<tr><td>ma 21 feb</td><td>schoolvoorstellingen</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>
 
 </table>
 </div>
-  
