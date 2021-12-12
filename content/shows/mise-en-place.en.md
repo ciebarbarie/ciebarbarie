@@ -47,10 +47,11 @@ In Mise en place we look for the vague border where the self ends and the other 
 
 <iframe src="https://player.vimeo.com/video/579072869" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-**Concept**: Company Barbarie<br>
+**Concept**: Company Barbarie and Renée Goethijn<br>
 **Cast**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes, Sarah Vangeel, Ann Dockx, Jan Goris, Luc Loots, Leen Teunkens, Rik Van Raak, Anke Verwaest<br>
 **Director**: Renée Goethijn<br>
 **Scenography**: Michiel Van Cauwelaert<br>
+**Music**: Ciska Thomas<br>
 **Costumes**: Viviane van der Poel &amp; hetpaleis<br>
 **Sound and Technique**: Saul Mombaerts, Jannes Dierynck<br>
 **Production &amp; technical realisation**: hetpaleis, cie barbararie, Theater Stap, BRONKS, KOPERGIETERY<br>
@@ -63,9 +64,7 @@ Company Barbarie is structurally supported by the VGC.
 <tr><td>fri 17 dec</td><td>19.00 PREMIERE</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>sat 18 dec</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>sun 19 dec</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>tue 21 dec</td><td>school performances</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>wed 22 dec</td><td>school performances</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>thu 23 dec</td><td>school performances</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>wed 22 dec</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>mon 27 dec</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>tue 28 dec</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>thu 30 dec</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
