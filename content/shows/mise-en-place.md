@@ -27,22 +27,22 @@ hetpaleis, BRONKS, KOPERGIETERY
 <a href="https://www.vrt.be/vrtnu/a-z/de-toots-sessies/3/de-toots-sessies-s3a10/" target="_blank"><img src="/img/mise-en-place-toots-sessies.jpg" alt="Compagnie Barbarie & Theater Stap bij De Toots Sessies">
 Compagnie Barbarie & Theater Stap bij De Toots Sessies</a>
 
-Vijf spelers van cie barbarie.
-Zes spelers van Theater Stap.
-Dat maakt elf spelers op scène.
-Elf ikken.
-Of toch niet?
+Vijf spelers van cie barbarie.<br>
+Zes spelers van Theater Stap.<br>
+Dat maakt elf spelers op scène.<br>
+Elf ikken.<br>
+Of toch niet?<br>
 
-In ‘Mise en Place’ is er iets vreemds aan de hand.
-Er zijn daar wonderlijk veel ikken.
-Maar welke ‘ik’ staat op de lijst?
-Ben ik de enige, echte ‘ik’?
-Waar begint en eindigt ‘ik’?
-Wat als ‘ik’ geen hoofd, maar wel vijf benen heeft?
+In ‘Mise en Place’ is er iets vreemds aan de hand.<br>
+Er zijn daar wonderlijk veel ikken.<br>
+Maar welke ‘ik’ staat op de lijst?<br>
+Ben ik de enige, echte ‘ik’?<br>
+Waar begint en eindigt ‘ik’?<br>
+Wat als ‘ik’ geen hoofd, maar wel vijf benen heeft?<br>
 
-In ‘Mise en Place’ vallen elf acteurs uiteen in één, twee, drie, vijf, elf stukken.
-Hoe vinden al die stukken hun plaats?
-Een heerlijk absurde voorstelling vol humor over de grenzen van het concept ‘ik’.
+In ‘Mise en Place’ vallen elf acteurs uiteen in één, twee, drie, vijf, elf stukken.<br>
+Hoe vinden al die stukken hun plaats?<br>
+Een heerlijk absurde voorstelling vol humor over de grenzen van het concept ‘ik’.<br>
 
 <iframe src="https://player.vimeo.com/video/636546880" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
