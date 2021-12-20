@@ -4,11 +4,12 @@ slug: mise-en-place
 weight: 15
 slide-count: 1
 images:
-  "mise-en-place-1.jpg": Diego Franssens
+  "mise-en-place-1.jpg": Franky Verdickt
 backgroundColor: "#0e1619"
 backgroundImage: "mise-en-place-background.jpg"
 contentColor: "#fff"
 ---
+
 <style>
     #main {
         background-repeat: repeat;
@@ -17,12 +18,14 @@ contentColor: "#fff"
       border-bottom-color: rgba(255, 255, 255, 0.4);
     }
 </style>
+
 **MISE EN PLACE**<br>
 
 A production by Company Barbarie, theater stap<br>
 hetpaleis, BRONKS, KOPERGIETERY
 
-<iframe src="https://player.vimeo.com/video/579072479" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.vrt.be/vrtnu/a-z/de-toots-sessies/3/de-toots-sessies-s3a10/" target="_blank"><img src="/img/mise-en-place-toots-sessies.jpg" alt="Compagnie Barbarie & Theater Stap bij De Toots Sessies">
+Compagnie Barbarie and Theater Stap at the Toots Sessies</a>
 
 Five actors from Company Barbarie.<br>
 Six actors from Theater Stap.<br>
@@ -45,7 +48,7 @@ A performance in which the ego makes way for the alter-ego.<br>
 
 In Mise en place we look for the vague border where the self ends and the other begins.<br>
 
-<iframe src="https://player.vimeo.com/video/579072869" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/636546880" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 **Concept**: Company Barbarie and Renée Goethijn<br>
 **Cast**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes, Sarah Vangeel, Ann Dockx, Jan Goris, Luc Loots, Leen Teunkens, Rik Van Raak, Anke Verwaest<br>
@@ -58,6 +61,7 @@ In Mise en place we look for the vague border where the self ends and the other 
 Company Barbarie is structurally supported by the VGC.
 
 ## Playlist
+
 <div class="table-responsive">
 <table class="speellijst">
 <tr><td colspan="5"><strong>2021</strong></td></tr>
@@ -92,8 +96,7 @@ Company Barbarie is structurally supported by the VGC.
 <tr><td>sun 13 feb</td><td>17.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">Cultuurcentrum De Werf</a></td></tr>
 <tr><td>mon 14 feb</td><td>school performances</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">Cultuurcentrum De Werf</a></td></tr>
 <tr><td>sun 20 feb</td><td>17.00</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>
-<tr><td>mon 21 feb</td><td>school performances</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>  
+<tr><td>mon 21 feb</td><td>school performances</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>
 
 </table>
 </div>
-  
