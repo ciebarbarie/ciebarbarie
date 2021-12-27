@@ -67,7 +67,7 @@ cie barbarie wordt structureel ondersteund door de VGC.
 <tr><td>vri 29 okt</td><td>19.00</td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/">CC De Warandepoort</a></td></tr>
 <tr><td>za 6 nov</td><td>20.00</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr>
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>vri 04 feb</td><td>19.00</td><td>Willebroek</td><td><a href="https://www.willebroek.be/nl/cc-de-ster/">CC Nova</a></td></tr>
+<tr><td>vri 04 feb</td><td>19.00</td><td>Willebroek</td><td><a href="https://www.willebroek.be/nl/cc-de-ster/">CC De Ster</a></td></tr>
 <tr><td>di 08 feb</td><td>schoolvoorstellingen</td><td>Blankenberge</td><td><a href="https://www.blankenberge.be/cultuur">cultuurcentrum Blankenberge</a></td></tr>
 <tr><td>zo 20 maart</td><td>15.00</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
 <tr><td>ma 21 maart</td><td>schoolvoorstellingen</td><td>Houthalen</td><td><a href="https://casino.houthalen-helchteren.be/">Casino</a></td></tr>
