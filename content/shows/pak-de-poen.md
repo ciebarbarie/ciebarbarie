@@ -85,7 +85,8 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td>zo 27 feb</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
 <tr><td>woe 02 maart</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
 <tr><td>do 17 & vr 18 maart</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>vri 25 maart</td><td>schoolvoorstellingen</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
+<tr><td>vri 25 maart</td><td>schoolvoorstelling</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
+<tr><td>vri 25 maart</td><td>19.00</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
 <tr><td>zo 01 mei</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>ma 02 mei</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>do 05 mei</td><td>schoolvoorstellingen</td><td>Maaseik</td><td><a href="https://www.achterolmen.be/">CC Achterolmen</a></td></tr>
