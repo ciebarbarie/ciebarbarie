@@ -82,6 +82,7 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 <tr><td>Wed 02 march</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
 <tr><td>Thu 17 & Fri 18 march</td><td>school performances</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
 <tr><td>Fri 25 march</td><td>school performances</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
+<tr><td>Fri 25 march</td><td>19.00</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
 <tr><td>Sun 01 may</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Mon 02 may</td><td>school performances</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Thu 05 may</td><td>school performances</td><td>Maaseik</td><td><a href="https://www.achterolmen.be/">CC Achterolmen</a></td></tr>
