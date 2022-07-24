@@ -55,16 +55,8 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 <div class="table-responsive">
 <table class="speellijst">
   
-<tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Tue 02 nov</td><td>15.00</td><td>Heist o/d Berg</td><td><a href="http://www.zwaneberg.be">CC Zwaneberg</td></tr>
-<tr><td>Wed 03 nov</td><td>14.00</td><td>Zandvliet</td><td><a href="http://www.vrijetijdscentrumdeschelde.be">VC De Schelde</a></td></tr>
-
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>Thu 24 feb</td><td>school performances</td><td>Beernem</td><td><a href="http://www.beernem.be">OC De kleine beer</a></td></tr>
-<tr><td>Thu 10 march</td><td>10.30 & 19.00</td><td>Vienna (show in German)</td><td><a href="https://www.dschungelwien.at/">Dschungel Wien</a></td></tr>
-<tr><td>Fri 11 march</td><td>10.30</td><td>Vienna (show in German)</td><td><a href="https://www.dschungelwien.at/">Dschungel Wien</a></td></tr>
-<tr><td>Sun 13 march</td><td>15.00</td><td>Temse</td><td><a href="http://www.cultuurcentrumtemse.be">Cultuurcentrum</a></td></tr>
-<tr><td>Tue 19 & Wed 20 apr</td><td>school performances</td><td>Knokke-Heist</td><td><a href="https://www.knokke-heist.be/vrije-tijd/cultuurcentrum-knokke-heist">Cultuurcentrum Knokke-Heist</a></td></tr>
+<tr><td>za 15 okt</td><td>19.00</td><td>Overijse</td><td><a href="http://www.denblank.be">CC Den Blank</a></td></tr>
 </table>
 </div>
 
