@@ -56,7 +56,8 @@ In Mise en place we look for the vague border where the self ends and the other 
 **Scenography**: Michiel Van Cauwelaert<br>
 **Music**: Ciska Thomas<br>
 **Costumes**: Viviane van der Poel &amp; hetpaleis<br>
-**Sound and Technique**: Saul Mombaerts, Jannes Dierynck<br>
+**Sound and Technique**: Saul Mombaerts, Koen Desaeger<br>
+**German Translation**:Christine Bais<br>
 **Production &amp; technical realisation**: hetpaleis, cie barbararie, Theater Stap, BRONKS, KOPERGIETERY<br>
 Company Barbarie is structurally supported by the VGC.
 
