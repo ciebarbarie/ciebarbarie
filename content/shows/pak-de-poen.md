@@ -76,30 +76,13 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="4"><strong>2021</strong></td></tr>
-<tr><td>wo 29 sep PREMIERE!</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>do 30 sep</td><td>schoolvoorstellingen</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>zo 23 okt</td><td>14.30</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC De Brouckere</a></td></tr>
 <tr><td colspan="4"><strong>2022</strong></td></tr>
-<tr><td>di 01 feb</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
-<tr><td>zo 27 feb</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
-<tr><td>woe 02 maart</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
-<tr><td>do 17 & vr 18 maart</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>vri 25 maart</td><td>schoolvoorstelling</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>vri 25 maart</td><td>19.00</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>zo 01 mei</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>ma 02 mei</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>do 05 mei</td><td>schoolvoorstellingen</td><td>Maaseik</td><td><a href="https://www.achterolmen.be/">CC Achterolmen</a></td></tr>
-<tr><td>di 10 mei</td><td>schoolvoorstellingen</td><td>Oudenaarde</td><td><a href="https://www.https://www.oudenaarde.be/nl/de-woeker/">CC De Woeker</a></td></tr>
-<tr><td>vri 13 mei</td><td>schoolvoorstellingen</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>do 19 en vri 20 mei</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>za 21 mei</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>zo 22 mei</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>ma 23 mei</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
-<tr><td>di 24 mei</td><td>schoolvoorstellingen</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
-<tr><td>di 31 mei</td><td>schoolvoorstellingen</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
-<tr><td>di 07 jun</td><td>schoolvoorstellingen</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
-<tr><td>woe 08 jun</td><td>schoolvoorstellingen</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
-<tr><td>zo 12 jun</td><td>15.00</td><td>Roeselaere</td><td><a href="https://www.despil.be/">De Spil</a></td></tr>
+<tr><td>do 22 sep</td><td>schoolvoorstellingen</td><td>Sint Truiden</td><td><a href="https://www.debogaard.be/">CC De Bogaard</a></td></tr>
+<tr><td>do 27 okt</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.bloc2030.be/">Bloc 2030</a></td></tr>
+<tr><td>vri 18 nov</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
+<tr><td>za 26 nov</td><td>19.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">cc Het Bolwerk</a></td></tr>
+<tr><td colspan="4"><strong>2023</strong></td></tr>
+<tr><td>di 28 feb</td><td>schoolvoorstellingen</td><td>Scherpenheuvel Zichem</td><td><a href="https://www.denegger.be/">GC den egger</a></td></tr>
+<tr><td>zo 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">Maasmechelen CC</a></td></tr>
 </table>
 </div>
