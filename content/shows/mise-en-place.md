@@ -53,6 +53,7 @@ Een heerlijk absurde voorstelling vol humor over de grenzen van het concept ‘i
 **Muziek**: Ciska Thomas<br>
 **Kostuums**: Viviane van der Poel &amp; hetpaleis<br>
 **Geluid en techniek**: Saul Mombaerts, Jannes Dierynck<br>
+**Duitse Vertaling**: Christine Bais<br>
 **Productie &amp; technische realisatie**: hetpaleis, cie barbararie, Theater Stap, BRONKS, KOPERGIETERY<br>
 compagnie barbarie wordt structureel ondersteund door de VGC
 
