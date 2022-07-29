@@ -64,8 +64,8 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <tr><td colspan="5"><strong>2022</strong></td></tr>
 <tr><td>ma 01 aug</td><td>16.00 en 19.00</td><td>Oostende</td><td><a href="https://www.theateraanzee.be/programma/mise-en-place-6/">TAZ</a></td></tr>
 <tr><td>za 24 sep</td><td>20.00</td><td>Beveren</td><td><a href="https://www.tervesten.be/nl/programma/">CC Ter Vesten</a></td></tr>
-<tr><td>zo 25 sep</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/4937/mise-en-place/">BRONKS</a></td></tr>
-<tr><td>ma 26 sep</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/4937/mise-en-place/">BRONKS</a></td></tr>
+<tr><td>zo 25 sep</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/">BRONKS</a></td></tr>
+<tr><td>ma 26 sep</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/">BRONKS</a></td></tr>
 <tr><td>zo 02 okt</td><td>18.00</td><td>Mainz(DE)</td><td><a href="https://www.grenzenlos-kultur.de/">Grenzenlos Kultur Staatstheater Mainz</a></td></tr>
 <tr><td>za 22 okt</td><td>16.00</td><td>Amsterdam(NL)</td><td><a href="https://krakeling.nl/programma/mise-en-place/">theater de krakeling</a></td></tr>
 <tr><td>di 08 nov</td><td>schoolvoorstellingen</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/dagvoorstellingen.html/">CC Muze</a></td></tr>
