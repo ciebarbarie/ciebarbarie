@@ -66,24 +66,23 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 ## Playlist
 
 <div class="table-responsive">
-<table class="Playlist">
-
-<tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Mon 27 & Tue 28 sep</td><td>school performances</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>Sun 03 oct</td><td>15.00</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC</a></td></tr>
-<tr><td>Mon 04 oct</td><td>school performances</td><td>Leuven</td><td><a href="https://www.30CC.be/">30CC</a></td></tr>
-<tr><td>Sun 17 oct</td><td>15.00</td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/">CC de Bogaard</a></td></tr>
-<tr><td>Sun 07 nov</td><td>15.00</td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">CC Casino Koksijde</a></td></tr>
+<table class="speellijst">
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>Tue 15 & Wed 16 feb</td><td>school performances</td><td>Schaarbeek</td><td><a href="https://www.schoolpodiumnoord.be/">GC De Kriekelaar</a></td></tr>
-<tr><td>Sun 06 March</td><td>11.00</td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.colomaspl.be/">CC Coloma</a></td></tr> 
-<tr><td>Mon 14 & Tue 15 March</td><td>school performances</td><td>Anderlecht</td><td><a href="https://www.derinck.be/">Zinnema</a></td></tr>
-<tr><td>Tue 22-Thu 24 March</td><td>school performances(VF)</td><td>Brussels</td><td><a href="https://www.lamontagnemagique.be/">la Montagne Magique</a></td></tr>
-<tr><td>Sat 26 March</td><td>t.b.c.(VF)</td><td>Brussels</td><td><a href="https://www.lamontagnemagique.be/">la Montagne Magique</a></td></tr>
-<tr><td>Sun 27 March</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">CCMaasmechelen</a></td></tr>  
-<tr><td>Thu 31 March</td><td>school performances</td><td>Waasmunster</td><td><a href="https://www.waasmunster.be/">Theaterzaal De Meermin</a></td></tr>
-<tr><td>Sun 24 apr</td><td>14.00</td><td>Peer</td><td><a href="https://www.biccpeer.be/">BICC 't Poorthuis</a></td></tr>
-<tr><td>Thu 28 apr</td><td>school performances</td><td>Haacht</td><td><a href="https://www.haacht.be/">GC Den Breughel</a></td></tr>  
+<tr><td>Thu 06 oct</td><td>school performances</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/">CC De Schakel-Schakelbox</a></td></tr>
+<tr><td>Sun 09 oct</td><td>15.00</td><td>Merelbeke</td><td><a href="https://www.cultuurhuis.merelbeke.be/">Cultuurhuis</a></td></tr>
+<tr><td>Thu 13 oct</td><td>school performances</td><td>Brecht</td><td><a href="https://www.gcbrecht.be/">OC 't Centrum</a></td></tr>
+<tr><td>Thu 20 oct</td><td>school performances</td><td>Antwerpen</td><td><a href="https://www.oudebadhuis.be/">Het oude badhuis</a></td></tr>
+<tr><td>Sun 23 oct</td><td>15.00</td><td>Nazareth</td><td><a href="https://www.nazareth.be/">CC Nova</a></td></tr>
+<tr><td>Wed 26 oct</td><td>16.00</td><td>Den Haag(NL)</td><td><a href="https://www.debetovering.nl/">Koninklijke Schouwburg</a></td></tr>
+<tr><td>Sun 20 nov</td><td>15.00</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td colspan="5"><strong>2023</strong></td></tr>
+<tr><td>Thu 02 and Fri 03 mar</td><td>school performances</td><td>Berlare</td><td><a href="https://www.beleefberlare.be/cultuur/">CC Stroming</a></td></tr>
+<tr><td>Sun 05 mar</td><td>14.30</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr> 
+<tr><td>Sun 19 mar</td><td>15.00</td><td>Wetteren</td><td><a href="https://www.tervesten.be/">CC Ter Vesten</a></td></tr>
+<tr><td>Wed 12 apr</td><td>14.00</td><td>Kapellen</td><td><a href="https://www.cckapellen.be/">CC Lux</a></td></tr>
+<tr><td>Fri 28 apr</td><td>school performances</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
+<tr><td>Tue 09 may</td><td>school performances</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
+   
 
 </table>
 </div>
