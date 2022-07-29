@@ -76,7 +76,7 @@ Company Barbarie is structurally supported by the VGC.
 <tr><td>Sun 27 nov</td><td>16.00</td><td>Berlare</td><td><a href="https://www.berlare.be/e-loket-cc-stroming.html/">CC Stroming</a></td></tr>
   
 <tr><td colspan="5"><strong>2023</strong></td></tr>
-<tr><td>28-31 march</td><td>school performances</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>28-31 march</td><td>school performances</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>Sun 02 apr</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 
 </table>
