@@ -57,17 +57,17 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 <table class="playlist">
   
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>ma 19 & di 20 sep</td><td>schoolvoorstellingen</td><td>Genk</td><td><a href="https://www.c-mine.be/">C-Mine</a></td></tr>
-<tr><td>di 11 okt</td><td>schoolvoorstellingen</td><td>Nazareth</td><td><a href="https://www.nazareth.be/">CC Nova</a></td></tr>
-<tr><td>di 25 okt</td><td>schoolvoorstelling</td><td>Houthalen-Helchteren</td><td><a href="https://casino.houthalen-helchteren.be/">Cultuurhuis Casino</a></td></tr>
-<tr><td>vri 04 nov</td><td>19.00</td><td>Brasschaat</td><td><a href="https://www.cultuurcentrumbrasschaat.be/">Cultuurcentrum</a></td></tr>
-<tr><td>zon 6 nov</td><td>16.00</td><td>Brugge</td><td><a href="https://www.ccbrugge.be/">Stadsschouwburg</a></td></tr>
-<tr><td>don 10 nov</td><td>14.00</td><td>Wielsbeke</td><td><a href="https://www.wielsbeke.be/">OC Leieland</a></td></tr>
+<tr><td>Mon 19 & Tue 20 sep</td><td>school performances</td><td>Genk</td><td><a href="https://www.c-mine.be/">C-Mine</a></td></tr>
+<tr><td>Tue 11 oct</td><td>school performances</td><td>Nazareth</td><td><a href="https://www.nazareth.be/">CC Nova</a></td></tr>
+<tr><td>Tue 25 oct</td><td>school performances</td><td>Houthalen-Helchteren</td><td><a href="https://casino.houthalen-helchteren.be/">Cultuurhuis Casino</a></td></tr>
+<tr><td>Fri 04 nov</td><td>19.00</td><td>Brasschaat</td><td><a href="https://www.cultuurcentrumbrasschaat.be/">Cultuurcentrum</a></td></tr>
+<tr><td>Sun 6 nov</td><td>16.00</td><td>Brugge</td><td><a href="https://www.ccbrugge.be/">Stadsschouwburg</a></td></tr>
+<tr><td>Thu 10 nov</td><td>14.00</td><td>Wielsbeke</td><td><a href="https://www.wielsbeke.be/">OC Leieland</a></td></tr>
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>do 09 & vri 10 maart</td><td>schoolvoorstellingen</td><td>Sint-Pieters Leeuw</td><td><a href="https://www.brulspl.be/">OC De Merselborre</a></td></tr>
-<tr><td>zo 12 maart</td><td>15.00</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>vri 21 apr</td><td>schoolvoorstellingen</td><td>Kortrijk</td><td><a href="https://www.cultuurcentrumkortrijk.be/">Schouwburg</a></td></tr>
-<tr><td>di 25 apr</td><td>schoolvoorstellingen</td><td>Asse</td><td><a href="https://www.ccasse.be/">CC Oud Gasthuis</a></td></tr>
+<tr><td>Thu 09 & Fri 10 mar</td><td>school performances</td><td>Sint-Pieters Leeuw</td><td><a href="https://www.brulspl.be/">OC De Merselborre</a></td></tr>
+<tr><td>Sun 12 mar</td><td>15.00</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
+<tr><td>Fri 21 apr</td><td>school performances</td><td>Kortrijk</td><td><a href="https://www.cultuurcentrumkortrijk.be/">Schouwburg</a></td></tr>
+<tr><td>Tue 25 apr</td><td>school performances</td><td>Asse</td><td><a href="https://www.ccasse.be/">CC Oud Gasthuis</a></td></tr>
 
 </table>
 </div>
