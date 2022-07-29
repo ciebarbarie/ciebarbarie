@@ -61,40 +61,19 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>vri 17 dec</td><td>19.00 PREMIERE</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>za 18 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>zo 19 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>wo 22 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>ma 27 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>di 28 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>wo 29 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>do 30 dec</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-
 <tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>ma 03 jan</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>di 04 jan</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>woe 05 jan</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>do 06 jan</td><td>15.00</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>zo 09 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>di 11 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>woe 12 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>do 13 jan</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>za 15 jan</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>di 18 jan</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>do 20 jan</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>vri 21 jan</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>zo 23 jan</td><td>17.00</td><td>Turnhout</td><td><a href="https://www.warande.be/">Cultuurhuis de Warande</a></td></tr>
-<tr><td>ma 24 jan</td><td>schoolvoorstellingen</td><td>Turnhout</td><td><a href="https://www.warande.be/">Cultuurhuis de Warande</a></td></tr>
-<tr><td>za 29 jan</td><td>17.00</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>zo 30 jan</td><td>17.00</td><td>Genk</td><td><a href="https://www.c-mine.be/">C-Mine</a></td></tr>
-<tr><td>woe 09 feb</td><td>schoolvoorstellingen</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>do 10 feb</td><td>schoolvoorstellingen</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>vri 11 feb</td><td>schoolvoorstellingen</td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY</a></td></tr>
-<tr><td>zo 13 feb</td><td>17.00</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">Cultuurcentrum De Werf</a></td></tr>
-<tr><td>ma 14 feb</td><td>schoolvoorstellingen</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">Cultuurcentrum De Werf</a></td></tr>
-<tr><td>zo 20 feb</td><td>17.00</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>
-<tr><td>ma 21 feb</td><td>schoolvoorstellingen</td><td>Sint Niklaas</td><td><a href="https://www.ccsint-niklaas.be/">CC Sint Niklaas</a></td></tr>
+<tr><td>ma 01 aug</td><td>16.00 en 19.00</td><td>Oostende</td><td><a href="https://www.theateraanzee.be/programma/mise-en-place-6/">TAZ</a></td></tr>
+<tr><td>za 24 sep</td><td>20.00</td><td>Beveren</td><td><a href="https://www.tervesten.be/nl/programma/">CC Ter Vesten</a></td></tr>
+<tr><td>zo 25 sep</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/4937/mise-en-place/">BRONKS</a></td></tr>
+<tr><td>ma 26 sep</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/4937/mise-en-place/">BRONKS</a></td></tr>
+<tr><td>zo 02 okt</td><td>18.00</td><td>Mainz(DE)</td><td><a href="https://www.grenzenlos-kultur.de/">Grenzenlos Kultur Staatstheater Mainz</a></td></tr>
+<tr><td>za 22 okt</td><td>16.00</td><td>Amsterdam(NL)</td><td><a href="https://krakeling.nl/programma/mise-en-place/">theater de krakeling</a></td></tr>
+<tr><td>di 08 nov</td><td>schoolvoorstellingen</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/dagvoorstellingen.html/">CC Muze</a></td></tr>
+<tr><td>zo 27 nov</td><td>16.00</td><td>Berlare</td><td><a href="https://www.berlare.be/e-loket-cc-stroming.html/">CC Stroming</a></td></tr>
+  
+<tr><td colspan="5"><strong>2023</strong></td></tr>
+<tr><td>28-31 maart</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>zo 02 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 
 </table>
 </div>
