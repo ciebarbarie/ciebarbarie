@@ -72,33 +72,14 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 
 <div class="table-responsive">
 <table class="speellijst">
- <tr><td colspan="5"><strong>2021</strong></td></tr>
-<tr><td>Wed 29 sep PREMIERE!</td><td>14.30</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>Thu 30 sep</td><td>school performances</td><td>Wilrijk</td><td><a href="https://www.ccdekern.be/">CC De Kern</a></td></tr>
-<tr><td>Sun 23 oct</td><td>14.30</td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">CC De Brouckere</a></td></tr>
-<tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>Tue 01 feb</td><td>school performances</td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">De Werf</a></td></tr>
-<tr><td>Sun 27 feb</td><td>15.00</td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
-<tr><td>Wed 02 march</td><td>15.00</td><td>Zwijndrecht</td><td><a href="https://www.waaigat.be/">OC 't Waaigat</a></td></tr>
-<tr><td>Thu 17 & Fri 18 march</td><td>school performances</td><td>Genk</td><td><a href="https://www.c-minecultuurcentrum.be/">C-Mine cultuurcentrum</a></td></tr>
-<tr><td>Fri 25 march</td><td>school performances</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>Fri 25 march</td><td>19.00</td><td>Deurne</td><td><a href="https://www.ccdeurne.be/">CC Podium</a></td></tr>
-<tr><td>Sun 01 may</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>Mon 02 may</td><td>school performances</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>Thu 05 may</td><td>school performances</td><td>Maaseik</td><td><a href="https://www.achterolmen.be/">CC Achterolmen</a></td></tr>
-<tr><td>Tue 10 may</td><td>school performances</td><td>Oudenaarde</td><td><a href="https://www.https://www.oudenaarde.be/nl/de-woeker/">CC De Woeker</a></td></tr>
-<tr><td>Fri 13 may</td><td>school performances</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>Thu 19 & Fri 20 may</td><td>school performances</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>Sat 21 may</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>Sun 22 may</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.destudio.com/">DE STUDIO</a></td></tr>
-<tr><td>Mon 23 may</td><td>school performances</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
-<tr><td>Tue 24 may</td><td>school performances</td><td>Dilbeek</td><td><a href="https://www.westrand.be/">Westrand</a></td></tr>
-<tr><td>Tue 31 may</td><td>school performances</td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
-<tr><td>Tue 07 jun</td><td>schoolvoorstellingen</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
-<tr><td>Wed 08 jun</td><td>schoolvoorstellingen</td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
-<tr><td>Sun 12 jun</td><td>15.00</td><td>Roeselaere</td><td><a href="https://www.despil.be/">De Spil</a></td></tr>
-
-
+<tr><td colspan="4"><strong>2022</strong></td></tr>
+<tr><td>Thu 22 sep</td><td>school performances </td><td>Sint Truiden</td><td><a href="https://www.debogaard.be/">CC De Bogaard</a></td></tr>
+<tr><td>Thu 27 oct</td><td>school performances </td><td>Antwerpen</td><td><a href="https://www.bloc2030.be/">Bloc 2030</a></td></tr>
+<tr><td>Fri 18 nov</td><td>school performances </td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
+<tr><td>Sat 26 nov</td><td>19.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">cc Het Bolwerk</a></td></tr>
+<tr><td colspan="4"><strong>2023</strong></td></tr>
+<tr><td>Tue 28 feb</td><td>school performances </td><td>Scherpenheuvel Zichem</td><td><a href="https://www.denegger.be/">GC den egger</a></td></tr>
+<tr><td>Sun 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">Maasmechelen CC</a></td></tr>
 </table>
-</div> 
+</div>
 
