@@ -3,7 +3,7 @@ layout: home
 noheader: true
 intro: Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="/nl/over-ons/">Lees meer</a>
 ---
-HEUGELIJK NIEUWS!<br>
+HEUGLIJK NIEUWS!<br>
 Vanaf 2023 wordt cie barbarie huisgezelschap bij BRONKS voor de komende vijf jaar!<br>
 Dat wil zeggen dat je alle info over onze nieuwste voorstelling 'DIT IS NIET DE TITEL' via deze link kan vinden.<br>
 https://www.bronks.be/nl/programma/5037/dit-is-niet-de-titel<br>
