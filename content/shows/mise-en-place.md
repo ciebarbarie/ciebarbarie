@@ -61,19 +61,10 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>ma 01 aug</td><td>16.00 en 19.00</td><td>Oostende</td><td><a href="https://www.theateraanzee.be/programma/mise-en-place-6/">TAZ</a></td></tr>
-<tr><td>za 24 sep</td><td>20.00</td><td>Beveren</td><td><a href="https://www.tervesten.be/nl/programma/">CC Ter Vesten</a></td></tr>
-<tr><td>zo 25 sep</td><td>15.00</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>ma 26 sep</td><td>schoolvoorstellingen</td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>zo 02 okt</td><td>18.00</td><td>Mainz(DE)</td><td><a href="https://www.grenzenlos-kultur.de/">Grenzenlos Kultur Staatstheater Mainz</a></td></tr>
-<tr><td>za 22 okt</td><td>16.00</td><td>Amsterdam(NL)</td><td><a href="https://krakeling.nl/programma/mise-en-place/">theater de krakeling</a></td></tr>
-<tr><td>di 08 nov</td><td>schoolvoorstellingen</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/dagvoorstellingen.html/">CC Muze</a></td></tr>
-<tr><td>zo 27 nov</td><td>16.00</td><td>Berlare</td><td><a href="https://www.berlare.be/e-loket-cc-stroming.html/">CC Stroming</a></td></tr>
-  
 <tr><td colspan="5"><strong>2023</strong></td></tr>
 <tr><td>28-31 maart</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>zo 02 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>zo 21 mei</td><td>18.00</td><td>Bremen(GER)</td><td><a href="https://www.mittenmang-festival.de//">Mittenmag Festival</a></td></tr>
 
 </table>
 </div>
