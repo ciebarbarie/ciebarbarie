@@ -56,18 +56,11 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 ## Speellijst
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>do 06 okt</td><td>schoolvoorstellingen</td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/">CC De Schakel-Schakelbox</a></td></tr>
-<tr><td>zo 09 okt</td><td>15.00</td><td>Merelbeke</td><td><a href="https://www.cultuurhuis.merelbeke.be/">Cultuurhuis</a></td></tr>
-<tr><td>do 13 okt</td><td>schoolvoorstellingen</td><td>Brecht</td><td><a href="https://www.gcbrecht.be/">OC 't Centrum</a></td></tr>
-<tr><td>do 20 okt</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.oudebadhuis.be/">Het oude badhuis</a></td></tr>
-<tr><td>zo 23 okt</td><td>15.00</td><td>Nazareth</td><td><a href="https://www.nazareth.be/">CC Nova</a></td></tr>
-<tr><td>woe 26 okt</td><td>16.00</td><td>Den Haag(NL)</td><td><a href="https://www.debetovering.nl/">Koninklijke Schouwburg</a></td></tr>
-<tr><td>zo 20 nov</td><td>15.00</td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
 <tr><td colspan="5"><strong>2023</strong></td></tr>
 <tr><td>do 02 en vri 03 maart</td><td>schoolvoorstellingen</td><td>Berlare</td><td><a href="https://www.beleefberlare.be/cultuur/">CC Stroming</a></td></tr>
 <tr><td>zo 05 maart</td><td>14.30</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr> 
-<tr><td>zo 19 maart</td><td>15.00</td><td>Wetteren</td><td><a href="https://www.tervesten.be/">CC Ter Vesten</a></td></tr>
+<tr><td>zo 19 maart</td><td>15.00</td><td>Beveren</td><td><a href="https://www.tervesten.be/">CC Ter Vesten</a></td></tr>
+<tr><td>zo 26 maart</td><td>15.00</td><td>Ronse</td><td><a href="https://www.ronse.be/nl/nieuws/uitverkocht-compagnie-barbarie-gratis-chips/">CC De Ververij</a></td></tr>
 <tr><td>woe 12 apr</td><td>14.00</td><td>Kapellen</td><td><a href="https://www.cckapellen.be/">CC Lux</a></td></tr>
 <tr><td>vri 28 apr</td><td>schoolvoorstellingen</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
 <tr><td>di 09 mei</td><td>schoolvoorstellingen</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
