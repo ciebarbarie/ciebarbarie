@@ -57,8 +57,6 @@ Cie barbarie recieves structural support from the Commission of the Flemish Comm
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>Thu 21 april</td><td>school performances</td><td>Oudenaarde</td><td><a href="https://www.oudenaarde.be/nl/de-woeker">CC De Woeker </td></tr>
-
+<tr><td colspan="5"><strong>no further dates at the moment</strong></td></tr>
 </table>
 </div>
