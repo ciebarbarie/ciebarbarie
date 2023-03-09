@@ -62,22 +62,11 @@ In Mise en place we look for the vague border where the self ends and the other 
 Company Barbarie is structurally supported by the VGC.
 
 ## Playlist
-
-<div class="table-responsive">
-<table class="speellijst">
-<tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>Mon 01 aug</td><td>16.00 en 19.00</td><td>Oostend</td><td><a href="https://www.theateraanzee.be/programma/mise-en-place-6/">TAZ</a></td></tr>
-<tr><td>Sat 24 sep</td><td>20.00</td><td>Beveren</td><td><a href="https://www.tervesten.be/nl/programma/">CC Ter Vesten</a></td></tr>
-<tr><td>Sun 25 sep</td><td>15.00</td><td>Brussels</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>Mon 26 sep</td><td>school performances</td><td>Brussels</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>Sun 02 oct</td><td>18.00</td><td>Mainz(GER)</td><td><a href="https://www.grenzenlos-kultur.de/">Grenzenlos Kultur Staatstheater Mainz</a></td></tr>
-<tr><td>Sat 22 oct</td><td>16.00</td><td>Amsterdam(NL)</td><td><a href="https://krakeling.nl/programma/mise-en-place/">theater de krakeling</a></td></tr>
-<tr><td>Tue 08 nov</td><td>school performances</td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/dagvoorstellingen.html/">CC Muze</a></td></tr>
-<tr><td>Sun 27 nov</td><td>16.00</td><td>Berlare</td><td><a href="https://www.berlare.be/e-loket-cc-stroming.html/">CC Stroming</a></td></tr>
   
 <tr><td colspan="5"><strong>2023</strong></td></tr>
 <tr><td>28-31 march</td><td>school performances</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
 <tr><td>Sun 02 apr</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>Sun 21 may</td><td>18.00</td><td>Bremen(GER)</td><td><a href="https://www.mittenmang-festival.de//">Mittenmag Festival</a></td></tr>
 
 </table>
 </div>
