@@ -78,6 +78,6 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <table class="speellijst">
 <tr><td colspan="4"><strong>2023</strong></td></tr>
 <tr><td>di 28 feb</td><td>schoolvoorstellingen</td><td>Scherpenheuvel</td><td><a href="https://www.scherpenheuvel-zchem/denegger.be/">Den Egger</a></td></tr>
-<tr><td>zo 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://https://www.ccmaasmechelen.be/programma/compagnie-barbarie-bronks/">CC Maasmechelen</a>
+<tr><td>zo 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/programma/compagnie-barbarie-bronks/">CC Maasmechelen</a>
 </table>
 </div>
