@@ -72,11 +72,6 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="4"><strong>2022</strong></td></tr>
-<tr><td>Thu 22 sep</td><td>school performances </td><td>Sint Truiden</td><td><a href="https://www.debogaard.be/">CC De Bogaard</a></td></tr>
-<tr><td>Thu 27 oct</td><td>school performances </td><td>Antwerpen</td><td><a href="https://www.bloc2030.be/">Bloc 2030</a></td></tr>
-<tr><td>Fri 18 nov</td><td>school performances </td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>Sat 26 nov</td><td>19.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">cc Het Bolwerk</a></td></tr>
 <tr><td colspan="4"><strong>2023</strong></td></tr>
 <tr><td>Tue 28 feb</td><td>school performances </td><td>Scherpenheuvel Zichem</td><td><a href="https://www.denegger.be/">GC den egger</a></td></tr>
 <tr><td>Sun 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">Maasmechelen CC</a></td></tr>
