@@ -63,7 +63,7 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <table class="speellijst">
 <tr><td colspan="5"><strong>2023</strong></td></tr>
 <tr><td>28-31 maart</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>zo 02 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
+<tr><td>zo 02 apr</td><td>15.00</td><td>Antwerpen</td><td><a href="https://www.hetpaleis.be/agenda/">hetpaleis</a></td></tr>
 <tr><td>zo 21 mei</td><td>18.00</td><td>Bremen(GER)</td><td><a href="https://www.mittenmang-festival.de//">Mittenmag Festival</a></td></tr>
 
 </table>
