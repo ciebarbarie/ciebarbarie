@@ -50,7 +50,6 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 <div class="table-responsive">
 <table class="speellijst">
 
-<tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>za 15 okt</td><td>19.00</td><td>Overijse</td><td><a href="http://www.denblank.be">CC Den Blank</a></td></tr>
+<tr><td colspan="5"><strong>voorlopig geen speeldata meer</strong></td></tr>
 </table>
 </div>
