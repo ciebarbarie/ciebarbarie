@@ -76,13 +76,8 @@ compagnie barbarie wordt structureel ondersteund door de VGC
 
 <div class="table-responsive">
 <table class="speellijst">
-<tr><td colspan="4"><strong>2022</strong></td></tr>
-<tr><td>do 22 sep</td><td>schoolvoorstellingen</td><td>Sint Truiden</td><td><a href="https://www.debogaard.be/">CC De Bogaard</a></td></tr>
-<tr><td>do 27 okt</td><td>schoolvoorstellingen</td><td>Antwerpen</td><td><a href="https://www.bloc2030.be/">Bloc 2030</a></td></tr>
-<tr><td>vri 18 nov</td><td>schoolvoorstellingen</td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>za 26 nov</td><td>19.00</td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">cc Het Bolwerk</a></td></tr>
 <tr><td colspan="4"><strong>2023</strong></td></tr>
-<tr><td>di 28 feb</td><td>schoolvoorstellingen</td><td>Scherpenheuvel Zichem</td><td><a href="https://www.denegger.be/">GC den egger</a></td></tr>
-<tr><td>zo 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">Maasmechelen CC</a></td></tr>
+<tr><td>di 28 feb</td><td>schoolvoorstellingen</td><td>Scherpenheuvel</td><td><a href="https://www.scherpenheuvel-zchem/denegger.be/">Den Egger</a></td></tr>
+<tr><td>zo 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://https://www.ccmaasmechelen.be/programma/compagnie-barbarie-bronks/">CC Maasmechelen</a>
 </table>
 </div>
