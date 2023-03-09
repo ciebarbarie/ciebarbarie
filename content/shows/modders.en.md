@@ -55,8 +55,7 @@ cie barbarie recieves structural support from the Commission of the Flemish Comm
 <div class="table-responsive">
 <table class="speellijst">
   
-<tr><td colspan="5"><strong>2022</strong></td></tr>
-<tr><td>za 15 okt</td><td>19.00</td><td>Overijse</td><td><a href="http://www.denblank.be">CC Den Blank</a></td></tr>
+<tr><td colspan="5"><strong>no further dates at the moment</strong></td></tr>
 </table>
 </div>
 
