@@ -26,11 +26,6 @@ backgroundImage: "pak-de-poen-background.jpg"
 </style>
 <div class="banner">Nu Kapitalisme Kopen? Bestel Direct. Snel in huis.</div><br>
 
-<a href="/nl/pak-de-trui/">
-  <img src="/img/pak-de-poen-trui.jpg" alt="Compagnie Barbarie met Pak de Poen truien aan">
-  <div class="banner">Bestel de Pak De Poen trui</div>
-</a>
-
 Kom u verrijken op de meest hebzuchtige show van het jaar!<br>
 Want in ‘Pak de poen!’ kunnen kinderen geld verdienen.<br>
 Veel geld.<br>
