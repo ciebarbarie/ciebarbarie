@@ -2,4 +2,4 @@
 /_mockup
 /public
 _gen/
-
+*.lock
