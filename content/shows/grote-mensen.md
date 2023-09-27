@@ -1,0 +1,40 @@
+---
+title: Grote Mensen
+slug: grote-mensen
+weight: 17
+bit-1-start: -500
+bit-1-end: 700
+slide-count: 1
+images:
+  "grote-mensen-1.jpg": Jan De Brabander
+backgroundColor: "#f5f5f5"
+backgroundImage: "grote-mensen-background.jpg"
+contentColor: "#333"
+---
+**Grote Mensen**<br>
+
+**Een voorstelling over de grote mensenwereld.**<br>
+
+
+Grote mensen werken.<br>
+En kinderen spelen. Of gaan naar school. Of ze slapen.<br>
+En als ze slapen moeten de grote mensen nog verder werken. In de living. Op hun computers. Nadat ze de keuken hebben opgekuist.<br>
+
+Maar wat doen grote mensen eigenlijk écht? Als de kinderen op school zitten, wat doen ze dan de hele godganse dag lang? Regelen ze de wereld? Doen ze een dutje? Of maken ze er een potje van?<br>
+
+Deze nieuwste voorstelling van compagnie barbarie gaat op een beeldende manier aan de haal met alles wat grote mensen doen/niet doen/zouden moeten doen/zeggen dat ze doen/nooit zouden kunnen maar eigenlijk wel willen doen. Want hebben volwassenen eigenlijk écht de touwtjes in handen? We duiken in het universum van de volwassene dat een kind nooit te zien krijgt. Op Barbariaans-komische wijze graven we in de fantasiewereld en laten het leven van één dag heerlijk ontsporen. Een absurd tragische horror komedie over het wel en wee van grote mensen als de kinderen even niet kijken.
+
+Want hebben volwassenen eigenlijk écht de touwtjes in handen? Wijzen ze in de juiste richting? Zorgen zij voor de wereld die ze voor de kinderen achterlaten? Ruimen ze écht de hele tijd alle rommel op die iedereen laat slingeren? Of is het later aan de kinderen om alles op te ruimen?
+
+Want wie kuist eigenlijk wiens brol op?
+
+**CONCEPT** compagnie barbarie (Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes & Sarah Vangeel)<br>
+**SPEL** Sarah Vangeel, Liesje De Backer, Amber Goethals & Lotte Vaes<br>
+**REGIE** Karolien De Bleser<br>
+**TEKST** compagnie barbarie<br>
+**SCENOGRAFIE** Michiel Van Cauwelaert<br>
+**KOSTUUMS** Nikè Moens<br>
+**GELUID & TECHNIEK** Saul Mombaerts<br>
+**GELUID- & MUZIEKONTWERP** Adam Russel<br>
+**PRODUCTIE** BRONKS met de steun van de Vlaamse Gemeenschap & de VGC<br>
+*Deze voorstelling kwam tot stand met behulp van de Tax Shelter maatregel van Belgische Federale Overheid.*
