@@ -1,6 +1,7 @@
 ---
 title: Modders (8+)
 slug: modders
+active: true
 weight: 11
 images:
   "modders-1.jpg": Franky Verdickt

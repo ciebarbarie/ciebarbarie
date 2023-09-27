@@ -1,6 +1,7 @@
 ---
 title: Mise en Place (6+)
 slug: mise-en-place
+active: true
 weight: 15
 slide-count: 1
 images:

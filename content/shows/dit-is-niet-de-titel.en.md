@@ -1,6 +1,7 @@
 ---
 title: This Is Not The Title
 slug: this-is-not-the-title
+active: true
 weight: 16
 bit-1-start: -500
 bit-1-end: 700

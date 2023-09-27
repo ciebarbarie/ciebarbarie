@@ -1,6 +1,7 @@
 ---
 title: Pak De Poen! (7+)
 slug: pak-de-poen
+active: true
 weight: 14
 images:
   "pak-de-poen-1.jpg": Franky Verdickt
