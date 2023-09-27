@@ -4,7 +4,7 @@ slug: dit-is-niet-de-titel
 weight: 16
 bit-1-start: -500
 bit-1-end: 700
-slide-count: 1
+slide-count: 4
 images:
   "dit-is-niet-de-titel-1.jpg": Franky Verdickt
   "dit-is-niet-de-titel-2.jpg": Franky Verdickt
