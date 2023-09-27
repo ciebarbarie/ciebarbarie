@@ -169,6 +169,10 @@ h2 {
   margin-bottom: 0.5em;
 }
 
+#news a {
+    color: inherit;
+}
+
 #performance-title {
   position: absolute;
   top: 100px;
