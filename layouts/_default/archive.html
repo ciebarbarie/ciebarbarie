@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    {{ partial "head.html" .}}
+</head>
+
+<body>
+    {{ partial "header.html" .}}    
+    {{ partial "slides.html" .}}
+    <div id="performance-title">
+        <h1>{{ .Title }}</h1>
+      </div>
+        <div id="shows">
+        <div class="container">
+            <div id="content">{{ .Content }}</div>
+            <div class="row">
+                <div class="twelve columns">
+                    <ul>
+                        {{ $shows := where .Site.RegularPages.Reverse "Section" "shows" }}
+                        {{ range where $shows "Params.active" false -}}
+                        <li><a href="{{ .Permalink }}">
+                                <img src="{{ .Site.BaseURL }}img/{{ .File.TranslationBaseName }}-thumb.jpg"
+                                    alt="{{ .Title }}">
+                                <span>{{ .Title }}</span>
+                            </a></li>
+                        {{- end}}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{ partial "footer.html" . }}
+    {{ partial "extrastyle.html" . }}
+    {{ partial "scripts.html" . }}
+</body>
+
+</html>

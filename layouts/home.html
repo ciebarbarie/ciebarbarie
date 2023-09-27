@@ -45,7 +45,8 @@
             <div class="row">
                 <div class="nine columns">
                     <ul>
-                        {{ range where .Site.RegularPages.Reverse "Section" "shows" -}}
+                        {{ $shows := where .Site.RegularPages.Reverse "Section" "shows" }}
+                        {{ range where $shows "Params.active" true -}}
                         <li><a href="{{ .Permalink }}">
                                 <img src="{{ .Site.BaseURL }}img/{{ .File.TranslationBaseName }}-thumb.jpg"
                                     alt="{{ .Title }}">
@@ -68,6 +69,16 @@
                             href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
                     <p>Look at the pages for each show for the <strong>play list</strong>.</p>
                     {{- end }}
+
+                    {{- if eq .Language.Lang "nl" }}
+                    <h3>Archief</h3>
+                    <p>Oudere voorstellingen staan in het <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/archief">archief</a>.</p>
+                    {{- end }}
+                    {{- if eq .Language.Lang "en" }}
+                    <h3>Archive</h3>
+                    <p>Older shows are available in the <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/archive">archive</a>.</p>
+                    {{- end }}
+
                 </div>
             </div>
         </div>
