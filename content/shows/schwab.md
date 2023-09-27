@@ -1,6 +1,7 @@
 ---
 title: Schwab Werner Schwab
 slug: schwab
+active: false
 weight: 4
 bit-1-start: 0
 bit-1-end: -200

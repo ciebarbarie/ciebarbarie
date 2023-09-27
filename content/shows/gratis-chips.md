@@ -1,6 +1,7 @@
 ---
 title: Gratis Chips! (5+)
 slug: gratis-chips
+active: true
 weight: 12
 bit-1-start: -500
 bit-1-end: 700

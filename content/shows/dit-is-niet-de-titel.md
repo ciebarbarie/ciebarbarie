@@ -1,6 +1,7 @@
 ---
 title: Dit Is Niet De Titel
 slug: dit-is-niet-de-titel
+active: true
 weight: 16
 bit-1-start: -500
 bit-1-end: 700

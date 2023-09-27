@@ -1,6 +1,7 @@
 ---
 title: Big People
 slug: big-people
+active: true
 weight: 17
 bit-1-start: -500
 bit-1-end: 700

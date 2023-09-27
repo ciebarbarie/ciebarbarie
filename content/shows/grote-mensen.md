@@ -1,6 +1,7 @@
 ---
 title: Grote Mensen
 slug: grote-mensen
+active: true
 weight: 17
 bit-1-start: -500
 bit-1-end: 700

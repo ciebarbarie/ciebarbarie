@@ -1,6 +1,7 @@
 ---
 title: Too Far East is West
 slug: too-far-east-is-west
+active: false
 weight: 2
 bit-1-start: -500
 bit-1-end: 0

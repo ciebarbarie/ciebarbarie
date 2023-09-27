@@ -1,6 +1,7 @@
 ---
 title: The End Is Dear
 slug: the-end-is-dear
+active: false
 weight: 6
 bit-1-start: -100
 bit-1-end: -350

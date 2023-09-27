@@ -1,6 +1,7 @@
 ---
 title: Crisps for Free (5+)
 slug: crisps-for-free
+active: true
 weight: 12
 bit-1-start: -500
 bit-1-end: 700

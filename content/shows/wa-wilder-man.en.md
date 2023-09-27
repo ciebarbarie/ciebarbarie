@@ -1,6 +1,7 @@
 ---
 title: Be Wilder Man (4+)
 slug: be-wilder-man
+active: true
 weight: 9
 bit-1-start: 50
 bit-1-end: 1000

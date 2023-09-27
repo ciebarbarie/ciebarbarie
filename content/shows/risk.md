@@ -1,6 +1,7 @@
 ---
 title: Risk
 slug: risk
+active: false
 weight: 7
 bit-1-start: 0
 bit-1-end: 400
