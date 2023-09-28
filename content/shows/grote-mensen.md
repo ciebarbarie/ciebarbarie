@@ -36,5 +36,6 @@ Want wie kuist eigenlijk wiens brol op?
 **GELUID & MUZIEKONTWERP** Adam Russel<br>
 **GELUID- & TECHNIEK** Saul Mombaerts<br>
 **PRODUCTIE** BRONKS met de steun van de Vlaamse Gemeenschap & de VGC<br>
-**MET DANK AAN** De Studio
+**MET DANK AAN** De Studio<br>
+
 *Deze voorstelling kwam tot stand met behulp van de Tax Shelter maatregel van Belgische Federale Overheid.*
