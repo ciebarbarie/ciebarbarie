@@ -50,6 +50,18 @@ contentcolor: "#fff"
 <tr><td>Do 01 feb</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Willebroek</td><td><a href="https://www.ccdester.willebroek.be/">CC De Ster</a></td></tr>
 <tr><td>Zon 04 feb</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
 <tr><td>Ma 05 & Di 06 feb</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">cultuurcentrum De Werf</a></td></tr>
+<tr><td>Do 08 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Zat 10 feb</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
+<tr><td>Zon 18 feb</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Buggenhout</td><td><a href="https://www.gcdepit.be/">GC De Pit</a></td></tr>
+<tr><td>Di 20 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Menen</td><td><a href="https://www.ccdesteiger.be/">CC De Steiger</a></td></tr>
+<tr><td>Zon 25 feb</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">cc Het Bolwerk</a></td></tr>
+<tr><td>Di 27 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">CC Maasmechelen</a></td></tr>
+<tr><td>Do 29 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
+<tr><td>Zo 03 Maart</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/">CC Belgica</a></td></tr>
+
+
+
+
 
 
 </table>
