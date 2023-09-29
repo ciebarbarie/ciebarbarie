@@ -49,7 +49,7 @@ contentcolor: "#fff"
 <tr><td>Ma 29 jan</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
 <tr><td>Do 01 feb</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Willebroek</td><td><a href="https://www.ccdester.willebroek.be/">CC De Ster</a></td></tr>
 <tr><td>Zon 04 feb</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
-<tr><td>Ma 05 & Di06 feb</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">cultuurcentrum De Werf</a></td></tr>
+<tr><td>Ma 05 & Di 06 feb</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">cultuurcentrum De Werf</a></td></tr>
 
 
 </table>
