@@ -66,16 +66,3 @@ Family performances: 7+
 **Special thanks to** Needcompany en Beeldsmederij De MAAN<br>
 **With the support of** The Flemish Government and the support of the Tax Shelter measure of the Belgian Federal Government.<br>
 cie barbarie recieves structural support from the Commission of the Flemish Community
-
-
-
-## Playlist
-
-<div class="table-responsive">
-<table class="speellijst">
-<tr><td colspan="4"><strong>2023</strong></td></tr>
-<tr><td>Tue 28 feb</td><td>school performances </td><td>Scherpenheuvel Zichem</td><td><a href="https://www.denegger.be/">GC den egger</a></td></tr>
-<tr><td>Sun 23 apr</td><td>15.00</td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">Maasmechelen CC</a></td></tr>
-</table>
-</div>
-

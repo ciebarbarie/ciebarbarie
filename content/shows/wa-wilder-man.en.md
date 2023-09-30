@@ -52,12 +52,3 @@ In a visual and humorous manner, the relation between “us” and “them” is
 **Graphic Design**: Nick Mattan and Ben Raes <br>
 **Pictures**: Franky Verdickt <br>
 Cie barbarie recieves structural support from the Commission of the Flemish Community
-
-## Playlist
-
-<div class="table-responsive">
-<table class="speellijst">
-
-<tr><td colspan="5"><strong>no further dates at the moment</strong></td></tr>
-</table>
-</div>

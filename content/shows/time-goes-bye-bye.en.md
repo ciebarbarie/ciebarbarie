@@ -51,16 +51,3 @@ a coproduction with <a href="https://www.bronks.be/nl/">BRONKS</a>, and Per Podi
 
 TIME GOES BYE BYE was created without the support of the Flemish Government but with the support of the Tax Shelter measure of the Belgian Federal Government.<br>
 cie barbarie recieves structural support from the Commission of the Flemish Community
-
-## Playlist
-
-<div class="table-responsive">
-<table class="playlist">
-<tr><td colspan="5"><strong>2023</strong></td></tr>
-<tr><td>Thu 09 & Fri 10 mar</td><td>school performances</td><td>Sint-Pieters Leeuw</td><td><a href="https://www.brulspl.be/">OC De Merselborre</a></td></tr>
-<tr><td>Sun 12 mar</td><td>15.00</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>Fri 21 apr</td><td>school performances</td><td>Kortrijk</td><td><a href="https://www.cultuurcentrumkortrijk.be/">Schouwburg</a></td></tr>
-<tr><td>Tue 25 apr</td><td>school performances</td><td>Asse</td><td><a href="https://www.ccasse.be/">CC Oud Gasthuis</a></td></tr>
-
-</table>
-</div>

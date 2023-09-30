@@ -57,20 +57,3 @@ Een coproductie met <a href="http://www.villanella.be/">Villanella</a> en <a hre
 ‘GRATIS CHIPS’ kwam tot stand dankzij de Tax-Shelter maatregel van de Belgische Federale Overheid.<br>
 Met de steun van <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> en <a href="https://www.needcompany.org/">Needcompany</a><br>
 compagnie barbarie wordt structureel ondersteund door de VGC
-
-## Speellijst
-<div class="table-responsive">
-<table class="speellijst">
-<tr><td colspan="5"><strong>2023</strong></td></tr>
-<tr><td>do 02 en vri 03 maart</td><td>schoolvoorstellingen</td><td>Berlare</td><td><a href="https://www.beleefberlare.be/cultuur/">CC Stroming</a></td></tr>
-<tr><td>zo 05 maart</td><td>14.30</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr> 
-<tr><td>zo 19 maart</td><td>15.00</td><td>Beveren</td><td><a href="https://www.tervesten.be/">CC Ter Vesten</a></td></tr>
-<tr><td>zo 26 maart</td><td>15.00</td><td>Ronse</td><td><a href="https://www.ronse.be/nl/nieuws/uitverkocht-compagnie-barbarie-gratis-chips/">CC De Ververij</a></td></tr>
-<tr><td>woe 12 apr</td><td>14.00</td><td>Kapellen</td><td><a href="https://www.cckapellen.be/">CC Lux</a></td></tr>
-<tr><td>vri 28 apr</td><td>schoolvoorstellingen</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>di 09 mei</td><td>schoolvoorstellingen</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
-  
-
-
-</table>
-</div>

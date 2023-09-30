@@ -58,13 +58,3 @@ In Mise en place we look for the vague border where the self ends and the other 
 **German Translation**:Christine Bais<br>
 **Production &amp; technical realisation**: hetpaleis, cie barbararie, Theater Stap, BRONKS, KOPERGIETERY<br>
 Company Barbarie is structurally supported by the VGC.
-
-## Playlist
-  
-<tr><td colspan="5"><strong>2023</strong></td></tr>
-<tr><td>28-31 march</td><td>school performances</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/">hetpaleis</a></td></tr>
-<tr><td>Sun 02 apr</td><td>15.00</td><td>Antwerp</td><td><a href="https://www.hetpaleis.be/agenda/">hetpaleis</a></td></tr>
-<tr><td>Sun 21 may</td><td>18.00</td><td>Bremen(GER)</td><td><a href="https://www.mittenmang-festival.de//">Mittenmag Festival</a></td></tr>
-
-</table>
-</div>

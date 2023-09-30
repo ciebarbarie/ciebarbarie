@@ -45,12 +45,3 @@ Een coproductie met <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="http
 Met dank aan C-Mine Genk, CC De Werft, Geel en Toneelhuis Antwerpen <br>
 Met de steun van de Vlaamse Gemeenschap<br>
 compagnie barbarie wordt structureel ondersteund door de VGC
-
-## Speellijst
-
-<div class="table-responsive">
-<table class="speellijst">
-
-<tr><td colspan="5"><strong>voorlopig geen speeldata meer</strong></td></tr>
-</table>
-</div>

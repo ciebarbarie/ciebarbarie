@@ -56,16 +56,3 @@ Een productie van cie barbarie en <a href="http://www.destudio.com/">De Studio</
 een coproductie met <a href="https://www.bronks.be/nl/">BRONKS</a>,en Per Podium<br>
 TIME GOES BYE BYE kwam tot stand zonder de steun van de Vlaamse Gemeenschap maar met de steun van de Tax Shelter maatregel van de Belgische Federale overheid.<br>
 cie barbarie wordt structureel ondersteund door de VGC.
-
-## Speellijst
-
-<div class="table-responsive">
-<table class="speellijst">
-<tr><td colspan="5"><strong>2023</strong></td></tr>
-<tr><td>do 09 & vri 10 maart</td><td>schoolvoorstellingen</td><td>Sint-Pieters Leeuw</td><td><a href="https://www.brulspl.be/">OC De Merselborre</a></td></tr>
-<tr><td>zo 12 maart</td><td>15.00</td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>vri 21 apr</td><td>schoolvoorstellingen</td><td>Kortrijk</td><td><a href="https://www.cultuurcentrumkortrijk.be/">Schouwburg</a></td></tr>
-<tr><td>di 25 apr</td><td>schoolvoorstellingen</td><td>Asse</td><td><a href="https://www.ccasse.be/">CC Oud Gasthuis</a></td></tr>
-
-</table>
-</div>

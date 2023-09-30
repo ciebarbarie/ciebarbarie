@@ -50,12 +50,3 @@ En onze bizarre reacties op het onbekende....<br>
 **Grafisch Ontwerp**: Nick Mattan en Ben Raes <br>
 **Persfoto's**: Franky Verdickt <br>
 Cie Barbarie wordt structureel ondersteund door de VGC
-
-## Speellijst
-
-<div class="table-responsive">
-<table class="speellijst">
-
-<tr><td colspan="5"><strong>voorlopig geen verdere speeldata</strong></td></tr>
-</table>
-</div>

@@ -67,20 +67,3 @@ A coproduction with <a href="http://www.villanella.be/">Villanella</a>, <a href=
 'CRISPS FOR FREE' was realized thanks to the Tax Shelter measure of the Belgian Federal Government.
 With the support of <a href="https://www.arsenaallazarus.be/">ARSENAAL/LAZARUS</a> and <a href="https://www.needcompany.org/">Needcompany</a>.<br>
 cie barbarie recieves structural support from the Commission of the Flemish Community
-
-## Playlist
-
-<div class="table-responsive">
-<table class="speellijst">
-<tr><td colspan="5"><strong>2023</strong></td></tr>
-<tr><td>Thu 02 and Fri 03 mar</td><td>school performances</td><td>Berlare</td><td><a href="https://www.beleefberlare.be/cultuur/">CC Stroming</a></td></tr>
-<tr><td>Sun 05 mar</td><td>14.30</td><td>Wetteren</td><td><a href="https://www.ccnovawetteren.be/">CC Nova</a></td></tr> 
-<tr><td>Sun 19 mar</td><td>15.00</td><td>Beveren</td><td><a href="https://www.tervesten.be/">CC Ter Vesten</a></td></tr>
-<tr><td>Sun 26 mar</td><td>15.00</td><td>Ronse</td><td><a href="https://www.ronse.be/nl/nieuws/uitverkocht-compagnie-barbarie-gratis-chips/">CC De Ververij</a></td></tr>
-<tr><td>Wed 12 apr</td><td>14.00</td><td>Kapellen</td><td><a href="https://www.cckapellen.be/">CC Lux</a></td></tr>
-<tr><td>Fri 28 apr</td><td>school performances</td><td>Hasselt</td><td><a href="https://www.ccha.be/">cultuurcentrum</a></td></tr>
-<tr><td>Tue 09 may</td><td>school performances</td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be/">CC Het Gasthuis</a></td></tr>
-   
-
-</table>
-</div>

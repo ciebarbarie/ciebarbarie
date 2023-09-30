@@ -50,13 +50,3 @@ A coproduction with <a href="http://www.bronks.be/nl/">BRONKS</a>, <a href="http
 Thanks to C-Mine Genk, CC De Werft, Geel and Toneelhuis Antwerpen <br>
 With the support of the Flemish Community<br>
 cie barbarie recieves structural support from the Commission of the Flemish Community
-
-## Playlist
-
-<div class="table-responsive">
-<table class="speellijst">
-  
-<tr><td colspan="5"><strong>no further dates at the moment</strong></td></tr>
-</table>
-</div>
-
