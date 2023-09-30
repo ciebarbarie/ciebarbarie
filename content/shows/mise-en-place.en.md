@@ -25,9 +25,6 @@ contentColor: "#fff"
 A production by Company Barbarie, theater stap<br>
 hetpaleis, BRONKS, KOPERGIETERY
 
-<a href="https://www.vrt.be/vrtnu/a-z/de-toots-sessies/3/de-toots-sessies-s3a10/" target="_blank"><img src="/img/mise-en-place-toots-sessies.jpg" alt="Compagnie Barbarie & Theater Stap bij De Toots Sessies">
-Compagnie Barbarie and Theater Stap at the Toots Sessies</a>
-
 Five actors from Company Barbarie.<br>
 Six actors from Theater Stap.<br>
 That makes eleven players on the scene.<br>

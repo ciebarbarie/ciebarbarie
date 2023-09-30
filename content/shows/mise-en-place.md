@@ -25,9 +25,6 @@ contentColor: "#fff"
 Een voorstelling van compagnie barbarie, theater stap<br>
 hetpaleis, BRONKS, KOPERGIETERY
 
-<a href="https://www.vrt.be/vrtnu/a-z/de-toots-sessies/3/de-toots-sessies-s3a10/" target="_blank"><img src="/img/mise-en-place-toots-sessies.jpg" alt="Compagnie Barbarie & Theater Stap bij De Toots Sessies">
-Compagnie Barbarie & Theater Stap bij De Toots Sessies</a>
-
 Vijf spelers van cie barbarie.<br>
 Zes spelers van Theater Stap.<br>
 Dat maakt elf spelers op scène.<br>
