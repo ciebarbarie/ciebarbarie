@@ -57,24 +57,24 @@ contentcolor: "#fff"
 <tr><td>Zon 25 feb</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be/">cc Het Bolwerk</a></td></tr>
 <tr><td>Di 27 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/">CC Maasmechelen</a></td></tr>
 <tr><td>Do 29 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Deinze</td><td><a href="https://www.leietheater.be/">Leietheater</a></td></tr>
-<tr><td>Zo 03 Maart</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/">CC Belgica</a></td></tr>
-<tr><td>di O5 Maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Hoeilaart</td><td><a href="https://www.hoeilaart.be/">GC Felix Solie</a></td></tr>
-<tr><td>Zon 10 Maart</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Geel</td><td><a href="https://www.dewerft.be/">CC de Werft</a></td></tr>
-<tr><td>Vri 15 Maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Wezembeek-Oppem</td><td><a href="https://www.dekam.be/">GC De Kam</a></td></tr>
-<tr><td>Zon 17 Maart</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
-<tr><td>Zo 24 Maart</td><td>15.00</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY Campo Nieuwpoort</a></td></tr>
-<tr><td>Ma 25 Maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY Campo Nieuwpoort</a></td></tr>
-<tr><td>Vri 29 Maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Brecht</td><td><a href="https://www.gcbrecht.be/">OC 't Centrum</a></td></tr>
-<tr><td>Woe 10 Apr</td><td>15.30</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Kortemark</td><td><a href="https://www.kortemark.be/">CC De Beuk</a></td></tr>
-<tr><td>Di 23 Apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Brussel</td><td><a href="https://www.derinck.be/">Zinnema GC De Rinck</a></td></tr>
-<tr><td>Do 25 & Vri 26 Apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.brulspl.be/">OC De Merselborre</a></td></tr>
-<tr><td>Zon 28 Apr</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Oudenaarde</td><td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
-<tr><td>Ma 06 & Di 07 Mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Zo 03 maart</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/">CC Belgica</a></td></tr>
+<tr><td>di 05 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Hoeilaart</td><td><a href="https://www.hoeilaart.be/">GC Felix Solie</a></td></tr>
+<tr><td>Zon 10 maart</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Geel</td><td><a href="https://www.dewerft.be/">CC de Werft</a></td></tr>
+<tr><td>Vri 15 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Wezembeek-Oppem</td><td><a href="https://www.dekam.be/">GC De Kam</a></td></tr>
+<tr><td>Zon 17 maart</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Schoten</td><td><a href="https://www.ccschoten.be/">CC De Kaekelaar</a></td></tr>
+<tr><td>Zo 24 maart</td><td>15.00</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY Campo Nieuwpoort</a></td></tr>
+<tr><td>Ma 25 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Gent</td><td><a href="https://www.kopergietery.be/">KOPERGIETERY Campo Nieuwpoort</a></td></tr>
+<tr><td>Vri 29 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Brecht</td><td><a href="https://www.gcbrecht.be/">OC 't Centrum</a></td></tr>
+<tr><td>Woe 10 apr</td><td>15.30</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Kortemark</td><td><a href="https://www.kortemark.be/">CC De Beuk</a></td></tr>
+<tr><td>Di 23 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Brussel</td><td><a href="https://www.derinck.be/">Zinnema GC De Rinck</a></td></tr>
+<tr><td>Do 25 & Vri 26 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.brulspl.be/">OC De Merselborre</a></td></tr>
+<tr><td>Zon 28 apr</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Oudenaarde</td><td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
+<tr><td>Ma 06 & Di 07 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Woe 15- Vri 17 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/time-goes-bye-bye">Time goes bye bye</a></td><td>Dilbeek</td><td><a href="https://www.westrand.be/">CC Westrand</a></td></tr>
-<tr><td>Do 23 & Vri 24 Mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Zelzate</td><td><a href="https://www.zelzate.bibliotheek.be/">Cultuurhuis De Brug</a></td></tr>
+<tr><td>Do 23 & Vri 24 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Zelzate</td><td><a href="https://www.zelzate.bibliotheek.be/">Cultuurhuis De Brug</a></td></tr>
 href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
-<tr><td>Zon 02 Jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>Ma 03 & Di 04 Jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Zon 02 jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Ma 03 & Di 04 jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 
 
 
