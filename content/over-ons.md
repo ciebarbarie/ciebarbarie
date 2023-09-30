@@ -14,28 +14,12 @@ contentColor: "#ddd"
 sidebarColor: "#ccc"
 ---
 
-Compagnie barbarie is een professioneel theatercollectief bestaande uit zeven vrouwen.
+Compagnie barbarie is een professioneel theatercollectief bestaande uit vijf vrouwen.
 
 <iframe src="https://player.vimeo.com/video/292324878?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Allen studeerden ze aan de theaterschool RITS in Brussel.<br>
-Na het afstuderen beslisten ze om naast hun individuele traject als actrice ook samen aan eenzelfde weg te timmeren.<br>
-Inhoudelijk wordt de focus gelegd op bestaande clichés en worden vooroordelen doorprikt.<br>
-De producties van de barbaries verruimen het blikveld van de toeschouwer en brengen scheuren aan in bestaande vooringenomenheden.<br>
-In een complexe en snel veranderende wereld heeft iedereen nood aan houvast maar het gevaar voor generalisering ligt op de loer.<br>
-Diepgewortelde clichés die voor waar worden aangenomen, die worden door de vrouwelijke makers van compagnie barbarie met al hun talenten bevochten.<br>
-<br>
-De barbaries ontwikkelden hiervoor in de loop der jaren een eigen specifieke beeldtaal.<br>
-Visualiteit en humor zijn twee belangrijke kenmerken die in elke productie naar voor komen.<br>
-Door hun visuele aanpak maken de barbaries hun inhoudelijke stellingen tastbaar zonder met de vinger te wijzen, zonder ‘de waarheid’ te willen verkondigen.<br>
-De barbaries geloven sterk in een uitgepuurde beeldtaal omdat deze associatief werkt.<br>
-Ze staat open voor interpretatie en nodigt uit tot een verhaal van nuance en complexiteit.<br>
-Beelden werken associatief en overstijgen een zwart-wit verhaal.<br>
-Ook humor is een belangrijke parameter voor het werk van de barbaries en een waardevol instrument om kritiek te geven.<br>
-De mix van humor met inhoud en inhoud vanuit het buikgevoel: dat is compagnie barbarie.<br>
-<br>
-Humor is het vermogen om de kloof te herkennen tussen hoe het is en hoe het zou moeten zijn.- Rebecca Solnit<br>
+
 
 <br>
 <br>
-Compagnie barbarie is: Ruth Beeckmans, Evelien Broekaert, Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel
+Compagnie barbarie is: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel
