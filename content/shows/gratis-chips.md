@@ -5,9 +5,13 @@ active: true
 weight: 12
 bit-1-start: -500
 bit-1-end: 700
-slide-count: 1
+slide-count: 5
 images:
-  "gratis-chips-1.jpg": Nick Mattan
+  "gratis-chips-1.jpg": Franky Verdict
+  "gratis-chips-2.jpg": Franky Verdict
+  "gratis-chips-3.jpg": Franky Verdict
+  "gratis-chips-4.jpg": Franky Verdict
+  "gratis-chips-5.jpg": Franky Verdict
 bits:
   -
     filename: "gratis-chips-bit-1.png"
