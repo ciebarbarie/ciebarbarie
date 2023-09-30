@@ -5,9 +5,6 @@ intro: Company Barbarie is a theatre collective consisting of seven women. <a hr
 ---
 
 HAPPY NEWS!<br>
-From 2023, cie barbarie will be artist in residence at BRONKS for the next five years!<br>
-That means that you can find all information about our latest performance 'THIS IS NOT THE TITLE' via this link.<br>
-https://www.bronks.be/nl/programma/5037/dit-is-niet-de-titel<br>
-The 2023 playlists of Mise en Place, CASH IN!, CRISPS FOR FREE!, and Time goes bye bye can still be found on this website.<br>
-Check the playlists at the productions for all dates!<br>
-
+Since 2023, cie barbarie will be artist in residence at BRONKS for the next five years!<br>
+We made 'THIS IS NOT THE TITLE'together and now we are creating 'Grown-Ups'.<br>
+Other older productions are still on tour so check our tour dates!<br>
