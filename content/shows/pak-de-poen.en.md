@@ -1,7 +1,7 @@
 ---
 title: Cash In! (7+)
 slug: cash-in
-active: true
+active: false
 weight: 14
 images:
   "pak-de-poen-1.jpg": Nick Mattan
