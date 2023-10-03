@@ -58,12 +58,14 @@
                 <div id="booking-info" class="three columns">
                     <h2>Info</h2>
                     {{- if eq .Language.Lang "nl" }}
+                    <a href="/nl/speellijst" class="playlist-link">Speellijst</a>
                     <p>Wie meer info wil over verkoop en speellijst bel Liesje: <a
                             href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of mail: <a
                             href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
                     <p>Voor de <strong>speellijst</strong> — kijk bij de voorstellingen.</p>
                     {{- end }}
                     {{- if eq .Language.Lang "en" }}
+                    <a href="/en/playlist" class="playlist-link">Playlist</a>
                     <p>For more information about sales and play list call Liesje: <a
                             href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> or email: <a
                             href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
@@ -72,11 +74,13 @@
 
                     {{- if eq .Language.Lang "nl" }}
                     <h3>Archief</h3>
-                    <p>Oudere voorstellingen staan in het <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/archief">archief</a>.</p>
+                    <p>Oudere voorstellingen staan in het <a
+                            href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/archief">archief</a>.</p>
                     {{- end }}
                     {{- if eq .Language.Lang "en" }}
                     <h3>Archive</h3>
-                    <p>Older shows are available in the <a href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/archive">archive</a>.</p>
+                    <p>Older shows are available in the <a
+                            href="{{ .Site.BaseURL }}{{ .Site.Language.Lang }}/archive">archive</a>.</p>
                     {{- end }}
 
                 </div>

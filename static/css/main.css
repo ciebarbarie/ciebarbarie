@@ -321,6 +321,23 @@ img#poster {
   text-shadow: 0 0.5px 1px #000, 0 2px 5px #000;
 }
 
+.playlist-link {
+    font-size: 2rem;
+    background: #e92338 url(../img/homepage-news.jpg);
+    padding: 1rem;
+    display: inline-block;
+    margin-bottom: 2rem;
+    text-decoration: underline;
+    color: #eee !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.playlist-link:hover {
+    
+    filter: brightness(1.2);
+
+}
+
 #booking-info-link {
   display: inline-block;
   font-size: 1.5rem;
