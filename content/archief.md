@@ -2,7 +2,7 @@
 title: Archief
 layout: archive
 images:
-  "over-ons-2.jpg": "Franky Verdickt"
+  "over-ons-4.jpg": "Franky Verdickt"
 backgroundColor: "#010302"
 backgroundImage: "pers-background.jpg"
 contentColor: "#fff"
