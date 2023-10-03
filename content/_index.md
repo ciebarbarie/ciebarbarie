@@ -1,7 +1,7 @@
 ---
 layout: home
 noheader: true
-intro: Compagnie barbarie is een collectief bestaande uit zeven vrouwen. <a href="/nl/over-ons/">Lees meer</a>
+intro: Compagnie barbarie is een collectief bestaande uit vijf vrouwen. <a href="/nl/over-ons/">Lees meer</a>
 ---
 HEUGLIJK NIEUWS!<br>
 Sinds begin 2023 is cie barbarie huisgezelschap bij BRONKS en dat voor de komende vijf jaar!<br>
