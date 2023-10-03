@@ -1,5 +1,5 @@
 ---
-title: Grote Mensen
+title: Grote Mensen (4+)
 slug: grote-mensen
 active: true
 weight: 17
