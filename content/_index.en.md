@@ -1,7 +1,7 @@
 ---
 layout: home
 noheader: true
-intro: Company Barbarie is a theatre collective consisting of seven women. <a href="/en/about/">Read more</a>
+intro: Company Barbarie is a theatre collective consisting of five women. <a href="/en/about/">Read more</a>
 ---
 
 HAPPY NEWS!<br>
