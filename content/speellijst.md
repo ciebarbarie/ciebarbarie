@@ -72,7 +72,7 @@ contentcolor: "#fff"
 <tr><td>Ma 06 & Di 07 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Woe 15- Vri 17 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/time-goes-bye-bye">Time goes bye bye</a></td><td>Dilbeek</td><td><a href="https://www.westrand.be/">CC Westrand</a></td></tr>
 <tr><td>Do 23 & Vri 24 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Zelzate</td><td><a href="https://www.zelzate.bibliotheek.be/">Cultuurhuis De Brug</a></td></tr>
-href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
+<td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
 <tr><td>Zon 02 jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Ma 03 & Di 04 jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 
