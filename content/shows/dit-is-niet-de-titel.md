@@ -68,6 +68,8 @@ Maar we kunnen u niet beloven dat dat de waarheid is.
 **LICHTONTWERP** Frank Hardy<br>
 **STEM** Josse De Pauw, Nico Sturm<br>
 **PRODUCTIE** BRONKS<br>
+**COPRODUCTIE** Per Podium<br>
 **MET DANK AAN** Raygun, Ina Peeters & Janneke Hertoghs,De Studio<br>
-**MET DE STEUN VAN** de Vlaamse Gemeenschap en de VGC<br>
+**MET DE STEUN VAN** de Vlaamse GemeenschapC<br>
+
 *Deze voorstelling kwam tot stand met behulp van de Tax Shelter maatregel van Belgische Overheid.*
