@@ -35,7 +35,9 @@ Want wie kuist eigenlijk wiens brol op?
 **LICHTONTWERP** Frank Hardy<br>
 **GELUID & MUZIEKONTWERP** Adam Russel<br>
 **GELUID- & TECHNIEK** Saul Mombaerts<br>
-**PRODUCTIE** BRONKS met de steun van de Vlaamse Gemeenschap & de VGC<br>
+**PRODUCTIE** BRONKS<br>
+**COPRODUCTIE** Per Podium<br>
 **MET DANK AAN** De Studio<br>
+**MET DE STEUN VAN** Vlaamse Gemeenschap<br>
 
 *Deze voorstelling kwam tot stand met behulp van de Tax Shelter maatregel van Belgische Federale Overheid.*
