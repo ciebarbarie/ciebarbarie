@@ -34,7 +34,9 @@ Who really cleans up whose junk?
 **LIGHTING DESIGN** Frank Hardy<br>
 **SOUND & MUSIC DESIGN** Adam Russel<br>
 **SOUND & TECH** Saul Mombaerts<br>
-**PRODUCTION** BRONKS with the support of the Flemish Community & the VGC<br>
-**SPECIAL THANKS TO** De Studio<br>
+**PRODUCTON** Bronks<br>
+**COPRODUCTON** Per Podium<br>
+**THANKS TO** De Studio<br>
+**SUPPORTED BY** The Flemish community<br>
 
 *This performance was made possible with the help of the Tax Shelter measure of the Belgian Federal Government.*
