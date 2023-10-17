@@ -45,8 +45,8 @@ contentcolor: "#fff"
 <tr><td>Zon 21 jan</td><td>15.00</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Turnhout</td><td><a href="https://www.warande.be/">de Warande</a></td></tr>
 <tr><td>ma 22 & di 23 jan</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit Is Niet De Titel</a></td><td>Bornem</td><td><a href="https://www.terdilft.be/">CC Ter Dilft</a></td></tr>
 <tr><td>Woe 24 jan</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Brasschaat</td><td><a href="https://www.cultuurcentrumbrasschaat.be/">Cultuurcentrum</a></td></tr>
-<tr><td>Zon 28 jan</td><td>15.00 </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
-<tr><td>Ma 29 jan</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Sint-Niklaas</td><td><a href="https://www.ccsintniklaas.be/">Stadsschouwburg</a></td></tr>
+<tr><td>Zon 28 jan</td><td>15.00 </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Sint-Niklaas</td><td><a href="https://www.ccsint-niklaas.be/podium/25798/compagnie-barbarie-bronks-grote-mensen/">Stadsschouwburg</a></td></tr>
+<tr><td>Ma 29 jan</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Sint-Niklaas</td><td><a href="https://www.ccsint-niklaas.be/podium/25798/compagnie-barbarie-bronks-grote-mensen">Stadsschouwburg</a></td></tr>
 <tr><td>Do 01 feb</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Willebroek</td><td><a href="https://www.ccdester.willebroek.be/">CC De Ster</a></td></tr>
 <tr><td>Zon 04 feb</td><td>14.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
 <tr><td>Ma 05 & Di 06 feb</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Aalst</td><td><a href="https://www.ccdewerf.be/">cultuurcentrum De Werf</a></td></tr>
