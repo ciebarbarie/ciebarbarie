@@ -7,7 +7,7 @@ bit-1-start: -500
 bit-1-end: 700
 slide-count: 1
 images:
-  "grote-mensen-1.jpg": Jan De Brabander
+  "grote-mensen-1.jpg":
 backgroundColor: "#f5f5f5"
 backgroundImage: "grote-mensen-background.jpg"
 contentColor: "#333"
