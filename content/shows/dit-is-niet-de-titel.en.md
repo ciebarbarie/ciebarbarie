@@ -68,6 +68,7 @@ But we can't promise you that's the truth.
 **LIGHTING DESIGN** Frank Hardy<br>
 **VOICE** Josse De Pauw, Nico Sturm<br>
 **PRODUCTION** BRONKS<br>
+**<CO-PRODUCTION** Per Podium<br>
 **SPECIAL THANKS TO** Raygun, Ina Peeters & Janneke Hertoghs, De Studio<br>
 **SUPPORTED BY** the Flemish Community and the VGC<br>
 *This performance was made possible by the Tax Shelter measure of the Belgian Government.*
