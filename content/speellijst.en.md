@@ -11,28 +11,6 @@ contentcolor: "#fff"
 
 <div class="table-responsive">
 <table class="playlist">
-<tr><td colspan="5"><strong>2023</strong></td></tr>
-<tr><td>Tue 26 Sep</td><td>schoolperformances</td><td><a href="/eng/shows/crisps-for-free">Crisps for free!</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be/">CC De Ploter</a></td></tr>
-<tr><td>Sat 30 Sep</td><td>19.00</td><td><a href="/eng/shows/this-is-not-the-title">This Is Not The Title</a></td><td>Boom</td><td><a href="https://www.desteigerboom.be/">CC De Steiger</a></td></tr>
-<tr><td>Tue 03 Oct</td><td>schoolperformances</td><td><a href="/eng/shows/this-is-not-the-title">This Is Not The Title</a></td><td>Tienen</td><td><a href="https://www.dekruisboog.be/">CC De Kruisboog</a></td></tr>
-<tr><td>Thu 19 Oct</td><td>14.00</td><td><a href="/eng/shows/this-is-not-the-title">This Is Not The Title</a></td><td>Den Haag (NL)</td><td><a href="https://www.debetovering.nl/">Festival De Betovering</a></td></tr>
-<tr><td>Sat 21 Oct</td><td>19.00</td><td><a href="/eng/shows/time-goes-bye-bye">Time goes bye bye</a></td><td>Overijse</td><td><a href="https://www.denblank.be/">CC Den Blank</a></td></tr>
-<tr><td>Sat 11 Nov</td><td>11.00 en 14.00 </td><td><a href="/eng/shows/grown-ups">Grown-Ups PREMIÈRE</a></td><td>Brussel</td><td><a href="https://www.BRONKS.be/">BRONKS</a></td></tr>
-<tr><td>Sun 19 Nov</td><td>15.00</td><td><a href="/eng/shows/this-is-not-the-title">This Is Not The Title</a></td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/">CC MUZE</a></td></tr>
-<tr><td>Tue 21 Nov</td><td>schoolperformances</td><td><a href="/eng/shows/crisps-for-free">Crisps for free!</a></td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/">cc CasinoKoksijde</a></td></tr>
-<tr><td>Thu 23 Nov</td><td>schoolperformances</td><td><a href="/eng/shows/this-is-not-the-title">This Is Not The Title</a></td><td>Diksmuide</td><td><a href="https://www.cckruispunt.be/">CC Kruispunt</a></td></tr>
-<tr><td>Sun 26 Nov</td><td>15.00</td><td><a href="/eng/shows/this-is-not-the-title">This Is Not The Title</a></td><td>Kortrijk</td><td><a href="https://www.cultuurcentrumkortrijk.be/">Theater Antigone</a></td></tr>
-<tr><td>Mon 27 Nov</td><td>schoolperformances</td><td><a href="/eng/shows/this-is-not-the-title">This Is Not The Title</a></td><td>Kortrijk</td><td><a href="https://www.cultuurcentrumkortrijk.be/">Theater Antigone</a></td></tr>
-<tr><td>Sun 03 Dec</td><td>15.00 </td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Mechelen</td><td><a href="https://www.cultuurcentrummechelen.be/">Stadsschouwburg</a></td></tr>
-<tr><td>Mon 04 Dec</td><td>schoolperformances </td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Torhout</td><td><a href="https://www.ccdebrouckere.be/">Cultuurcentrum de Brouckere</a></td></tr>
-<tr><td>Tue 05 Dec</td><td>schoolperformances </td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Merelbeke</td><td><a href="https://www.cultuurhuis.merelbeke.be/">Cultuurhuis</a></td></tr>
-<tr><td>Sun 10 Dec</td><td>15.00 </td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Schouwburg</a></td></tr>
-<tr><td>Mon 11 Dec</td><td>schoolperformances</td><td><a href="/nl/shows/grown-uos">Grown-Ups</a></td><td>Leuven</td><td><a href="https://www.30cc.be/">30CC/Schouwburg</a></td></tr>
-<tr><td>Thu 14 & Fri 15 Dec</td><td>schoolperformances</td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>Sat 16 Dec</td><td>15.00 </td><td><a href="/nl/shows/grown-ups">Grown-Ups</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/">De Studio</a></td></tr>
-<tr><td>Sun 17 Dec</td><td>14.00 </td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Merksem</td><td><a href="https://www.schouwburgnoord.be/">Schouwburg Noord</a></td></tr>
-<tr><td>Mon 18 Dec</td><td>schoolperformances </td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Merksem</td><td><a href="https://www.schouwburgnoord.be/">Schouwburg Noord</a></td></tr>
-  
 <tr><td colspan="5"><strong>2024</strong></td></tr>
 <tr><td>Tue 02 Jan</td><td>15.00 </td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Heist-o/d-Berg</td><td><a href="https://www.zwaneberg.be/">CC Zwaneberg</a></td></tr>
 <tr><td>Thu 04 Jan</td><td>14.30</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Tilburg (NL)</td><td><a href="https://www.schouwburgconcertzaaltilburg.nl/">Schouwburg Concertzaal</a></td></tr>
