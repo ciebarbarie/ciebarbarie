@@ -75,6 +75,7 @@ contentcolor: "#fff"
 <tr><td>Thu 23 & Fri 24 May</td><td>schoolperformances</td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Zelzate</td><td><a href="https://www.zelzate.bibliotheek.be/">Cultuurhuis De Brug</a></td></tr>
 <tr><td>Sun 02 jun</td><td>15.00</td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Mon 03 & Tue 04 June</td><td>15.00</td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Fri 07 - Sun 09 June</td><td>15.00</td><td><a href="/eng/shows/grown-ups">Grown-Ups</a></td><td>Zürich (CH)</td><td><a href="https://blickfelder.ch/en/programme/grote-mensen//">Blickfelder</a></td></tr>
 
 </table>
 </div>
