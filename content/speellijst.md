@@ -52,7 +52,7 @@ contentcolor: "#fff"
 <tr><td>Do 23 & Vri 24 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Zelzate</td><td><a href="https://www.zelzate.bibliotheek.be/">Cultuurhuis De Brug</a></td></tr>
 <td><a href="https://www.dewoeker.be/">CC De Woeker</a></td></tr>
 <tr><td>Zon 02 jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
-<tr><td>Zon 02 jun</td><td>17.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
+<tr><td>Zon 02 jun</td><td>17.00 extra voorstelling!</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Ma 03 & Di 04 jun</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
 <tr><td>Vri 07 - Zo 09 jun</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Zürich(CH)</td><td><a href="https://blickfelder.ch/en/programme/grote-mensen/">Blickfelder</a></td></tr>
 
