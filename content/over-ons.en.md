@@ -17,8 +17,5 @@ sidebarColor: "#ccc"
 
 Company Barbarie is a professional theatre collective consisting of five women. 
 
-<iframe src="https://player.vimeo.com/video/292324878?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
 
 **Company Barbarie are**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes and Sarah Vangeel
