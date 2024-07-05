@@ -14,9 +14,6 @@ contentColor: "#333"
 ---
 **Grote Mensen**<br>
 
-**Een absurd tragische horror komedie over het wel en wee van grote mensen als de kinderen even niet kijken.**<br>
-
-
 Grote mensen werken.<br>
 En kinderen spelen. Of gaan naar school. Of ze slapen.<br>
 En als ze slapen moeten de grote mensen nog verder werken. In de living. Op hun computers. Nadat ze de keuken hebben opgekuist.<br>
