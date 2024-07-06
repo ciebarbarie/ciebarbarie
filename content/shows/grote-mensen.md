@@ -23,6 +23,14 @@ Maar wat doen grote mensen nu eigenlijk écht? Als de kinderen op school zitten,
 
 Want wie kuist eigenlijk wiens brol op?
 
+‘Grote mensen’ toont op kindermaat hoe volwassenen omgaan met problemen die
+hen boven het hoofd stijgen.
+Hoe vaak ze het nalaten om de juiste beslissingte nemen, bewust of onbewust.
+Maar bovenal is ‘Grote mensen’ een ode aan het theater. Aan hoe de verbeelding ons
+kan aanzetten tot creatieve oplossingen en de onmiskenbare problemen in een
+ander daglicht kan stellen.
+
+
 **CONCEPT** compagnie barbarie (Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes & Sarah Vangeel)<br>
 **SPEL** Sarah Vangeel, Liesje De Backer, Amber Goethals & Lotte Vaes<br>
 **REGIE** Karolien De Bleser<br>
