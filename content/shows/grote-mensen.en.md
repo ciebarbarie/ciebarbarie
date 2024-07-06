@@ -14,8 +14,6 @@ contentColor: "#333"
 ---
 **Grown-Ups**<br>
 
-**An absurd tragic horror comedy about the ups and downs of adult lives when children are briefly out of the way.**<br>
-
 Grown-ups work.<br>
 And children play. Or they go to school. Or they sleep.<br>
 And when they sleep, grown-ups have to continue working. In the living room. On their computers. Once they’ve cleaned up the kitchen.<br>   
@@ -23,6 +21,8 @@ And when they sleep, grown-ups have to continue working. In the living room. On 
 Yet what do grown-ups really do? When the children are at school, what do they do all day long? Do they put the world to rights? Do they have a nap? Or do they mess things up? Do those grown-ups really have everything under control? Do they really clear up the mess all the time which others have left behind? Or is it up to the children to clear up everything later?   
 
 Who really cleans up whose junk? 
+
+'Grown-ups' shows on a child's scale how adults deal with problems that get over their heads. How often they fail to make the right decision, consciously or unconsciously. But above all,'Grown-Ups' is an ode to theatre. To how the imagination can spur us on to creative solutions and show the undeniable problems in a different light.
 
 
 **CONCEPT** compagnie barbarie (Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes & Sarah Vangeel)<br>
