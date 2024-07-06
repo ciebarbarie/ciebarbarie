@@ -17,7 +17,7 @@ contentColor: "#fff"
 ---
 **Dit Is Niet De Titel**<br>
 
-**We hebben een nieuwe voorstelling gemaakt die gaat over liegen.**<br>
+**We hebben een voorstelling gemaakt die gaat over liegen.**<br>
 **Alhoewel dat niet helemaal waar is.**
 
 <iframe src="https://player.vimeo.com/video/808728449" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -70,6 +70,6 @@ Maar we kunnen u niet beloven dat dat de waarheid is.
 **PRODUCTIE** BRONKS<br>
 **COPRODUCTIE** Per Podium<br>
 **MET DANK AAN** Raygun, Ina Peeters & Janneke Hertoghs,De Studio<br>
-**MET DE STEUN VAN** de Vlaamse GemeenschapC<br>
+**MET DE STEUN VAN** de Vlaamse Gemeenschap<br>
 
 *Deze voorstelling kwam tot stand met behulp van de Tax Shelter maatregel van Belgische Overheid.*
