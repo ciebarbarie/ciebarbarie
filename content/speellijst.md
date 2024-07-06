@@ -25,7 +25,7 @@ contentcolor: "#fff"
 <tr><td>Za 05 okt</td><td>18.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://lamontagnemagique.be/programme-recherche/?_sfm_age_minimum=0+15&_sfm_mois=Septembre-%2C-Octobre&_sft_category=spectacle">La Montagne Magique</a></td></tr>
 <tr><td>Zo 06 okt</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Eeklo</td><td><a href="https://www.cultuurhuisherbakker.be/activiteiten/detail/3528/compagnie-barbarie-gratis-chips-5">Cultuurhuis Herbakker</a></td></tr>
 <tr><td>Ma 07 okt- wo 09 okt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Brussel</td><td><a href="https://lamontagnemagique.be/programme-recherche/?_sfm_age_minimum=0+15&_sfm_mois=Septembre-%2C-Octobre&_sft_category=spectacle">La Montagne Magique</a></td></tr>
-<tr><td>Za 12 okt- di 15 okt</td><td>t.b.c.</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Galway (IRL)</td><td><a href="https://www.baboro.ie/plan-your-festival/about-the-festival">Baborò Festival</a></td></tr>
+<tr><td>Za 12 okt - di 15 okt</td><td>t.b.c.</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Galway (IRL)</td><td><a href="https://www.baboro.ie/plan-your-festival/about-the-festival">Baborò Festival</a></td></tr>
 <tr><td>Za 27 okt</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Roeselare</td><td><a href="https://www.despil.be/agenda/3013/compagnie-barbarie-bronks/grote-mensen">De Spil</a></td></tr>
 <tr><td>Do 07 nov</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Brugge</td><td><a href="https://www.ccbrugge.be/agenda/4386/compagnie-barbarie-bronks/dit-is-niet-de-titel">CC Brugge</a></td></tr>
 <tr><td>Zo 17 nov</td><td>15.00</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Tongeren</td><td><a href="https://develinx.be/evenement/compagnie-barbarie-bronks">De Velinx</a></td></tr>
@@ -43,9 +43,20 @@ contentcolor: "#fff"
 <tr><td>Zo 23 feb</td><td>14.30</td><td><a href="/nl/shows/première">Première</a></td><td>Geel</td><td><a href="https://www.dewerft.be/agenda/3405/compagnie-barbarie-bronks/premiere">De Werft</a></td></tr>
 <tr><td>Ma 24 & Di 25 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Berlare</td><td><a href="https://beleefberlare.be/grote-mensen">CC Stroming</a></td></tr>
 <tr><td>Do 27 & Vr 28 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.sint-pieters-leeuw.be/brul/beleven/evenementen/podium">Coloma</a></td></tr>
-<tr><td>Woe 05 Mar</td><td>tbc</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Kortemark</td><td><a href="https://www.kortemark.be/jaarprogrammatie-cultuur-kortemark">GC De Beuk</a></td></tr>
-<tr><td>Do 09 Mar</td><td>15.00</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Ninove</td><td><a href="https://www.ccdeplomblom.org/programma/barbarie">CC de Plomblom</a></td></tr>
-<tr><td>Zo 09 Mar</td><td>15.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Turnhout</td><td><a href="https://www.warande.be/programma/8354/compagnie-barbarie-bronks/grote-mensen-4">De Warande</a></td></tr>
+<tr><td>Woe 05 mar</td><td>tbc</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Kortemark</td><td><a href="https://www.kortemark.be/jaarprogrammatie-cultuur-kortemark">GC De Beuk</a></td></tr>
+<tr><td>Do 06 mar</td><td>15.00</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Ninove</td><td><a href="https://www.ccdeplomblom.org/programma/barbarie">CC de Plomblom</a></td></tr>
+<tr><td>Zo 09 mar</td><td>15.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Turnhout</td><td><a href="https://www.warande.be/programma/8354/compagnie-barbarie-bronks/grote-mensen-4">De Warande</a></td></tr>
+<tr><td>Do 20 mar</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Bierbeek</td><td><a href="https://www.ccdeborre.be/gratis-chips">CC De Borre</a></td></tr>
+<tr><td>Zo 23 mar</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Koksijde</td><td><a href="https://www.casinokoksijde.be/compagnie-barbarie-bronks-grote-mensen">CC Casino</a></td></tr>
+<tr><td>Di 25 mar</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Mol</td><td><a href="https://www.cultuurcentrummol.be/activiteiten/detail/6574/compagnie-barbarie">Cultuurcentrum Mol</a></td></tr>
+<tr><td>Do 27 mar</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Erpe-Mere</td><td><a href="https://www.emotia.be/grote-mensen">Cultuurhuis eMotia</a></td></tr>
+<tr><td>Di 01 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td><Deurne</td><td><a href="https://www.deklap.be/voorstellingen/1106/3e-kleuterklas-1e-leerjaar-2e-leerjaar/grote-mensen">de Klap</a></td></tr>
+<tr><td>Do 24 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/activiteiten">CC De Bogaard</a></td></tr>
+<tr><td>Zo 27 apr</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/voorstellingen/1896/gratis-chips/compagnie-barbarie">CC De Schakel</a></td></tr>
+<tr><td>Ma 28 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/première">Première</a></td><td>Puurs</td><td><a href="https://www.puurs-sint-amands.be/schoolvoorstelling-premiere-compagnie-barbarie-/-bronks-3e-graad-lager">CC Binder</a></td></tr>
+<tr><td>Di 06 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td><Deurne</td><td><a href="https://www.deklap.be/voorstellingen/1106/3e-kleuterklas-1e-leerjaar-2e-leerjaar/grote-mensen">de Klap</a></td></tr>
+
+
 
 
 
