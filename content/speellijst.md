@@ -43,6 +43,10 @@ contentcolor: "#fff"
 <tr><td>Zo 23 feb</td><td>14.30</td><td><a href="/nl/shows/première">Première</a></td><td>Geel</td><td><a href="https://www.dewerft.be/agenda/3405/compagnie-barbarie-bronks/premiere">De Werft</a></td></tr>
 <tr><td>Ma 24 & Di 25 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Berlare</td><td><a href="https://beleefberlare.be/grote-mensen">CC Stroming</a></td></tr>
 <tr><td>Do 27 & Vr 28 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.sint-pieters-leeuw.be/brul/beleven/evenementen/podium">Coloma</a></td></tr>
+<tr><td>Woe 05 Mar</td><td>tbc</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Kortemark</td><td><a href="https://www.kortemark.be/jaarprogrammatie-cultuur-kortemark">GC De Beuk</a></td></tr>
+<tr><td>Do 09 Mar</td><td>15.00</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Ninove</td><td><a href="https://www.ccdeplomblom.org/programma/barbarie">CC de Plomblom</a></td></tr>
+<tr><td>Zo 09 Mar</td><td>15.30</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Turnhout</td><td><a href="https://www.warande.be/programma/8354/compagnie-barbarie-bronks/grote-mensen-4">De Warande</a></td></tr>
+
 
 
 
