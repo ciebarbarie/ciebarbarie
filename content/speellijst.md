@@ -54,7 +54,21 @@ contentcolor: "#fff"
 <tr><td>Do 24 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Sint-Truiden</td><td><a href="https://www.debogaard.be/activiteiten">CC De Bogaard</a></td></tr>
 <tr><td>Zo 27 apr</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Waregem</td><td><a href="https://www.ccdeschakel.be/voorstellingen/1896/gratis-chips/compagnie-barbarie">CC De Schakel</a></td></tr>
 <tr><td>Ma 28 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/première">Première</a></td><td>Puurs</td><td><a href="https://www.puurs-sint-amands.be/schoolvoorstelling-premiere-compagnie-barbarie-/-bronks-3e-graad-lager">CC Binder</a></td></tr>
-<tr><td>Di 06 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td><Deurne</td><td><a href="https://www.deklap.be/voorstellingen/1106/3e-kleuterklas-1e-leerjaar-2e-leerjaar/grote-mensen">de Klap</a></td></tr>
+<tr><td>Di 06 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td><Heusden-Zolder</td><td><a href="https://www.muze.be/uploads/1/2/2/4/122463092/brochure_schoolvoorstellingen_2024-2025_1.pdf">CC Muze</a></td></tr>
+<tr><td>Vri 09 mei</td><td>19.00</td><td><a href="/nl/shows/première">Première</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
+<tr><td>Za 10 mei</td><td>15.00</td><td><a href="/nl/shows/première">Première</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
+<tr><td>Zon 11 mei</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Beveren</td><td><a href="https://www.tervesten.be/nl/programma/compagnie-barbarie-bronks">Ter Vesten</a></td></tr>
+<tr><td>Di 13 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/première">Première</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be/school">CC De Ploter</a></td></tr>
+<tr><td>Do 15 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Beernem</td><td><a href="https://www.beernem.be/thema/1603/oc-de-kleine-beer">O.C. De Kleine Beer</a></td></tr>
+<tr><td>Za 17 mei</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Deurne</td><td><a href="https://www.deklap.be/voorstellingen/1149/compagnie-barbarie/gratis-chips-5">Cinema Rix</a></td></tr>
+<tr><td>Di 20 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Zelzate</td><td><a href="https://www.zelzate.be/nl/cultuurhuis-de-brug/programmatie-cultuurhuis-de-brug">Cultuurhuis de Brug</a></td></tr>
+<tr><td>Do 05 & Vri 06 juni</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/modders">Modders</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
+
+
+
+
+
+
 
 
 
