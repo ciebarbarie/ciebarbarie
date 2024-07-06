@@ -1,16 +1,16 @@
 ---
-title: Playlist
-slug: playlist
+title: Tour dates
+slug: tour dates
 images:
   "time-goes-bye-bye-7.jpg": "Franky Verdickt"
 backgroundColor: "#010302"
 backgroundImage: "pers-background.jpg"
 contentcolor: "#fff"
 ---
-# Playlist
+# Tour dates
 
 <div class="table-responsive">
-<table class="playlist">
+<table class="Tour dates">
 <tr><td colspan="5"><strong>2024</strong></td></tr>
 
 <tr><td>Sun 02 June</td><td>15.00</td><td><a href="/en/shows/grown-ups">Grown-Ups</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">BRONKS</a></td></tr>
