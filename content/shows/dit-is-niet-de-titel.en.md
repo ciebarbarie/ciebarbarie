@@ -17,7 +17,7 @@ contentColor: "#fff"
 ---
 **This Is Not The Title**<br>
 
-**We have created a new performance about lying.**<br>
+**We have created a performance about lying.**<br>
 **Although that's not entirely true.**
 
 <iframe src="https://player.vimeo.com/video/808728449" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
