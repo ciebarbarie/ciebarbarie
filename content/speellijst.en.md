@@ -1,6 +1,5 @@
 ---
-title: Tour dates
-slug: tour dates
+title:Tour dates
 images:
   "time-goes-bye-bye-7.jpg": "Franky Verdickt"
 backgroundColor: "#010302"
