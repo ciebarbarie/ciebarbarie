@@ -326,9 +326,8 @@ img#poster {
 }
 
 .tour-dates-wrapper {
-    display: flex;
-    justify-content: center;
-    margin-top: 4rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .tour-dates-link {
