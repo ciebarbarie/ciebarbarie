@@ -1,7 +1,7 @@
 ---
 title: Wa Wilder Man (4+)
 slug: wa-wilder-man
-active: true
+active: false
 weight: 9
 bit-1-start: 50
 bit-1-end: 1000
