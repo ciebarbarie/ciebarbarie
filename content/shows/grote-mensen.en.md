@@ -7,7 +7,11 @@ bit-1-start: -500
 bit-1-end: 700
 slide-count: 1
 images:
-  "grote-mensen-1.jpg":
+  "grote-mensen-1.jpg": Franky Verdickt
+  "grote-mensen-2.jpg": Franky Verdickt
+  "grote-mensen-3.jpg": Franky Verdickt
+  "grote-mensen-4.jpg": Franky Verdickt
+  "grote-mensen-5.jpg": Franky Verdickt
 backgroundColor: "#f5f5f5"
 backgroundImage: "grote-mensen-background.jpg"
 contentColor: "#333"
