@@ -44,7 +44,7 @@
 
             <div class="row">
                 <div class="nine columns">
-                    <ul>
+                    <ul class="shows">
                         {{ $shows := where .Site.RegularPages.Reverse "Section" "shows" }}
                         {{ range where $shows "Params.active" true -}}
                         <li><a href="{{ .Permalink }}">
@@ -54,18 +54,24 @@
                             </a></li>
                         {{- end}}
                     </ul>
+                    <div class="tour-dates-wrapper">
+                        {{- if eq .Language.Lang "nl" }}
+                        <a href="/nl/speellijst" class="tour-dates-link">Speellijst</a>
+                        {{- end }}
+                        {{- if eq .Language.Lang "en" }}
+                        <a href="/en/tour-dates" class="tour-dates-link">Tour Dates</a>
+                        {{- end }}
+                    </div>
                 </div>
                 <div id="booking-info" class="three columns">
                     <h2>Info</h2>
                     {{- if eq .Language.Lang "nl" }}
-                    <a href="/nl/speellijst" class="playlist-link">Speellijst</a>
                     <p>Wie meer info wil over verkoop en speellijst bel Liesje: <a
                             href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> of mail: <a
                             href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>
                     <p>Voor de <strong>speellijst</strong> — kijk bij de voorstellingen.</p>
                     {{- end }}
                     {{- if eq .Language.Lang "en" }}
-                    <a href="/en/tour-dates" class="playlist-link">Tour Dates</a>
                     <p>For more information about sales and play list call Liesje: <a
                             href="tel:+32486903916">+32&nbsp;486&nbsp;90&nbsp;39 16</a> or email: <a
                             href="mailto:ciebarbarie@gmail.com">ciebarbarie@gmail.com</a>.</p>

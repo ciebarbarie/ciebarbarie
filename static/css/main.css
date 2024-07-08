@@ -60,6 +60,10 @@ h2 {
   letter-spacing: 0.3pt;
 }
 
+.shows, .shows li {
+    list-style: none;
+}
+
 #header li {
   list-style: none;
 }
@@ -321,7 +325,13 @@ img#poster {
   text-shadow: 0 0.5px 1px #000, 0 2px 5px #000;
 }
 
-.playlist-link {
+.tour-dates-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+.tour-dates-link {
     font-size: 2rem;
     background: #e92338 url(../img/homepage-news.jpg);
     padding: 1rem;
@@ -332,7 +342,7 @@ img#poster {
     transition: all 0.3s ease-in-out;
 }
 
-.playlist-link:hover {
+.tour-dates-link:hover {
     
     filter: brightness(1.2);
 
