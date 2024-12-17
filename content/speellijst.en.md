@@ -13,8 +13,8 @@ contentcolor: "#fff"
 <table class="Tour dates">
 
 <tr><td colspan="5"><strong>2025</strong></td></tr>
-<tr><td>Sat 01 feb</td><td>19.00</td><td><a href="/en/shows/première">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere>BRONKS</a></td></tr>
- <tr><td>Sun 02 feb</td><td>15.00</td><td><a href="/en/shows/première">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere>BRONKS</a></td></tr>                                    
+<tr><td>Sat 01 feb</td><td>19.00</td><td><a href="/en/shows/première">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">BRONKS</a></td></tr>
+ <tr><td>Sun 02 feb</td><td>15.00</td><td><a href="/en/shows/première">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">BRONKS</a></td></tr>                                    
 <tr><td>Sun 09 Feb</td><td>15.00</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/nl/programma/compagnie-barbarie-2/">Cultuurhuis Belgica</a></td></tr>
 <tr><td>Mon 10 Feb</td><td>school performances</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/nl/programma/compagnie-barbarie-2/">Cultuurhuis Belgica</a></td></tr>
 <tr><td>Thu 13 Feb</td><td>school performances</td><td><a href="/en/shows/première">Première</a></td><td>Blankenberge</td><td><a href="https://www.ccblankenberge.be/programma/school/lagere-school/schoolvoorstelling-premiere-compagnie-barbarie-bronks">Cultuurcentrum Blankenberge</a></td></tr>
