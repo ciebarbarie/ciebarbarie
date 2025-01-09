@@ -43,7 +43,9 @@ contentcolor: "#fff"
 <tr><td>Thu 15 May</td><td>school performances</td><td><a href="/en/shows/crisps-for-free">Crisisp for free!</a></td><td>Beernem</td><td><a href="https://www.beernem.be/thema/1603/oc-de-kleine-beer">O.C. De Kleine Beer</a></td></tr>
 <tr><td>Sat17 May</td><td>15.00</td><td><a href="/en/shows/crisps-for-free">Crisps-for-free!</a></td><td>Deurne</td><td><a href="https://www.deklap.be/voorstellingen/1149/compagnie-barbarie/gratis-chips-5">Cinema Rix</a></td></tr>
 <tr><td>Tue 20 May</td><td>school performances</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Zelzate</td><td><a href="https://www.zelzate.be/nl/cultuurhuis-de-brug/programmatie-cultuurhuis-de-brug">Cultuurhuis de Brug</a></td></tr>
-<tr><td>Thu 05 & Fri 06 juni</td><td>school performances </td><td><a href="/en/shows/mudders">Mudders</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
+<tr><td>Sun 25- Wed 28 May</td><td> .. </td><td><a href="/en/shows/grown-ups">Grown Ups</a></td><td>Edinburgh</td><td><a href="https://www.imaginate.org.uk/festival/whats-on">Imaginate Festival Edinburgh</a></td></tr>
+<tr><td>Thu 05 & Fri 06 June</td><td>school performances </td><td><a href="/en/shows/mudders">Mudders</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
+<tr><td>Sun 29 June</td><td>14.00</td><td><a href="/nl/shows/grown-ups">Grown Ups</a></td><td>Utrecht(NL)</td><td><a href="https://tweetakt.nl/">Tweetakt</a></td></tr>
 
 </table>
 </div>
