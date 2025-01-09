@@ -42,7 +42,7 @@ contentcolor: "#fff"
 <tr><td>Do 15 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Beernem</td><td><a href="https://www.beernem.be/thema/1603/oc-de-kleine-beer">O.C. De Kleine Beer</a></td></tr>
 <tr><td>Za 17 mei</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Deurne</td><td><a href="https://www.deklap.be/voorstellingen/1149/compagnie-barbarie/gratis-chips-5">Cinema Rix</a></td></tr>
 <tr><td>Di 20 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Zelzate</td><td><a href="https://www.zelzate.be/nl/cultuurhuis-de-brug/programmatie-cultuurhuis-de-brug">Cultuurhuis de Brug</a></td></tr>
-<tr><td>Zo 25 - Woe 28 mei</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Edinburgh (UK)</td><td><a href="https://www.imaginate.org.uk/festival/whats-on/">Imaginate Festival Edinburgh</a></td></tr>
+<tr><td>Zo 25 - Woe 28 mei</td><td>..</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Edinburgh (UK)</td><td><a href="https://www.imaginate.org.uk/festival/whats-on/">Imaginate Festival Edinburgh</a></td></tr>
 <tr><td>Do 05 & Vri 06 juni</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/modders">Modders</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
 <tr><td>Zo 29 juni</td><td>14.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Utrecht (NL)</td><td><a href="https://tweetakt.nl/">Tweetakt</a></td></tr>
 
