@@ -9,9 +9,13 @@ contentcolor: "#fff"
 
 ## Compagnie Barbarie in de Pers
 
-- <a href="https://www.standaard.be/cnt/dmf20191027_04687914">Recensie de Standaard - TIME GOES BYE BYE (oktober 2019)</a>
+- <a href="/pers/2025-02-02-premiere-pzazz.pdf">pzazz — Première (februari 2025)</a>
+- <a href="https://www.theaterkrant.nl/recensie/grote-mensen-4/compagnie-barbarie-bronks/">Theaterkrant — Grote Mensen (augustus 2024)</a>
+- <a href="https://www.demorgen.be/tv-cultuur/compagnie-barbarie-goochelt-met-humor-filosofie-en-waarheid~b76107c0/">De Morgen — Dit is niet de titel (maart 2023)</a>
+- <a href="/pers/2023-02-07-dit-is-niet-de-titel-nieuwsblad.pdf">Het Nieuwsblad — Dit is niet de titel (februari 2023)</a>
+- <a href="https://www.standaard.be/cnt/dmf20191027_04687914">De Standaard — TIME GOES BYE BYE (oktober 2019)</a>
 - <a href="https://www.standaard.be/cnt/dmf20191223_04780607">De beste voorstellingen van de week - TIME GOES BYE BYE (december 2019)</a>
-- <a href="https://www.concertnews.be/recensietonen.php?id=4353">Recensie Concertnews — TIME GOES BYE BYE (december 2019)</a>
+- <a href="https://www.concertnews.be/recensietonen.php?id=4353">Concertnews — TIME GOES BYE BYE (december 2019)</a>
 - <a href="https://www.youtube.com/watch?v=2XX7pVLDW88">ATV 100% Cultuur — GRATIS CHIPS! (februari 2019)</a>
 - <a href="http://www.standaard.be/cnt/dmf20190201_04147110">de Standaard — GRATIS CHIPS! (februari 2019)</a>
 - <a href="https://weekend.knack.be/lifestyle/maatschappij/feminisme-voor-kleuters-over-sommige-onderwerpen-moet-je-gewoon-luid-roepen/article-longread-1421573.html?cookie_check=1552928231">Focus Knack — GRATIS CHIPS! (januari 2019)</a>
