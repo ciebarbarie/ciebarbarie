@@ -12,6 +12,7 @@ contentcolor: "#fff"
 - <a href="/pers/2025-02-02-premiere-pzazz.pdf">pzazz — Première (februari 2025)</a>
 - <a href="https://www.theaterkrant.nl/recensie/grote-mensen-4/compagnie-barbarie-bronks/">Theaterkrant — Grote Mensen (augustus 2024)</a>
 - <a href="https://www.demorgen.be/tv-cultuur/compagnie-barbarie-goochelt-met-humor-filosofie-en-waarheid~b76107c0/">De Morgen — Dit is niet de titel (maart 2023)</a>
+- <a href="/pers/2023-02-07-dit-is-niet-de-titel-de-standaard.jpg">De Standaard — Dit is niet de titel (februari 2023)</a>
 - <a href="/pers/2023-02-07-dit-is-niet-de-titel-nieuwsblad.pdf">Het Nieuwsblad — Dit is niet de titel (februari 2023)</a>
 - <a href="https://www.standaard.be/cnt/dmf20191027_04687914">De Standaard — TIME GOES BYE BYE (oktober 2019)</a>
 - <a href="https://www.standaard.be/cnt/dmf20191223_04780607">De beste voorstellingen van de week - TIME GOES BYE BYE (december 2019)</a>
