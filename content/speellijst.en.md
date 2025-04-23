@@ -14,7 +14,7 @@ contentcolor: "#fff"
 
 <tr><td colspan="5"><strong>2025</strong></td></tr>
 <tr><td>Sat 01 feb</td><td>19.00</td><td><a href="/en/shows/première">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">BRONKS</a></td></tr>
- <tr><td>Sun 02 feb</td><td>15.00</td><td><a href="/en/shows/première">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">BRONKS</a></td></tr>                                    
+ <tr><td>Sun 02 feb</td><td>15.00</td><td><a href="/en/shows/première">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">BRONKS</a></td></tr>
 <tr><td>Sun 09 Feb</td><td>15.00</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/nl/programma/compagnie-barbarie-2/">Cultuurhuis Belgica</a></td></tr>
 <tr><td>Mon 10 Feb</td><td>school performances</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Dendermonde</td><td><a href="https://www.ccbelgica.be/nl/programma/compagnie-barbarie-2/">Cultuurhuis Belgica</a></td></tr>
 <tr><td>Thu 13 Feb</td><td>school performances</td><td><a href="/en/shows/première">Première</a></td><td>Blankenberge</td><td><a href="https://www.ccblankenberge.be/programma/school/lagere-school/schoolvoorstelling-premiere-compagnie-barbarie-bronks">Cultuurcentrum Blankenberge</a></td></tr>
@@ -45,7 +45,7 @@ contentcolor: "#fff"
 <tr><td>Tue 20 May</td><td>school performances</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Zelzate</td><td><a href="https://www.zelzate.be/nl/cultuurhuis-de-brug/programmatie-cultuurhuis-de-brug">Cultuurhuis de Brug</a></td></tr>
 <tr><td>Sun 25- Wed 28 May</td><td> .. </td><td><a href="/en/shows/grown-ups">Grown Ups</a></td><td>Edinburgh</td><td><a href="https://www.imaginate.org.uk/festival/whats-on">Imaginate Festival Edinburgh</a></td></tr>
 <tr><td>Thu 05 & Fri 06 June</td><td>school performances </td><td><a href="/en/shows/mudders">Mudders</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
-<tr><td>Sun 29 June</td><td>14.00</td><td><a href="/en/shows/première">Première</a></td><td>Utrecht(NL)</td><td><a href="https://www.tweetakt.nl/event/premiere/>Tweetakt</a></td></tr>
+<tr><td>Sun 29 June</td><td>14.00</td><td><a href="/en/shows/première">Première</a></td><td>Utrecht(NL)</td><td><a href="https://www.tweetakt.nl/event/premiere/">Tweetakt</a></td></tr>
 
 </table>
 </div>
