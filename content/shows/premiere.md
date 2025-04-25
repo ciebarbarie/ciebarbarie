@@ -41,9 +41,11 @@ Hoe bepalend is een begin voor alles wat nog moet komen?
 **REGIE** Karolien De Bleser<br>
 **REGIE ASSISTENTIE** Janne Bluekens (stage)<br>
 **TEKST** compagnie barbarie<br>
-**SCENOGRAFIE** Stefan Jakiela<br>
-**KOSTUUMS** Nikè Moens<br>
+**SCENOGRAFIE** Stefan Jakiela, Jana Noël Van Impe (stage)<br>
+**KOSTUUMS** Joëlle Meerbergen, Nina Dupont (stage)<br>
+**TECHNIEK** Saul Mombaerts
 **LICHTONTWERP** Frank Hardy<br>
+**GELUIDSONTWERP** Tom Goudblomme<br>
 **PRODUCTIE** BRONKS<br>
 **COPRODUCTIE** Perpodium<br>
-**MET DE STEUN VAN** de Tax Shelter van de Belgische Federale Overheid
+**MET DE STEUN VAN** de Tax Shelter van de Belgische Federale Overheid & De Auteurs
