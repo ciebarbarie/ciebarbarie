@@ -41,9 +41,13 @@ How defining is a beginning for everything that is yet to come?
 **DIRECTION** Karolien De Bleser<br>
 **ASSISTANT DIRECTOR** Janne Bluekens (intern)<br>
 **TEXT** compagnie barbarie<br>
-**SCENOGRAPHY** Stefan Jakiela<br>
-**COSTUMES** Nikè Moens<br>
-**LIGHT DESIGN** Frank Hardy<br>
+**CONCEPT** compagnie barbarie (Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel)<br>
+**SPEL** Sarah Vangeel, Liesje De Backer, Amber Goethals, Lotte Vaes en Francis Geeraert (stage)<br>
+**SCENOGRAPHY** Stefan Jakiela, Jana Noël Van Impe (intern)<br>
+**COMSTUME DESIGN** Joëlle Meerbergen, Nina Dupont (intern)<br>
+**TECHNICIAN** Saul Mombaerts
+**LIGHTNING DESIGN** Frank Hardy<br>
+**SOUND DESIGN** Tom Goudblomme<br>
 **PRODUCTION** BRONKS<br>
 **COPRODUCTION** Perpodium<br>
-**SUPPORTED BY** the Tax Shelter of the Belgian Federal Government
+**SUPPORTED BY** de Tax Shelter van de Belgische Federale Overheid & De Auteurs
