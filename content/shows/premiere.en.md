@@ -45,7 +45,7 @@ How defining is a beginning for everything that is yet to come?
 **SPEL** Sarah Vangeel, Liesje De Backer, Amber Goethals, Lotte Vaes en Francis Geeraert (stage)<br>
 **SCENOGRAPHY** Stefan Jakiela, Jana Noël Van Impe (intern)<br>
 **COMSTUME DESIGN** Joëlle Meerbergen, Nina Dupont (intern)<br>
-**TECHNICIAN** Saul Mombaerts
+**TECHNICIAN** Saul Mombaerts<br>
 **LIGHTNING DESIGN** Frank Hardy<br>
 **SOUND DESIGN** Tom Goudblomme<br>
 **PRODUCTION** BRONKS<br>
