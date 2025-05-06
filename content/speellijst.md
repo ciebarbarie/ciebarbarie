@@ -45,5 +45,6 @@ contentcolor: "#fff"
 <tr><td>Zo 25 - Woe 28 mei</td><td>..</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Edinburgh (UK)</td><td><a href="https://www.imaginate.org.uk/festival/whats-on/">Imaginate Festival Edinburgh</a></td></tr>
 <tr><td>Do 05 & Vri 06 juni</td><td>schoolvoorstellingen </td><td><a href="/nl/shows/modders">Modders</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
 <tr><td>Zo 29 juni</td><td>14.00</td><td><a href="/nl/shows/premiere">Première</a></td><td>Utrecht (NL)</td><td><a href="https://www.tweetakt.nl/event/premiere/">Tweetakt</a></td></tr>
+<tr><td>Zo 03 aug</td><td>tbc</td><td><a href="/nl/shows/premiere">Première</a></td><td>Oostende</td><td><a href="https://theateraanzee.be/">Theater aan Zee</a></td></tr>
 </table>
 </div>
