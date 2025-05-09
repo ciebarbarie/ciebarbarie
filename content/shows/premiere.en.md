@@ -50,4 +50,5 @@ How defining is a beginning for everything that is yet to come?
 **SOUND DESIGN** Tom Goudblomme<br>
 **PRODUCTION** BRONKS<br>
 **COPRODUCTION** Perpodium<br>
+**THANKS TO** De Studio<br>
 **SUPPORTED BY** de Tax Shelter van de Belgische Federale Overheid & De Auteurs
