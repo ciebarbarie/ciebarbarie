@@ -52,4 +52,5 @@ And that you can feel everything you feel about it.<br>
 **SOUND DESIGN** Adam Russel<br>
 **PRODUCTION** BRONKS<br>
 **COPRODUCTION** Perpodium<br>
+**THANKS TO** De Studio<br>
 **SUPPORTED BY** Tax Shelter of the Belgian Federal Government
