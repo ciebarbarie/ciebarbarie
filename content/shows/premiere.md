@@ -53,4 +53,5 @@ Hoe bepalend is een begin voor alles wat nog moet komen?
 **GELUIDSONTWERP** Tom Goudblomme<br>
 **PRODUCTIE** BRONKS<br>
 **COPRODUCTIE** Perpodium<br>
+**MET DANK AAN** De Studio<br>
 **MET DE STEUN VAN** de Tax Shelter van de Belgische Federale Overheid & De Auteurs
