@@ -8,10 +8,15 @@ bit-1-end: 700
 slide-count: 4
 images:
   "premiere-1.jpg": Franky Verdickt
+  "premiere-2.jpg": Franky Verdickt
+  "premiere-3.jpg": Franky Verdickt
+  "premiere-4.jpg": Franky Verdickt
+  "premiere-5.jpg": Franky Verdickt
 backgroundColor: "#9ca4a9"
 backgroundImage: "premiere-background.png"
 contentColor: "#333"
 ---
+
 **Première**<br>
 
 De voorstelling zal beginnen bij het begin.<br>
