@@ -52,4 +52,5 @@ En dat je daarbij alles mag voelen wat je voelt.<br>
 **GELUIDSONTWERP** Adam Russel<br>
 **PRODUCTIE** BRONKS<br>
 **COPRODUCTIE** Perpodium<br>
+**MET DANK AAN** De Studio<br>
 **MET DE STEUN VAN** Tax Shelter van de Belgische Federale Overheid
