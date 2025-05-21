@@ -45,7 +45,7 @@ And that you can feel everything you feel about it.<br>
 **ACTORS** Sarah Vangeel, Liesje De Backer, Amber Goethals, Lotte Vaes<br>
 **DIRECTION** Karolien De Bleser<br>
 **TEXT** compagnie barbarie<br>
-**SCENOGRAPHY** not yet known<br>
+**SCENOGRAPHY** Gilles Pollak<br>
 **COSTUMES** Joëlle Meerbergen<br>
 **TECHNICAL** Saul Mombaerts<br>
 **LIGHT DESIGN** Frank Hardy<br>
