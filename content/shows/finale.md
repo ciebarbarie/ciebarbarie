@@ -45,7 +45,7 @@ En dat je daarbij alles mag voelen wat je voelt.<br>
 **SPEL** Sarah Vangeel, Liesje De Backer, Amber Goethals, Lotte Vaes<br>
 **REGIE** Karolien De Bleser<br>
 **TEKST** compagnie barbarie<br>
-**SCENOGRAFIE** nog niet bekend<br>
+**SCENOGRAFIE** Gilles Pollak<br>
 **KOSTUUMS** Joëlle Meerbergen<br>
 **TECHNIEK** Saul Mombaerts<br>
 **LICHTONTWERP** Frank Hardy<br>
