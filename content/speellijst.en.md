@@ -48,7 +48,7 @@ contentcolor: "#fff"
 <tr><td>Thu 05 & Fri 06 June</td><td>school performances </td><td><a href="/en/shows/mudders">Mudders</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/podium">De Studio</a></td></tr>
 <tr><td>Wed 25 June</td><td>10.00 & 16.00 </td><td><a href="/en/shows/grown-ups">Grown Ups</a></td><td>Hradec Kralové (CH)</td><td><a href="https://www.festivalregiony.cz/predstaveni-velci-lide?id=217">Regiony 2025</a></td></tr>
 <tr><td>Sun 29 June</td><td>14.00</td><td><a href="/en/shows/premiere">Première</a></td><td>Utrecht(NL)</td><td><a href="https://www.tweetakt.nl/event/premiere/">Tweetakt</a></td></tr>
-<tr><td>Sun 03 aug</td><td>tbc</td><td><a href="/en/shows/premiere">Première</a></td><td>Oostende</td><td><a href="https://theateraanzee.be/">Theater aan Zee</a></td></tr>
+<tr><td>Sun 03 aug</td><td>16.00 & 20.30 </td><td><a href="/en/shows/premiere">Première</a></td><td>Oostende</td><td><a href="https://theateraanzee.be/">Theater aan Zee</a></td></tr>
 
 </table>
 </div>
