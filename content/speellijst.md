@@ -41,7 +41,7 @@ contentcolor: "#fff"
 <tr><td>Zon 12 apr</td><td>14.30</td><td><a href="/nl/shows/finale">Finale</a></td><td>Geel</td><td><a href="https://www.dewerft.be/agenda/finale-m51j">CC De Werft</a></td></tr>
 <tr><td>Za 18 apr</td><td>19.30</td><td><a href="/nl/shows/finale">Finale</a></td><td>Dilbeek</td><td><a href="https://www.westrand.be/programma/finale-6-6rr5">CC Westrand</a></td></tr>
 <tr><td>Di 21 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Maaseik</td><td><a href="https://www.achterolmen.be/nl/programma">CC Achterholmen</a></td></tr>
-<tr><td>Di 28 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Blankenberge</td><td><a href="https://www.ccblankenberge.be/programma/school">Cultuurcentrum</a></td></tr>
+<tr><td>Di 28 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Blankenberge</td><td><a href="https://www.ccblankenberge.be/programma/school/lagere-school/schoolvoorstelling-finale-compagnie-barbarie-bronks">Cultuurcentrum</a></td></tr>
 <tr><td>Di 05 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be/finale">CC De Ploter</a></td></tr>
 <tr><td>Vrij 08 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brecht</td><td><a href="https://www.brecht.be/vrije-tijd/cultuur/">OC 't Centrum</a></td></tr>
 <tr><td>Za 09 mei</td><td>15.00</td><td><a href="/nl/shows/finale">Finale</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/project/finale">De Studio</a></td></tr>
