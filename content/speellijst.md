@@ -33,10 +33,10 @@ contentcolor: "#fff"
 <tr><td>Di 10 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">Bronks</a></td></tr>
 <tr><td>Di 17 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Kortrijk</td><td><a href="https://www.schouwburgkortrijk.be/programma">Budascoop (org. Schouwburg Kortrijk)</a></td></tr>
 <tr><td>Za 07 maart</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
-<tr><td>Za 28 maart</td><td>19.00 PREMIERE</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/programma/">Bronks</a></td></tr>
-<tr><td>Zon 29 maart</td><td>15.00</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/programma/">Bronks</a></td></tr>
-<tr><td>Di 31 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/programma/">Bronks</a></td></tr>
-<tr><td>Woe 01 & Do 02 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/programma/">Bronks</a></td></tr>
+<tr><td>Za 28 maart</td><td>19.00 PREMIERE</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
+<tr><td>Zon 29 maart</td><td>15.00</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
+<tr><td>Di 31 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
+<tr><td>Woe 01 & Do 02 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 <tr><td>Za 11 apr</td><td>15.00</td><td><a href="/nl/shows/finale">Finale</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/finale-6-57z9">Cultuurcentrum</a></td></tr>
 <tr><td>Zon 12 apr</td><td>14.30</td><td><a href="/nl/shows/finale">Finale</a></td><td>Geel</td><td><a href="https://www.dewerft.be/agenda/finale-m51j">CC De Werft</a></td></tr>
 <tr><td>Za 18 apr</td><td>19.30</td><td><a href="/nl/shows/finale">Finale</a></td><td>Dilbeek</td><td><a href="https://www.westrand.be/programma/finale-6-6rr5">CC Westrand</a></td></tr>
