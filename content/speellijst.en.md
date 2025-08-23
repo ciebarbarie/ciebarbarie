@@ -36,7 +36,7 @@ contentcolor: "#fff"
 <tr><td>Mon 26 en Tue 27 jan</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Bilzen-Hoeselt</td><td><a href="https://www.cultuurhuisbilzenhoeselt.be/activiteiten/compagnie-barbarie-bronks">Zaal De Kimpel</a></td></tr>
 <tr><td>Thu 29 en Fri 30 jan</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Mechelen</td><td><a href="https://cultuurcentrum.mechelen.be/premiere-4">De Maan (org. Cultuurcentrum)</a></td></tr>
 <tr><td>Sat 31 jan</td><td>19.00</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Mechelen</td><td><a href="https://cultuurcentrum.mechelen.be/premiere-4">De Maan (org. Cultuurcentrum)</a></td></tr>
-<tr><td>Tue 10 feb</td><td> school performances/td><td><a href="/en/shows/premiere">Premiere</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">Bronks</a></td></tr>
+<tr><td>Tue 10 feb</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">Bronks</a></td></tr>
 <tr><td>Tue 17 feb</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Kortrijk</td><td><a href="https://www.schouwburgkortrijk.be/programma">Budascoop (org. Schouwburg Kortrijk)</a></td></tr>
 <tr><td>Sat 07 march</td><td>15.00</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
 <tr><td>Sat 28 march</td><td>19.00 PREMIERE</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
