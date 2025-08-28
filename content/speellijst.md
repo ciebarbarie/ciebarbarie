@@ -18,6 +18,7 @@ contentcolor: "#fff"
 <tr><td>Di 14 Okt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Berlare</td><td><a href="https://beleefberlare.be/premiere">CC Stroming</a></td></tr>
 <tr><td>Ma 20 & Di 21 Okt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/gratis chips">Gratis Chips!</a></td><td>Genk</td><td><a href="https://c-mine.be/evenement/compagnie-barbarie-2">C-Mine</a></td></tr>
 <tr><td>Zo 26 okt</td><td>14.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Luzern (CH)</td><td><a  href="https://www.sudpol.ch">Sudpol</a></td></tr>">
+<tr><td>Za 08 nov</td><td>19.00</td><td><a href="/nl/shows/premiere">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be">Bronks</a></td></tr>
 <tr><td>Zo 16 nov</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Gent</td><td><a href="https://kopergietery.be/nl/productie/grote-mensen">Campo Nieuwpoort (org.Kopergietery)</a></td></tr>
 <tr><td>Di 18 nov</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/dit-is-niet-de-titel">Dit is niet de titel</a></td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/nl/scholen">CC Maasmechelen</a></td></tr>
 <tr><td>Zo 30 nov</td><td>15.00</td><td><a href="/nl/shows/grote-mensen">Grote Mensen</a></td><td>Halle</td><td><a href="https://www.vondel.be/agenda/grote-mensen-4m6k">CC 't Vondel</a></td></tr>
@@ -32,9 +33,9 @@ contentcolor: "#fff"
 <tr><td>Za 31 jan</td><td>19.00</td><td><a href="/nl/shows/premiere">Première</a></td><td>Mechelen</td><td><a href="https://cultuurcentrum.mechelen.be/premiere-4">De Maan (org. Cultuurcentrum)</a></td></tr>
 <tr><td>Di 10 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">Bronks</a></td></tr>
 <tr><td>Di 17 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Kortrijk</td><td><a href="https://www.schouwburgkortrijk.be/programma">Budascoop (org. Schouwburg Kortrijk)</a></td></tr>
-<tr><td>Za 07 maart</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
-<tr><td>Za 28 maart</td><td>19.00 PREMIERE</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
-<tr><td>Zon 29 maart</td><td>15.00</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
+<tr><td>Za 07 maart</td><td>15.00</td><td><a href="/nl/shows/gratis-chips">Gratis Chips!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/gratis-chips?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
+<tr><td>Za 28 maart</td><td>19.00 PREMIERE</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
+<tr><td>Zon 29 maart</td><td>15.00</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
 <tr><td>Di 31 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 <tr><td>Woe 01 & Do 02 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 <tr><td>Za 11 apr</td><td>15.00</td><td><a href="/nl/shows/finale">Finale</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/finale-6-57z9">Cultuurcentrum</a></td></tr>
@@ -49,30 +50,6 @@ contentcolor: "#fff"
 <tr><td>Ma 11 & Di 12 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/project/finale">De Studio</a></td></tr>
 <tr><td>Ma 18 & Di 19 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.sint-pieters-leeuw.be/brul/organiseren/zaalverhuur/culturele-infrastructuur/theaterzaal">OC De Merselborre</a></td></tr>
 <tr><td>Do 28 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Puurs-Sint Amands</td><td><a href="https://www.puurs-sint-amands.be/schoolvoorstelling-finale-compagnie-barbarie/bronks">cc Binder</a></td></tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </table>
