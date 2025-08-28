@@ -24,6 +24,7 @@ contentcolor: "#fff"
 <tr><td>Tue 14 oct</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Berlare</td><td><a href="https://beleefberlare.be/premiere">CC Stroming</a></td></tr>
 <tr><td>Mon 20 & Tue 21 Oct</td><td>school performances</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Genk</td><td><a href="https://c-mine.be/evenement/compagnie-barbarie-2">C-Mine</a></td></tr>
 <tr><td>Sun 26 oct</td><td>14.00</td><td><a href="/en/shows/grown-ups">Grown Ups</a></td><td>Luzern (CH)</td><td><a  href="https://www.sudpol.ch">Sudpol</a></td></tr>">
+<tr><td>Sat 08 nov</td><td>19.00</td><td><a href="/nl/shows/premiere">Première</a></td><td>Brussel</td><td><a href="https://www.bronks.be">Bronks</a></td></tr>
 <tr><td>Sun 16 nov</td><td>15.00</td><td><a href="/en/shows/grown-ups">Grown Ups</a></td><td>Gent</td><td><a href="https://kopergietery.be/nl/productie/grote-mensen">Campo Nieuwpoort (org.Kopergietery)</a></td></tr>
 <tr><td>Tue 18 nov</td><td>school performances</td><td><a href="/en/shows/this-is-not-the-title">This is not the title</a></td><td>Maasmechelen</td><td><a href="https://www.ccmaasmechelen.be/nl/scholen">CC Maasmechelen</a></td></tr>
 <tr><td>Sun 30 nov</td><td>15.00</td><td><a href="/en/shows/grown-ups">Grown Ups</a></td><td>Halle</td><td><a href="https://www.vondel.be/agenda/grote-mensen-4m6k">CC 't Vondel</a></td></tr>
@@ -38,9 +39,9 @@ contentcolor: "#fff"
 <tr><td>Sat 31 jan</td><td>19.00</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Mechelen</td><td><a href="https://cultuurcentrum.mechelen.be/premiere-4">De Maan (org. Cultuurcentrum)</a></td></tr>
 <tr><td>Tue 10 feb</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">Bronks</a></td></tr>
 <tr><td>Tue 17 feb</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Kortrijk</td><td><a href="https://www.schouwburgkortrijk.be/programma">Budascoop (org. Schouwburg Kortrijk)</a></td></tr>
-<tr><td>Sat 07 march</td><td>15.00</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
-<tr><td>Sat 28 march</td><td>19.00 PREMIERE</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
-<tr><td>Sun 29 march</td><td>15.00</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/">Bronks</a></td></tr>
+<tr><td>Sat 07 march</td><td>15.00</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/gratis-chips?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
+<tr><td>Sat 28 march</td><td>19.00 PREMIERE</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
+<tr><td>Sun 29 march</td><td>15.00</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https:https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
 <tr><td>Tue 31 march</td><td>school performances</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 <tr><td>Wed 01 & Tue 02 apr</td><td>school performances</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 <tr><td>Sat 11 apr</td><td>15.00</td><td><a href="/en/shows/finale">Finale</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/finale-6-57z9">Cultuurcentrum</a></td></tr>
