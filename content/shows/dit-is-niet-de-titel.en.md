@@ -20,7 +20,7 @@ contentColor: "#fff"
 **We have created a performance about lying.**<br>
 **Although that's not entirely true.**
 
-<iframe src="https://player.vimeo.com/video/808728449" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://vimeo.com/808974561?fl=pl&fe=sh" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 That is to say:<br>
 We don't lie all the time. At least not in the performance. We also do other things. That are also fun.<br>
