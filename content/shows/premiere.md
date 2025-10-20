@@ -47,6 +47,7 @@ Hoe bepalend is een begin voor alles wat nog moet komen?
 **REGIE ASSISTENTIE** Janne Bluekens (stage)<br>
 **TEKST** compagnie barbarie<br>
 **SCENOGRAFIE** Stefan Jakiela, Jana Noël Van Impe (stage)<br>
+**UITVOERING DECOR** Simon Callens<br>
 **KOSTUUMS** Joëlle Meerbergen, Nina Dupont (stage)<br>
 **TECHNIEK** Saul Mombaerts<br>
 **LICHTONTWERP** Frank Hardy<br>
