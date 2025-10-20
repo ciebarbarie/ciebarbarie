@@ -44,6 +44,7 @@ How defining is a beginning for everything that is yet to come?
 **CONCEPT** compagnie barbarie (Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes en Sarah Vangeel)<br>
 **SPEL** Sarah Vangeel, Liesje De Backer, Amber Goethals, Lotte Vaes en Francis Geeraert (stage)<br>
 **SCENOGRAPHY** Stefan Jakiela, Jana Noël Van Impe (intern)<br>
+**SET CONSTRUCTION** Simon Callens<br>
 **COMSTUME DESIGN** Joëlle Meerbergen, Nina Dupont (intern)<br>
 **TECHNICIAN** Saul Mombaerts<br>
 **LIGHTNING DESIGN** Frank Hardy<br>
