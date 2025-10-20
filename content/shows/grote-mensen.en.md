@@ -34,6 +34,7 @@ Who really cleans up whose junk?
 **DIRECTION** Karolien De Bleser<br>
 **TEXT** compagnie barbarie<br>
 **SET DESIGN** Michiel Van Cauwelaert<br>
+**SET CONSTRUCTION** Simon Callens<br>
 **COSTUMES** Nikè Moens<br>
 **LIGHTING DESIGN** Frank Hardy<br>
 **SOUND & MUSIC DESIGN** Adam Russel<br>
