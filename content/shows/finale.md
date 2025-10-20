@@ -46,6 +46,7 @@ En dat je daarbij alles mag voelen wat je voelt.<br>
 **REGIE** Karolien De Bleser<br>
 **TEKST** compagnie barbarie<br>
 **SCENOGRAFIE** Gilles Pollak<br>
+**UITVOERING DECOR** Simon Callens<br>
 **KOSTUUMS** Joëlle Meerbergen<br>
 **TECHNIEK** Saul Mombaerts<br>
 **LICHTONTWERP** Frank Hardy<br>
