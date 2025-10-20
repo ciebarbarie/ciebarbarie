@@ -20,7 +20,7 @@ contentColor: "#fff"
 **We hebben een voorstelling gemaakt die gaat over liegen.**<br>
 **Alhoewel dat niet helemaal waar is.**
 
-<iframe src="https://player.vimeo.com/video/808728449" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://vimeo.com/808974561?fl=pl&fe=sh" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Het is te zeggen:<br>
 We liegen niet de hele tijd. Toch niet in de voorstelling. We doen ook nog andere dingen. Die ook leuk zijn.<br>
