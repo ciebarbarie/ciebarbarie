@@ -62,7 +62,8 @@ But we can't promise you that's the truth.
 **DIRECTION** Karolien De Bleser<br>
 **ASSISTANT DIRECTION** Tine Decraemer <br>
 **TEXT** Karolien De Bleser in collaboration with the performers<br>
-**SCENOGRAPHY** Michiel Van Cauwelaert<br>
+**SET DESIGN** Michiel Van Cauwelaert<br>
+**SET CONSTRUCTION** Simon Callens<br>
 **COSTUMES** Viv van der Poel, Nikè Moens<br>
 **SOUND AND TECHNICS** Saul Mombaerts<br>
 **LIGHTING DESIGN** Frank Hardy<br>
