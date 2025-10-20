@@ -14,8 +14,13 @@ contentColor: "#ddd"
 sidebarColor: "#ccc"
 ---
 
-Compagnie barbarie is een professioneel theatercollectief bestaande uit vijf vrouwen
+Compagnie Barbarie is een theatergezelschap van vijf vrouwen dat zich richt op actuele thema’s en die steeds op kindermaat weet te snijden.<br>
 
+Zowel kinderen als volwassenen worden geconfronteerd met een snel veranderende wereld en niemand weet hoe de dag waaraan we begonnen zijn zal eindigen.<br>
+Samen onderzoeken we de vragen van deze tijd en zoeken naar betekenis in een snel veranderende wereld.
+<br>
+
+Cie barbarie schuwt geen enkel onderwerp, is niet vies van een beetje rebellie en zoekt vooral naar houvast in humor, absurditeit en een grote dosis dagelijkse zelfrelativering.<br>
 
 
 <br>
