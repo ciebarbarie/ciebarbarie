@@ -15,7 +15,11 @@ contentColor: "#ddd"
 sidebarColor: "#ccc"
 ---
 
-Company Barbarie is a professional theatre collective consisting of five women. 
+Compagnie Barbarie is a theatre collective of five women who tackle contemporary themes and always manage to translate them to a child’s perspective.<br>
+
+Both children and adults are faced with a rapidly changing world, and no one really knows how the day we’ve started will end.<br> Together, we explore the questions of our time and search for meaning in a world that never stands still.<br>
+
+Cie Barbarie doesn’t shy away from any subject, isn’t afraid of a bit of rebellion, and finds its footing in humour, absurdity, and a healthy dose of everyday self-mockery.<br>
 
 
 **Company Barbarie are**: Liesje De Backer, Karolien De Bleser, Amber Goethals, Lotte Vaes and Sarah Vangeel
