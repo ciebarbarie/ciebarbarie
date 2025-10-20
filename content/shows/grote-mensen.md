@@ -40,6 +40,7 @@ ander daglicht kan stellen.
 **REGIE** Karolien De Bleser<br>
 **TEKST** compagnie barbarie<br>
 **SCENOGRAFIE** Michiel Van Cauwelaert<br>
+**UITVOERING DECOR** Simon Callens<br>
 **KOSTUUMS** Nikè Moens<br>
 **LICHTONTWERP** Frank Hardy<br>
 **GELUID & MUZIEKONTWERP** Adam Russel<br>
