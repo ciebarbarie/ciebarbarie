@@ -63,6 +63,7 @@ Maar we kunnen u niet beloven dat dat de waarheid is.
 **REGIE** ASSISTENTIE Tine Decraemer <br>
 **TEKST** Karolien De Bleser in samenwerking met de spelers<br>
 **SCENOGRAFIE** Michiel Van Cauwelaert<br>
+**UITVOERING DECOR** Simon Callens<br>
 **KOSTUUMS** Viv van der Poel, Nikè Moens<br>
 **GELUID EN TECHNIEK** Saul Mombaerts<br>
 **LICHTONTWERP** Frank Hardy<br>
