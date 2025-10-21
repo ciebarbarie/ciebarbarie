@@ -15,12 +15,13 @@ backgroundColor: "#222"
 backgroundImage: "dit-is-niet-de-titel-background.jpg"
 contentColor: "#fff"
 ---
+
 **Dit Is Niet De Titel**<br>
 
 **We hebben een voorstelling gemaakt die gaat over liegen.**<br>
 **Alhoewel dat niet helemaal waar is.**
 
-<iframe src="https://vimeo.com/808974561?fl=pl&fe=sh" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/808974561" width="100%" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Het is te zeggen:<br>
 We liegen niet de hele tijd. Toch niet in de voorstelling. We doen ook nog andere dingen. Die ook leuk zijn.<br>
@@ -73,4 +74,4 @@ Maar we kunnen u niet beloven dat dat de waarheid is.
 **MET DANK AAN** Raygun, Ina Peeters & Janneke Hertoghs,De Studio<br>
 **MET DE STEUN VAN** de Vlaamse Gemeenschap<br>
 
-*Deze voorstelling kwam tot stand met behulp van de Tax Shelter maatregel van Belgische Overheid.*
+_Deze voorstelling kwam tot stand met behulp van de Tax Shelter maatregel van Belgische Overheid._
