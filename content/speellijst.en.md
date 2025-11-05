@@ -38,7 +38,7 @@ contentcolor: "#fff"
 <tr><td>Thu 29 en Fri 30 jan</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Mechelen</td><td><a href="https://cultuurcentrum.mechelen.be/premiere-4">De Maan (org. Cultuurcentrum)</a></td></tr>
 <tr><td>Sat 31 jan</td><td>19.00</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Mechelen</td><td><a href="https://cultuurcentrum.mechelen.be/premiere-4">De Maan (org. Cultuurcentrum)</a></td></tr>
 <tr><td>Tue 10 feb</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/5215/premiere">Bronks</a></td></tr>
-<tr><td>Tue 17 feb</td><td>school performances</td><td><a href="/en/shows/premiere">Premiere</a></td><td>Kortrijk</td><td><a href="https://www.schouwburgkortrijk.be/programma">Budascoop (org. Schouwburg Kortrijk)</a></td></tr>
+<tr><td>Mon 16 feb</td><td>15.00</td><td><a href="/en/shows/premiere">Première</a></td><td>Kortrijk</td><td><a href="https://www.spinrag.be/">Spinrag (org. Schouwburg Kortrijk)</a></td></tr>
 <tr><td>Sat 07 march</td><td>15.00</td><td><a href="/en/shows/crisps-for-free">Crisps for free!</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/gratis-chips?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
 <tr><td>Sat 28 march</td><td>19.00 PREMIERE</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
 <tr><td>Sun 29 march</td><td>15.00</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https:https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
