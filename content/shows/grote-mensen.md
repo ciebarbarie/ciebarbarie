@@ -43,7 +43,7 @@ ander daglicht kan stellen.
 **UITVOERING DECOR** Simon Callens<br>
 **KOSTUUMS** Nikè Moens<br>
 **LICHTONTWERP** Frank Hardy<br>
-**GELUID & MUZIEKONTWERP** Adam Russel<br>
+**GELUID & MUZIEKONTWERP** Adam Russell<br>
 **GELUID- & TECHNIEK** Saul Mombaerts<br>
 **PRODUCTIE** BRONKS<br>
 **COPRODUCTIE** Per Podium<br>
