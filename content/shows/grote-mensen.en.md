@@ -37,7 +37,7 @@ Who really cleans up whose junk?
 **SET CONSTRUCTION** Simon Callens<br>
 **COSTUMES** Nikè Moens<br>
 **LIGHTING DESIGN** Frank Hardy<br>
-**SOUND & MUSIC DESIGN** Adam Russel<br>
+**SOUND & MUSIC DESIGN** Adam Russell<br>
 **SOUND & TECH** Saul Mombaerts<br>
 **PRODUCTON** Bronks<br>
 **COPRODUCTON** Per Podium<br>
