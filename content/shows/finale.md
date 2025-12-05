@@ -50,7 +50,7 @@ En dat je daarbij alles mag voelen wat je voelt.<br>
 **KOSTUUMS** Joëlle Meerbergen<br>
 **TECHNIEK** Saul Mombaerts<br>
 **LICHTONTWERP** Frank Hardy<br>
-**GELUIDSONTWERP** Adam Russel<br>
+**GELUIDSONTWERP** Adam Russell<br>
 **PRODUCTIE** BRONKS<br>
 **COPRODUCTIE** Perpodium<br>
 **MET DANK AAN** De Studio<br>
