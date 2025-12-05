@@ -50,7 +50,7 @@ And that you can feel everything you feel about it.<br>
 **COSTUMES** Joëlle Meerbergen<br>
 **TECHNICAL** Saul Mombaerts<br>
 **LIGHT DESIGN** Frank Hardy<br>
-**SOUND DESIGN** Adam Russel<br>
+**SOUND DESIGN** Adam Russell<br>
 **PRODUCTION** BRONKS<br>
 **COPRODUCTION** Perpodium<br>
 **THANKS TO** De Studio<br>
