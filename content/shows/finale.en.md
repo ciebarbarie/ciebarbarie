@@ -51,6 +51,7 @@ And that you can feel everything you feel about it.<br>
 **TECHNICAL** Saul Mombaerts<br>
 **LIGHT DESIGN** Frank Hardy<br>
 **SOUND DESIGN** Adam Russell<br>
+**MOVEMENT DIRECTION** Zoë Demoustier<br>
 **PRODUCTION** BRONKS<br>
 **COPRODUCTION** Perpodium<br>
 **THANKS TO** De Studio<br>
