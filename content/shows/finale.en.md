@@ -45,12 +45,12 @@ And that you can feel everything you feel about it.<br>
 **ACTORS** Sarah Vangeel, Liesje De Backer, Amber Goethals, Lotte Vaes<br>
 **DIRECTION** Karolien De Bleser<br>
 **TEXT** compagnie barbarie<br>
+**SOUND DESIGN** Adam Russell<br>
 **SET DESIGN** Gilles Pollak<br>
 **SET CONSTRUCTION** Simon Callens<br>
 **COSTUMES** Joëlle Meerbergen<br>
-**TECHNICAL** Saul Mombaerts<br>
 **LIGHT DESIGN** Frank Hardy<br>
-**SOUND DESIGN** Adam Russell<br>
+**TECHNICAL** Saul Mombaerts<br>
 **MOVEMENT DIRECTION** Zoë Demoustier<br>
 **PRODUCTION** BRONKS<br>
 **COPRODUCTION** Perpodium<br>
