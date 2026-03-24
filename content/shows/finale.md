@@ -45,12 +45,13 @@ En dat je daarbij alles mag voelen wat je voelt.<br>
 **SPEL** Sarah Vangeel, Liesje De Backer, Amber Goethals, Lotte Vaes<br>
 **REGIE** Karolien De Bleser<br>
 **TEKST** compagnie barbarie<br>
+**GELUIDSONTWERP** Adam Russell<br>
 **SCENOGRAFIE** Gilles Pollak<br>
 **UITVOERING DECOR** Simon Callens<br>
 **KOSTUUMS** Joëlle Meerbergen<br>
-**TECHNIEK** Saul Mombaerts<br>
 **LICHTONTWERP** Frank Hardy<br>
-**GELUIDSONTWERP** Adam Russell<br>
+**TECHNIEK** Saul Mombaerts<br>
+**BEWEGINGSADVIES** Zoë Demoustier<br>
 **PRODUCTIE** BRONKS<br>
 **COPRODUCTIE** Perpodium<br>
 **MET DANK AAN** De Studio<br>
