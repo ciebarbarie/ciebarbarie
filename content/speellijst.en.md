@@ -20,7 +20,7 @@ contentcolor: "#fff"
 
 <tr><td colspan="5"><strong>2026</strong></td></tr>
 <tr><td>Sat 28 march</td><td>19.00 PREMIERE</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
-<tr><td>Sun 29 march</td><td>15.00</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https:https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
+<tr><td>Sun 29 march</td><td>15.00</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/finale?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
 <tr><td>Tue 31 march</td><td>school performances</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 <tr><td>Wed 01 & Tue 02 apr</td><td>school performances</td><td><a href="/en/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 <tr><td>Sat 11 apr</td><td>15.00</td><td><a href="/en/shows/finale">Finale</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/finale-6-57z9">Cultuurcentrum</a></td></tr>
