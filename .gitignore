@@ -3,3 +3,4 @@
 /public
 _gen/
 *.lock
+.playwright-mcp/
