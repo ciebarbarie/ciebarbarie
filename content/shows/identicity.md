@@ -11,7 +11,7 @@ images:
 ---
 <style>
   #main {
-    background: #d8d6d2 url({{ .Site.BaseURL }}/img/identicity-background.jpg);
+    background: #d8d6d2 url(/img/identicity-background.jpg);
   }
 
   #content {

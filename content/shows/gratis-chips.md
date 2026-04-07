@@ -27,7 +27,7 @@ contentColor: "#333"
       position: absolute;
       right: 0;
       top: 0;
-      background: url({{ .Site.BaseURL }}/img/gratis-chips-bit-1.png) no-repeat bottom right;
+      background: url(/img/gratis-chips-bit-1.png) no-repeat bottom right;
     }
   }
 </style>

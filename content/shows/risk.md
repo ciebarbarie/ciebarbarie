@@ -20,7 +20,7 @@ contentColor: "#fff"
     height: 993px;
     position: absolute;
     top: 0;
-    background: url({{ .Site.BaseURL }}img/risk-bit-1.gif) no-repeat top right;
+    background: url(/img/risk-bit-1.gif) no-repeat top right;
   }
 
 </style>

@@ -27,14 +27,14 @@ images:
     width: 100%;
     height: 1500px;
     position: absolute;
-    background: url({{ .Site.BaseURL }}img/schwab-bit-1.png) no-repeat top right;
+    background: url(/img/schwab-bit-1.png) no-repeat top right;
   }
 
   #background-bit-2 {
     width: 100%;
     height: 1500px;
     position: absolute;
-    background: url({{ .Site.BaseURL }}img/schwab-bit-2.png) no-repeat top left;
+    background: url(/img/schwab-bit-2.png) no-repeat top left;
   }
 
  /* #background-bit-3 {
@@ -42,7 +42,7 @@ images:
     height: 667px;
     position: absolute;
     top: 100px;
-    background: url({{ .Site.BaseURL }}img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
+    background: url(/img/undertwasser-wasserwasser-bit-3.png) no-repeat top right;
   }*/
 </style>
 
