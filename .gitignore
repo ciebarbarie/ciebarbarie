@@ -1,6 +1,7 @@
 /_site
 /_mockup
 /public
+/tmp
 _gen/
 *.lock
 .playwright-mcp/
