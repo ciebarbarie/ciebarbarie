@@ -3,10 +3,12 @@ title: Finale (6+)
 slug: finale
 active: true
 weight: 19
-slide-count: 2
+slide-count: 4
 images:
   "finale-1.jpg": Franky Verdickt
   "finale-2.jpg": Franky Verdickt
+  "finale-3.jpg": Franky Verdickt
+  "finale-4.jpg": Franky Verdickt
 backgroundColor: "#222"
 backgroundImage: "finale-background.jpg"
 contentColor: "#fff"
