@@ -42,11 +42,11 @@ contentcolor: "#fff"
 
 <tr><td>Wo 7 apr</td><td>familievoorstelling</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Kortemark</td><td><a href="https://www.kortemark.be">CC De Beuk</a></td></tr>
 
-<tr><td>Di 27 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be">CC De Ploter</a></td></tr>
+<tr><td>Di 27 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be/zoeken?q=wa+wilder+man">CC De Ploter</a></td></tr>
 
-<tr><td>Ma 10 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be">cultuurcentrum</a></td></tr>
+<tr><td>Ma 10 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/wa-wilder-man-fs9y">cultuurcentrum</a></td></tr>
 
-<tr><td>Di 11 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be">cultuurcentrum</a></td></tr>
+<tr><td>Di 11 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/wa-wilder-man-fs9y">cultuurcentrum</a></td></tr>
 
 
 
