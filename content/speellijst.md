@@ -49,6 +49,38 @@ contentcolor: "#fff"
 <tr><td>Di 11 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/wa-wilder-man-fs9y">cultuurcentrum</a></td></tr>
 
 
+<tr><td colspan="5"><strong>2026</strong></td></tr>
+  <tr><td colspan="5"><strong>PREMIERE</strong></td></tr>
+
+  <tr><td>Za 3 okt</td><td>familievoorstelling</td><td><a href="/nl/shows/premiere">Première</a></td><td>Halle</td><td><a href="https://www.vondel.be/agenda/premiere-q8qv">CC 't Vondel</a></td></tr>
+
+<tr><td>Di 1 dec</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be">CC Het Gasthuis</a></td></tr>
+
+<tr><td>Do 3 dec</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Zonhoven</td><td><a href="https://www.zonhoven.be/diensten/detail/2774/cultuur">GC Tentakel</a></td></tr>
+
+<tr><td colspan="5"><strong>2027</strong></td></tr>
+
+<tr><td>Di 2 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Zaventem</td><td><a href="https://www.ccdefactorij.be/nl/programma/premiere/7429/">CC De Factorij</a></td></tr>
+
+<tr><td>Di 23 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Asse</td><td><a href="https://www.ccasse.be">CC / Oud Gasthuis</a></td></tr>
+
+<tr><td>Di 9 mrt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Lommel</td><td><a href="https://www.ccdeadelberg.be">CC De Adelberg</a></td></tr>
+
+<tr><td>Vr 12 mrt</td><td>familievoorstelling</td><td><a href="/nl/shows/premiere">Première</a></td><td>Beveren</td><td><a href="https://www.tervesten.be/compagnie-barbarie-bronks-premiere-8">Ter Vesten</a></td></tr>
+
+<tr><td>Di 20 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Lanaken</td><td><a href="https://www.cclanaken.be/schoolvoorstellingen%202025-2026">CC Lanaken</a></td></tr>
+
+<tr><td>Vr 23 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Duffel</td><td><a href="https://www.cinema-plaza.be/programma/schoolvoorstelling-premiere-compagnie-barbarie-bronks-3de-graad-lager">Cinema Plaza</a></td></tr>
+
+<tr><td>Zo 2 mei</td><td>familievoorstelling</td><td><a href="/nl/shows/premiere">Première</a></td><td>Gent</td><td><a href="https://www.kopergietery.be">CAMPO Nieuwpoort (org. Kopergietery)</a></td></tr>
+
+<tr><td>Ma 3 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Boom</td><td><a href="https://desteigerboom.zapcms.voltaweb.be/premiere">CC De Steiger</a></td></tr>
+
+<tr><td>Di 4 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Boom</td><td><a href="https://desteigerboom.zapcms.voltaweb.be/premiere">CC De Steiger</a></td></tr>
+
+<tr><td>Zo 13 jun</td><td>familievoorstelling</td><td><a href="/nl/shows/premiere">Première</a></td><td>Merksem</td><td><a href="https://www.schouwburgnoord.be">Schouwburg Noord</a></td></tr>
+
+<tr><td>Ma 14 jun</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Merksem</td><td><a href="https://www.schouwburgnoord.be/nl/event/compagnie-barbarie-bronks-1">Schouwburg Noord</a></td></tr>
 
 
 
