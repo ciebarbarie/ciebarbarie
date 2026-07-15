@@ -89,6 +89,12 @@ contentcolor: "#fff"
   <tr><td colspan="5"><strong>FINALE</strong></td></tr>
 <tr><td colspan="5"><strong>2026</strong></td></tr>
 
+<tr><td>Do 10 sep</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Frankfurt</td><td><a href="https://www.mousonturm.de/de/programm/veranstaltungen/16860/finale">Mousonturm</a></td></tr>
+
+<tr><td>Vr 11 sep</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Frankfurt</td><td><a href="https://www.mousonturm.de/de/programm/veranstaltungen/16860/finale">Mousonturm</a></td></tr>
+
+<tr><td>Za 12 sep</td><td>familievoorstelling</td><td><a href="/nl/shows/finale">Finale</a></td><td>Frankfurt</td><td><a href="https://www.mousonturm.de/de/programm/veranstaltungen/16860/finale">Mousonturm</a></td></tr>
+
 <tr><td>Di 6 okt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/professionals/finale">BRONKS</a></td></tr>
 
 <tr><td>Za 10 okt</td><td>familievoorstelling</td><td><a href="/nl/shows/finale">Finale</a></td><td>Asse</td><td><a href="https://www.ccasse.be/podium/compagnie-barbarie-bronks">CC / Oud Gasthuis</a></td></tr>
