@@ -32,11 +32,24 @@ contentcolor: "#fff"
 
 <tr><td>Vr 15 jan</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Sint-Pieters-Leeuw</td><td><a href="https://www.brulspl.be">OC De Merselborre (CC Coloma)</a></td></tr>
 
+<tr><td>Di 16 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/programma/4221/wa-wilder-man">BRONKS</a></td></tr>
+
+<tr><td>Ma 1 mrt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Waregem</td><td><a href="https://scholen.ccdeschakel.be/voorstelling/665/schakelbox/wa-wilder-man">CC De Schakel – Schakelbox</a></td></tr>
+
+<tr><td>Di 2 mrt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Waregem</td><td><a href="https://scholen.ccdeschakel.be/voorstelling/665/schakelbox/wa-wilder-man">CC De Schakel – Schakelbox</a></td></tr>
+
+<tr><td>Wo 3 mrt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Waregem</td><td><a href="https://scholen.ccdeschakel.be/voorstelling/665/schakelbox/wa-wilder-man">CC De Schakel – Schakelbox</a></td></tr>
+
+<tr><td>Wo 7 apr</td><td>familievoorstelling</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Kortemark</td><td><a href="https://www.kortemark.be">CC De Beuk</a></td></tr>
+
+<tr><td>Di 27 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Ternat</td><td><a href="https://www.ccdeploter.be">CC De Ploter</a></td></tr>
+
+<tr><td>Ma 10 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be">cultuurcentrum</a></td></tr>
+
+<tr><td>Di 11 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be">cultuurcentrum</a></td></tr>
 
 
 
-
-<tr><td>Di 31 maart</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/scholen/5287/finale">Bronks</a></td></tr>
 
 
 
