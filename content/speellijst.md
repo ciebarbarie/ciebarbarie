@@ -25,7 +25,7 @@ contentcolor: "#fff"
 <tr><td>Zo 13 dec</td><td>15.00</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Vilvoorde</td><td><a href="https://www.hetbolwerk.be">cc Het Bolwerk</a></td></tr>
 
 <tr><td>Zo 20 dec</td><td>15.30</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Beernem</td><td><a href="https://www.beernem.be/tickets">OC De Kleine Beer</a></td></tr>
-
+<tr><td colspan="5"><strong>2027</strong></td></tr>
 <tr><td>Di 5 jan</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Leuven</td><td><a href="https://www.30cc.be">30CC / Minnepoort</a></td></tr>
 
 <tr><td>Ma 11 jan</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Roeselare</td><td><a href="https://www.despil.be/agenda/wa-wilder-man-zvbg">De Spil</a></td></tr>
