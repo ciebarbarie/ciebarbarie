@@ -10,8 +10,11 @@ contentcolor: "#fff"
 
 <div class="table-responsive">
 <table class="playlist">
-<tr><td colspan="5"><strong>2026</strong></td></tr>
+
   <tr><td colspan="5"><strong>WA WILDER MAN</strong></td></tr>
+
+  <tr><td colspan="5"><strong>2026</strong></td></tr>
+  
 <tr><td>Do 15 okt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/project/wa-wilder-man">De Studio</a></td></tr>
 <tr><td>Vrij 16 okt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/project/wa-wilder-man">De Studio</a></td></tr>
 <tr><td>Za 17 okt</td><td>11.00</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Antwerpen</td><td><a href="https://www.destudio.com/nl/project/wa-wilder-man">De Studio</a></td></tr>
@@ -49,9 +52,9 @@ contentcolor: "#fff"
 <tr><td>Di 11 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/wa-wilder-man">Wa Wilder Man</a></td><td>Hasselt</td><td><a href="https://www.ccha.be/programma/wa-wilder-man-fs9y">cultuurcentrum</a></td></tr>
 
 
-<tr><td colspan="5"><strong>2026</strong></td></tr>
-  <tr><td colspan="5"><strong>PREMIERE</strong></td></tr>
 
+  <tr><td colspan="5"><strong>PREMIERE</strong></td></tr>
+<tr><td colspan="5"><strong>2026</strong></td></tr>
   <tr><td>Za 3 okt</td><td>familievoorstelling</td><td><a href="/nl/shows/premiere">Première</a></td><td>Halle</td><td><a href="https://www.vondel.be/agenda/premiere-q8qv">CC 't Vondel</a></td></tr>
 
 <tr><td>Di 1 dec</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Aarschot</td><td><a href="https://www.hetgasthuis.be">CC Het Gasthuis</a></td></tr>
@@ -83,8 +86,33 @@ contentcolor: "#fff"
 <tr><td>Ma 14 jun</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/premiere">Première</a></td><td>Merksem</td><td><a href="https://www.schouwburgnoord.be/nl/event/compagnie-barbarie-bronks-1">Schouwburg Noord</a></td></tr>
 
 
+  <tr><td colspan="5"><strong>FINALE</strong></td></tr>
+<tr><td colspan="5"><strong>2026</strong></td></tr>
 
+<tr><td>Di 6 okt</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/professionals/finale">BRONKS</a></td></tr>
 
+<tr><td>Za 10 okt</td><td>familievoorstelling</td><td><a href="/nl/shows/finale">Finale</a></td><td>Asse</td><td><a href="https://www.ccasse.be/podium/compagnie-barbarie-bronks">CC / Oud Gasthuis</a></td></tr>
+
+<tr><td>Zo 15 nov</td><td>familievoorstelling</td><td><a href="/nl/shows/finale">Finale</a></td><td>Genk</td><td><a href="https://c-mine.be/evenement/playday-x-kunstendag-voor-kinderen">C-mine</a></td></tr>
+
+<tr><td>Ma 16 nov</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Genk</td><td><a href="https://www.c-mine.be">C-mine</a></td></tr>
+
+<tr><td colspan="5"><strong>2027</strong></td></tr>
+
+<tr><td>Di 19 jan</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Lanaken</td><td><a href="https://www.cclanaken.be/schoolvoorstellingen%202025-2026">CC Lanaken</a></td></tr>
+
+<tr><td>Do 28 jan</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Heusden-Zolder</td><td><a href="https://www.muze.be/dagvoorstellingen.html">CC MUZE</a></td></tr>
+
+<tr><td>Do 25 feb</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Zonhoven</td><td><a href="https://www.zonhoven.be/tentakel">GC Tentakel</a></td></tr>
+
+<tr><td>Do 20 mei</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/finale">Finale</a></td><td>Tervuren</td><td><a href="https://www.dewarandepoort.be/activiteiten/compagnie-barbarie-finale2026">CC De Warandepoort</a></td></tr>
+
+  <tr><td colspan="5"><strong>GROTE MENSEN</strong></td></tr>
+<tr><td colspan="5"><strong>2027</strong></td></tr>
+
+<tr><td>Zo 28 feb</td><td>familievoorstelling</td><td><a href="/nl/shows/grote-mensen">Grote mensen</a></td><td>Peer</td><td><a href="https://www.biccpeer.be">BICC 't Poorthuis</a></td></tr>
+
+<tr><td>Di 13 apr</td><td>schoolvoorstellingen</td><td><a href="/nl/shows/grote-mensen">Grote mensen</a></td><td>Beernem</td><td><a href="https://www.beernem.be">OC De Kleine Beer</a></td></tr>
 
 </table>
 </div>
