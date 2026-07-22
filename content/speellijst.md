@@ -11,6 +11,9 @@ contentcolor: "#fff"
 <div class="table-responsive">
 <table class="playlist">
 
+ <tr><td colspan="5"><strong>FEESTWEEKEND! FEESTWEEKEND!</strong></td></tr>
+ <tr><td>Vri 22- Zo 24 jan 2027</td><td></td><td><a href="BRONKS"></a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/20-jaar-compagnie-barbarie?type=VRIJE%20VOORSTELLING">De Studio</a></td></tr>
+
   <tr><td colspan="5"><strong>WA WILDER MAN</strong></td></tr>
 
   <tr><td colspan="5"><strong>2026</strong></td></tr>
