@@ -12,7 +12,7 @@ contentcolor: "#fff"
 <table class="playlist">
 
  <tr><td colspan="5"><strong>FEESTWEEKEND! FEESTWEEKEND!</strong></td></tr>
- <tr><td>Vri 22- Zo 24 jan 2027</td>Wa Wilder Man,Time goes bye bye, Première, Finale<td></td><td><a href="BRONKS"></a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/20-jaar-compagnie-barbarie?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
+ <tr><td>Vri 22- Zo 24 jan 2027</td>Wa Wilder Man Time goes bye bye Première Finale<td></td><td><a href="BRONKS"></a></td><td>Brussel</td><td><a href="https://www.bronks.be/nl/event/20-jaar-compagnie-barbarie?type=VRIJE%20VOORSTELLING">Bronks</a></td></tr>
 
   <tr><td colspan="5"><strong>WA WILDER MAN</strong></td></tr>
 
